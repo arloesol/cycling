@@ -1,0 +1,38 @@
+{{- $content := .Inner -}}
+{{- $imageurl := cond .IsNamedParams (.Get "url") (.Get 0) | default "" -}}
+{{- $width := cond .IsNamedParams (.Get "width") (.Get 1) | default "400" -}}
+{{- $height := cond .IsNamedParams (.Get "height") (.Get 2) | default "300" -}}
+
+<style>
+  div.imgandtxtcon {
+    display: grid;
+    padding: 2rem;
+    grid-template-columns: 40% 1fr;
+    gap: 1rem;
+    align-items: center;
+    max-width: 100%;
+    margin: 0 auto;
+    /* font: 500 100%/1.5 system-ui; */
+  }
+  img.imgandtxt {
+    max-width: 50%;
+    height: auto;
+  }
+  @media (max-width: 650px) {
+    div.imgandtxtcon {
+      display: block;
+      font-size: 80%;
+    }
+    div.imgandtxt {
+      position: relative;
+      margin: -1rem 0 -2rem 1rem;
+      padding: 1rem;
+      background: rgba(white, 0.8);
+    }
+  }
+</style>
+
+<div class="imgandtxtcon">
+  <img class="imgandtxt" src="/images{{ $imageurl }}" width="400px" height="300px" alt="alt" />
+  <div class="imgandtxt">{{ $content }}</div>
+</div>

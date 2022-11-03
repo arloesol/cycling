@@ -1,0 +1,145 @@
+title = "Cycling"
+baseURL = "https://cycling.arloesol.com/"
+defaultContentLanguage = "en"
+# language code ["en", "fr", "nl", ...]
+languageCode = "en"
+theme = "FixIt"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Blog"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+    # add user-defined content to menu items
+    [menu.main.params]
+      # add css class to a specific menu item
+      class = ""
+      # whether set as a draft menu item whose function is similar to a draft post/page
+      draft = false
+      # add fontawesome icon to a specific menu item
+      icon = "fa-solid fa-archive"
+      # set menu item type, optional value: ["mobile", "desktop"]
+      type = ""
+  [[menu.main]]
+    identifier = "sources"
+    pre = ""
+    post = ""
+    name = "Sources"
+    url = "/source/"
+    title = ""
+    weight = 2
+    [menu.main.params]
+      icon = "fa-solid fa-circle-info"
+  
+  [[menu.main]]
+    identifier = "routes"
+    pre = ""
+    post = ""
+    name = "Routes"
+    url = "/route/"
+    title = ""
+    weight = 3
+    [menu.main.params]
+      icon = "fa-solid fa-route"
+    
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 4
+    [menu.main.params]
+      icon = "fa-solid fa-th"
+      
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 5
+    [menu.main.params]
+      icon = "fa-solid fa-tags"
+
+[params]
+  # FixIt theme version
+  version = "0.2.16"
+  description = "Cycling resources"
+  keywords = ["cycling", "bike"]
+  dateFormat = "2006-01-02"
+  disableThemeInject = true
+  autoBookmark = true
+
+  [params.app]
+    title="Cycling"
+  
+  [params.header]
+    [params.header.title]
+      logo = "/icons/bike.svg"
+      name = "Cycling resources"
+
+  [params.home]
+     [params.home.profile]
+       enable = false
+
+  [params.footer]
+    enable = false
+    license=""
+
+  [params.social]
+    GitHub = "https://github.com/arloesol/cycling"
+    # Twitter = "cycling"
+    Email = "cycling@arloesol.com"
+    RSS = true
+
+  [params.page]
+    license = ""
+    [params.page.edit]
+      enable = true
+      url = "https://github.com/arloesol/cycling/edit/webedits/content"
+
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Reddit = true
+      LinkedIn = true
+      Facebook = true
+      Whatsapp = true
+      Weibo = false
+
+    # [params.page.comment]
+    #   [params.page.comment.disqus]
+    #     enable = true
+    #     # Disqus shortname to use Disqus in posts 
+    #     shortname = ""
+
+  [params.githubCorner]
+    enable = true
+    permalink = "https://github.com/arloesol/cycling"
+    title = "View source on GitHub"
+    position = "right" # ["left", "right"]
+
+
+# Markup related configuration in Hugo
+
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/hugo-fixit/FixIt/issues/43)
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

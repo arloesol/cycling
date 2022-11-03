@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="fietsnet GPX generator" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <author>
+      <name>fietsnet</name>
+      <link href="http://www.fietsnet.be" />
+    </author>
+  </metadata>
+  <wpt lat="51.1311397" lon="3.1817625">
+    <name>74</name>
+    <sym>Flag, Green</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="51.1413996" lon="3.1557021">
+    <name>14</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="51.1462359" lon="3.1230800">
+    <name>77</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="51.1461044" lon="3.1199362">
+    <name>16</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <trk>
+    <name>Fietsen_Zedelgem</name>
+    <type>fietsknooppuntentraject</type>
+    <trkseg>
+      <trkpt lat="51.1311397" lon="3.1817625" />
+      <trkpt lat="51.1295537" lon="3.1805745" />
+      <trkpt lat="51.1283947" lon="3.1805529" />
+      <trkpt lat="51.1272561" lon="3.1766433" />
+      <trkpt lat="51.1293775" lon="3.1752825" />
+      <trkpt lat="51.1309906" lon="3.1735869" />
+      <trkpt lat="51.1320478" lon="3.1748289" />
+      <trkpt lat="51.1346232" lon="3.1711569" />
+      <trkpt lat="51.1342369" lon="3.1700445" />
+      <trkpt lat="51.1343792" lon="3.1686729" />
+      <trkpt lat="51.1349823" lon="3.1677873" />
+      <trkpt lat="51.1370831" lon="3.1658541" />
+      <trkpt lat="51.1379641" lon="3.1645905" />
+      <trkpt lat="51.1385400" lon="3.1631325" />
+      <trkpt lat="51.1392719" lon="3.1588233" />
+      <trkpt lat="51.1396039" lon="3.1577433" />
+      <trkpt lat="51.1413996" lon="3.1557021" />
+      <trkpt lat="51.1422113" lon="3.1538060" />
+      <trkpt lat="51.1466560" lon="3.1399712" />
+      <trkpt lat="51.1468321" lon="3.1383728" />
+      <trkpt lat="51.1467305" lon="3.1346900" />
+      <trkpt lat="51.1468389" lon="3.1343120" />
+      <trkpt lat="51.1463782" lon="3.1236740" />
+      <trkpt lat="51.1462359" lon="3.1230800" />
+      <trkpt lat="51.1461044" lon="3.1199362" />
+    </trkseg>
+  </trk>
+</gpx>

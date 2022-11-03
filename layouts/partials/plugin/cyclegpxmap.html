@@ -1,0 +1,53 @@
+{{- /* create an cyclosm openstreetmap cycling map and show the gpx route in red on map zoomed */ -}}
+
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+        integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+        crossorigin="">
+</script>
+<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
+<script src="/js/GPXParser.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+      integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+      crossorigin=""/>
+<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
+
+{{ with .AltRoutes }}
+    <button onclick="getGPX('{{ $.GPX }}')">main</button>
+  {{ range . }}
+    <button onclick="getGPX('{{ .gpx }}')">{{ .name }}</button>
+  {{ end }}
+{{ end }}
+
+<div style="height: 50vh;" id="map"></div>
+<script>
+  var polylines = [];
+
+  let mymap = L.map('map', { fullscreenControl: true }).setView([51.505, -0.09], 13);
+
+  L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">openstreetmap/cyclosm</a> contributors - <a href="https://www.cyclosm.org/legend.html"> map legend</a>',
+      maxZoom: 20
+  }).addTo(mymap);
+  function drawTrack(track) {
+    polylines.forEach(function (item) {
+      mymap.removeLayer(item)
+    });
+    let coordinates = track.points.map(p => [p.lat.toFixed(5), p.lon.toFixed(5)]);
+    var polyline = L.polyline(coordinates, { weight: 6, color: 'darkred' }).addTo(mymap);
+    polylines.push(polyline);
+    mymap.fitBounds(polyline.getBounds());
+  }
+  function getGPX(gpxurl) {
+    fetch(window.location.origin + "/gpxfiles/" + gpxurl)
+      .then(function (response) {
+          return response.text();
+      }).then(function (gpxData) {
+        let gpx = new gpxParser();
+        gpx.parse(gpxData);
+        drawTrack(gpx.tracks[0]);
+      });
+  }
+  getGPX('{{ .GPX }}')
+</script>
+
