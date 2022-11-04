@@ -17,6 +17,6 @@ remarks
  - voting will require some kind of DB -> version 2
  - version 1 will just be a static website updated once every x
 
-Site url: https://cycling.onrender.com
+Site url: https://cycling.arloesol.com
 
 render.com checks commits on prod and preprod branches and starts a deploy automatically
