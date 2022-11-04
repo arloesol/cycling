@@ -1,7 +1,7 @@
 ---
 title: "Vlaanderen met de fiets"
 subtitle: "Icoonroutes"
-date:
+date: "2022-11-04"
 description: "Official Flemish tourism bikeroutes"
 keywords: website
 tags:

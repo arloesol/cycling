@@ -1,7 +1,7 @@
 ---
-title: "Westtoer.be"
+title: "WestFlanders Tourism"
 subtitle: "WestFlanders tourist site"
-date:
+date: "2022-11-04"
 description: "The https://www.westtoer.be website is managed by the WestFlanders' region authorities"
 keywords: website
 tags:
