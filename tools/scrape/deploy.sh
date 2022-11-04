@@ -11,6 +11,7 @@ mv page/* $GITDIR/static/images/routes/page/
 cd ..
 echo "moving route pages"
 cd route
+find . -type f -empty -delete
 mv * $GITDIR/content/route/
 cd ..
 echo "done"
