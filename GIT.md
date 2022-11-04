@@ -5,7 +5,7 @@ Main repository is on Github: [cycling repo](https://github.com/arloesol/cycling
 ## branches
 
 - prod - deployed on https://cycling.arloesol.com
-- preprod - deployed on https://cycling-preprod.onrender.com/
+- preprod - deployed on https://cycling.beta.arloesol.com/
 - main - main/central branch
 - webedits - used to edit pages from internet
 - feat-issuenbr-title - feature branches
@@ -47,4 +47,4 @@ For the webedits branch a specific GIT flow still needs to be defined
 render.com checks commits on prod and preprod branches and starts a deploy automatically
 
 - [production url](https://cycling.arloesol.com)
-- [pre-production url](https://cycling-preprod.onrender.com)
+- [pre-production url](https://cycling.beta.arloesol.com)
