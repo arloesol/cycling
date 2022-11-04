@@ -1,7 +1,7 @@
 ---
 title: "Bike Brussels"
 subtitle: "Brussels Mobility"
-date:
+date: "2022-11-04"
 description: "The https://bike.brussels website is managed by the Brussels' region authorities - Brussels Mobility"
 keywords: website
 tags:
