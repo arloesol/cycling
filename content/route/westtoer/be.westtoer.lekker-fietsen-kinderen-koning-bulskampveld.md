@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Kinderen koning in Bulskampveld"
 subtitle: "Kidsproof op weg met volop speelplezier onderweg"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Kidsproof op weg met volop speelplezier onderweg" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Starten kan aan gemeentepark Disveld (Brandstraat), daarna doorfietsen tot knoop
 
 ### Den Haze
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-kinderen-koning-bulskampveld/den_haze.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/den_haze.jpg" extlink="/nl/eten-drinken/den-haze" %}}
 
 In de buurt tussen 27 en 34
 
@@ -46,7 +46,7 @@ Stijlvol terras met wieds uitzicht, speeltuin en reuze trampoline. Wie het menu 
 
 ### Smart-Ijs
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-kinderen-koning-bulskampveld/smart-ijs4_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/smart-ijs4_1.jpg" extlink="/nl/eten-drinken/smart-ijs" %}}
 
 Tussen 25 en 50
 
@@ -58,7 +58,7 @@ Modern ijssalon met zonneterras. Met smaken als cookies en vanille met nutella h
 
 ### Expeditie Bulskampveld Wingene
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-kinderen-koning-bulskampveld/expeditie_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/expeditie_1.jpg" extlink="/nl/expeditie-bulskampveld/wingene" %}}
 
 Bij 18
 
@@ -70,7 +70,7 @@ Avontuurlijk speellusje!
 
 ### De Radio
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-kinderen-koning-bulskampveld/de_radio.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/de_radio.jpg" extlink="/nl/eten-drinken/de-radio" %}}
 
 Bij 14
 
@@ -82,7 +82,7 @@ Stemmige eetkroeg in de schaduw van de imposante zendmasten die ooit de eerste r
 
 ### Disveld
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-kinderen-koning-bulskampveld/disveld_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/disveld_0.jpg" extlink="/nl/doen/gemeentepark-disveld" %}}
 
 Tussen 54-86
 

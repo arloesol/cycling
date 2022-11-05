@@ -1,7 +1,7 @@
 ---
 title: "Kastelen spotten in het Brugse Ommeland"
 subtitle: "Een kasteel is uiteindelijk maar een verzameling stenen"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Een kasteel is uiteindelijk maar een verzameling stenen" 
 tags:
   - flanders
@@ -30,7 +30,7 @@ Start aan parking Tillegembos, Wittemolenstraat, Sint-Michiels. Fietsen in wijze
 
 ### Kasteel Van Tillegem
 
-{{% imgandtxt url="/routes/page/be.westtoer.kastelen-spotten-het-brugse-ommeland/kasteel_tillegem.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/kasteel_tillegem.jpg" extlink="/nl/doen/tillegem-kasteel" %}}
 
 In deze historische waterburcht werd heel wat geschiedenis geschreven. Dit omwalde kasteel was tot 1978 nog bewoond, nu huizen er provinciediensten.
 
@@ -40,7 +40,7 @@ In deze historische waterburcht werd heel wat geschiedenis geschreven. Dit omwal
 
 ### Kijkboerderij De Pierlapont
 
-{{% imgandtxt url="/routes/page/be.westtoer.kastelen-spotten-het-brugse-ommeland/hof_ter_pierlapont.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/hof_ter_pierlapont.jpg" extlink="/nl/doen/kijkboerderij-de-pierlapont" %}}
 
 Kijkboerderij De Pierlapont met zijn maïsdoolhof en speurpad is een leuke plek om even halt te houden. Genieten van het boerenleven en van het terras.
 
@@ -50,7 +50,7 @@ Kijkboerderij De Pierlapont met zijn maïsdoolhof en speurpad is een leuke plek 
 
 ### Domein Beisbroek
 
-{{% imgandtxt url="/routes/page/be.westtoer.kastelen-spotten-het-brugse-ommeland/domein_beisbroek_-_foto_maf.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/domein_beisbroek_-_foto_maf.jpg" extlink="/nl/doen/kasteel-beisbroek" %}}
 
 Volg het planetenpad tot aan het enige toegankelijke kasteel op de route. Op de benedenverdieping huist een natuurmuseum en op de bovenverdieping sterrenwacht Cozmix. In het koetshuis bevindt zich een tearoom.
 

@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in en rond de Stad aan Zee Oostende"
 subtitle: "De Stad aan Zee herbergt allerlei mooie bezienswaardigheden en ook de groene omgeving rond Oostende is een topper voor fietsliefhebbers"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Stad aan Zee herbergt allerlei mooie bezienswaardigheden en ook de groene omgeving rond Oostende is een topper voor fietsliefhebbers" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Starten kan je ter hoogte van knooppunt 85 (Maria Hendrikapark).
 
 ### Maria Hendrikapark
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-en-rond-de-stad-aan-zee-oostende/oostende_maria_hendrikapark.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/oostende_maria_hendrikapark.jpg" %}}
 
 Recreatiemogelijkheden voor het ganse gezin, in een unieke, rustige en groene omgeving.
 
@@ -44,7 +44,7 @@ Bezoek ook het Koninginnehof. Dit ‘Koninklijke hof’ op het eiland van het Ma
 
 ### Venetiaanse Gaanderijen
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-en-rond-de-stad-aan-zee-oostende/oostende_gaanderijen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/oostende_gaanderijen.jpg" %}}
 
 De Koninklijke en Venetiaanse Gaanderijen bepalen het stadsbeeld van Oostende. Tevens de ideale sopt voor mooie fotomomenten bij zonsondergang.
 
@@ -52,7 +52,7 @@ De Koninklijke en Venetiaanse Gaanderijen bepalen het stadsbeeld van Oostende. T
 
 ### Albert I-Promenade
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-en-rond-de-stad-aan-zee-oostende/albert_promenade_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/albert_promenade_0.jpg" %}}
 
 De sfeervolle promenade van Oostende laat je heerlijk flaneren met zicht op zee. Ideaal om even halt op een van de heerlijke terrasjes om te genieten.
 
@@ -60,7 +60,7 @@ De sfeervolle promenade van Oostende laat je heerlijk flaneren met zicht op zee.
 
 ### Casino Kursaal
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-en-rond-de-stad-aan-zee-oostende/kursaal.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/kursaal.jpg" %}}
 
 Een prachtig staaltje architectuur. Jaren 1950 modernisme en sinds 1998 een beschermd monument. Groots in zijn eenvoud.
 
@@ -68,7 +68,7 @@ Een prachtig staaltje architectuur. Jaren 1950 modernisme en sinds 1998 een besc
 
 ### Voet- En Fietsveer
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-en-rond-de-stad-aan-zee-oostende/veerboot.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/veerboot.jpg" %}}
 
 De veerboten die mee ontworpen werden door Roger Raveel, brengen voetgangers en fietsers gratis van de westeroever (de Visserskaai ter hoogte van het Noordzeeaquarium) naar de oosteroever (het Maritiem Plein) en omgekeerd.
 
@@ -76,7 +76,7 @@ De veerboten die mee ontworpen werden door Roger Raveel, brengen voetgangers en 
 
 ### Fort Napoleon
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-en-rond-de-stad-aan-zee-oostende/oostende_napoleon.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/oostende_napoleon.jpg" %}}
 
 Prachtig gerestaureerd duinenfort op Oosteroever in Oostende, gebouwd tijdens het bewind van Napoleon. Geleide bezoeken en een lekkere bistro/restaurant. Twee eeuwen geschiedenis vind je hier terug.
 
@@ -84,7 +84,7 @@ Prachtig gerestaureerd duinenfort op Oosteroever in Oostende, gebouwd tijdens he
 
 ### 'T Eilandje Bij De Spuikom
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-en-rond-de-stad-aan-zee-oostende/spuikom.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/spuikom.jpg" %}}
 
 ’t Eilandje is een groene zone die deel uitmaakt van de Vuurtorenwijk, tussen de Spuikom (Vicognedijk) en het kanaal Oostende – Brugge (Bredensesteenweg). Het is een buurtpark, zowat 2,5 ha groot en het staat in verbinding met de kustbaan en met de wijk Bredene-Sas
 
@@ -92,7 +92,7 @@ Prachtig gerestaureerd duinenfort op Oosteroever in Oostende, gebouwd tijdens he
 
 ### Groene 62
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-en-rond-de-stad-aan-zee-oostende/groene_62_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/groene_62_1.jpg" %}}
 
 De Groene 62 is de voormalige spoorweg tussen Oostende en Torhout. Nu is het een heerlijk pad om langs te wandelen en te fietsen in volle natuur.
 
@@ -100,7 +100,7 @@ De Groene 62 is de voormalige spoorweg tussen Oostende en Torhout. Nu is het een
 
 ### Kinderboerderij 'De Lange Schuur'
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-en-rond-de-stad-aan-zee-oostende/lange_schuur.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/lange_schuur.jpg" %}}
 
 Kinderboerderij "de Lange Schuur" ligt aan de rand van Oostende en is een uitgelezen plekje om even halt te houden tijdens een fietstocht.
 
@@ -108,7 +108,7 @@ Kinderboerderij "de Lange Schuur" ligt aan de rand van Oostende en is een uitgel
 
 ### Hangtime
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-en-rond-de-stad-aan-zee-oostende/hangtime.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/hangtime.jpg" extlink="/nl/doen/hangtime" %}}
 
 Springen op alle mogelijke manieren. Ideaal als indooractiviteit of gewoon om eens helemaal los te gaan.
 

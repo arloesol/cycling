@@ -1,7 +1,7 @@
 ---
 title: "Breduiniafietsroute"
 subtitle: "De fietsroute verkent de polders tussen Bredene en Brugge, een karakteristiek open landschap dat door zijn relatieve gaafheid tot de fraaiste gebiedsdelen van West-Vlaanderen behoort"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De fietsroute verkent de polders tussen Bredene en Brugge, een karakteristiek open landschap dat door zijn relatieve gaafheid tot de fraaiste gebiedsdelen van West-Vlaanderen behoort" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Meeting- en Evencenter Staf Versluys, Kapelstraat 76, 8450 Bredene
 
 ### Vlissegem
 
-{{% imgandtxt url="/routes/page/be.westtoer.breduiniafietsroute/vlissegem_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/vlissegem_0.jpg" %}}
 
 Een van de oudste (polder)dorpen aan de Kust. Een speldenkop groot en dus dé plek om even te kuieren. Check ook de kijkhut aan 'de put'!
 
@@ -40,7 +40,7 @@ Een van de oudste (polder)dorpen aan de Kust. Een speldenkop groot en dus dé pl
 
 ### Houtave
 
-{{% imgandtxt url="/routes/page/be.westtoer.breduiniafietsroute/houtave_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/houtave_1.jpg" %}}
 
 Met minder dan 500 inwoners dekt de term 'dorpje' hier de lading. Klein maar fijn!
 
@@ -48,7 +48,7 @@ Met minder dan 500 inwoners dekt de term 'dorpje' hier de lading. Klein maar fij
 
 ### Meetkerkse Moeren
 
-{{% imgandtxt url="/routes/page/be.westtoer.breduiniafietsroute/meetkerkse_moeren.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/meetkerkse_moeren.jpg" %}}
 
 Prachtig stukje natuur, gelegen langs het kanaal van Brugge naar Oostende. Sommige delen liggen onder de zeespiegel en bezitten een specifieke fauna en flora.
 
@@ -56,7 +56,7 @@ Prachtig stukje natuur, gelegen langs het kanaal van Brugge naar Oostende. Sommi
 
 ### Meetkerke
 
-{{% imgandtxt url="/routes/page/be.westtoer.breduiniafietsroute/meetkerke_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/meetkerke_1.jpg" %}}
 
 Polderdorpje met bedevaartallures. Grootste troef, naast het miraculeus Mariabeeldje in de kerk, is de natuur van de Meetkerkse Moeren.
 
@@ -64,7 +64,7 @@ Polderdorpje met bedevaartallures. Grootste troef, naast het miraculeus Mariabee
 
 ### Stalhille
 
-{{% imgandtxt url="/routes/page/be.westtoer.breduiniafietsroute/stalhille.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/stalhille.jpg" %}}
 
 Dorpje met vele leuke ambachtsadresjes. Breng o.a. een bezoekje aan 't Kruidenboerderietje, De Sfeermaker en Ter Rode Poort.
 

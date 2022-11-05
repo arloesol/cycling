@@ -1,7 +1,7 @@
 ---
 title: "Goedendagfietsroute"
 subtitle: "De Goedendagfietsroute in de omgeving van Kortrijk verrast op verschillende momenten"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Goedendagfietsroute in de omgeving van Kortrijk verrast op verschillende momenten" 
 tags:
   - flanders

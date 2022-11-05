@@ -1,7 +1,7 @@
 ---
 title: "Literaire Lus met start in Ingooigem"
 subtitle: "Deze toeristisch-literaire fietsroute vormt een lus die het Lijsternest van Stijn Streuvels (Anzegem), het André Demedtshuis (Wielsbeke), en het René De Clercqmuseum (Deerlijk) met elkaar verbindt"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Deze toeristisch-literaire fietsroute vormt een lus die het Lijsternest van Stijn Streuvels (Anzegem), het André Demedtshuis (Wielsbeke), en het René De Clercqmuseum (Deerlijk) met elkaar verbindt" 
 tags:
   - flanders

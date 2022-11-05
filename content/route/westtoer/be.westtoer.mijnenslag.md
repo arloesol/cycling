@@ -3,7 +3,7 @@ title: "Mijnenslag"
 subtitle: "Fietsroute 14-18
 
 De Mijnenslag fietsroute brengt je naar alle plaatsen waar de Geallieerden op 7 juni 1917 om 4"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 De Mijnenslag fietsroute brengt je naar alle plaatsen waar de Geallieerden op 7 juni 1917 om 4" 

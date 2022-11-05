@@ -5,7 +5,7 @@ subtitle: "Werken Beaufort 21
 Touching To Sea You Through Our Extremities - Laure Prouvost
 
 Strand, Leopold I Esplanade, De Panne - 51"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Werken Beaufort 21
 
 Touching To Sea You Through Our Extremities - Laure Prouvost

@@ -24,11 +24,11 @@ Wie Scheldeland zegt, zegt sierteelt. Rododendrons, azalea’s, rozen en conifer
 
 ### Knooppunt 40 – Rode heuvel
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/Passerelle%20Wetteren%20brug%20Schelde%20%C2%A9%20David%20Samyn.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/Passerelle%20Wetteren%20brug%20Schelde%20%C2%A9%20David%20Samyn.jpg" %}}
 Startpunt
 
 De opening van de Wetterse Passerelle, de opvallende fiets- en voetgangersbrug over de Schelde, was in 2018 het sluitstuk van een mooi staaltje stadsvernieuwing. Tussen de statige Sint-Gertruduskerk – waar ooit werd gezocht naar het verdwenen paneel van het Lam Gods – en de Scheldeoever verscheen een gloednieuw administratief centrum in rode baksteen. De Wetteraars gaven het plein de toepasselijke naam ‘Rode Heuvel’, naar het lied van wijlen Wim De Craene: naast rozen en sierstruiken het bekendste exportproduct van de stad.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### SINT-JOZEFINSTITUUT EN MARIAGROT
 
@@ -38,15 +38,15 @@ Je fietst de Passerelle niet over maar blijft aan deze kant van de Schelde, lang
 
 ### WETTERSE WATERTUIN
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Wetterse%20Watertuin.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Wetterse%20Watertuin.jpg" %}}
 In de Jabekestraat kan je de Wetterse watertuin bezoeken, een prachtige privé-tuin van zo'n 1 hectare. Grote en kleine waterpartijen zorgen voor aparte leefwerelden voor allerlei amfibieën. De rustige ligging aan de zuidkant van een bos, de talrijke zithoekjes en de leuke tuinideeën maken van deze tuin dé ideale plek om even tot rust te komen. Behalve de waterpartijen vind je hier ook een grote collectie waterplanten en –lelies, hortensia's en kleinfruit. Tot midden augustus elke zaterdag vrij toegankelijk.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### SCHELLEBELLE
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Veer%20Schellebelle.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Veer%20Schellebelle.jpg" %}}
 Het dorpje Schellebelle kent heel Oost-Vlaanderen van het veer: een topper op het traject, waar je weliswaar op deze route géén gebruik van maakt. Vooral op zomerse dagen staan er op de Scheldedijk vaak lange files met wandelaars en fietsers op uitstap richting de Kalkense Meersen, aan de overkant van het water. Al in de 13de eeuw was er hier een oversteek over de Schelde om het dorp met de meersen te verbinden. Om de veerboot te roepen, volstaat een ruk aan de bel: uniek in Vlaanderen!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### DE PLAETSE 
 
@@ -66,11 +66,11 @@ Op het grondgebied van Smetlede en Serskamp, op de steile hellingen rond de Sers
 
 ### FAUCONNIERSMOLEN
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Fauconniersmolen%20TOV.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Fauconniersmolen%20TOV.jpg" %}}
 KNOOPPUNT 65-72
 
 Langs de steenweg van Brussel naar Gent in Lede prijkt de Fauconniersmolen, een stenen stellingmolen van midden 19de eeuw die nu is ingericht om graan te malen. Vrijwillige molenaars houden de molen draaiend en leggen je graag uit hoe de machine werkt. Wil je graag een maaldemonstratie? Als er genoeg wind is, kan dat, weliswaar alleen op afspraak en mits tijdige reservatie via de website van het molenmuseum Mola. Het meel dat tijdens de demo wordt gemalen, mag je meenemen naar huis.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### DE OUDE LINDE VAN MASSEMEN
 
@@ -90,20 +90,20 @@ Ter ere van Adolf Papeleu (1811-1859), dé pionier van de commerciële boomkweke
 
 ### WARANDEDUINEN
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_21337b1f03254a62a6e7d9487033d9568167632f009a42ddbfccd9f53f72dbee88bd63e86d6yvfh6yxha53xdc146tnuj.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_21337b1f03254a62a6e7d9487033d9568167632f009a42ddbfccd9f53f72dbee88bd63e86d6yvfh6yxha53xdc146tnuj.jpg" %}}
 Op terugweg naar je startpunt fiets je door een stukje natuur dat je eerder aan de kust zou verwachten. Tijdens de laatste Ijstijd spoelde het Scheldewater zand mee dat bijeenwaaide tot hoge duinen die in de loop der eeuwen bebost raakten. Opmerkelijk in deze Warandeduinen zijn ook de imposante hakhoutstoven van eik en beuk: bomen die om de 10 à 20 jaar laag bij de grond werden geknot voor de productie van brandhout. Sommige bomen hier zijn meer dan 4 eeuwen oud.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### DE NOTELOZE NOTELAER 
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_noteloze%2Bnotelaar%2B1.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_noteloze%2Bnotelaar%2B1.jpg" %}}
 Aan de rand van de Warandeduinen wenkt het groene terras van De Noteloze Notelaer met een kaart vol vaste waarden én seizoenssuggesties. Dat de monumentale boom op het terras geen noten draagt is niet zo vreemd: het is immers geen – zoals de naam van het restaurant doet vermoeden – geen notelaar maar een zilverlinde.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### PROVINCIAAL DOMEIN DEN BLAKKEN
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Den%20Blakken%203%20David%20Samyn.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Den%20Blakken%203%20David%20Samyn.jpg" %}}
 Domein Den Blakken doet dienst als promotietuin voor zowat alle sierteeltgewassen die Wetteren en omgeving worden verbouwd. Je kunt er heerlijk wandelen in de mooi aangelegde thematuinen of verdwalen in het doolhof met verschillende soorten haagplanten.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

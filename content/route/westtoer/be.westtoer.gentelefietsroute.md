@@ -1,7 +1,7 @@
 ---
 title: "Gentelefietsroute"
 subtitle: "Vanuit Blankenberge kan je naar de polders fietsen via de Gentelefietsroute"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Vanuit Blankenberge kan je naar de polders fietsen via de Gentelefietsroute" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Koning Leopold III-plein, 8370 Blankenberge
 
 ### Uitkerkse Polders
 
-{{% imgandtxt url="/routes/page/be.westtoer.gentelefietsroute/uitkerkse_polders.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/uitkerkse_polders.jpg" %}}
 
 Natuurreservaat met bezoekerscentrum en kijkhutten. Een pleisterplaats voor trekvogels en de broedplaatsen voor weidevogels!
 
@@ -40,7 +40,7 @@ Natuurreservaat met bezoekerscentrum en kijkhutten. Een pleisterplaats voor trek
 
 ### Meetkerke
 
-{{% imgandtxt url="/routes/page/be.westtoer.gentelefietsroute/meetkerke_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/meetkerke_1.jpg" %}}
 
 Polderdorpje met bedevaartallures. Grootste troef, naast het miraculeus Mariabeeldje in de kerk, is de natuur van de Meetkerkse Moeren.
 
@@ -48,7 +48,7 @@ Polderdorpje met bedevaartallures. Grootste troef, naast het miraculeus Mariabee
 
 ### Meetkerkse Moeren
 
-{{% imgandtxt url="/routes/page/be.westtoer.gentelefietsroute/meetkerkse_moeren.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/meetkerkse_moeren.jpg" %}}
 
 Prachtig stukje natuur, gelegen langs het kanaal van Brugge naar Oostende. Sommige delen liggen onder de zeespiegel en bezitten en specifieke fauna en flora.
 
@@ -56,7 +56,7 @@ Prachtig stukje natuur, gelegen langs het kanaal van Brugge naar Oostende. Sommi
 
 ### Houtave
 
-{{% imgandtxt url="/routes/page/be.westtoer.gentelefietsroute/houtave_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/houtave_1.jpg" %}}
 
 Met minder dan 500 inwonders dekt de term 'dorpje' hier de lading. Klein maar fijn!
 
@@ -64,7 +64,7 @@ Met minder dan 500 inwonders dekt de term 'dorpje' hier de lading. Klein maar fi
 
 ### Nieuwmunster
 
-{{% imgandtxt url="/routes/page/be.westtoer.gentelefietsroute/nieuwmunster.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/nieuwmunster.jpg" %}}
 
 De Tempeliers lagen aan de oorsprong van Nieuwmunster, gaven het dorp zijn naam, de kerk en eerste hoeves. Spring even binnen in de Sint-Bartholomeuskerk!
 

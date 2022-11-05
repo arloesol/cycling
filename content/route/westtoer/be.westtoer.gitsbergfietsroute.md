@@ -1,7 +1,7 @@
 ---
 title: "Gitsbergfietsroute"
 subtitle: "Deze route beschrijft een rondrit door een landelijk gebied"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Deze route beschrijft een rondrit door een landelijk gebied" 
 tags:
   - flanders

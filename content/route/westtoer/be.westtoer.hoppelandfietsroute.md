@@ -1,7 +1,7 @@
 ---
 title: "Hoppelandfietsroute"
 subtitle: "De streek rond Poperinge wordt ook wel het Hoppeland genoemd"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De streek rond Poperinge wordt ook wel het Hoppeland genoemd" 
 tags:
   - flanders

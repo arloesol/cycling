@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Dwars door Bulskampveld"
 subtitle: "Geniet van het groene decor van het Landschapspark Bulskampveld"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Geniet van het groene decor van het Landschapspark Bulskampveld" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Starten kan bij knooppunt 29 (Kruispunt Reigerlostraat met Heirweg in Beernem)
 
 ### De Radio
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-dwars-door-bulskampveld/" %}}
+{{% imgandtxt url="https://www.westtoer.be/" extlink="/nl/eten-drinken/de-radio" %}}
 
 Bij 14
 
@@ -46,7 +46,7 @@ Stemmige eetkroeg in de schaduw van de imposante zendmasten die ooit de eerste r
 
 ### Den Haze
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-dwars-door-bulskampveld/den_haze.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/den_haze.jpg" extlink="/nl/eten-drinken/den-haze" %}}
 
 Tussen 15 en 34
 
@@ -58,7 +58,7 @@ Stijlvol terras met weids uitzicht, speeltuin en reuze trampoline. Hier wordt vo
 
 ### Smart-Ijs
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-dwars-door-bulskampveld/smart-ijs4_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/smart-ijs4_1.jpg" extlink="/nl/eten-drinken/smart-ijs" %}}
 
 Tussen 25 en 50
 
@@ -70,7 +70,7 @@ Modern ijssalon met zonneterras. Met smaken als cookies en crème brûlée hou j
 
 ### Urbancafé Lippensgoed
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-dwars-door-bulskampveld/104452603_137059177960970_4608872448805581931_n_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/104452603_137059177960970_4608872448805581931_n_0.jpg" extlink="/nl/eten-drinken/urbancaf%C3%A9-lippensgoed" %}}
 
 Nabij 49
 
@@ -82,7 +82,7 @@ Hippe urban foodbar/restaurant met stedelijke allures. En dit gekoppeld aan een 
 
 ### Apéro Chateau
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-dwars-door-bulskampveld/apero_chateau.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/apero_chateau.jpg" extlink="/nl/eten-drinken/ap%C3%A9ro-ch%C3%A2teau" %}}
 
 Tussen 63 en 44
 

@@ -1,7 +1,7 @@
 ---
 title: "Fietsen met zeezicht en door de natuur en het hinterland van Middelkerke-Westende"
 subtitle: "Middelkerke-Westende is een perfecte plek voor een strandvakantie met het hele gezin"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Middelkerke-Westende is een perfecte plek voor een strandvakantie met het hele gezin" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Starten kan je ter hoogte van knooppunt 81, aan het kruispunt van de Doornstraat
 
 ### Surfclub De Kwinte
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende/kwinte.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/kwinte.jpg" %}}
 
 Hou je van actie of kijk je liever naar actie op het strand, dan kan je in surfclub De Kwinte zeker terecht. Het mooie clubhuis is een ideale plek om even halt te houden.
 
@@ -40,7 +40,7 @@ Hou je van actie of kijk je liever naar actie op het strand, dan kan je in surfc
 
 ### Rotonde
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende/rotonde.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/rotonde.jpg" %}}
 
 Sinds 1911 grossiert Hotel De Rotonde in de belle epoque sfeer. Het instussen geklasseerde gebouw is met zijn panoramisch zicht op zee en uniek plekje aan de Kust.
 
@@ -48,7 +48,7 @@ Sinds 1911 grossiert Hotel De Rotonde in de belle epoque sfeer. Het instussen ge
 
 ### Beeldenpark
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende/caterpillar.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/caterpillar.jpg" %}}
 
 In Westende ontdek je kunst in een uniek kader. Een aantal kunstwerken die deel uitmaakten van de kunsttriënnale Beaufort kan je er bekijken. Ter hoogte van het voormalige Grand Hotel Belle Vue (De Rotonde) vind je op het strand ‘I Can Hear It’ van Ivars Drulle. Twee hoorns, gericht naar de zee, waar voor een vrouw zit die haar oor te luisteren legt. Ietsje verder vind je de werken ‘Olnetop’ van Nick Ervinck en Caterpillar5bis’ van Wim Delvoye staan. Kijk je nog wat verder , dan zie je ‘Salacia’, de kunstverlichting op de watertoren.
 
@@ -56,7 +56,7 @@ In Westende ontdek je kunst in een uniek kader. Een aantal kunstwerken die deel 
 
 ### Natuurgebied Warandeduinen
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende/warandeduinen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/warandeduinen.jpg" %}}
 
 Dit duinengebied tussen Middelkerke en Westende is ruim 32,6ha groot. Verharde paden bieden je en mooi zicht op het reservaat.
 
@@ -64,7 +64,7 @@ Dit duinengebied tussen Middelkerke en Westende is ruim 32,6ha groot. Verharde p
 
 ### Stripfiguren Op De Zeedijk
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende/middelkerke_stripfiguur.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/middelkerke_stripfiguur.jpg" %}}
 
 Op de zeedijk van Middelkerke vind je levensgrote beelden van striphelden. Ga samen met hen op de foto of neem een selfie!
 
@@ -72,7 +72,7 @@ Op de zeedijk van Middelkerke vind je levensgrote beelden van striphelden. Ga sa
 
 ### Provinciedomein Raversyde
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende/raversyde.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/raversyde.jpg" %}}
 
 Raversyde is een prachtig provinciaal domein/historische site (50ha) met mooi gereconstrueerde vissershuisjes in het museum Anno 1465,  de Atlantikwall en het Memoriaal Prins Karel.
 
@@ -80,7 +80,7 @@ Raversyde is een prachtig provinciaal domein/historische site (50ha) met mooi ge
 
 ### De Rattevallebrug 
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende/rattevallebrug.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/rattevallebrug.jpg" %}}
 
 Een knus restaurantje waar je verrukkelijke pannenkoeken, wafels en roomijs kan bestemmen. Of geniet voor huisspecialiteiten zoals ribbetjes of een heerlijke streekbiertje.
 

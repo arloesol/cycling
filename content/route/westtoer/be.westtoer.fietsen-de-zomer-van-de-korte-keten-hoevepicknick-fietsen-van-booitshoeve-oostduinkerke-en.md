@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs de Korte Keten - Hoevepicknick - Fietsen van Booitshoeve via Oostduinkerke en Nieuwpoort"
 subtitle: "Een lusje dat je laat genieten van de het mooie achterland van de Kust, maar je ook een blik op zee laat werpen"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Een lusje dat je laat genieten van de het mooie achterland van de Kust, maar je ook een blik op zee laat werpen" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Volg de knoppunten 90-20-6-98-66-58-88-96-64-82-67-8-70-10-46-95-55-89-90
 
 ### Schuifdamhoeve - Bij Boer Bart
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-de-zomer-van-de-korte-keten-hoevepicknick-fietsen-van-booitshoeve-oostduinkerke-en/sfeer-5.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/eten_drinken/sfeer-5.jpg" extlink="/nl/eten-drinken/schuifdamhoeve" %}}
 
 De Schuifdamhoeve is een landelijke hoeve met melkkoeien, gelegen in Booitshoeke, op een boogscheut van Nieuwpoort en Oostduinkerke.
 

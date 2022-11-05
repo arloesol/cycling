@@ -1,7 +1,7 @@
 ---
 title: "Mandeldalfietsroute"
 subtitle: "De Mandeldalfietsroute biedt veel variatie"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Mandeldalfietsroute biedt veel variatie" 
 tags:
   - flanders
@@ -36,7 +36,7 @@ Provinciedomein De Baliekouter, Ommegangsstraat, 8720 Wakken - Toerisme Oostroze
 
 ### Provinciedomein Baliekouter
 
-{{% imgandtxt url="/routes/page/be.westtoer.mandeldalfietsroute/provinciedomein-baliekouter.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/provinciedomein-baliekouter.jpg" extlink="https://www.westtoer.be/nl/doen/provinciedomein-baliekouter" %}}
 
 In het provinciedomein vind je een bezoekerscentrum een tearoom. Er zijn ook speeltoestellen rond het thema ‘boerderij’. In de fietsherstelplaats waar je zelf aan de slag kan om je stalen ros terug op te lappen. [Meer info](https://www.westtoer.be/nl/doen/provinciedomein-baliekouter)
 
@@ -44,7 +44,7 @@ In het provinciedomein vind je een bezoekerscentrum een tearoom. Er zijn ook spe
 
 ### Bierkasteel
 
-{{% imgandtxt url="/routes/page/be.westtoer.mandeldalfietsroute/bierkasteel_patio.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/bierkasteel_patio.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/bierkasteel-van-brouwerij-vanhonsebrouck" %}}
 
 De gloednieuwe Brigandbrug brengt ons in het centrum van Ingelmunster waar het kasteel van de brouwersfamilie Van Honsebrouck domineert. [Meer info](https://www.westtoer.be/nl/eten-drinken/bierkasteel-van-brouwerij-vanhonsebrouck)
 

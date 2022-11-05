@@ -1,7 +1,7 @@
 ---
 title: "Verrassende plekjes in de omgeving van Roeselare"
 subtitle: "Dit fietslusje verkent de gemeenten Roeselare, Izegem, Lendelede, Ledegem en Moorslede"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Dit fietslusje verkent de gemeenten Roeselare, Izegem, Lendelede, Ledegem en Moorslede" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Je start aan knooppunt 76, op het kruispunt van de Sterrebosdreef en de Moorseel
 
 ### Provinciedomein Sterrebos
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/provinciedomein-sterrebos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/provinciedomein-sterrebos.jpg" extlink="/nl/doen/provinciedomein-sterrebos" %}}
 
 Tussen knooppunt 76 en 40
 
@@ -44,7 +44,7 @@ Het is heerlijk vertoeven in het 27 ha groot park met kasteelvijver het Sterrebo
 
 ### Kasteel Van Rumbeke
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/kasteel-van-rumbeke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/kasteel-van-rumbeke.jpg" extlink="/nl/doen/kasteel-van-rumbeke" %}}
 
 Tussen knooppunt 76 en 40
 
@@ -56,7 +56,7 @@ Dit meesterwerk van de Vlaamse renaissance dateert uit 1538 en is één van de o
 
 ### Brasserie Kasteeltje
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/kasteeltje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/kasteeltje.jpg" extlink="https://www.kasteeltje.be" %}}
 
 Tussen knooppunt 76 en 40
 
@@ -68,7 +68,7 @@ In de winter heb je in dit restaurant de aangename warmte van de houtkachel en i
 
 ### Brasserie 'T Haantje
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/les-petits-poulets.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/les-petits-poulets.jpg" extlink="https://thaantjebrasserie.be" %}}
 
 Tussen knooppunt 76 en 40
 
@@ -80,7 +80,7 @@ Dit restaurant is gespecialiseerd in huisbereide gerechten zoals vispannetjes of
 
 ### Ter Bos
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/ter-bos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/ter-bos.jpg" extlink="http://www.terbos.be" %}}
 
 Tussen knooppunt 76 en 40
 
@@ -92,7 +92,7 @@ In Restaurant Ter Bos ervaar je perfect het ritme van de seizoenen. Vele gasten 
 
 ### Wielerpiste Defraeye-Sercu
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/wielerpiste.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/wielerpiste.jpg" extlink="https://www.westtoer.be/nl/doen/wielerpiste-defraeye-sercu" %}}
 
 Tussen knooppunt 40 en 95
 
@@ -104,7 +104,7 @@ Wielerpiste Defraeye-Sercu in Rumbeke heeft een rijk wielerverleden. Nu staat ze
 
 ### Isis
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/isis.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/isis.jpg" extlink="http://www.ktc-isis.be" %}}
 
 Tussen knooppunt 95 en 50
 
@@ -116,7 +116,7 @@ Gezellige bar, bistro en tearoom van Tennisclub KTC Isis met een klein speelplei
 
 ### Provinciedomein Wallemote-Wolvenhof
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/wallemote-wolvenhof.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/wallemote-wolvenhof.jpg" extlink="https://www.westtoer.be/nl/doen/provinciedomein-wallemote-wolvenhof" %}}
 
 Tussen knooppunt 50 en 20
 
@@ -128,7 +128,7 @@ Wallemote-Wolvenhof is een sfeervol provinciedomein in Izegem. Het bestaat uit d
 
 ### Steenbeekbos
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/steenbeekbos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/steenbeekbos.jpg" extlink="http://www.ledegem.be" %}}
 
 Tussen knooppunt 14 en 42
 
@@ -140,7 +140,7 @@ Het Steenbeekbos (vroeger het Kuipebos genoemd) is een klein residentieel bosje 
 
 ### Kerk Sint-Eloois-Winkel
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/st-elooiswinkel.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/st-elooiswinkel.jpg" %}}
 
 Tussen knooppunt 64 en 60
 
@@ -150,7 +150,7 @@ Op 9 juni 1953 brandde de kerk af als gevolg van een kortsluiting. De kerk werd 
 
 ### Dokterswoning
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/dokterswoning.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/dokterswoning.jpg" %}}
 
 Tussen knooppunt 64 en 60
 
@@ -160,7 +160,7 @@ Deze dokterswoning wordt beschreven als een art-decodokterswoning met invloed va
 
 ### 'T Kaffeeet
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/kaffeeet.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/kaffeeet.jpg" %}}
 
 Tussen knooppunt 60 en 30
 
@@ -170,7 +170,7 @@ t Kaffeeet is een familiezaak waar je terecht kan voor heel wat streekbieren. 't
 
 ### De Nachtwaker
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/nachtwaker.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/nachtwaker.jpg" extlink="http://www.denachtwaker.be" %}}
 
 Tussen knooppunt 75 en 5
 
@@ -182,7 +182,7 @@ Prachtige bloemen en planten zie je in het zomerseizoen in de showtuin van bloem
 
 ### Vierkavenbos
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/vierkavenbos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/vierkavenbos.jpg" extlink="https://www.westtoer.be/nl/doen/vierkavenbos" %}}
 
 Tussen knooppunt 61 en 63
 
@@ -194,7 +194,7 @@ Het Vierkavenbos beslaat 18 hectare en is een paradijs voor de natuurfanaat. Op 
 
 ### De Barriere
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/de-barriere.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/de-barriere.jpg" extlink="http://www.denieuwebarriere.be" %}}
 
 Tussen knooppunt 63 en 69
 
@@ -206,7 +206,7 @@ In ons restaurant hebben we onze droom verwezenlijkt door er een mooie open haar
 
 ### Muze'um L
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/muzeuml.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/muzeuml.jpg" extlink="http://www.muzeuml.be" %}}
 
 Tussen knooppunt 69 en 39
 
@@ -218,7 +218,7 @@ Hedendaagse belevingsarchitectuur op de lichtmeridiaan. De lokale lengtegraad wo
 
 ### 'T Roodhuis
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-roeselare/roodhuis.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/eten_drinken/roodhuis.jpg" extlink="https://www.facebook.com/TRoodhuis" %}}
 
 Tussen knooppunt 39 en 76
 

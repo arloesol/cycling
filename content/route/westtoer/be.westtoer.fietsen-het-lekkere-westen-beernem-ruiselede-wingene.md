@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in Het Lekkere Westen - Beernem, Ruiselede, Wingene, ..."
 subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes," 
 tags:
   - flanders
@@ -32,7 +32,7 @@ starten aan knooppunt 29 (parking Aanwijs van Bulskampveld op kruising Reigerlos
 
 ### De Radio
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/de_radio_ruiselede-4609.tif__0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/de_radio_ruiselede-4609.tif__0.jpg" extlink="/nl/eten-drinken/de-radio" %}}
 
 Nabij knooppunt 14
 
@@ -42,7 +42,7 @@ In de schaduw van de imposante zendmasten, vind je de stemmige eetkroeg [De Radi
 
 ### Den Haze
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/den_haze_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/den_haze_0.jpg" extlink="/nl/eten-drinken/den-haze" %}}
 
 Tussen knooppunt 35 en 15
 
@@ -52,7 +52,7 @@ Tussen knooppunt 35 en 15
 
 ### Witloof Culinair
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.brugseommeland.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="http://www.witloofculinair.be" %}}
 
 Nabij knooppunt 25
 
@@ -62,7 +62,7 @@ Lege koelkast als je thuiskomt? Maak een stop bij de [witloofautomaat of koop in
 
 ### Smart-Ijs
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/logohonderd_2_1.jpg" %}}
+{{% imgandtxt url="https://www.brugseommeland.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_1.jpg" extlink="/nl/eten-drinken/smart-ijs" %}}
 
 Tussen knooppunt 25 en 50
 
@@ -72,7 +72,7 @@ Geniet van een [ambachtelijk hoeve-ijsje in het moderne ijssalon met zonneterras
 
 ### De Grutterij
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.brugseommeland.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="http://www.westtoer.be/nl/doen/de-grutterij" %}}
 
 Tussen knooppunt 17 en 52
 
@@ -82,17 +82,17 @@ Spring zeker even binnen in deze kruidenierswinkel waar het accent ligt op [loka
 
 ### Volkscafé De Vriendschap
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/de_vrienschap.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/de_vrienschap.jpg" extlink="/nl/eten-drinken/caf%C3%A9-de-vriendschap" %}}
 
 Tussen knooppunt 52 en 85
 
-De naam zegt het al. Twee jeugdmakkers openden dit volkscafé in de sfeer van toen.  [P](https://www.westtoer.be/nl/eten-drinken/caf%C3%A9-de-vriendschap)[roef er van een lekker biertje met de 'moatn'](https://www.facebook.com/Caf%C3%A9-De-Vriendschap-1473139582998239/). 
+De naam zegt het al. Twee jeugdmakkers openden dit volkscafé in de sfeer van toen.  [P](https://www.westtoer.be/nl/eten-drinken/caf%C3%A9-de-vriendschap)[roef er van een lekker biertje met de 'moatn'](https://www.facebook.com/Caf%C3%A9-De-Vriendschap-1473139582998239/).
 
 {{% /imgandtxt %}}
 
 ### Restaurant Schatteman
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/schatteman_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/schatteman_0.jpg" extlink="/nl/node/69213" %}}
 
 Nabij knooppunt 47
 
@@ -102,7 +102,7 @@ Tenmidden de bossen van Hertsberge vind je het gastronomische restaurant terug v
 
 ### De Kruiderie
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/loca_labora1_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/loca_labora1_0.jpg" extlink="/nl/eten-drinken/de-kruiderie" %}}
 
 Tussen knooppunt 47 en 49
 
@@ -112,7 +112,7 @@ Het sociaal tewerkstellingsproject De Kruiderie is een biologische kruidenkweker
 
 ### Hoeve Colpaert
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/logohonderd_2_3.jpg" %}}
+{{% imgandtxt url="https://www.brugseommeland.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_3.jpg" extlink="/nl/eten-drinken/hoeve-colpaert" %}}
 
 Nabij knooppunt 49
 
@@ -122,7 +122,7 @@ Hier kan je terecht in [Hoeve Colpaert voor de crème van het hoeveijs](https://
 
 ### Kasteel En Bezoekerscentrum Bulskampveld
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/bulskampveld.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/bulskampveld.jpg" extlink="https://www.brugseommeland.be/nl/landschapspark-bulskampveld/welkom" %}}
 
 Nabij knooppunt 49
 
@@ -132,7 +132,7 @@ Het gerenoveerde kasteel is ingericht als natuur-en streekbezoekerscentrum.  [On
 
 ### Café De Zevende Hemel En Restaurant D'afspanning (Beernem) 
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-beernem-ruiselede-wingene/afspanning.png" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/afspanning.png" extlink="/nl/eten-drinken/d-afspanning" %}}
 
 Einde van de tocht maar misschien kan je nog even richting Beernem fietsen waar je o.a. terecht kan in café De Zevende Hemel met meer dan 150 streekbieren op de kaart (Stationsplein 5) of je kan proeven van de heerlijke kookkunsten van [Lekkere Westen-chef Joost Meire in d'Afspanning](https://www.westtoer.be/nl/eten-drinken/d-afspanning).
 

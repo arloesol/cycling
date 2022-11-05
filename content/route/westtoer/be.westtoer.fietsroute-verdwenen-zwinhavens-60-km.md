@@ -1,7 +1,7 @@
 ---
 title: "Fietsroute Verdwenen Zwinhavens 60 km"
 subtitle: "De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (60 km, of kies voor een lus van 44 km of 31 km)"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (60 km, of kies voor een lus van 44 km of 31 km)" 
 tags:
   - flanders

@@ -1,7 +1,7 @@
 ---
 title: "Fietsen tussen geurende koffie en schuimend bier"
 subtitle: "Koffie, fietsen en eindigen met een biertje"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Koffie, fietsen en eindigen met een biertje" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Deze route start aan Bistro De Koornbloem, Markt 30, Langemark
 
 ### Bistro Koornbloem
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-geurende-koffie-en-schuimend-bier/de_koornbloem.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/de_koornbloem.jpg" extlink="/nl/eten-drinken/bistro-de-koornbloem" %}}
 
 Gelegen nabij knooppunt 27
 
@@ -44,11 +44,11 @@ De gezellige binnenkoer is de ideale plek om te genieten van een heerlijke maalt
 
 ### Koffie 'T Molentje
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-geurende-koffie-en-schuimend-bier/koffie_t_molentje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/koffie_t_molentje.jpg" extlink="/nl/doen/koffie-t-molentje" %}}
 
 Gelegen nabij knooppunt 27
 
-Hier zetten ze maximaal in op versheid. Een koffietje hier drinken is het ideale zenmoment. 
+Hier zetten ze maximaal in op versheid. Een koffietje hier drinken is het ideale zenmoment.
 
 [Meer info](https://www.westtoer.be/nl/doen/koffie-t-molentje)
 
@@ -56,7 +56,7 @@ Hier zetten ze maximaal in op versheid. Een koffietje hier drinken is het ideale
 
 ### Chocolat Nanny
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-geurende-koffie-en-schuimend-bier/chocolate_nanny_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/chocolate_nanny_0.jpg" extlink="/nl/eten-drinken/chocolat-nanny" %}}
 
 Gelegen nabij knooppunt 28
 
@@ -68,7 +68,7 @@ Zin in lekker geurende chocolade die je smaakpapillen keer op keer verrassen? Ho
 
 ### 'T Oud Gemeentehuis
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-geurende-koffie-en-schuimend-bier/t_oud_gemeentehuis.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/t_oud_gemeentehuis.jpg" extlink="/nl/eten-drinken/t-oud-gemeentehuis-0" %}}
 
 Gelegen nabij knooppunt 28
 
@@ -80,7 +80,7 @@ Bij mooi weer kan je hier op het terras genieten van een fris biertje van een va
 
 ### De Kippe
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-geurende-koffie-en-schuimend-bier/de_kippe_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/de_kippe_0.jpg" extlink="/nl/eten-drinken/de-kippe" %}}
 
 Gelegen tussen knooppunt 63 en 56
 
@@ -92,7 +92,7 @@ Een warm interieur, een frisse pint, een ijsje, snack of steak, je vindt het hie
 
 ### Surprice
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-geurende-koffie-en-schuimend-bier/surprice_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/surprice_0.jpg" extlink="/nl/doen/surprice-houthulst" %}}
 
 Gelegen nabij knooppunt 60
 

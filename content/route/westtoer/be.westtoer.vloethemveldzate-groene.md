@@ -1,7 +1,7 @@
 ---
 title: "Vloethemveldzate - Groene as"
 subtitle: "Deze as is de kortste van de West-Vlaamse groene assen"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Deze as is de kortste van de West-Vlaamse groene assen" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Diepstraat 12, 8210 Zedelgem
 
 ### Vloethemveld
 
-{{% imgandtxt url="/routes/page/be.westtoer.vloethemveldzate-groene/vloethemveld.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/vloethemveld.jpg" %}}
 
 Via een robuuste uitkijktoren kijk je uit op dit militair domein met bijzondere oorlogsgeschiedenis en uitzonderlijke natuurwaarden.
 

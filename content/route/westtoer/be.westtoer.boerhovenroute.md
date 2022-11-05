@@ -1,7 +1,7 @@
 ---
 title: "Boerhovenroute"
 subtitle: "De Boerhovenroute is een mountainbikeroute waar elke sportieveling, zowel beginner als gevorderde de kuiten kan spannen"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Boerhovenroute is een mountainbikeroute waar elke sportieveling, zowel beginner als gevorderde de kuiten kan spannen" 
 tags:
   - flanders

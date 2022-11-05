@@ -3,7 +3,7 @@ title: "The Legacy"
 subtitle: "Fietsroute 14-18
 
 In Zonnebeke bevind je je in het hartje van de beruchte Ieperboog"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 In Zonnebeke bevind je je in het hartje van de beruchte Ieperboog" 

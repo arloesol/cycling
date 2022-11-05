@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Anzegem"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Anzegem met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Anzegem met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -38,11 +38,11 @@ Je start aan Hoeveproducten Vindevoghel in de Tempeliersstraat 20 in Anzegem, na
 
 ### Hoeveproducten Vindevoghel
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-anzegem/hoeveproducten-vindevoghel.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/hoeveproducten-vindevoghel.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/hoeve-en-streekproducten-vindevoghel" %}}
 
 Tussen knooppunt 36 en 6 (op 200m van de route) 
 
-Bij [Hoeveproducten Vindevoghel](https://www.westtoer.be/nl/eten-drinken/hoeve-en-streekproducten-vindevoghel) vind je (h)eerlijke hoeveproducten: aardappelen, seizoengroenten, aardbeien, zuivel, sappen en streekproducten. Er is ook een automaat. 
+Bij [Hoeveproducten Vindevoghel](https://www.westtoer.be/nl/eten-drinken/hoeve-en-streekproducten-vindevoghel) vind je (h)eerlijke hoeveproducten: aardappelen, seizoengroenten, aardbeien, zuivel, sappen en streekproducten. Er is ook een automaat.
 
 Adres: Tempeliersstraat 20, 8570 Anzegem
 
@@ -50,7 +50,7 @@ Adres: Tempeliersstraat 20, 8570 Anzegem
 
 ### Hoeveslagerij Basile
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-anzegem/hoeveslagerij-basile.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/hoeveslagerij-basile.jpg" %}}
 
 Tussen knooppunt 12 en 97 (afwijken van route) 
 
@@ -62,7 +62,7 @@ Adres: Kruisstraat 16, 8580 Avelgem
 
 ### Brouwerij 'T Gaverhopke
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-anzegem/brouwerij-t-gaverhopke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/brouwerij-t-gaverhopke.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/ambachtelijke-brouwerij-t-gaverhopke" %}}
 
 Tussen knooppunt 72 en 94
 

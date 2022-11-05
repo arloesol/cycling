@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs Zeebrugge en Koolkerke: grootse havengezichten"
 subtitle: "Jaarlijks worden in Zeebrugge 2,9 miljoen wagens verscheept"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Jaarlijks worden in Zeebrugge 2,9 miljoen wagens verscheept" 
 tags:
   - flanders

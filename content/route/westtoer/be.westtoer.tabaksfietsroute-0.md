@@ -1,7 +1,7 @@
 ---
 title: "Tabaksfietsroute"
 subtitle: "De streek rond Wervik kende vroeger een bloeiende tabaksindustrie"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De streek rond Wervik kende vroeger een bloeiende tabaksindustrie" 
 tags:
   - flanders

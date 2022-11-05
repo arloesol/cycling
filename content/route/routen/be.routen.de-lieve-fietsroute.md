@@ -24,33 +24,33 @@ Op deze route neemt 't Liefken - zoals het kanaal De Lieve in de volksmond wordt
 
 ### Kasteel van Wippelgem
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/Troast.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/Troast.jpg" %}}
 Startpunt
 
 Let op: Start je deze route aan een ander knooppunt? Dan moet je aan knooppunt 40 een paar honderd meter van de route afwijken om het kasteel te bewonderen.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Evergem
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-02/POI%20Nouvellune.JPG" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-02/POI%20Nouvellune.JPG" %}}
 Knooppunt 44-35
 
 Tussen de knooppunten 44 en 35 fiets je door Evergem, waar je bij verschillende horecazaken je honger en dorst kan stillen. Bij bistro De Orangerie kan je terecht voor lunch of iets zoets in de namiddag. Bij Novellune kan je dan weer lunchen in prachtig kader.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Kasteel van Lovendegem
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/WhatsApp%20Image%202022-03-23%20at%2015.02.20.jpeg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/WhatsApp%20Image%202022-03-23%20at%2015.02.20.jpeg" %}}
 Knooppunt 23
 
 In Lovendegem fiets je door de statige Kasteeldreef. Al van ver zie je het Kasteel van Lovendegem verschijnen. Dit indrukwekkende kasteel is helaas niet toegankelijk, maar ook vanop een afstand is het prachtig om naar te kijken.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Kanaal Gent-Brugge
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/WhatsApp%20Image%202022-03-23%20at%2015.02.19%20%282%29.jpeg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/WhatsApp%20Image%202022-03-23%20at%2015.02.19%20%282%29.jpeg" %}}
 Tussen de knooppunten 12 en 6 fiets je een prachtig stukje langs het kanaal Gent-Brugge in Merendree. Je passeert ook de Sluis van Schipdonk, waar het kanaal Gent-Brugge kruist met het Schipdonkkanaal. Aan de sluis vind je een picknickbankje met een indrukwekkend zicht op het water. Genieten!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Zomergem
 
@@ -58,18 +58,18 @@ Ongeveer halverwege de route kan je pauzeren in Zomergem. Bij 't Zoet Gemoed bi
 
 ### De Lieve
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Beirtjesbrug%20Lieve%20David%20Samyn.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Beirtjesbrug%20Lieve%20David%20Samyn.jpg" %}}
 Knooppunt 9-30
 
 Dé blikvanger van deze route is het stuk waarop je langs de Lieve fietst. Wist je dat dit het oudste kanaal van Vlaanderen - en waarschijnlijk zelfs van Europa - is? Ooit moesten de schippers uit de streek helemaal via de Schelde omvaren om aan de kust te geraken. Een tocht die heel wat tijd opslorpte. Dus besliste men om simpelweg een kanaal te trekken van Gent naar Damme. Hoewel het eeuwenlang een cruciale levensader was voor de dorpen en steden in de buurt, geraakt het toch in onbruik. Vele stukken van het kanaal zijn dichtgegooid. Maar hier en daar schittert ’t Liefken nog als vanouds.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Troast 
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-11/Koffiebar-Troast-3.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-11/Koffiebar-Troast-3.jpg" %}}
 Knooppunt 42
 
 Even bekomen van al dat fietsen? Dat kan bij Troast, een koffiebar gevestigd in het voormalige hoveniershuis van het Kasteel van Wippelgem. Op de menukaart vind je koffie en zoetigheden, maar ook lunchgerechten en alles om te aperitieven. Aanrader!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

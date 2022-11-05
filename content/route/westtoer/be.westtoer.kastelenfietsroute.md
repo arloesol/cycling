@@ -1,7 +1,7 @@
 ---
 title: "Kastelenfietsroute"
 subtitle: "Het Houtland in de driehoek Brugge, Oostkamp en Torhout is een onvervalste kastelen- en landgoedregio"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Het Houtland in de driehoek Brugge, Oostkamp en Torhout is een onvervalste kastelen- en landgoedregio" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Kasteel Tillegem, Tillegemstraat 81, 8200 Sint-Michiels
 
 ### Tillegem Kasteel
 
-{{% imgandtxt url="/routes/page/be.westtoer.kastelenfietsroute/tillegem.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/tillegem.jpg" %}}
 
 Uitgestrekte wandelpaden, een rosmolen, lig- en speelweiden, een waterburcht en uiteraard ook het terras van de Trutselaar! Populair bij Bruggelingen.
 
@@ -40,7 +40,7 @@ Uitgestrekte wandelpaden, een rosmolen, lig- en speelweiden, een waterburcht en 
 
 ### Kijkboerderij De Pierlapont
 
-{{% imgandtxt url="/routes/page/be.westtoer.kastelenfietsroute/maisdoolhof_pierlapont.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/maisdoolhof_pierlapont.jpg" %}}
 
 Kinderparadijs met honderden diertjes, maïsdoolhof, boerengolf en hoevecafé met terras. Tal van leuke activiteiten voor de kleinsten onder ons.
 
@@ -48,7 +48,7 @@ Kinderparadijs met honderden diertjes, maïsdoolhof, boerengolf en hoevecafé me
 
 ### Vloethemveld
 
-{{% imgandtxt url="/routes/page/be.westtoer.kastelenfietsroute/vloethemveld.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/vloethemveld.jpg" %}}
 
 Via een robuuste uitkijktoren kijk je uit op dit militair domein met bijzondere oorlogsgeschiedenis en uitzonderlijke natuurwaarden.
 
@@ -56,7 +56,7 @@ Via een robuuste uitkijktoren kijk je uit op dit militair domein met bijzondere 
 
 ### Site Zevenkerken
 
-{{% imgandtxt url="/routes/page/be.westtoer.kastelenfietsroute/site_zevenkerken.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/site_zevenkerken.jpg" %}}
 
 Site met Sint-Andriesabdij en bijhorende bossen (50 ha), watermolenvijver, Bijbelhuis, belevingsmuseum en abdijshop.
 
@@ -64,7 +64,7 @@ Site met Sint-Andriesabdij en bijhorende bossen (50 ha), watermolenvijver, Bijbe
 
 ### Kasteel Beisbroek
 
-{{% imgandtxt url="/routes/page/be.westtoer.kastelenfietsroute/beisbroek_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/beisbroek_1.jpg" %}}
 
 In de Volkssterrenwacht ontdek je je innerlijke astronaut. Wie liever dichter bij huis blijft kan wandelen in de prachtige kasteelbossen.
 

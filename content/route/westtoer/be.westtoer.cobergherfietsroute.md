@@ -1,7 +1,7 @@
 ---
 title: "Cobergherfietsroute"
 subtitle: "De Cobergherfietsroute flirt met de Franse grens"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Cobergherfietsroute flirt met de Franse grens" 
 tags:
   - flanders

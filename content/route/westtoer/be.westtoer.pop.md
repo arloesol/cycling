@@ -3,7 +3,7 @@ title: "POP"
 subtitle: "Fietsroute 14-18
 
 De fietstocht gaat terug naar de sporen van de Eerste Wereldoorlog achter het front"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 De fietstocht gaat terug naar de sporen van de Eerste Wereldoorlog achter het front" 

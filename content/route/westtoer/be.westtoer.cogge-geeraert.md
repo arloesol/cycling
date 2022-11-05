@@ -3,7 +3,7 @@ title: "Cogge-Geeraert"
 subtitle: "Fietsroute 14-18
 
 De fietsroute belicht de onderwaterzetting van de IJzervlakte tijdens de Eerste Wereldoorlog en de rol die de historische figuren Karel Cogge en Hendrik Geeraert daarbij speelden"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 De fietsroute belicht de onderwaterzetting van de IJzervlakte tijdens de Eerste Wereldoorlog en de rol die de historische figuren Karel Cogge en Hendrik Geeraert daarbij speelden" 

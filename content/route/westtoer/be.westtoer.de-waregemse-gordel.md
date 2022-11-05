@@ -1,7 +1,7 @@
 ---
 title: "De Waregemse Gordel"
 subtitle: "Tijdens deze fietstocht verken je de regio rond Dentergem, Waregem en Wielsbeke"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Tijdens deze fietstocht verken je de regio rond Dentergem, Waregem en Wielsbeke" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Je start aan het provinciedomein Baliekouter, Ommegangstraat 11, Wakken (Denterg
 
 ### Provinciedomein Baliekouter
 
-{{% imgandtxt url="/routes/page/be.westtoer.de-waregemse-gordel/provinciedomein-baliekouter.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/provinciedomein-baliekouter.jpg" extlink="/nl/doen/provinciedomein-baliekouter" %}}
 
 Tussen knooppunt 18 en 8.
 
@@ -44,7 +44,7 @@ Dit in 2004 opengestelde wandeldomein heeft naast 45 hectare bos ook veel open r
 
 ### André Demedtshuis
 
-{{% imgandtxt url="/routes/page/be.westtoer.de-waregemse-gordel/andre-demedtshuis.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/andre-demedtshuis.jpg" extlink="/nl/doen/andr%C3%A9-demedtshuis" %}}
 
 Tussen knooppunt 58 en 76.
 
@@ -56,7 +56,7 @@ Sinds 1983 doet de oude pastorie van Sint-Baafs-Vijve dienst als cultureel centr
 
 ### Drietrapssluis
 
-{{% imgandtxt url="/routes/page/be.westtoer.de-waregemse-gordel/drietrapssluis.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/drietrapssluis.jpg" extlink="/nl/doen/drietrapssluis" %}}
 
 Tussen knooppunt 71 en 59.
 
@@ -68,7 +68,7 @@ Aan deze beschermde drietrapssluis krijg je een goede indruk van hoe een 19de-ee
 
 ### Brouwerij ‘T Gaverhopke
 
-{{% imgandtxt url="/routes/page/be.westtoer.de-waregemse-gordel/brouwerij-t-gaverhopke_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/brouwerij-t-gaverhopke_0.jpg" extlink="/nl/eten-drinken/ambachtelijke-brouwerij-t-gaverhopke" %}}
 
 Tussen knooppunt 72 en 94.
 
@@ -80,7 +80,7 @@ Hier worden de 'Gaverhopkes', met liefde voor de brouwkunst, op ambachtelijke wi
 
 ### Watermolen Goed
 
-{{% imgandtxt url="/routes/page/be.westtoer.de-waregemse-gordel/watermolen-goed.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/watermolen-goed.jpg" extlink="/nl/doen/watermolen-hof-ter-walskerke" %}}
 
 Tussen knooppunt 36 en 6.
 
@@ -92,7 +92,7 @@ De enige nog draaiende watermolen van West-Vlaanderen vind je in Anzegem.
 
 ### Flanders Field American Cemetery
 
-{{% imgandtxt url="/routes/page/be.westtoer.de-waregemse-gordel/flanders-field-american-cemetery.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/flanders-field-american-cemetery.jpg" extlink="/nl/doen/flanders-field-american-cemetery" %}}
 
 Tussen knooppunt 4 en 21.
 

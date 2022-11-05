@@ -1,7 +1,7 @@
 ---
 title: "Krekedalfietsroute"
 subtitle: "Zoals de naam van de route laat vermoeden, verken je de vallei van de Krekebeek"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Zoals de naam van de route laat vermoeden, verken je de vallei van de Krekebeek" 
 tags:
   - flanders

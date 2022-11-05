@@ -1,7 +1,7 @@
 ---
 title: "Vintage Heuvelland fietsroute"
 subtitle: "Heuvelland is goed voor 12% van de totale wijnproductie in België, omgerekend zijn dat zo’n 235"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Heuvelland is goed voor 12% van de totale wijnproductie in België, omgerekend zijn dat zo’n 235" 
 tags:
   - flanders
@@ -38,9 +38,9 @@ De fietsroute start in het centrum van Kemmel, bij fietsknooppunt 2.
 
 ### 'T Bernadetje - Westouter
 
-{{% imgandtxt url="/routes/page/be.westtoer.vintage-heuvelland-fietsroute/bernadetje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/bernadetje.jpg" extlink="/nl/eten-drinken/bernadetje" %}}
 
-Gezellige bar en theehuis tussen de Rode- en Zwarteberg, waar je ook de Heuvellandse wijnen kan proeven. 
+Gezellige bar en theehuis tussen de Rode- en Zwarteberg, waar je ook de Heuvellandse wijnen kan proeven.
 
 [Meer info](https://www.westtoer.be/nl/eten-drinken/bernadetje)
 
@@ -48,7 +48,7 @@ Gezellige bar en theehuis tussen de Rode- en Zwarteberg, waar je ook de Heuvella
 
 ### Den Heksestoel - Loker
 
-{{% imgandtxt url="/routes/page/be.westtoer.vintage-heuvelland-fietsroute/den_heksenstoel_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/den_heksenstoel_1.jpg" extlink="/nl/eten-drinken/restaurant-den-heksestoel" %}}
 
 Chef Pieter combineert verfijning en streekkwaliteit in zijn authentieke gerechten zoals ‘Potjesvleesch' in St.Bernardus Triple, rillette met Heuvellandse wijn maar ook in de huisgemaakte charcuterie.
 
@@ -58,7 +58,7 @@ Chef Pieter combineert verfijning en streekkwaliteit in zijn authentieke gerecht
 
 ### De Bralle - Loker
 
-{{% imgandtxt url="/routes/page/be.westtoer.vintage-heuvelland-fietsroute/geert_gombeir_de_bralle.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/geert_gombeir_de_bralle.jpg" extlink="/nl/eten-drinken/de-bralle" %}}
 
 Hier word je culinair verwend met een uitgelezen selectie seizoens-en streekgerechten.
 
@@ -68,9 +68,9 @@ Hier word je culinair verwend met een uitgelezen selectie seizoens-en streekgere
 
 ### De Musette - Dranouter
 
-{{% imgandtxt url="/routes/page/be.westtoer.vintage-heuvelland-fietsroute/eetcafe_de_musette.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/eetcafe_de_musette.jpg" extlink="/nl/eten-drinken/eetcaf%C3%A9-de-musette" %}}
 
-De karaktervolle Pastorie werd omgetoverd in enerzijds een gezellig eethuis en anderzijds een aanpalend fietsenatelier. 
+De karaktervolle Pastorie werd omgetoverd in enerzijds een gezellig eethuis en anderzijds een aanpalend fietsenatelier.
 
 [Meer info](https://www.westtoer.be/nl/eten-drinken/eetcaf%C3%A9-de-musette)
 
@@ -78,7 +78,7 @@ De karaktervolle Pastorie werd omgetoverd in enerzijds een gezellig eethuis en a
 
 ### Eetcafé 'T Folk - Dranouter
 
-{{% imgandtxt url="/routes/page/be.westtoer.vintage-heuvelland-fietsroute/t_folk.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/t_folk.jpg" extlink="/nl/eten-drinken/eetcaf%C3%A9-t-folk" %}}
 
 Zin in een snelle hap, een stevige maaltijd of benieuwd naar een gerechtje uit de wereldkeuken?
 
@@ -88,10 +88,10 @@ Zin in een snelle hap, een stevige maaltijd of benieuwd naar een gerechtje uit d
 
 ### De Kauwackers - Dranouter
 
-{{% imgandtxt url="/routes/page/be.westtoer.vintage-heuvelland-fietsroute/geert_gombeir_oud_kerverijtje_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/geert_gombeir_oud_kerverijtje_1.jpg" extlink="/nl/eten-drinken/de-kauwackers" %}}
 
 Geniet van het wonderbaarlijke vergezicht van op het terras en kies uit een aanbod van meer dan 200 bieren en van de streekwijnen.
 
-[Meer info ](https://www.westtoer.be/nl/eten-drinken/de-kauwackers)
+Meer info
 
 {{% /imgandtxt %}}

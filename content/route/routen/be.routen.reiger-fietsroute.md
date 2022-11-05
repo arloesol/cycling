@@ -24,11 +24,11 @@ Het is heerlijk fietsen in het vlakke Meetjesland met onderweg voldoende plekjes
 
 ### Stoktevijver
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-05/Stoktevijver.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-05/Stoktevijver.jpg" %}}
 Knooppunt 9-7
 
 Aan Stoktevijver in Zomergem ligt De Lieve zoals ze origineel door de Gentenaars werd gegraven. Het kanaal vervult nog steeds een belangrijke economische functie als drinkwaterleverancier voor Waterspaarbekken Kluizen. Verbonden met de Burggravenstroom richting Kluizen aan de ene kant, en de Kalevallei en de Poekebeek richting Tielt aan de andere kant, helpt De Lieve miljoenen liters oppervlaktewater omtoveren tot ‘ons’ drinkwater.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### 't Oud Liefken
 
@@ -45,18 +45,18 @@ Rust uit op het terras van Kwadenbos op de Bellebargie in Waarschoot, geniet van
 
 ### Haantjesbrug
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Haantjen_Lovendegem_DavidSamyn.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Haantjen_Lovendegem_DavidSamyn.jpg" %}}
 Knooppunt 30
 
 In de Lovendegemse wijk Haantjen ligt aan de Haantjenstraat een fraaie fietsersbrug over De Lieve. Een baken van rust.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Beirtjesbrug
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Beirtjesbrug%20Lieve%20David%20Samyn.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Beirtjesbrug%20Lieve%20David%20Samyn.jpg" %}}
 Knooppunt 15
 
 De Beirtjesbrug in Waarschoot is een prachtig, fotogeniek plekje op de route. Verliefden hangen hier een slotje als teken van hun liefde.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

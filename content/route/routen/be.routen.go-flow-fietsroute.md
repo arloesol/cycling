@@ -24,43 +24,43 @@ Laat je leiden door de Schelde en fiets zo van de slikken en schorren van Tielro
 
 ### Knooppunt 76 Taverne ’t Veer
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Tielrode-6665.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Tielrode-6665.jpg" %}}
 Startpunt
 
 Taverne 't Veer, dé plek om te genieten van een frisse salade, een trappist van ‘t vat of een ander – soms exclusief – biertje.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Tielrodebroek
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Tielrode-6595.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Tielrode-6595.jpg" %}}
 Knooppunt 76 – 75
 
 Van aan het startpunt fiets je dwars door de potpolder van Tielrodebroek, die heel wat water- en waadvogels lokt. Aan de samenvloeiing van Schelde en Durme ligt Tielrodeschor, een van de weinige zoetwater schorren die ons land nog telt.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Schouselbroek
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/Schouselbroek-tov.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/Schouselbroek-tov.jpg" %}}
 Knooppunt 75 – 86
 
 Langs de Schelde tussen Temse en Steendorp bol je door Schouselbroek, een indrukwekkende poldergebied van 150 ha. Het was een van de eerste poldergebieden langs de Schelde. Om al het water bij extreem hoogtij te bergen werd Schouselbroek omgevormd tot een gecontroleerd overstromingsgebied. Dit in het kader van het Sigmaplan. Door de vorming van eb en vloed is het natuurgebied nu een waardevol slikken- en schorrengebied.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Rupelmonde
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/waasland_mercator_rupelmonde.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/waasland_mercator_rupelmonde.jpg" %}}
 Knooppunt 86
 
 Het Scheldedorp Rupelmonde is vooral bekend als de geboorteplaats van Gerardus De Creemer (1512-1594). Hij ging door het leven als Mercator en legde de basis van de moderne cartografie. In de Graventoren, een restant van de vroegere waterburcht waar Mercator ooit gevangen zat, werd een museum aan de man gewijd. Vlakbij vinden we ook een oude getijdenmolen. Door eb en vloed werd hij aangedreven om tarwe, rogge en boomschors te malen. De molen, die nu beschermd is al monument, werkt nog steeds.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Polders van Kruibeke
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/waasland_polders%20van%20kruibeke_vilda_0.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/waasland_polders%20van%20kruibeke_vilda_0.jpg" %}}
 Knooppunt 86 – 70
 
 De Polders van Kruibeke zijn het grootste overstromingsgebied van Vlaanderen. De nieuw aangelegde paden leiden je door een gevarieerd landschap van slikken en schorren, elzenbroekbossen en weidevogelgebied. Het gebied is een ideale leefomgeving voor tal van kwetsbare plant- en diersoorten. We vinden er onder andere de bever en de visarend.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Oudbroek-Schellandpolder
 
@@ -70,34 +70,34 @@ Oudbroek-Schellandpolder werd als Sigmagebied ingericht. Dit wil zeggen dat, bij
 
 ### Kasteel d’Ursel
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Kasteel%20d%27Ursel%20Hingene%201.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Kasteel%20d%27Ursel%20Hingene%201.jpg" %}}
 Knooppunt 1
 
 Als je bij knooppunt 1 links afslaat (Notelaerdreef) kom je aan het Provinciaal Groendomein d'Ursel. Vier eeuwen lang was het de favoriete zomerstek van de hertogvan Ursel en diens familie. Sinds 1994 is het kasteeldomein in handen van de provincie Antwerpen. Er worden tentoonstellingen, concerten en rondleidingen georganiseerd. In de fraaie landschapstuin van het kasteel, dat eeuwenlang het buitenverblijf was van de adellijke familie d’Ursel, kan je wandelen en picknicken.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Paviljoen De Notelaer
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/DeNotelaer_DeSchryverMarc%20.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/DeNotelaer_DeSchryverMarc%20.jpg" %}}
 Knooppunt 1 – 2
 
 Rijd terug naar knooppunt 1 en volg daar verder de fietsroute door in de richting van knooppunt 2 te rijden. Even verderop domineert het jachtpaviljoen De Notelaer al snel het landschap. Ook dit paviljoen aan de Scheldedijk behoorde toe aan de familie d’Ursel. Proef in het cafeetje zeker de huisgemaakte Notelaeretaart en snuif de rust op in het officieel erkende stiltegebied van Hingene.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Kasteel de Marnix de Sainte Aldegonde
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Kasteel%20van%20Marnix%20in%20Bornem.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Kasteel%20van%20Marnix%20in%20Bornem.jpg" %}}
 Knooppunt 3 – 4
 
 Veel verbeelding vergt het niet om het neorenaissancekasteel van Marnix de Sainte Aldegonde te associëren met koene ridders en moedige jonkvrouwen. Met zijn koetshuis met 40 oude koetsen is deze sprookjesachtige waterburcht een echt Loirekasteel in Vlaanderen.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Mirabrug
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Mirabrug_DavidSamyn.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Mirabrug_DavidSamyn.jpg" %}}
 Knooppunt 90
 
 Sinds de jaren ’70 kent Vlaanderen de Hammebrug over de Durme als de ‘Mirabrug’, naar de gelijknamige film met Willeke van Ammelrooy en Jan Decleir. Vandaag is ze beschermd als monument en mogen alleen nog fietsers en voetgangers erover.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

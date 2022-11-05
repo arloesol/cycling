@@ -24,11 +24,11 @@ Je startpunt Laarne ligt in het epicentrum van de begonia, de exotische bloem di
 
 ### Knooppunt 24 – Kasteel van Laarne
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Kasteel%20laarne.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Kasteel%20laarne.jpg" %}}
 Startpunt
 
 Start je route in adellijke stijl en waan je even ridder of jonkvrouw in het sublieme 14de-eeuwse kasteel van Laarne, een van de best bewaarde versterkte burchten van Vlaanderen. Het herbergt een indrukwekkende kunstverzameling met Brusselse wandtapijten, meubels uit de 16de eeuw en een knappe zilvercollectie. Tijdens de beruchte heksenprocessen van begin 17de eeuw werden hier vermeende heksen achter slot en grendel gezet. Met de movieguide ‘Heksen’ duik je in het verleden van het kasteel, samen met pastoor Jan Schatteman en poetsvrouw Josyne. In elke kamer - van salon over keuken tot gevangenis - ontdek je een ander facet van die meeslepende geschiedenis.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### EETCAFE ’t STEENTJE 
 
@@ -38,19 +38,19 @@ Dé ideale stop voor gezellig nakaarten straks, dit sympathieke eetcafé en toer
 
 ### BEGONIAVELDEN
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Begoniaveld%20Laarne%204%20Bram%20Elewaut.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Begoniaveld%20Laarne%204%20Bram%20Elewaut.jpg" %}}
 KNOOPPUNT 29
 
 Vanaf begin 19de  eeuw werd de begonia immens populair in heel Europa, onder meer door toedoen van de bekende Gentbrugse horticulturist Louis Van Houtte. Al vrij vroeg na hun ontdekking slaagde men erin, vooral dankzij Van Houttes experimenten, om deze planten via generatieve weg bij duizenden te vermenigvuldigen in rijke, kleurvaste variëteiten. In en rond Gent gingen talrijke landbouwkundige bedrijven zich daarna specialiseren in de teelt van vooral knolbegonia's.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### KALKENSE MEERSEN
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Kalkense%20Meersen%20Wetteren.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Kalkense%20Meersen%20Wetteren.jpg" %}}
 KNOOPPUNT 29-36
 
 Bergenmeersen, Wijmeers, Scheldebroeken, …in elk van de stukjes meersen floreren erg verscheidene biotopen, elk met hun eigen karakteristieke dier- en plantensoorten. Op de grootste rietvijver werden intussen 170 vogelsoorten gespot.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### KALVERBOS
 
@@ -66,10 +66,10 @@ Tussen Destelbergen en Heusden maakten de turfputten rond de oude Scheldemeander
 
 ### BISTRO CELINE 
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_IMG_20190915_152625.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_IMG_20190915_152625.jpg" %}}
 KNOOPPUNT 11
 
 Bistro Céline bleef de menukaart van het vroegere palinghuis Stapsteen trouw, met hedendaagse versies van Vlaamse klassiekers en paling klaargemaakt op zes verschillende manieren. ’s Namiddags kan je hier lekker afstappen voor een pannenkoek of een andere zoetigheid.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Kinderen koning in het Tieltse - lus Tielt - Dentergem"
 subtitle: "Kinderen zijn koning in het Tieltse"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Kinderen zijn koning in het Tieltse" 
 tags:
   - flanders
@@ -30,7 +30,7 @@ Poelbergsite, Poelberg 1, 8700 Tielt
 
 ### Poelbergsite (52)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-tielt-dentergem/poelberg1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/poelberg1.jpg" extlink="/nl/node/59062" %}}
 
 De [Poelberg](https://www.westtoer.be/nl/node/59062) is omsluierd door heerlijke landschappen, knappe vergezichten, eindeloze rust en een vleugje nostalgie. Bovenaan vind je ook het Bezoekerscentrum met brasserie.
 
@@ -38,7 +38,7 @@ De [Poelberg](https://www.westtoer.be/nl/node/59062) is omsluierd door heerlijke
 
 ### Provinciedomein Baliekouter (3-8)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-tielt-dentergem/baliekouter1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/baliekouter1.jpg" extlink="https://www.toerisme-leiestreek.be/nl/doen/provinciedomein-baliekouter" %}}
 
 Prachtig [provinciedomein](https://www.toerisme-leiestreek.be/nl/doen/provinciedomein-baliekouter) om te wandelen met bezoekerscentrum en bijhorende tearoom. De speeltoestellen zijn opgebouwd rond het thema 'boerderij'.
 
@@ -46,7 +46,7 @@ Prachtig [provinciedomein](https://www.toerisme-leiestreek.be/nl/doen/provincied
 
 ### Zelfpluktuin O'bio (3-8)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-tielt-dentergem/o_bio.png" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/o_bio.png" extlink="http://o-bio.be/" %}}
 
 In deze leuke [zelfpluktuin](http://o-bio.be/) verzamel je zelf je blauwe bessen, gele frambozen, braambessen, stekelbessen of kiwibessen! Of geniet van hun verse ijsjes op de picknicktafels.
 
@@ -54,7 +54,7 @@ In deze leuke [zelfpluktuin](http://o-bio.be/) verzamel je zelf je blauwe bessen
 
 ### Serelly's (Nabij 57)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-tielt-dentergem/ijsje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/ijsje.jpg" extlink="/nl/eten-drinken/serellys" %}}
 
 [Serelly's](https://www.westtoer.be/nl/eten-drinken/serellys) is exclusief in de streek, artisanaal bereid roomijs! Een lekkere stop voor jong en oud.
 
@@ -62,7 +62,7 @@ In deze leuke [zelfpluktuin](http://o-bio.be/) verzamel je zelf je blauwe bessen
 
 ### Schobbejaks Hoogte (Nabij 57)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-tielt-dentergem/struisvogel.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/struisvogel.jpg" extlink="/nl/eten-drinken/struisvogelboerderij-schobbejaks-hoogte" %}}
 
 Op de [struisvogelboerderij Schobbejaks Hoogte](https://www.westtoer.be/nl/eten-drinken/struisvogelboerderij-schobbejaks-hoogte) in Aarsele kan je tal van specialiteiten kopen op basis van struisvogelbereidingen. Groepen kunnen hier ook een rondleiding krijgen!
 
@@ -70,7 +70,7 @@ Op de [struisvogelboerderij Schobbejaks Hoogte](https://www.westtoer.be/nl/eten-
 
 ### Meikensbossen (50-9)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-tielt-dentergem/meikensbossen.png" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/meikensbossen.png" extlink="https://www.toerisme-leiestreek.be/nl/doen/meikensbossen" %}}
 
 Aan de voet van de Poelberg liggen de groene [Meikensbossen](https://www.toerisme-leiestreek.be/nl/doen/meikensbossen) te lonken. Ga op verkenning langs het mooie Meikensbospad.
 

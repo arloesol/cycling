@@ -1,7 +1,7 @@
 ---
 title: "Gent-Wevelgem in Flanders Fields - 128 km"
 subtitle: "Het parcours van Gent-Wevelgem in Flanders Fields bedwingt de belangrijkste hellingen van de wielerklassieker 'Gent-Wevelgem'"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Het parcours van Gent-Wevelgem in Flanders Fields bedwingt de belangrijkste hellingen van de wielerklassieker 'Gent-Wevelgem'" 
 tags:
   - flanders

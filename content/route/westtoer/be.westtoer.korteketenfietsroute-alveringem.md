@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Alveringem"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Alveringem met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Alveringem met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -38,7 +38,7 @@ Je start aan De Korenhalm, Bampoelstraat 4 in Alveringem, nabij knooppunt 42. Va
 
 ### De Korenhalm
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-alveringem/korenhalm.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/korenhalm.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/de-korenhalm" %}}
 
 Tussen knooppunt 42 en 88 (afwijken bij 42) 
 
@@ -50,7 +50,7 @@ Adres: Bampoelstraat 4, 8690 Alveringem
 
 ### Het Warandehof
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-alveringem/het-warandehof.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/het-warandehof.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/het-warandehof" %}}
 
 Tussen knooppunt 75 en 35 (afwijken bij 75) 
 
@@ -62,7 +62,7 @@ Adres: Elzendammestraat 11, 8691 Gijverinkhove-Alveringem
 
 ### Over Vlees
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-alveringem/over-vlees.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/over-vlees.jpg" %}}
 
 Tussen knooppunt 63 en 97
 
@@ -74,7 +74,7 @@ Adres: Oerenstraat 23, 8690 Alveringem
 
 ### Frambiosa Y Besos
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-alveringem/frambiosa-y-besos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/frambiosa-y-besos.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/frambiosa-y-besos" %}}
 
 Tussen knooppunt 97 en 27
 
@@ -86,7 +86,7 @@ Adres: Gouden-Hoofdstraat tussen 7 & 9, 8630 Beauvoorde
 
 ### Veurn'ambachtse
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-alveringem/veurnambachtse.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/veurnambachtse.jpg" %}}
 
 Tussen knooppunt 67 en 43
 

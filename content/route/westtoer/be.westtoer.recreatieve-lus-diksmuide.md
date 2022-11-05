@@ -1,7 +1,7 @@
 ---
 title: "Recreatieve lus Diksmuide"
 subtitle: "Met deze route fiets je richting Koekelare, waar je o"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Met deze route fiets je richting Koekelare, waar je o" 
 tags:
   - flanders
@@ -40,17 +40,17 @@ Maak kennis met Käthe Kollwitz, haar zoon en haar werk. HIer vind je een verzam
 
 ### Lange Max Museum
 
-{{% imgandtxt url="/routes/page/be.westtoer.recreatieve-lus-diksmuide/lange_max_museum.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/lange_max_museum.jpg" extlink="/nl/doen/lange-max-museum" %}}
 
 HIer kom je alles te weten over de Duitse bezetting en het reusachtig kanon dat Duinkerke beschoot.
 
-[Meer info ](https://www.westtoer.be/nl/doen/lange-max-museum)
+Meer info
 
 {{% /imgandtxt %}}
 
 ### Landschapsbelevingscentrum
 
-{{% imgandtxt url="/routes/page/be.westtoer.recreatieve-lus-diksmuide/landschapsbelevingscentrum.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/landschapsbelevingscentrum.jpg" extlink="/nl/doen/landschapsbelevingscentrum-de-handzamevallei" %}}
 
 Het Landschapsbelevingscentrum is het startpunt voor de verkenning van de Handzamevallei.
 

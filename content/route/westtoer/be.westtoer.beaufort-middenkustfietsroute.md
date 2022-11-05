@@ -5,7 +5,7 @@ subtitle: "Werken Beaufort 21
 Metamorphosis - Oliver Laric
 
 Strand, Flandrialaan, Westende - 51"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Werken Beaufort 21
 
 Metamorphosis - Oliver Laric

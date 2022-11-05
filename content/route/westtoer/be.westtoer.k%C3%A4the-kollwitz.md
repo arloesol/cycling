@@ -3,7 +3,7 @@ title: "Käthe Kollwitz"
 subtitle: "Fietsroute 14-18
 
 Käthe Kollwitz (1867-1945) was een Duitse expressionistische kunstenares"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 Käthe Kollwitz (1867-1945) was een Duitse expressionistische kunstenares" 

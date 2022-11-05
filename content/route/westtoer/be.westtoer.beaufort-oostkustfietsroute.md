@@ -5,7 +5,7 @@ subtitle: "Werken Beaufort 21
 Benjamin - Maen Florin
 
 Bos, Park Leopold II, De Wenduine - 51"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Werken Beaufort 21
 
 Benjamin - Maen Florin

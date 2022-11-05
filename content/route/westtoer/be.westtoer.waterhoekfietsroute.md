@@ -1,7 +1,7 @@
 ---
 title: "Waterhoekfietsroute"
 subtitle: "De Waterhoekfietsroute brengt je naar de Bovenschelde tussen Avelgem en Anzegem"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Waterhoekfietsroute brengt je naar de Bovenschelde tussen Avelgem en Anzegem" 
 tags:
   - flanders

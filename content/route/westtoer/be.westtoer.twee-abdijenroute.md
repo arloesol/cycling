@@ -1,7 +1,7 @@
 ---
 title: "Twee abdijenroute"
 subtitle: "Bij de Twee Abdijenroute staan we even stil bij twee belangrijke sites in Gistel en Oudenburg: abdij Ten Putte en het Romeins Archeologisch Museum met overblijfselen van de Sint-Pietersabdij"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Bij de Twee Abdijenroute staan we even stil bij twee belangrijke sites in Gistel en Oudenburg: abdij Ten Putte en het Romeins Archeologisch Museum met overblijfselen van de Sint-Pietersabdij" 
 tags:
   - flanders
@@ -32,19 +32,19 @@ Je start aan knooppunt 62 in Oudenburg, op het kruispunt van de Abdijlaan en de 
 
 ### Romeins Archeologisch Museum
 
-{{% imgandtxt url="/routes/page/be.westtoer.twee-abdijenroute/romeins-archeologisch-museum_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/romeins-archeologisch-museum_0.jpg" extlink="https://www.westtoer.be/nl/doen/romeins-archeologisch-museum" %}}
 
 Tussen knooppunt 62 en 60.
 
 In Oudenburg trokken de Romeinen het enige Belgische kust-castellum op, wat de plaats tot één van de oudste sites van ons land maakt!
 
-[Meer info ](https://www.westtoer.be/nl/doen/romeins-archeologisch-museum)
+Meer info
 
 {{% /imgandtxt %}}
 
 ### Ter Haeghe
 
-{{% imgandtxt url="/routes/page/be.westtoer.twee-abdijenroute/ter-haeghe.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/ter-haeghe.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/ter-haeghe" %}}
 
 Tussen knooppunt 13 en 63.
 
@@ -56,7 +56,7 @@ Prachtig uitzicht en een verfijnde keuken met de patron altijd aan het fornuis.
 
 ### Oostmolensite
 
-{{% imgandtxt url="/routes/page/be.westtoer.twee-abdijenroute/oostmolensite.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/oostmolensite.jpg" extlink="https://www.westtoer.be/nl/doen/oostmolensite-en-bezoekerscentrum" %}}
 
 Tussen knooppunt 63 en 89.
 
@@ -68,7 +68,7 @@ Een bezoekje aan de molen met bezoekerscentrum is zeker de moeite waard en genie
 
 ### De Molenhoeve
 
-{{% imgandtxt url="/routes/page/be.westtoer.twee-abdijenroute/molenhoeve.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/molenhoeve.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/de-molenhoeve" %}}
 
 Tussen knooppunt 63 en 89.
 
@@ -80,7 +80,7 @@ Op de Oostmolensite, is de oude molenaarswoning omgebouwd tot een culinaire plei
 
 ### Abdij Ten Putte
 
-{{% imgandtxt url="/routes/page/be.westtoer.twee-abdijenroute/abdij-ten-putte.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/abdij-ten-putte.jpg" extlink="https://www.westtoer.be/nl/doen/abdij-ten-putte" %}}
 
 Tussen knooppunt 89 en 76.
 
@@ -92,7 +92,7 @@ De abdij wordt druk bezocht door bedevaarders en toeristen. In een koepelkapel s
 
 ### De Buuzestove
 
-{{% imgandtxt url="/routes/page/be.westtoer.twee-abdijenroute/de-buuzestove.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/de-buuzestove.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/de-buuzestove" %}}
 
 Tussen knooppunt 34 en 30.
 
@@ -104,7 +104,7 @@ Dit bruin café langs de Groene 62 is het lokaal van de schuttersgilde. Het Eern
 
 ### De Roste Muis
 
-{{% imgandtxt url="/routes/page/be.westtoer.twee-abdijenroute/de-roste-muis.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/de-roste-muis.jpg" extlink="https://www.tripadvisor.be/Restaurant_Review-g910617-d7693386-Reviews-Eethuis_De_Roste_Muis-Ichtegem_West_Flanders_Province.html" %}}
 
 Tussen knooppunt 32 en 35.
 
@@ -116,7 +116,7 @@ Gezellig eethuisje met aandacht voor de lokale streekproducten.
 
 ### Natuurreservaat De Hoge Dijken
 
-{{% imgandtxt url="/routes/page/be.westtoer.twee-abdijenroute/de-hoge-dijken.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/de-hoge-dijken.jpg" extlink="https://www.westtoer.be/nl/doen/natuurreservaat-de-hoge-dijken" %}}
 
 Tussen knooppunt 45 en 38.
 
@@ -128,7 +128,7 @@ Kom het gebied ontdekken via het wandelpad rond de plas en observeer de vogels v
 
 ### Romaanse Kerk Ettelgem
 
-{{% imgandtxt url="/routes/page/be.westtoer.twee-abdijenroute/romaanse-kerk.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/romaanse-kerk.jpg" extlink="https://www.westtoer.be/nl/doen/romaanse-kerk-ettelgem" %}}
 
 Tussen knooppunt 38 en 2.
 
@@ -140,7 +140,7 @@ Hier vinden er tentoonstellingen en andere evenementen plaats. Ook een aanrader 
 
 ### Monico
 
-{{% imgandtxt url="/routes/page/be.westtoer.twee-abdijenroute/monico.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/monico.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/monico" %}}
 
 Tussen knooppunt 38 en 2.
 

@@ -3,7 +3,7 @@ title: "Duits hinterland"
 subtitle: "Fietsroute 14-18
 
 De route leidt je door een deel van het voormalige ‘Operationsgebiet’, het gebied net achter het Duitse front met enkele prachtige panoramische vergezichten: de Vredesmolen in Klerken, de kerk van Hooglede en het Panorama Stadenberg"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 De route leidt je door een deel van het voormalige ‘Operationsgebiet’, het gebied net achter het Duitse front met enkele prachtige panoramische vergezichten: de Vredesmolen in Klerken, de kerk van Hooglede en het Panorama Stadenberg" 

@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Rond(je) Oostkamp"
 subtitle: "Ontdek talloze natuurplekjes in Oostkamp en geniet van het fameuze Kasteel van Loppem"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Ontdek talloze natuurplekjes in Oostkamp en geniet van het fameuze Kasteel van Loppem" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Starten kan aan knooppunt 71 (kruispunt Westdijk met Sint-Godelievestraat in Oos
 
 ### Nieuwenhove
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-rondje-oostkamp/lage_resolutie-nieuwenhovebos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lage_resolutie-nieuwenhovebos.jpg" extlink="/nl/doen/domein-nieuwenhovebos" %}}
 
 Nabij 83
 
@@ -46,7 +46,7 @@ Nieuwenhovebos met expeditie Bulskampveld
 
 ### Fruitbos
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-rondje-oostkamp/image00004_-_kopie_0.jpeg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/image00004_-_kopie_0.jpeg" extlink="/nl/eten-drinken/fruitbos" %}}
 
 Tussen 95 en 74
 
@@ -58,7 +58,7 @@ Kleinschalige fruitpluktuin waar je een divers aanbod aan kleinfruit en bloemen 
 
 ### Kijkboerderij Pierlapont
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-rondje-oostkamp/lage_resolutie-gasthof_lophem_0_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lage_resolutie-gasthof_lophem_0_0.jpg" extlink="/nl/doen/kijkboerderij-de-pierlapont" %}}
 
 In de buurt tussen 74 en 10
 
@@ -70,7 +70,7 @@ Kijkboerderij met cafetaria.
 
 ### Pluktuin Landgoed Lisbona
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-rondje-oostkamp/landgoed_lisbona_3.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/landgoed_lisbona_3.jpg" extlink="/nl/doen/landgoed-lisbona" %}}
 
 Even afwijken bij 67
 
@@ -82,7 +82,7 @@ Je hoeft geen grote moestuin of bloementuin te hebben om te genieten van verse g
 
 ### Kasteel Van Loppem
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-rondje-oostkamp/kasteel_loppem8_-_kopie.png" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/campagnes/kasteel_loppem8_-_kopie.png" extlink="/nl/doen/kasteel-van-loppem-0" %}}
 
 Tussen knooppunt 97 en 13
 

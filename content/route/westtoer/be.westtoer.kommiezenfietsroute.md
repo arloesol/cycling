@@ -1,7 +1,7 @@
 ---
 title: "Kommiezenfietsroute"
 subtitle: "De Kommiezenfietsroute langs de Leie balanceert tussen West-Vlaanderen en Noord-Frankrijk"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Kommiezenfietsroute langs de Leie balanceert tussen West-Vlaanderen en Noord-Frankrijk" 
 tags:
   - flanders

@@ -1,7 +1,7 @@
 ---
 title: "(H)eerlijk Heuvelland"
 subtitle: "Deze fietslus voert je door de mooie landschappen en vergezichten en brengt je naar de smakelijkste adressen van Heuvelland: geen grote ketens, maar ondernemers die dagelijks eigenhandig voor de lekkerste producten zorgen"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Deze fietslus voert je door de mooie landschappen en vergezichten en brengt je naar de smakelijkste adressen van Heuvelland: geen grote ketens, maar ondernemers die dagelijks eigenhandig voor de lekkerste producten zorgen" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Deze route start aan Bezoekerscentrum Het Heuvelland, Sint-Laurentiusplein 1, Ke
 
 ### Bakkerij Pauwelyn
 
-{{% imgandtxt url="/routes/page/be.westtoer.heerlijk-heuvelland/bakkerij_pauwelyn.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/bakkerij_pauwelyn.jpg" extlink="/nl/doen/bakkerij-pauwelyn-0" %}}
 
 Gelegen nabij knooppunt 2
 
@@ -46,7 +46,7 @@ Over de middag kan je er ook terecht voor kleine snacks: worstenbroodjes, corque
 
 ### De Hollemeersch
 
-{{% imgandtxt url="/routes/page/be.westtoer.heerlijk-heuvelland/de_hollemeersch_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/de_hollemeersch_0.jpg" extlink="/nl/eten-drinken/de-hollemeersch-0" %}}
 
 Gelegen nabij knooppunt 7
 
@@ -58,11 +58,11 @@ Alleen al het zicht vanop het terras van is een reden om hier even halt te houde
 
 ### Wijngoed Monteberg
 
-{{% imgandtxt url="/routes/page/be.westtoer.heerlijk-heuvelland/wijngoed_monteberg_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/wijngoed_monteberg_0.jpg" extlink="/nl/eten-drinken/wijngoed-monteberg-0" %}}
 
 Gelegen tussen knooppunt 9 & 6
 
-Ideale halte tijdens je fietstocht om op het zonovergoten wijnterras te proeven van hun heerlijke wijnen. In hun winkel vind je ook wijnkaas, wijnpastei en lekkere wijnpralines om thuis nog even na te genieten. 
+Ideale halte tijdens je fietstocht om op het zonovergoten wijnterras te proeven van hun heerlijke wijnen. In hun winkel vind je ook wijnkaas, wijnpastei en lekkere wijnpralines om thuis nog even na te genieten.
 
 [Meer info](https://www.westtoer.be/nl/eten-drinken/wijngoed-monteberg-0)
 
@@ -70,7 +70,7 @@ Ideale halte tijdens je fietstocht om op het zonovergoten wijnterras te proeven 
 
 ### Debs Tea Garden
 
-{{% imgandtxt url="/routes/page/be.westtoer.heerlijk-heuvelland/debs_tea_garden.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/debs_tea_garden.jpg" extlink="/nl/eten-drinken/debs-tea-garden" %}}
 
 Gelegen tussen knooppunt 6 & 57
 
@@ -82,11 +82,11 @@ Bij Debs en Barry geniet je van een authentieke Engelse verwennerij. De geur van
 
 ### Den Heksestoel
 
-{{% imgandtxt url="/routes/page/be.westtoer.heerlijk-heuvelland/den_heksestoel.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/den_heksestoel.jpg" extlink="/nl/eten-drinken/restaurant-den-heksestoel" %}}
 
 Gelegen nabij knooppunt 99
 
-Chef Pieter combineert verfijning en streekkwaliteit in zijn authentieke gerechten zoals ‘Potjesvleesch' in St.Bernardus Triple, rillette met Heuvellandse wijn maar ook in de huisgemaakte charcuterie. 
+Chef Pieter combineert verfijning en streekkwaliteit in zijn authentieke gerechten zoals ‘Potjesvleesch' in St.Bernardus Triple, rillette met Heuvellandse wijn maar ook in de huisgemaakte charcuterie.
 
 [Meer info](https://www.westtoer.be/nl/eten-drinken/restaurant-den-heksestoel)
 
@@ -94,7 +94,7 @@ Chef Pieter combineert verfijning en streekkwaliteit in zijn authentieke gerecht
 
 ### D'hellekapelle
 
-{{% imgandtxt url="/routes/page/be.westtoer.heerlijk-heuvelland/dhellekapelle.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/dhellekapelle.jpg" extlink="/nl/eten-drinken/wijngoed-dhellekapelle" %}}
 
 Gelegen nabij knooppunt 99
 
@@ -106,7 +106,7 @@ Hellekapelle is dialect voor ‘vlinder’. Elke wijn die op het wijngoed wordt 
 
 ### Entre-Deux-Monts
 
-{{% imgandtxt url="/routes/page/be.westtoer.heerlijk-heuvelland/entre_deux_monts_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/entre_deux_monts_0.jpg" extlink="/nl/eten-drinken/wijndomein-entre-deux-monts" %}}
 
 Gelegen tussen knooppunt 99 & 98
 
@@ -118,7 +118,7 @@ Schrijf je in voor de ‘bezoek & proef’- formule en ontdek het volledige verh
 
 ### In De Zwaan
 
-{{% imgandtxt url="/routes/page/be.westtoer.heerlijk-heuvelland/in_de_zwaan_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/in_de_zwaan_0.jpg" extlink="/nl/eten-drinken/eetcaf%C3%A9-de-zwaan" %}}
 
 Gelegen tussen knooppunt 98 & 18
 
@@ -130,11 +130,11 @@ Geniet van een lekker aperitief met bijhorende apéro-plank belegd met hapjes ui
 
 ### De Kinderbrouwerij
 
-{{% imgandtxt url="/routes/page/be.westtoer.heerlijk-heuvelland/de_kinderbrouwerij_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_kinderbrouwerij_1.jpg" extlink="/nl/doen/de-kinderbrouwerij" %}}
 
 Gelegen tussen knooppunt 96 & 97
 
-In de familiekroeg kan je volksspelen, bordspelletjes en gezelschapsspelletjes spelen binnen of op de koer. Ze serveren er biologische huisbieren Rookop en Keikoppenbier, biologische tuinsappen en lekkere hoeveproducten voor jong en oud. 
+In de familiekroeg kan je volksspelen, bordspelletjes en gezelschapsspelletjes spelen binnen of op de koer. Ze serveren er biologische huisbieren Rookop en Keikoppenbier, biologische tuinsappen en lekkere hoeveproducten voor jong en oud.
 
 [Meer info](https://www.westtoer.be/nl/doen/de-kinderbrouwerij)
 
@@ -142,7 +142,7 @@ In de familiekroeg kan je volksspelen, bordspelletjes en gezelschapsspelletjes s
 
 ### Atelier Hortense
 
-{{% imgandtxt url="/routes/page/be.westtoer.heerlijk-heuvelland/atelier_hortense_7.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/atelier_hortense_7.jpg" extlink="/nl/eten-drinken/atelier-hortense" %}}
 
 Gelegen nabij knooppunt 96
 

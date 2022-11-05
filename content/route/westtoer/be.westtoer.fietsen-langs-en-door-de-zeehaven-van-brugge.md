@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs en door de Zeehaven van Brugge"
 subtitle: "Een robuuste zeehaven, een rustgevende strandomgeving en een snuifje vissersnostalgie vormen het scenario voor deze fietstocht"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Een robuuste zeehaven, een rustgevende strandomgeving en een snuifje vissersnostalgie vormen het scenario voor deze fietstocht" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Starten kan je ter hoogte van knooppunt 33.
 
 ### Fonteintjes
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-en-door-de-zeehaven-van-brugge/blankenberge_fonteintjes.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/blankenberge_fonteintjes.jpg" %}}
 
 De Fonteintjes zijn deels kunstmatige, deels natuurlijks duinplassen, duinrietlanden en duinstruwelen langs een 4 km lange strook tussen de duinengordel en de kuststrook van Zeebrugge tot Blankenberge. De Fonteintjes hebben een zeer rijke vegetatie met orchideeën.
 
@@ -40,7 +40,7 @@ De Fonteintjes zijn deels kunstmatige, deels natuurlijks duinplassen, duinrietla
 
 ### Zeebos
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-en-door-de-zeehaven-van-brugge/zeebos.png" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/zeebos.png" %}}
 
 Dit domein is vooral een wandelbos en een heerlijke plek om van de natuur en het landschap te genieten. De aparte fauna en flora fungeren als prachtig decor tijdens een rustige wandeling.
 
@@ -48,7 +48,7 @@ Dit domein is vooral een wandelbos en een heerlijke plek om van de natuur en het
 
 ### Ter Doest
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-en-door-de-zeehaven-van-brugge/doest.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/doest.jpg" %}}
 
 De site Ter Doest is een leuke tussenhalte op een fietstocht naar Lissewege en de Polderstreek. Zijn unieke 13de-eeuwse abdijschuur is meer dan een bezoekje waard. Daar waar ooit de abdij stond, vind je vandaag een restaurant en hotel.
 
@@ -56,7 +56,7 @@ De site Ter Doest is een leuke tussenhalte op een fietstocht naar Lissewege en d
 
 ### Haven Zeebrugge
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-en-door-de-zeehaven-van-brugge/haven_zeebrugge.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/haven_zeebrugge.jpg" %}}
 
 De haven van Zeebrugge is een wereld op zich. Een wereld diegroot en kleine intrigeert en die je absoluut eens moet ontdekken. Maak een rondvaart per boot of een rit met de bus en je ontdekt hoe boeiend deze haven is.
 
@@ -64,7 +64,7 @@ De haven van Zeebrugge is een wereld op zich. Een wereld diegroot en kleine intr
 
 ### Seafront
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-en-door-de-zeehaven-van-brugge/seafront.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/seafront.jpg" %}}
 
 Seafront leert je de zee kennen in al haar facetten. Je maakt kennis met de wereld onder water en met de geschiedenis van de Kust en dan vooral Zeebrugge en de haven. De voormalige Russische duikboot Foxtrot en het lichtschip Westhinder zijn zeker een bezoekje waard.
 
@@ -72,7 +72,7 @@ Seafront leert je de zee kennen in al haar facetten. Je maakt kennis met de were
 
 ### 'T Werftje
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-en-door-de-zeehaven-van-brugge/zeebrugge_werftje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/zeebrugge_werftje.jpg" %}}
 
 Hier kom je niet alleen voor de no-nonsense ambiance, maar ook om wat garnalen te eten bij je pintje, een garnaalkroketje te verorberen of wat vissoep binnen te lepelen.
 
@@ -80,7 +80,7 @@ Hier kom je niet alleen voor de no-nonsense ambiance, maar ook om wat garnalen t
 
 ### Windmolens
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-en-door-de-zeehaven-van-brugge/windmolens.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/windmolens.jpg" %}}
 
 Scheep in en bezoek het imposante windmolenpark voor de kust van Zeebrugge.
 
@@ -88,7 +88,7 @@ Scheep in en bezoek het imposante windmolenpark voor de kust van Zeebrugge.
 
 ### Verse Vis
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-en-door-de-zeehaven-van-brugge/zeebrugge_visschotel.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/zeebrugge_visschotel.jpg" %}}
 
 Uit de zee op je bord. Vroeg in de ochtend komen de vissers hun vangst slijten. Ga eens een kijkje nemen in de viswinkels van Zeebrugge.
 
@@ -98,7 +98,7 @@ En genieten ook even van zee en strand op een terrasje op de zeedijk van Zeebrug
 
 ### Nostalgie Troef
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-en-door-de-zeehaven-van-brugge/keysplein.png" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/keysplein.png" %}}
 
 Het cirkelvormige Admiraal Keyesplein charmeert met haar 113 werkmanshuisjes en het Beaufortkunstwerk van Stefan Sous. Sanssouci, zo heten zijn in elkaar verweven caravans die het plein sieren. Kunst versus arbeidshistorie, een bijzondere combinatie.
 

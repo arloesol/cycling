@@ -1,7 +1,7 @@
 ---
 title: "Pittige Ronde van de Westhoek"
 subtitle: "Het West-Vlaamse Heuvelland noemen wij al lachend 'De Bergen', ook al is de hoogste 'berg' ongeveer 154 meter hoog"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Het West-Vlaamse Heuvelland noemen wij al lachend 'De Bergen', ook al is de hoogste 'berg' ongeveer 154 meter hoog" 
 tags:
   - flanders

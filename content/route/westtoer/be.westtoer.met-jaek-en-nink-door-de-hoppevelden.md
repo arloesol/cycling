@@ -1,7 +1,7 @@
 ---
 title: "Met Jaek en Nink door de hoppevelden"
 subtitle: "Deze route brengt je langs landelijke wegen, door het mooie hoppelandschap van Poperinge en Vleteren"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Deze route brengt je langs landelijke wegen, door het mooie hoppelandschap van Poperinge en Vleteren" 
 tags:
   - flanders

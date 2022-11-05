@@ -1,7 +1,7 @@
 ---
 title: "IJzerbroekenfietsroute"
 subtitle: "De route loopt door het waterrijke landschap van de IJzerbroeken, op de grens van de polders en de zandleemstreek"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De route loopt door het waterrijke landschap van de IJzerbroeken, op de grens van de polders en de zandleemstreek" 
 tags:
   - flanders

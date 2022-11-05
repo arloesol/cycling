@@ -1,7 +1,7 @@
 ---
 title: "Recreatieve lus Ieper"
 subtitle: "Met deze route fiets je richting Wervik, waar je even kan uitblazen in recratiedomein De Balokken of een bezoekje kan brengen aan het Nationaal Tabaksmuseum"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Met deze route fiets je richting Wervik, waar je even kan uitblazen in recratiedomein De Balokken of een bezoekje kan brengen aan het Nationaal Tabaksmuseum" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Lakenhalle, Grote Markt 34, 8900 Ieper
 
 ### In Flanders Fields Museum
 
-{{% imgandtxt url="/routes/page/be.westtoer.recreatieve-lus-ieper/in_flanders_fields_museum.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/in_flanders_fields_museum.jpg" extlink="/nl/doen/flanders-fields-museum" %}}
 
 De museumindeling geeft je aan hand van nieuwe invalshoeken en persoonlijke verhalen een inleiding op het verhaal van de Eerste Wereldoorlog.
 
@@ -42,7 +42,7 @@ De museumindeling geeft je aan hand van nieuwe invalshoeken en persoonlijke verh
 
 ### Recreatie-Eiland De Balokken
 
-{{% imgandtxt url="/routes/page/be.westtoer.recreatieve-lus-ieper/de_balokken.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_balokken.jpg" extlink="/nl/doen/de-balokken" %}}
 
 De ideale plaats om te genieten van een heerlijk drankje op een terras in de weide natuur.
 
@@ -52,7 +52,7 @@ De ideale plaats om te genieten van een heerlijk drankje op een terras in de wei
 
 ### The Bluff
 
-{{% imgandtxt url="/routes/page/be.westtoer.recreatieve-lus-ieper/instappunt_zuid.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/flanders_fields/doen/instappunt_zuid.jpg" extlink="http://www.flandersfields.be/nl/doen/bluff" %}}
 
 Dit instappunt vormt de toegangspoort tot het unieke oorlogslandschap 'The Bluff', het Molenbos, de beroemde site Hill 60, de kratersite Caterpillar en omgeving.
 

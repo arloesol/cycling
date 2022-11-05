@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Oostduinkerke"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Oostduinkerke met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Oostduinkerke met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -38,11 +38,11 @@ Je start aan de Rozenwingerd, Hof Ter Hillestraat 1 in Oostduinkerke, aan knoopp
 
 ### Rozenwingerd
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-oostduinkerke/rozewingerd.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/rozewingerd.jpg" %}}
 
 Tussen knooppunt 98 en 66 (afwijken van route)
 
-Rozenwingerd is een voorziening voor personen met een verstandelijke beperking. In de ateliers van Rozenwingerd maken ze huisgemaakte picon, limoncello, kruidenzout, viskruiden, choco, advocaat, confituren, koekjes en desserts. 
+Rozenwingerd is een voorziening voor personen met een verstandelijke beperking. In de ateliers van Rozenwingerd maken ze huisgemaakte picon, limoncello, kruidenzout, viskruiden, choco, advocaat, confituren, koekjes en desserts.
 
 Adres: Hof Ter Hillestraat 1, 8670 Oostduinkerke
 
@@ -50,11 +50,11 @@ Adres: Hof Ter Hillestraat 1, 8670 Oostduinkerke
 
 ### Hoeveterras Conterdijk
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-oostduinkerke/hoeveterras-conterdijk.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/hoeveterras-conterdijk.jpg" %}}
 
 Tussen knooppunt 6 en 86
 
-Hoeveterras Conterdijk is een zonnig terras met een open en overdekt gedeelte, een lounge zetel, tafels voor grote en kleine families en twee grote picknickbanken. Bovendien verkopen ze er advocaat, limoncello en confituur “op authentieke wijze bereid met smaken uit de kindertijd”. 
+Hoeveterras Conterdijk is een zonnig terras met een open en overdekt gedeelte, een lounge zetel, tafels voor grote en kleine families en twee grote picknickbanken. Bovendien verkopen ze er advocaat, limoncello en confituur “op authentieke wijze bereid met smaken uit de kindertijd”.
 
 Adres: Conterdijk 3, 8670 Wulpen
 
@@ -62,7 +62,7 @@ Adres: Conterdijk 3, 8670 Wulpen
 
 ### Hoevewinkel Marijke
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-oostduinkerke/hoevewinkel-marijke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/hoevewinkel-marijke.jpg" %}}
 
 Tussen knooppunt 63 en 97 (afwijken van route)
 
@@ -74,7 +74,7 @@ Adres: Nieuwpoortsesteenweg 152, 8670 Koksijde
 
 ### Schuifdamhoeve Bij Boer Bart
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-oostduinkerke/schuifdamhoeve.jpeg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/schuifdamhoeve.jpeg" extlink="https://www.westtoer.be/nl/eten-drinken/schuifdamhoeve" %}}
 
 Tussen knooppunt 90 en 89
 

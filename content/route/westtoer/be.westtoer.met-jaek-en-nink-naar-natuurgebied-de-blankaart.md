@@ -1,7 +1,7 @@
 ---
 title: "Met Jaek en Nink naar natuurgebied De Blankaart"
 subtitle: "De route vertrekt op de Grote Markt in Diksmuide voor een gezellig namiddagje uit naar het natuurdomein De Blankaart of omgekeerd"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De route vertrekt op de Grote Markt in Diksmuide voor een gezellig namiddagje uit naar het natuurdomein De Blankaart of omgekeerd" 
 tags:
   - flanders
@@ -34,23 +34,23 @@ Grote Markt, 8600 Diksmuide - Bezoekerscentrum De Blankaart, Iepersesteenweg 56,
 
 ### 'T Madeliefje
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-naar-natuurgebied-de-blankaart/t_madeliefje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/t_madeliefje.jpg" %}}
 
-'t Madeliefje is een actief landbouwbedrijf met ijssalon. Om even te verpozen van het fietsen kan je op de binnenkoer en op het zonneterras in alle rust genieten van het heerlijk ambachtelijk hoeve-ijs. 
+'t Madeliefje is een actief landbouwbedrijf met ijssalon. Om even te verpozen van het fietsen kan je op de binnenkoer en op het zonneterras in alle rust genieten van het heerlijk ambachtelijk hoeve-ijs.
 
 {{% /imgandtxt %}}
 
 ### 'T Hof Van De Rhille
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-naar-natuurgebied-de-blankaart/hof_van_de_rhille.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/hof_van_de_rhille.jpg" %}}
 
-Deze boerderij is een gespecialiseerd melkveebedrijf dat wordt uitgebaat door 2 families. In de hoevewinkel vind je tal van zuivelproducten gemaakt op de boerderij (hoeveboter, karnemelk, rijstpap, chocomousse, pudding,...). 
+Deze boerderij is een gespecialiseerd melkveebedrijf dat wordt uitgebaat door 2 families. In de hoevewinkel vind je tal van zuivelproducten gemaakt op de boerderij (hoeveboter, karnemelk, rijstpap, chocomousse, pudding,...).
 
 {{% /imgandtxt %}}
 
 ### Natuurgebied De Blankaart
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-naar-natuurgebied-de-blankaart/de_blankaart_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_blankaart_0.jpg" %}}
 
 Dit erkend natuurgebied met zijn kasteelpark dat in de vorige eeuw werd aangelegd is zeker een bezoekje waard. Om vogels te spottten hou je halt aan een van de vogelkijkhutten.
 

@@ -1,7 +1,7 @@
 ---
 title: "Kriereroute"
 subtitle: "De Kriereroute is een mountainbikeroute die je door Avelgem en Zwevegem brengt"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Kriereroute is een mountainbikeroute die je door Avelgem en Zwevegem brengt" 
 tags:
   - flanders

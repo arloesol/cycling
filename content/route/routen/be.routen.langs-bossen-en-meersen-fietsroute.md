@@ -24,17 +24,17 @@ Vertrekkend in het idyllische Munte fiets je in dit stukje bloeiend Oost-Vlaande
 
 ### MUNTE
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-09/preview_Merelbeke_Munte-4.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-09/preview_Merelbeke_Munte-4.jpg" %}}
 KNOOPPUNT 84
 
 Munte – inwoners: 700 – dankt zijn naam aan het Latijnse ‘montem’ (berg) en verwijst naar de heuvelrug waarop dit charmante kouterdorpje in Scheldeland ligt. De Sint-Bonifasiuskerk ligt op het hoogste punt van de regio (55 meter) en dankt zijn roem aan het relikwie van Sint-Apollonia of ‘Sinte Plonne’, de patrones tegen tandpijn. Samen met de kerk maken de twee huisjes links deel uit van het geklasseerde dorpsgezicht. Vlakbij staat het kasteel Ter Zinkt, een echte middeleeuws slot met een kilometerlange dreef.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bistro Oud Munte 
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-01/Munte%20Afspanning%20Oud%20Munte.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-01/Munte%20Afspanning%20Oud%20Munte.jpg" %}}
 Bistro Oud Munte was jarenlang een typisch dorpscafé tegenover de kerk, een afspanning waar paard, ruiter, wandelaar en fietser hun dorst konden lessen. Vandaag is het een gezellig restaurant dat de Frans-Belgische keuken zonder poespas serveert.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Linde
 
@@ -44,11 +44,11 @@ Aan de kerk van Bottelare vind je De Linde. In dit gezellige eetcafé kan je ter
 
 ### PROVINCIAAL DOMEIN GENTBOS
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Gentbos%20Bottelare%205%20-%20Inge%20Van%20den%20Heuvel.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Gentbos%20Bottelare%205%20-%20Inge%20Van%20den%20Heuvel.jpg" %}}
 KNOOPPUNT 82
 
 Het Gentbos, 22 hectare groot en sinds 1990 eigendom van het Oost-Vlaamse provinciebestuur, is een van de relatief weinige bossen die in Vlaanderen natuurlijk worden beheerd. Natuurlijk beheerde bossen vertonen een aantal typische kenmerken die je niet terugvindt in bossen met een meer productiegericht beheer, zoals grazige open plekken, de aanwezigheid van dood hout en een boszoom. Het gebied verrast met een grote dieren- en plantenrijkdom: hier huizen zo’n 50 vogelsoorten en kruist met wat geluk nog een rode eekhoorn je pad. In de lente bloeien aan de rand bosanemoon, muskuskruid en slanke sleutelbloem weelderig. Een stop – en een klein ommetje – waard!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### AUDIOZUIL MELLE
 
@@ -58,11 +58,11 @@ Benieuwd naar het sierteeltverleden van deze streek? Stap dan zeker even af aan 
 
 ### KINDERBOERDERIJ DE VIERHOEKHOEVE 
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Speeltuin%2B%25282%2529.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Speeltuin%2B%25282%2529.jpg" %}}
 KNOOPPUNT 75-76
 
 De landbouw dichter bij de mensen brengen: dat is de missie van De Vierhoekhoeve, behalve een familiaal landbouwbedrijf ook een kaasmakerij, een hoevewinkel én een leuke plek waar je kroost tijdens vakanties op boerderijkamp kan. De kinderboerderij en het terras zijn tijdelijk gesloten voor toevallige passanten, maar je kan ze wel nog altijd reserveren voor verjaardagsfeestjes en groepsbezoeken.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### AUDIOZUIL OOSTERZELE
 
@@ -72,11 +72,11 @@ Uitgestrekte bomenvelden kenmerken het landschap van Oosterzele. Begin 1900 dook
 
 ### STOKERIJ VAN DAMME 
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Stokerij%20pers%20LR-2.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Stokerij%20pers%20LR-2.jpg" %}}
 KNOOPPUNT 96
 
 Aan knooppunt 96 vind je Stokerij Van Damme, de laatste warme stokerij van de Benelux waar ze al sinds 1862 de bekende Balegemse jenever stoken. Hun vijf variëteiten – de gelauwerde O’de Flandre, de jonge graanjenever, de oude karaktervolle graanjenever en de citroen- en kriekjenevers – worden niet alleen gestookt maar ook versneden op de boerderij met enkel de beste ingrediënten van eigen bodem. De vierkantshoeve huisvest ook 250 runderen, een B&B met zes kamers, een gezellig koffiehuis en een leuke jeneverbalie.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### IJSSALON JOOSTI'S
 

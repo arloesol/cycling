@@ -1,7 +1,7 @@
 ---
 title: "Paters en hertoginnen vanuit Kuurne"
 subtitle: "Beleef 38 km fietsplezier tussen brouwerij De Brabandere in Bavikhove en brouwerij Verhaeghe in Vichte"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Beleef 38 km fietsplezier tussen brouwerij De Brabandere in Bavikhove en brouwerij Verhaeghe in Vichte" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Je kan parkeren op de parking in de Lt.-Gen. Gérardstraat in Kuurne. Volg vanaf
 
 ### De Groene Long
 
-{{% imgandtxt url="/routes/page/be.westtoer.paters-en-hertoginnen-vanuit-kuurne/de-groene-long.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/de-groene-long.jpg" extlink="https://www.westtoer.be/nl/doen/de-groene-long" %}}
 
 Tussen knooppunt 67 en 86.
 
@@ -44,7 +44,7 @@ De Groene Long is een educatief natuurontwikkelingspark.
 
 ### Brouwerij De Brabandere
 
-{{% imgandtxt url="/routes/page/be.westtoer.paters-en-hertoginnen-vanuit-kuurne/brouwerij-de-brabandere.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/brouwerij-de-brabandere.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/brouwerij-de-brabandere" %}}
 
 Tussen knooppunt 67 en 86.
 
@@ -56,7 +56,7 @@ De brouwerij produceert een rijkelijk assortiment van bieren en frisdranken: o.a
 
 ### De Zavelput
 
-{{% imgandtxt url="/routes/page/be.westtoer.paters-en-hertoginnen-vanuit-kuurne/zavelput_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/zavelput_0.jpg" extlink="https://www.westtoer.be/nl/doen/zavelput" %}}
 
 Tussen knooppunt 60 en 9.
 
@@ -68,7 +68,7 @@ De Zavelput is een oude zandgroeve die nu beheerd wordt als natuurgebied.
 
 ### Brouwerij 'T Gaverhopke
 
-{{% imgandtxt url="/routes/page/be.westtoer.paters-en-hertoginnen-vanuit-kuurne/brouwerij-t-gaverhopke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/brouwerij-t-gaverhopke.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/ambachtelijke-brouwerij-t-gaverhopke" %}}
 
 Tussen knooppunt 72 en 94.
 
@@ -80,7 +80,7 @@ Hier worden de 'Gaverhopkes', met liefde voor de brouwkunst, op ambachtelijke wi
 
 ### Brouwerij Verhaeghe
 
-{{% imgandtxt url="/routes/page/be.westtoer.paters-en-hertoginnen-vanuit-kuurne/brouwerij-verhaeghe.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/brouwerij-verhaeghe.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/brouwerij-verhaeghe" %}}
 
 Tussen knooppunt 14 en 65.
 
@@ -92,7 +92,7 @@ De brouwerij maakt enkele uitstekende bieren zoals het roodbruin pareltje Duches
 
 ### Museum René De Clercq
 
-{{% imgandtxt url="/routes/page/be.westtoer.paters-en-hertoginnen-vanuit-kuurne/museum-rene-de-clercq_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/museum-rene-de-clercq_0.jpg" extlink="https://www.westtoer.be/nl/doen/museum-ren%C3%A9-de-clercq" %}}
 
 Tussen knooppunt 52 en 56.
 
@@ -104,7 +104,7 @@ Het museum is gevestigd in het oudste huisje van Deerlijk dat nu beschermd en ge
 
 ### Koutermolen
 
-{{% imgandtxt url="/routes/page/be.westtoer.paters-en-hertoginnen-vanuit-kuurne/koutermolen-harelbeke_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/koutermolen-harelbeke_0.jpg" extlink="https://www.westtoer.be/nl/doen/koutermolen" %}}
 
 Tussen knooppunt 45 en 44.
 
@@ -116,7 +116,7 @@ De Koutermolen, een houten graanmolen uit het einde van de 18de eeuw, kan je bez
 
 ### De Gavers
 
-{{% imgandtxt url="/routes/page/be.westtoer.paters-en-hertoginnen-vanuit-kuurne/de-gavers_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/de-gavers_0.jpg" extlink="/nl/doen/provinciaal-recreatie-en-natuurcentrum-de-gavers" %}}
 
 Tussen knooppunt 45 en 44.
 

@@ -3,7 +3,7 @@ title: "Ieperboog"
 subtitle: "Fietsroute 14-18
 
 De Ieperboog ontstond eind oktober 1914"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 De Ieperboog ontstond eind oktober 1914" 

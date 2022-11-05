@@ -1,7 +1,7 @@
 ---
 title: "Bedevaartfietsroute"
 subtitle: "Tussen Roeselare en Menen herinneren heel wat religieuze elementen aan de godsdienstige devotie van de plaatselijke bevolking"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Tussen Roeselare en Menen herinneren heel wat religieuze elementen aan de godsdienstige devotie van de plaatselijke bevolking" 
 tags:
   - flanders

@@ -30,9 +30,9 @@ Het startknooppunt 52 ligt aan het brugje tussen de straten Vissersdijk en Aan D
 
 ### Kasteel Grand Noble en Parkbos
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Fietsvakanties_Vlaanderen_TOV_Parkbos_Sint_Denijs_Westrem-14.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Fietsvakanties_Vlaanderen_TOV_Parkbos_Sint_Denijs_Westrem-14.jpg" %}}
 Naast het kasteel zelf beschikt het domein ook over een aangelegd park met bijhorende vijver, koetshuizen en hovenierswoning. Vroeger was dit privaat terrein, maar nu kun je er in wandelen en – achter het kasteel – zelfs picknicken aan een nieuwe picknicktafel. Bruggetjes en knuppelpaden in de natte zones dragen bij aan de sprookjessfeer.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Hospicebossen
 
@@ -40,15 +40,15 @@ De 58 hectare grote Hospicebossen - ook de Nazarethse bossen genoemd - staan bek
 
 ### ‘t OUD SASHUIS 
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/Astene%20sas%201%20TOV.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/Astene%20sas%201%20TOV.jpg" %}}
 In 't Oud Sashuis, een scheepscafé met museumpje, les je je dorst met een Schobiakbier en stil je je honger met een ‘plankske van het huis’. Voor de ambiance zorgen uitbater/sasmeester Wim en huispapegaai Boris. Heerlijk terras aan het water!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Kasteel Ooidonk
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/KasteelOoidonk.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/KasteelOoidonk.jpg" %}}
 Het renaissancekasteel Ooidonk, een van de parels in de regio, straalt met zijn indrukwekkende torens en trapgevels pure klasse uit. Het is privaat eigendom en niet altijd te bezoeken – check data en uren op de website! – maar de mooi onderhouden tuinen zijn wel elke dag publiek toegankelijk (behalve op maandag en dinsdagvoormiddag).
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Museum Dhondt-Dhaenens
 
@@ -68,9 +68,9 @@ Van de hippiecommune en de oude LIMA frabriek (nu een kunstgalerij) is hier vand
 
 ### Latem dorp
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Fietsvakanties_Vlaanderen_TOV_Sint_Martens_Latem-19.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Fietsvakanties_Vlaanderen_TOV_Sint_Martens_Latem-19.jpg" %}}
 Latem Dorp, hét kunstenaarsdorp van de Oost-Vlaamse Leiestreek, is een schilderij op zich. Heel wat schilders vereeuwigden ruim een eeuw geleden de herkenbare dubbele Leiebocht en de twee karakteristieke hoeves bij de Sint-Martinuskerk. Eén van de hoeves is het Tempelhof, dat sinds de 12de eeuw eigendom was van de Gentse Sint-Pietersabdij. Op het kerkhof van Latem vonden onder meer Albijn Van den Abeele en George Minne hun laatste rustplaats.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Oude Abdij
 

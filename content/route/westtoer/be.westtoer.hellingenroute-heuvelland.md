@@ -1,7 +1,7 @@
 ---
 title: "Hellingenroute Heuvelland"
 subtitle: "Heuvelland is een ideaal trainingsgebied voor een tocht door het Europees hooggebergte"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Heuvelland is een ideaal trainingsgebied voor een tocht door het Europees hooggebergte" 
 tags:
   - flanders

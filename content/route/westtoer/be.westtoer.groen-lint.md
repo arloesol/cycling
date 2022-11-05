@@ -1,7 +1,7 @@
 ---
 title: "Groen Lint Oostende"
 subtitle: "Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buitenrand van Oostende laat ontdekken"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buitenrand van Oostende laat ontdekken" 
 tags:
   - flanders
@@ -28,7 +28,7 @@ Provinciedomein Raversyde, Nieuwpoortsesteenweg 636, 8400 Oostende - Romeins Arc
 
 ### Provinciedomein Raversyde
 
-{{% imgandtxt url="/routes/page/be.westtoer.groen-lint/domein_raversyde.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/domein_raversyde.jpg" %}}
 
 Met Walraversijde (middeleeuws vissersdorp) Atlantikwall (wandel door twee wereldoorlogen in bunkers en loopgraven) en Natuurpark (50 ha).
 
@@ -36,7 +36,7 @@ Met Walraversijde (middeleeuws vissersdorp) Atlantikwall (wandel door twee werel
 
 ### De Lange Schuur
 
-{{% imgandtxt url="/routes/page/be.westtoer.groen-lint/geitje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/geitje.jpg" %}}
 
 Kinderboerderij met hoge aaibaarheidsfactor. Marietje de pony, Marouane de ezel en Dina de koe verwachten je!
 
@@ -44,7 +44,7 @@ Kinderboerderij met hoge aaibaarheidsfactor. Marietje de pony, Marouane de ezel 
 
 ### Sluizencomplex Plassendale
 
-{{% imgandtxt url="/routes/page/be.westtoer.groen-lint/sluizencomplex_plassendale_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/sluizencomplex_plassendale_0.jpg" %}}
 
 Dit beschermde uitzicht is een oase van rust en een ideale stop om er een hapje te eten.
 
@@ -52,7 +52,7 @@ Dit beschermde uitzicht is een oase van rust en een ideale stop om er een hapje 
 
 ### Overzetbootje Veerboot
 
-{{% imgandtxt url="/routes/page/be.westtoer.groen-lint/overzet_met_veerboot_oostende.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/overzet_met_veerboot_oostende.jpg" %}}
 
 Gratis overzet van de Oosteroever (Maritiem Plein) naar het centrum van Oostende (Visserskaai ter hoogte van Noordzeeaquarium)
 
@@ -60,7 +60,7 @@ Gratis overzet van de Oosteroever (Maritiem Plein) naar het centrum van Oostende
 
 ### Strand Oostende
 
-{{% imgandtxt url="/routes/page/be.westtoer.groen-lint/strand_oostende.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/strand_oostende.jpg" %}}
 
 Heerlijk genieten op het strand van Oostende! Wat moet een mens nog meer?
 

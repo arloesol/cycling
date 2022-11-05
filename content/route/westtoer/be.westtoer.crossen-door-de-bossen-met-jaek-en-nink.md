@@ -1,7 +1,7 @@
 ---
 title: "Crossen door de bossen met Jaek en Nink"
 subtitle: "Voor deze route kan je vertrekken aan de Dienst voor Toerisme in Ieper (Grote Markt) of aan de Dienst voor Toerisme in Zonnebeke (Berten Pilstraat 5A)"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Voor deze route kan je vertrekken aan de Dienst voor Toerisme in Ieper (Grote Markt) of aan de Dienst voor Toerisme in Zonnebeke (Berten Pilstraat 5A)" 
 tags:
   - flanders
@@ -28,7 +28,7 @@ De Grote Markt, Grote Markt 34, 8900 Ieper - Toeristische Dienst, Berten Pilstra
 
 ### Kasteeldomein Zonnebeke
 
-{{% imgandtxt url="/routes/page/be.westtoer.crossen-door-de-bossen-met-jaek-en-nink/kasteeldomein_zonnebeke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/kasteeldomein_zonnebeke.jpg" %}}
 
 De kleine bengels kunnen volop ravotten op de kleine speeltuin of in de speelzone terwijl de ouders genieten van een verkwikkende stop op het terras van het restaurant/tearoom Koklikoo.
 
@@ -36,15 +36,15 @@ De kleine bengels kunnen volop ravotten op de kleine speeltuin of in de speelzon
 
 ### Polygoonbos
 
-{{% imgandtxt url="/routes/page/be.westtoer.crossen-door-de-bossen-met-jaek-en-nink/polygoonbos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/polygoonbos.jpg" %}}
 
-Kinderen kunnen ravotten in de speelzone en je kan er heel wat dieren spotten. Aan de overkant van de straat ligt het kleinere Polygon Wood Cemetery. 
+Kinderen kunnen ravotten in de speelzone en je kan er heel wat dieren spotten. Aan de overkant van de straat ligt het kleinere Polygon Wood Cemetery.
 
 {{% /imgandtxt %}}
 
 ### De Dreve
 
-{{% imgandtxt url="/routes/page/be.westtoer.crossen-door-de-bossen-met-jaek-en-nink/de_dreve.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/de_dreve.jpg" %}}
 
 Eventjes de dorst lessen of genieten van huisgemaakte pannenkoeken, een spaghetti of een croque. Buiten kunnen de kinderen zich uitleven in de tuin.
 
@@ -52,7 +52,7 @@ Eventjes de dorst lessen of genieten van huisgemaakte pannenkoeken, een spaghett
 
 ### 'T Nonnebos
 
-{{% imgandtxt url="/routes/page/be.westtoer.crossen-door-de-bossen-met-jaek-en-nink/t_nonnebos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/t_nonnebos.jpg" %}}
 
 Gezelligheid troef in een Oostenrijks kader met een ruime binnen- en buitenspeeltuin en een aangepaste kinderkaart.
 
@@ -60,7 +60,7 @@ Gezelligheid troef in een Oostenrijks kader met een ruime binnen- en buitenspeel
 
 ### Provinciedomein De Palingbeek
 
-{{% imgandtxt url="/routes/page/be.westtoer.crossen-door-de-bossen-met-jaek-en-nink/de_palingbeek_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_palingbeek_0.jpg" %}}
 
 Poelen en moerassen, oud en jong bos, boomgaarden en bloemrijke graslanden, ligweiden of een speeplein wisselen elkaar af.
 
@@ -68,16 +68,16 @@ Poelen en moerassen, oud en jong bos, boomgaarden en bloemrijke graslanden, ligw
 
 ### The Bluff
 
-{{% imgandtxt url="/routes/page/be.westtoer.crossen-door-de-bossen-met-jaek-en-nink/the_bluff.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/flanders_fields/doen/the_bluff.jpg" %}}
 
-Hier zie je een film over de ondergrondse oorlog. De opeenvolging van ontploffingen van mijnen zorgen voor het oneffen landschap op deze plaats dat je via het houten pad kan bewandelen. 
+Hier zie je een film over de ondergrondse oorlog. De opeenvolging van ontploffingen van mijnen zorgen voor het oneffen landschap op deze plaats dat je via het houten pad kan bewandelen.
 
 {{% /imgandtxt %}}
 
 ### Zillebekevijver - Brasserie Vijverhuis
 
-{{% imgandtxt url="/routes/page/be.westtoer.crossen-door-de-bossen-met-jaek-en-nink/zillebekevijver.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/zillebekevijver.jpg" %}}
 
-Lekker lunch 's middags of heerlijke pannenkoeken, wafels en ijsjes in de namiddag, met een prachtig zicht op Zillebekevijver. 
+Lekker lunch 's middags of heerlijke pannenkoeken, wafels en ijsjes in de namiddag, met een prachtig zicht op Zillebekevijver.
 
 {{% /imgandtxt %}}

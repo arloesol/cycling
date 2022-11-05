@@ -32,530 +32,530 @@ RIEMST
 
 ### De Grotten van Kanne
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Grotten%20van%20Kanne_23A3_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/de-grotten-van-kanne" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Grotten%20van%20Kanne_23A3_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/de-grotten-van-kanne" %}}
 De Grotten van Kanne vzw biedt je een unieke rondleiding in de groeve aan over een afstand van maar liefst ruim anderhalve km. Zo krijg je een goed beeld van de uitgestrektheid van deze prachtige groeve met z'n metershoge gangen. In dit fabuleuze ondergrondse landschap zijn de sporen van de voormalige blokbrekers zoals werkfronten en opschriften nog ruimschoots aanwezig. Maar er is meer. Tijdens...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Landcommanderij Alden Biesen
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Landcommanderij%20Alden%20Biesen_ED86_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/landcommanderij-alden-biesen" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Landcommanderij%20Alden%20Biesen_ED86_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/landcommanderij-alden-biesen" %}}
 Er zijn genoeg redenen om kennis te maken met de imposante landcommanderij Alden Biesen, een boeiende locatie van uitzonderlijke historische betekenis. Ooit de hoofdzetel van de Duitse Ridderorde, tegenwoordig een schitterende erfgoedsite in handen van de Vlaamse overheid. Historisch monument, toeristische trekpleister, decor voor evenementen en tentoonstellingen, centrum voor Europese werking en...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### The Open-air Museum Bokrijk
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Openluchtmuseum%20Bokrijk_2677_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/open-air-museum-bokrijk" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Openluchtmuseum%20Bokrijk_2677_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/open-air-museum-bokrijk" %}}
 Are you curious about where our current customs and traditions stem from? At the Bokrijk Open-Air Museum, you will discover how the past is inspiring our future! Come to Bokrijk and immerse yourself in the story of craftsmanship and admire our demonstrations or even roll up your sleeves and join in one of our fascinating workshops. The Open-Air Museum is located in a 550-hectare park, which is a...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### 'Cycling through Water' in Bokrijk
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsen%20door%20het%20Water%20in%20Bokrijk_B18F_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/cycling-through-water-bokrijk" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsen%20door%20het%20Water%20in%20Bokrijk_B18F_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/cycling-through-water-bokrijk" %}}
 At junction 91 on the cycle route network you cycle through the water. You don’t need to wear wellies or a wetsuit, because, as luck would have it, you stay on dry land. But the cycle path takes you through the pond from one bank to the other. And at one point you cycle with the surface of the water at eye level on both sides. That's fun! Don’t forget to take a selfie (with or without a swan in...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### C-mine
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/C-mine_AEB0_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/c-mine" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/C-mine_AEB0_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/c-mine" %}}
 Anyone who visits Genk shouldn't miss C-mine. This creative hotbed lives and breathes a unique atmosphere. At the former Winterslag mining site, respect for the industrial past goes hand in hand with contemporary, artistic industriousness. There is plenty to do both in and around the former mining buildings. Have you heard about the C-mine expedition, for example, an underground experience tour? A...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bed & Breakfast Eikenlaan 12
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/BB%20Eikenlaan%2012_3D87_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/bed-breakfast-eikenlaan-12" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/BB%20Eikenlaan%2012_3D87_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/bed-breakfast-eikenlaan-12" %}}
 On the 2nd floor of a completely renovated engineer's house from 1919, you can relax in your 'own world'. As an exclusive guest you have a cozy and comfortable suite (65m2) with complete privacy. Equipped with an infrared sauna, full kitchen, bathroom with double sink, bath and rain shower. The accommodation is air conditioned and has a cozy sitting area with gas fireplace and TV. Breakfast is...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### The first barefoot path in Flanders
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Blotevoetenpad_2648_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/first-barefoot-path-flanders" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Blotevoetenpad_2648_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/first-barefoot-path-flanders" %}}
 Take off your shoes and socks and walk almost 3 km on a controlled surface of wood, stones, tree chips, grass, loam and water. Every step stimulates your feet and senses. Walk through ponds, climb sandy hills and steep slopes and find your way through a labyrinth. An 18-metre-high wooden watchtower gives you a beautiful view of the surroundings. At the most beautiful and quiet places, there are...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Outdoor playground Bokrijk
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Openluchtspeeltuin%20Bokrijk_1552_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/outdoor-playground-bokrijk" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Openluchtspeeltuin%20Bokrijk_1552_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/outdoor-playground-bokrijk" %}}
 Bokrijk’s open-air playground provides entertainment for everyone, regardless of their age, among others because it has been subdivided into various areas, making it even safer. Small children can play in the toddler children’s village (until age 8), a miniature version of the open-air museum. Here the playground equipment in the shape of farm animals, a windmill and an oven for baking sand cakes...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### C-mine expedition
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/C-mine%20expeditie_6749_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/c-mine-expedition" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/C-mine%20expeditie_6749_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/c-mine-expedition" %}}
 Are you planning a visit to C-mine on the former mining site in Genk? Then you cannot pass by the interactive C-mine expedition! This adventurous tour will immerse you in fascinating tales about the mine and will indulge all your senses. An impressive fan welcomes you on a surprising route through underground passages. Take up the challenge and climb up the pit head which is over 60 metres tall...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Wijnkasteel Genoels-Elderen
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Wijnkasteel%20Genoels-Elderen_2887_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/wijnkasteel-genoels-elderen" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Wijnkasteel%20Genoels-Elderen_2887_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/wijnkasteel-genoels-elderen" %}}
 Een wandeling door het park rond het kasteel van Genoels-Elderen met een prachtig arboretum van eeuwenoude zeldzame bomen, een zicht over de rozentuin met bijna 1.000 rozenstruiken in 24 verschillende soorten en kleuren van zowel moderne als klassieke variëteiten en de meest uitgestrekte wijngaarden van België. Je brengt een bezoek aan het oude koetshuis alwaar onze ultra moderne druivenpers staat...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Wine Estate Montepertini
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Wijndomein%20Montepertini_7A10_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/wine-estate-montepertini" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Wijndomein%20Montepertini_7A10_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/wine-estate-montepertini" %}}
 The casual passer-by, the inquisitive wine lover, the interested tourist and the genuine bon vivant: everyone is welcome here. The Celli family assembles Limburg hospitality and Italian conviviality. And brings her striking story to life in a passionate way. In a formula tailored to your wishes. Fabio and Laura organize guided tours, workshops, teambuildings and tastings. Between the vines, in the...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Studio Pieter Stockmans
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Studio%20Pieter%20Stockmans_8654_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/studio-pieter-stockmans" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Studio%20Pieter%20Stockmans_8654_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/studio-pieter-stockmans" %}}
 The completely handmade porcelain collection can be admired in our shop/store (800 m2) in a unique heritage building. We are located within walking distance of the C-mine main building. The shop is freely accessible. Combine your visit with a visit to the overview exhibition 'The Archives' (€ 7/person) Expo: The Archives - the entire oeuvre of Piet Stockmans - On the front side Piet Stockmans...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Emile Van Dorenmuseum
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Emile%20Van%20Dorenmuseum%20Huis%20van%20landschap%20en%20kunst_1996_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/emile-van-dorenmuseum" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Emile%20Van%20Dorenmuseum%20Huis%20van%20landschap%20en%20kunst_1996_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/emile-van-dorenmuseum" %}}
 Immerse yourself in the 19th century station d'artistes Gen(c)k, where more than 450 artists immortalised the Kempen countryside on canvas. The original setting of one of their homes, that of Emile Van DOREN (1865-1949), serves as the backdrop for this fascinating history and you will discover the old Genck from 1840-1940. The Emile Van Doren Museum not only looks back at the historic artists'...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### C-mine Labyrinth
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Labyrint%20C-mine%20plein_7361_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/c-mine-labyrinth" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Labyrint%20C-mine%20plein_7361_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/c-mine-labyrinth" %}}
 Make your way through one kilometre of steel corridors on C-mine square and discover the numerous spaces which allow you to experience the surroundings from new perspectives. Behind the installation are two young designers, the art and architects duo Gijs Van Vaerenbergh, who have already surprised the region with their ‘see-through church’ in Borgloon. C-mine square
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Corpus: picnic spot Kattevennen
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Corpus%20Picknickplaats%20Kattevennen_AB3C_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/corpus-picnic-spot-kattevennen" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Corpus%20Picknickplaats%20Kattevennen_AB3C_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/corpus-picnic-spot-kattevennen" %}}
 Tucked away in Kattevennen just behind the Visitor Centre you’ll find a picnic spot with a difference. Named Corpus, it was designed by nature artist Will Beckers. Visitors sit cheek by jowl in a large mown circle, cocooned by a sculpture made of corten steel and tree branches. A unique experience! “Corpus embodies the growth process between Man and Culture by making a connection with Nature.” –...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Camp Carré
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Camp%20Carr%20-%20picknickplek%20Molenvijverpark_2339_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/camp-carre" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Camp%20Carr%20-%20picknickplek%20Molenvijverpark_2339_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/camp-carre" %}}
 Picnicking in Molenvijver park has been given a twist. Designer Linde Hermans transformed one location in the park into 'Camp Carré', where the emphasis is on nature, slow time and social contact.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Experience centre De Brug
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Brug%20van%20Vroenhoven_5540_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/experience-centre-de-brug" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Brug%20van%20Vroenhoven_5540_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/experience-centre-de-brug" %}}
 Even just the view is breath-taking on the bridge in Vroenhoven. From the terrace of brasserie Onder De Brug, you have a stunning panoramic view of the Albert Canal and the Haspengouw hills. However, below the bridge a unique experience centre can be found. The interactive experience centre builds a bridge between the two topics that come together at this special location: the devastation of the...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Melkgeitenbedrijf
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Melkgeitenbedrijf_2449_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/melkgeitenbedrijf" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Melkgeitenbedrijf_2449_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/melkgeitenbedrijf" %}}
 Midden tussen de mooie St.-Hubertuskerk van Membruggen en het natuurgebied de Molenbeemd, bevindt zich sinds 2007 het melkgeitenbedrijf van de familie Noelmans-Peters. Achter de muren van de 40 jaar oude bedrijfsgebouwen tref je een kudde van 500 melkgeiten. De bedrijfsleider neemt je graag mee op tocht doorheen het bedrijf. Gaandeweg ontdek je het “leven zoals het is” op de geitenboerderij. Je...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Wijndomein Vlijtingen
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Wijndomein%20Vlijtingen_C2FB_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/wijndomein-vlijtingen" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Wijndomein%20Vlijtingen_C2FB_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/wijndomein-vlijtingen" %}}
 Op 2 percelen rond Vlijtingen telen Herman en Heidi Meers-Castermans druiven om er witte en mousserende wijnen van te maken. Sinds 2014 werden 20.000 stokken aangeplant, verspreid over 4,5 ha. Vooral Chardonnay maar ook Pinot Noir en Pinot Meunier. Van die druiven maken ze hun wijnen. Artisanaal waar kan, met moderne technieken waar nodig. Tijdens een bezoek aan de wijnmakerij van Wijndomein...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Entomopolis "Fascinerende microkosmos"
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Entomopolis%20Fascinerende%20microkosmos_2649_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/entomopolis-fascinerende-microkosmos" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Entomopolis%20Fascinerende%20microkosmos_2649_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/entomopolis-fascinerende-microkosmos" %}}
 Ontdek de fascinerende wereld van de insecten. Neem een kijkje in Entomopolis en duik onder in de fascinerende wereld waar kriebelbeestjes heer en meester zijn. Ontdek welke praal en pracht schuilgaat in je eigen huis en tuin. Beleef de vlucht van een honingbij zoals nooit tevoren en ervaar de springkracht van een vlo in een wedstrijdje hoogspringen. In ons insectenmuseum leer je welke...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Fietsfabriek 3740
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsfabriek%203740_6C98_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/fietsfabriek-3740" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsfabriek%203740_6C98_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/fietsfabriek-3740" %}}
 Maak kennis met Fietsfabriek 3740. Een gloednieuwe fietshub in het centrum van Bilzen, dicht bij het station. Hier kun je fietsen huren (ook elektrische) en laten herstellen. Ook handig dus voor de Bilzenaar zelf. Fietsfabriek 3740 wil in de toekomst ook lessen, tochten op maat én nieuwe fietsbelevingen voor mensen met een beperking aanbieden.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bike rental Alden Biesen
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20Alden%20Biesen%20in%20Bilzen_4E18_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bike-rental-alden-biesen" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20Alden%20Biesen%20in%20Bilzen_4E18_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bike-rental-alden-biesen" %}}
 The centre of the triangle Hasselt, Liège, Maastricht and the place where Kempen and Haspengouw merge. An exploration of sloping Haspengouw? With an electric bike it is just that little bit easier. Alden Biesen is an ideal starting point for various cycling routes. Be sure to visit during the blossom period, when Flanders' highest tree orchard is in full bloom. Book your rental bike online at www...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Fietsverhuur (elektrische fietsen en elektrische bakfietsen)
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20elektrische%20fietsen%20en%20elektrische%20bakfietsen_C96C_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/fietsverhuur-elektrische-fietsen-en-elektrische-bakfietsen" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20elektrische%20fietsen%20en%20elektrische%20bakfietsen_C96C_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/fietsverhuur-elektrische-fietsen-en-elektrische-bakfietsen" %}}
 E-bikevibes in Bilzen in Limburg staat voor verhuur van kwaliteitsvolle elektrische fietsen en elektrische bakfietsen. Verhuur van kinderzitjes en regen/windtent voor de bakfiets. Zeer professionele aanpak en slechtweergarantie. (gratis omruilen voor een andere periode bij slecht weer.) Op de heuveltop in een hoeve bevindt e-bikevibes zich op slechts 2 km van het kasteel van Alden Biesen en...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bike rental Genk Kattevennen
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20Kattevennen%20in%20Genk_275D_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bike-rental-genk-kattevennen" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20Kattevennen%20in%20Genk_275D_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bike-rental-genk-kattevennen" %}}
 This gateway to the Hoge Kempen National Park takes you to higher spheres. In the Cosmodrome, you float among the stars. On the planet trail you can walk to Mars or Uranus. But you can also become one with nature by bike. Book your rental bike online at www.fietsparadijslimburg.be On the day of your visit, the bike will be ready and waiting for you in Kattevennen. Rental period 2022: from 15 March...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bicycle rental Bokrijk in Genk
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20Bokrijk%20in%20Genk_C6FE_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bicycle-rental-bokrijk-genk" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20Bokrijk%20in%20Genk_C6FE_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bicycle-rental-bokrijk-genk" %}}
 You will find peace and quiet in the greenery of Hoge Kempen National Park and the De Wijers pond area, where you can even cycle... through the water without getting wet. Bokrijk Open-Air Museum is close to junctions 242, 71, 92 and 91 of the Limburg cycling network. Bokrijk is easily accessible by car or public transport. From here you can explore the surroundings by bike. Book your rental bike...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bike rental C-Mine
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20C-mine%20in%20Genk_4AA5_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bike-rental-c-mine" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20C-mine%20in%20Genk_4AA5_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bike-rental-c-mine" %}}
 The combination of multicultural urbanity and greenery makes Genk a unique base. First marvel at the impressive remnants of the mining industry, then finish among the tall trees of the National Park. From C-mine you can explore Genk by bike. Book your rental bike online at www.fietsparadijslimburg.be. On the day of your trip, you can pick up the key at C-mine's visitors' reception. Rental period...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bike rental Genk station
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20Fietspunt%20Genk%20station_9185_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bike-rental-genk-station" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20Fietspunt%20Genk%20station_9185_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bike-rental-genk-station" %}}
 In Genk, you are immediately comfortable in the saddle. The cycling route network guides you from one hotspot to another. From the mining heritage of C-mine to Hoge Kempen National Park with its untouched greenery. Near Bokrijk you cycle through water without getting wet. Book your rental bike online at www.fietsparadijslimburg.be. On the day of your excursion, the bicycle will be ready and...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Fietsverhuur De Oude Winning
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20De%20Oude%20Winning_1145_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/fietsverhuur-de-oude-winning" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20De%20Oude%20Winning_1145_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/fietsverhuur-de-oude-winning" %}}
 Bij B&B De Oude Winning, Maastrichterstraat 2, 3770 Herderen en Hotel Limburgia, Op 't Broek 4, 3770 Kanne kan je fietsen huren voor een leuke fietstocht in Riemst en omgeving. Er zijn damesfietsen, herenfietsen en elektrische fietsen in voorraad. De fietsen dienen gereserveerd te worden en kunnen dan afgehaald worden.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bike rental Lieteberg Zutendaal
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20Lieteberg%20-%20Blotevoetenpad%20in%20Zutendaal_8B8D_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bike-rental-lieteberg-zutendaal" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Fietsverhuur%20Lieteberg%20-%20Blotevoetenpad%20in%20Zutendaal_8B8D_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/bike-rental-lieteberg-zutendaal" %}}
 From the start, you cycle in no time in the Hoge Kempen National Park where you can enjoy the unique cycling experience "Cycling through the Heath". On the barefoot path in Lieteberg you get back in touch with nature and in Entomopolis you discover the world of ticklish animals. Book your rental bike online at www.fietsparadijslimburg.be On the day of your excursion, the pedals will be ready at...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Vakantiewoning Biesonder
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Vakantiewoning%20Biesonder_9564_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/vakantiewoning-biesonder" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Vakantiewoning%20Biesonder_9564_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/vakantiewoning-biesonder" %}}
 Biesonder is gelegen aan de rand van het dorp Eigenbilzen op 500 m van het centrum. Dit landelijk gebied ligt in Haspengouw, maar je vindt er ook reeds de Kempen én het Maasland. Eigenbilzen is gelegen tussen Bilzen en Maastricht. Ook de steden Hasselt, Genk, Maasmechelen, Tongeren zijn vlot en snel bereikbaar.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Messehoeve
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Messehoeve_7740_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-messehoeve" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Messehoeve_7740_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-messehoeve" %}}
 De Messehoeve is een zeer gezellig en ruim vakantieappartement met privétuin gelegen in een vierkantshoeve. Er zijn 2 slaapkamers en er is plaats tot 6 gasten. De hoeve beschikt over een ruime gezellige living met aaneensluitend goed uitgeruste open keuken met oven, kookplaten, frigo, koffiezetapparaat (met gratis koffie), warmwaterkoker (met gratis thee), microgolfoven. Gelegen in een rustige...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Huize Idalie
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Huize%20Idalie_a48f_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/huize-idalie" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Huize%20Idalie_a48f_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/huize-idalie" %}}
 Huize Idalie is een vakantiewonig waar sfeer en gezelligheid troef zijn na een actieve dag in onze mooie streek. Wij – Katleen en Hendrik - zijn beiden veertigers en hebben een dochter en zoon. Reeds 12 jaar baten we een winkel uit in onze vierkantshoeve, waar een leuke sfeer en goede service centraal staan. We wonen in een streek met een gevarieerd aanbod aan ontspanning. Naast fietsen of...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Vakantiewoning bij de Jep
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Vakantiewoning%20bij%20de%20Jep_dede_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/vakantiewoning-bij-de-jep" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Vakantiewoning%20bij%20de%20Jep_dede_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/vakantiewoning-bij-de-jep" %}}
 Vakantiewoning bij de Jep, gelegen in het hartje van Eigenbilzen, is een deels gerenoveerd herenhuis met een capaciteit om 10 volwassenen en 2 kinderen tot 12 jaar te verwelkomen.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Martin's Rentmeesterij
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Martins%20Rentmeesterij_62CA_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/martins-rentmeesterij" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Martins%20Rentmeesterij_62CA_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/martins-rentmeesterij" %}}
 Martin’s Rentmeesterij is situated 150m of a heritage site: the Grand Commandery of Alden Biesen, which boasts a stunning location in Bilzen, in Flemish Limburg. This charming hotel is just 10 minutes from Maastricht and only half an hour from Liège, Tongeren and Hasselt. The complex is also readily accessible from Cologne, Bonn, Düsseldorf and Eindhoven (one and a half hours by car). The hotel...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Hoeve de Reetjens
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hoeve%20de%20Reetjens%20_beec_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/hoeve-de-reetjens-0" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hoeve%20de%20Reetjens%20_beec_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/hoeve-de-reetjens-0" %}}
 Het luxe appartement Le Marie (****) in retro/vintage stijl van 95m2 bevindt zich op de 1ste etage van de oude vierkantshoeve met eigen terras op de binnenkoer en voorzien van alle luxe voor een rustig of sportief verblijf. De vroegere burgemeesterswoning is voorzien van alle luxe die je op een vakantieadres zou willen terugvinden. Naast uiteraard een vaatwasser, oven, koelkast, magnetron en...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Hoeve de Reetjens
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hoeve%20de%20Reetjens_7a61_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/hoeve-de-reetjens" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hoeve%20de%20Reetjens_7a61_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/hoeve-de-reetjens" %}}
 Het luxe appartement Le Grenier (****) in Ibiza stijl van 115m2 bevindt zich op de 1ste etage van de oude vierkantshoeve met overdekt terras, uitzicht op de binnenkoer en voorzien van alle luxe voor een rustig of sportief verblijf. De vroegere graanzolder is voorzien van alle luxe die je op een vakantieadres zou willen terugvinden. Naast uiteraard een vaatwasser, oven, koelkast, magnetron en...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bed & Breakfast 't Solveldje
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Bed%20%20Breakfast%20t%20Solveldje_1583_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/bed-breakfast-t-solveldje" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Bed%20%20Breakfast%20t%20Solveldje_1583_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/bed-breakfast-t-solveldje" %}}
 B&B 't Solveldje staat garant voor huiselijkheid, gezelligheid en een uitgebreid ontbijt met streekproducten. We zijn gelegen vlakbij het station van Bilzen en op wandelafstand van het centrum van Bilzen. Een ideale uitvalsbasis om Haspengouw te ontdekken : geschiedenis en cultuur in Tongeren en Alden Biesen, shoppen in Hasselt of Maastricht, het mijnverleden van Genk, het kan allemaal. We...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Huis Berenbroek
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Huis%20Berenbroek_ddef_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/huis-berenbroek" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Huis%20Berenbroek_ddef_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/huis-berenbroek" %}}
 Huis Berenbroek is an exclusive vacation home for up to 12 people, located within walking distance of Bokrijk.'Cycling through the Water' in Bokrijk is a 15 minute walk, Hasselt and Genk are 20 minutes away by bike. We have four luxurious rooms with a private bathroom with spacious walk-in shower (rain shower) in each room. Our 6 beds are all full-fledged and quality beds. Our kitchen is...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Twinstone Lodge****
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Twinstone%20Lodge%20-%20Whitestone_2793_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/twinstone-lodge" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Twinstone%20Lodge%20-%20Whitestone_2793_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/twinstone-lodge" %}}
 Twinstone Lodge is a luxurious holiday home for groups up to 28 persons, situated on the Kattevennen domain in Genk, one of the gateways to the National Park Hoge Kempen. The modular layout allows the house to be divided into a section for 12 persons and a section for 16 persons. Ideal starting point for nature walks and cycle trips on the well-known cycle route network. Next to the house is a...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Twinstone lodge****
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Twinstone%20Lodge%20-%20Blackstone_6492_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/twinstone-lodge-0" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Twinstone%20Lodge%20-%20Blackstone_6492_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/twinstone-lodge-0" %}}
 Twinstone Lodge is a luxurious holiday home for groups up to 28 persons, situated on the Kattevennen domain in Genk, one of the gateways to the National Park Hoge Kempen. The modular layout allows the house to be divided into a section for 12 persons and a section for 16 persons. Ideal starting point for nature walks and cycle trips on the well-known cycle route network. Next to the house is a...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Hotel ZUID
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hotel%20ZUID_3532_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/hotel-zuid" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hotel%20ZUID_3532_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/hotel-zuid" %}}
 The warm hospitality of Hotel ZUID has everything to do with the Southern roots of the hotel hosts. The city of Genk offers a mix of various cultures, colors & tastes…each one of them with its own passion. In Hotel ZUID you can drink Italian espresso, share Southern dishes, listen to chill Bosso Nova music and sit down in the cosy interior with Moroccan touches. The 30 rooms of hotel ZUID are cosy...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Lavendine Pure
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Lavendine%20Pure%20Bed%20%20Breakfast_0678_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/lavendine-pure" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Lavendine%20Pure%20Bed%20%20Breakfast_0678_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/lavendine-pure" %}}
 Lavendine Pure is a relax B & B where you come home with each other. Enjoy together with your loved one, with friends, or time for yourself ... It's all possible with Pure Lavendine! The B & B is located in Genk, the green in the middle of nature, near The nature reserve sizes and at Bokrijk. From the B & B can you wonderful cycling tours with your own bicycle or you rent one at Lavendine Pure...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Lavendine Pure - Kamiele
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Lavendine%20Pure%20-%20Kamiele_e107_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/lavendine-pure-kamiele" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Lavendine%20Pure%20-%20Kamiele_e107_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/lavendine-pure-kamiele" %}}
 In the guesthouse of Lavendine Pure (Kamiele) you come home together. Enjoying time together with your loved one, with friends, or time for yourself...it's all possible at Lavendine Pure! The guesthouse is located in the green Genk, surrounded by nature, near nature reserve De Maten and Bokrijk. From Lavendine Pure you can make wonderful bike rides with your own bike or you can rent one at...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Hotel De Schacht
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hotel%20De%20Schacht_3562_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/hotel-de-schacht" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hotel%20De%20Schacht_3562_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/hotel-de-schacht" %}}
 Cosy family hotel located a stone's throw from Genk city centre, surrounded by numerous tourist attractions such as 'Cycling through water' in Bokrijk, C-mine, La Biomista, Maasmechelen village, shopping centres, ... De Schacht is a cycling hotel with a connection to the cycleroutenetwork and has 16 comfortable rooms. Bicycle storage with electrical charging point and private free of charge...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### The oldest still existing hotel in Genk centre
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hotel%20t%20Hert_3587_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/oldest-still-existing-hotel-genk-centre" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hotel%20t%20Hert_3587_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/oldest-still-existing-hotel-genk-centre" %}}
 Vintage hotel located in the centre of Genk, 200 m from the station. The Molenvijver city park, the shopping streets and the three shopping centres are nearby. Quiet and friendly family hotel with comfortable rooms, restaurant with Flemish cuisine with French touch. Game and mussels during the season. Located near the cycle route network and walking areas and a few kilometers from the Open Air...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Aventurijn vakantiewoning 2
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Aventurijn%20vakantiewoning%202_8062_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-aventurijn-vakantiewoning-2" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Aventurijn%20vakantiewoning%202_8062_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-aventurijn-vakantiewoning-2" %}}
 Charmante vierkantshoeve met 2 vakantiewoningen voor elk 6 personen. Elke vakantiewoning beschikt over een inkomhal met toilet, een ruime living met tv en een praktisch ingerichte keuken met berging. De keuken heeft een koelkast, een kookvuur, een oven, een magnetron, koffiezet en waterkoker. Op de eerste verdieping heeft elke woning een badkamer en drie slaapkamers met comfortabele...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Aventurijn
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Aventurijn_8054_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-aventurijn" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Aventurijn_8054_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-aventurijn" %}}
 Temidden van het glooiende Haspengouwse landschap, in de pittoreske dorpskern van Zichen, bevindt zich onze elegante en gastvrije B&B. Bij aankomst in de Aventurijn kun je de warme sfeer in je opnemen terwijl je geniet van een welkomstdrankje. Wij beschikken over 4 gastenkamers en 2 vakantiewoningen. De kamers dragen de namen en kleuren van edelstenen en hebben daardoor elk een eigen karakter. In...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Aventurijn vakantiewoning 1
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Aventurijn%20vakantiewoning%201_4435_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-aventurijn-vakantiewoning-1" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Aventurijn%20vakantiewoning%201_4435_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-aventurijn-vakantiewoning-1" %}}
 Charmante vierkantshoeve met 2 vakantiewoningen voor elk 6 personen. Elke vakantiewoning beschikt over een inkomhal met toilet, een ruime living met tv en een praktisch ingerichte keuken met berging. De keuken heeft een koelkast, een kookvuur, een oven, een magnetron, koffiezet en waterkoker. Op de eerste verdieping heeft elke woning een badkamer en drie slaapkamers met comfortabele...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Zwarte Stok
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Zwarte%20Stok_3468_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-zwarte-stok" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Zwarte%20Stok_3468_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-zwarte-stok" %}}
 Binnen de dikke muren van de landelijk gelegen vierkantshoeve uit 1620, De Zwarte Stok B&B, logeer je met zijn tweetjes, jouw familie of vrienden in 7 gastenkamers en 2 appartementen. De mooie tuin met terrassen, biedt uitzicht op velden en rust. Geniet van de dagverse gerechten die de gastvrouw bereidt. B&B De Zwarte Stok is de perfecte uitvalsbasis om te fietsen, wandelen en of historische...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Time-Out Apartments
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Time-Out%201%20oClock%20_75fa_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/time-out-apartments-2" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Time-Out%201%20oClock%20_75fa_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/time-out-apartments-2" %}}
 We ' ll be happy to welcome you in Zussen, nearby Maastricht and Kanne. Come with the LOVE OF YOUR LIFE, with your beautiful FAMILY, with GIRLFRIENDS, for shopping, hinking or cycling, for relaxing, for work or to enjoy the culture..... This is the ideal place to explore the region. Maastricht, Liege and Tongeren are around the corner and we also have interesting and exciting places to visit...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Time-Out Apartments
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Time-Out%202%20oClock%20_165c_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/time-out-apartments-1" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Time-Out%202%20oClock%20_165c_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/time-out-apartments-1" %}}
 We ' ll be happy to welcome you in Zussen, nearby Maastricht and Kanne. Come with the LOVE OF YOUR LIFE, with your beautiful FAMILY, with GIRLFRIENDS, for shopping, hinking or cycling, for relaxing, for work or to enjoy the culture..... This is the ideal place to explore the region. Maastricht, Liege and Tongeren are around the corner and we also have interesting and exciting places to visit...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Time-Out Apartments
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/time-Out%203%20oClock%20_20e4_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/time-out-apartments-0" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/time-Out%203%20oClock%20_20e4_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/time-out-apartments-0" %}}
 We ' ll be happy to welcome you in Zussen, nearby Maastricht and Kanne. Come with the LOVE OF YOUR LIFE, with your beautiful FAMILY, with GIRLFRIENDS, for shopping, hinking or cycling, for relaxing, for work or to enjoy the culture..... This is the ideal place to explore the region. Maastricht, Liege and Tongeren are around the corner and we also have interesting and exciting places to visit...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Time-Out Apartments
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Time-Out%204%20oclock_86cf_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/time-out-apartments" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Time-Out%204%20oclock_86cf_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/time-out-apartments" %}}
 We ' ll be happy to welcome you in Zussen, nearby Maastricht and Kanne. Come with the LOVE OF YOUR LIFE, with your beautiful FAMILY, with GIRLFRIENDS, for shopping, hinking or cycling, for relaxing, for work or to enjoy the culture..... This is the ideal place to explore the region. Maastricht, Liege and Tongeren are around the corner and we also have interesting and exciting places to visit...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Time-Out Apartments
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Time-Out%205%20oClock%20_b443_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/time-out-apartments-3" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Time-Out%205%20oClock%20_b443_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/time-out-apartments-3" %}}
 We ' ll be happy to welcome you in Zussen, nearby Maastricht and Kanne. Come with the LOVE OF YOUR LIFE, with your beautiful FAMILY, with GIRLFRIENDS, for shopping, hinking or cycling, for relaxing, for work or to enjoy the culture..... This is the ideal place to explore the region. Maastricht, Liege and Tongeren are around the corner and we also have interesting and exciting places to visit...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Zwarte Stok - Op Stok
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Zwarte%20Stok%20-%20Op%20Stok_e351_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-zwarte-stok-op-stok" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Zwarte%20Stok%20-%20Op%20Stok_e351_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-zwarte-stok-op-stok" %}}
 "Op Stok" is een ruime en comfortabele vakantiewoning met 2 slaapkamers, geschikt voor 5 personen + baby. De keuken en huiskamer zijn met openslaande deuren verbonden met je privéterras met uitzicht op de uitgestrekte akkers en velden. De vroege vogels zullen wellicht getuigen zijn van een mooie zonsopgang. "Op Stok" is een ideale uitvalsbasis voor je actieve vakantie in Haspengouw.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Zwarte Stok - Het Bakhuis
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Zwarte%20Stok%20-%20Het%20Bakhuis_ff75_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-zwarte-stok-het-bakhuis" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Zwarte%20Stok%20-%20Het%20Bakhuis_ff75_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-zwarte-stok-het-bakhuis" %}}
 Dit authentieke appartement in onze hoeve De Zwarte Stok is geschikt voor 2 - 3 personen + een kind. De benedenverdieping is ingericht als woonkamer en kleine keuken, op de open verdieping is de slaapkamer met één dubbel bed, één 1-persoons bed en een bedje voor een kind tot 12 jaar, en een badkamer. Een ideale locatie voor een ontspannen weekendje of actieve vakantie. Vlak bij het...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Welcome to Hotel De Klok!
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hotel-Brasserie%20De%20Klok_9334_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/welcome-hotel-de-klok" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hotel-Brasserie%20De%20Klok_9334_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/welcome-hotel-de-klok" %}}
 At the gate of National Park De Hoge Kempen, in a central location, you'll find the greenest town of Flanders. Zutendaal is a true cycling paradise with Hotel De Klok as the ideal location to relax amidst the greenery of Limburg. Located on a great cycling and hiking network. We offer 10 comfortable rooms, all equipped with airconditioning and a Nespresso machine. Enjoy our sunny terrace with a...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Glampingresort Hoge Kempen
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Europarcs%20Hoge%20Kempen_9915_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/glampingresort-hoge-kempen" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Europarcs%20Hoge%20Kempen_9915_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/glampingresort-hoge-kempen" %}}
 EuroParcs Hoge Kempen is beautifully situated in the middle of the beautiful Hoge Kempen nature reserve. The park and its surroundings are wooded and slightly hilly. You will find yourself in an oasis of peace, nature and beauty. The park is ideally situated on the cycle route network of Limburg (near junction 567) and also directly located on the hiking trails of the Hoge Kempen and the long...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Hotel Monika
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hotel%20Monika_3543_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/hotel-monika" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Hotel%20Monika_3543_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/hotel-monika" %}}
 Familiehotel gelegen aan de rand van de Limburgse Kempen op wandelafstand van het Nationaal Park Hoge Kempen. Ideaal voor zowel de rust- en natuurzoeker als voor de actieve toerist. Grote keuze aan ontspanningsmogelijkheden in de omgeving. Directe aansluiting op het fietsroutenetwerk Limburg en de autoroute van Midden-Limburg en de Maas-Mijn Route.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### B&B De Edelsteen gives you the chance to enjoy and relax in a quiet environment.
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Edelsteen_1393_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/bb-de-edelsteen-gives-you-chance-enjoy-and-relax-quiet-environment" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Edelsteen_1393_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/bb-de-edelsteen-gives-you-chance-enjoy-and-relax-quiet-environment" %}}
 Discover the national Park from our B&B or visit the surrounding towns. Our place is the ideal start for all your excursions: • Near bycicle junction 29 • At node 86 of the equestrian network • A stone’s throw from Genk, Bilzen, Maastricht, … You can always get hiking, cycling and horse-riding maps at the reception. You can also find various brochures for sights and attractions in the breakfast...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Chalet Luxe
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Chalet%20Luxe_e83e_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/chalet-luxe" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Chalet%20Luxe_e83e_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/chalet-luxe" %}}
 Ontdek je plekje! Boek je vakantie op ons totaal vernieuwde parkje midden in de bossen van Belgisch Limburg. De opgegeven prijs (120€) is per nacht, niet per persoon!! In de chalet is er gratis wifi en een digitale tv. Je viervoeter mag mee, mits de nodige afspraken.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### King of Gold Stables
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/King%20of%20Gold%20Stables_e607_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/king-gold-stables" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/King%20of%20Gold%20Stables_e607_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/king-gold-stables" %}}
 King of Gold Stables biedt een ruim appartement aan met een prachtige ligging. Het bevindt zich in een langgevelhoeve boven de goed verzorgde paardenstallen van familie Delhougne. Het situeert zich aan de rand van het Zutendaalse bos met een zorgvuldig uitgestippeld ruiterroutenetwerk, military hindernissenparcours en wandelroutenetwerk. Elke ruiter, menner en wandelaar zal zich er dadelijk thuis...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Het Wielenhuisje
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Het%20Wielenhuisje_136f_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/het-wielenhuisje" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Het%20Wielenhuisje_136f_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/het-wielenhuisje" %}}
 Zin om te onthaasten en te genieten van Me-time en We-time in een uniek vakantieverblijf ingericht met veel liefde en luxe? Kom alleen of met twee ontspannen in het viersterren Wielenhuisje (2021) te Zutendaal, het groenste snoepje van Vlaanderen. Geniet van de natuur, ontdek het blotevoetenpad of verken Limburg al wandelend of fietsend door de bomen, het water of de heide. Een ontspannende...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Landal Mooi Zutendaal
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Landal%20Mooi%20Zutendaal_0baa_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/landal-mooi-zutendaal" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Landal%20Mooi%20Zutendaal_0baa_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/landal-mooi-zutendaal" %}}
 Naast Nationaal Park Hoge Kempen, midden in de bossen, vind je Landal Mooi Zutendaal. Dit vakantiepark beschikt over luxueuze vrijstaande villa’s, bungalows en chalets. Belgisch Limburg is de groenste provincie van Vlaanderen. Nabij het enige Nationale Park van België is Landal Mooi Zutendaal de perfecte uitvalsbasis voor het ontdekken van de omgeving. Maak met het hele gezin een wandeling of ga...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### B&B Crijbohoeve
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/BB%20Crijbohoeve_1554_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/bb-crijbohoeve" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/BB%20Crijbohoeve_1554_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/bb-crijbohoeve" %}}
 De B&B maakt onderdeel uit van een paardenpension in het bosrijke Zutendaal. Dagelijks verzorgen we de paarden en kunnen de bezoekers kijken of meehelpen met het voeren van de dieren, vooral voor de kinderen is dit geweldig ! De kamers bevinden zich op de hooizolder van een typische Kempische langgevelboerderij van meer dan een eeuw oud. We hebben met veel geduld de oorspronkelijke structuur van...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Wings Creek Ranch B&B
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Wings%20Creek%20Ranch%20BB_ed81_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/wings-creek-ranch-bb" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Wings%20Creek%20Ranch%20BB_ed81_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/wings-creek-ranch-bb" %}}
 Wij zijn Lieze & Jens. Sinds jaar en dag hebben we een passie voor paarden en is ons leven rondom deze prachtige viervoeters gebouwd. Onze Bed and Breakfast straalt dan ook echt het karakter van een ranch uit. We bevinden ons in ‘Het groenste snoepje van Vlaanderen’, zoals Zutendaal ook wel bekend staat. Naast de uitgestrekte natuur, zijn er allerlei activiteiten te beleven in de buurt. Door de...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### B&B Punto Vélo
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/BB%20Punto%20Vlo_281a_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/bb-punto-velo" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/BB%20Punto%20Vlo_281a_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/bb-punto-velo" %}}
 Wij, Karen en Danny, nodigen jullie graag uit in onze B&B Punto Vélo in Zutendaal, het groenste snoepje van Vlaanderen. Onze Bed & Breakfast situeert zich in het gehucht Roelen, vlak op de grens van Zutendaal en Lanaken. Je verblijft in een stijlvolle B&B, voorzien van alle moderne comfort en met aandacht voor het milieu en de omgeving. Kom ontdekken wat de prachtige natuur van het Nationaal Park...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Sweet Valley Limburg Julia
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Sweet%20Valley%20Limburg%20Julia_5a18_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/sweet-valley-limburg-julia" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Sweet%20Valley%20Limburg%20Julia_5a18_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/sweet-valley-limburg-julia" %}}
 Onze vakantiewoning Julia is recent (2021) gebouwd, gelegen in Chaletpark Zutendaal, te midden van de Belgisch-Limburgse bossen. Het afgesloten park ligt slechts op enkele minuten wandelen van Nationaal Park de Hoge Kempen. Onze in het groen verscholen woning biedt slaapgelegenheid voor maximum vier personen. De woning is voorzien van airco, wifi, keuken met vaatwasser, vries- en koelkast, combi...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Sweet Valley Limburg Madeleine
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Sweet%20Valley%20Limburg%20Madeleine_378a_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/sweet-valley-limburg-madeleine" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Sweet%20Valley%20Limburg%20Madeleine_378a_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/sweet-valley-limburg-madeleine" %}}
 Vakantiewoning Madeleine is recent (2021) gebouwd, gelegen in een Chaletpark Zutendaal, te midden van de Belgisch-Limburgse bossen. Het afgesloten park ligt slechts op enkele minuten wandelen van Nationaal Park de Hoge Kempen. Onze in het groen verscholen woning biedt slaapgelegenheid voor maximum vier personen. De woning is voorzien van airco, wifi, keuken met vaatwasser, vries- en koelkast...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Amadis
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Amadis_f40b_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/amadis" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Amadis_f40b_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/amadis" %}}
 Amadis is landelijk gelegen aan de grens van Maastricht. Onze B&B heeft 3 landelijk ingerichte kamers met ieder een eigen badkamer met gratis badproducten en badlinnen. Iedere kamer heeft een ruime boxspring, gratis wifi, tv, airco. Er is een mooie ontbijtruimte met zitplaats waar 's morgens een ontbijtbuffet aangeboden wordt. In de zomer kun je van het ontbijt genieten op het gezellige...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Jachthoorn
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Jachthoorn_4583_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-jachthoorn" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Jachthoorn_4583_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/de-jachthoorn" %}}
 Geen jachtigheid in "De Jachthoorn". Kom tot rust in één van de ruime kamers met tv, microgolfoven, koffiezetapparaat, wifi en ijskast. Vergeet ook alle zorgen in het grote bubbelbad voor twee personen. Ook als je de deur uitgaat, vind je niets dan rust, groen en stilte. De Jachthoorn is gemakkelijk bereikbaar, kortbij de snelweg Hasselt en Luik (afrit 30).
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### St. Michielshof
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/St.%20Michielshof_9ab0_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/st-michielshof" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/St.%20Michielshof_9ab0_1.jpg" extlink="https://www.visitlimburg.be/nl/overnachten/st-michielshof" %}}
 Logies Sint Michielshof in Kesselt (Lanaken) is onderdeel van een karakteristieke carré boerderij met luxe gastenkamers met ensuite badkamers. De ideale uitvalsbasis: aan de rand van Maastricht én in het Heuvelland! In de zomer kun je volop genieten van het terras op de binnenplaats en in de winter kun je luieren, lezen of ongestoord werken in de gezellige woonkeuken. Er is een prima busverbinding...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Terra Kota - Wellness Paradise Limburg
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Terrakota_8190_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/terra-kota-wellness-paradise-limburg" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Terrakota_8190_1.jpg" extlink="https://www.visitlimburg.be/en/accomodation/terra-kota-wellness-paradise-limburg" %}}
 Come and experience with all your senses our corner of paradise! A cottage equipped with all comforts, situated in a beautiful garden with outdoor kitchen and extensive wellness facilities: whether you are looking for a romantic getaway for two, for fun with the whole family or a blissful undisturbed (shopping)weekend with friends: TerraKota is the place to be. When the weather is nice you’ll...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Brasserie IJssalon Cafe De Hartenberg
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Brasserie%20IJssalon%20Cafe%20De%20Hartenberg_2698_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/brasserie-ijssalon-cafe-de-hartenberg" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Brasserie%20IJssalon%20Cafe%20De%20Hartenberg_2698_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/brasserie-ijssalon-cafe-de-hartenberg" %}}
 Gezellige Brasserie met IJssalon en een toppie café aan de kerk in Eigenbilzen. Wij beschikken over een menukaart met veel variatie, broodjes, pasta, stoofvlees met frietjes, pannenkoeken,...Alsook nog steeds ons eigenbereid ambachtelijk ijs. (El Patio) Keuken open tot 20u. Door de prachtige natuur kom je bij ons ook via de fietsroutes 66 en 67. Oplaadpunt voor elektrische fietsen Honden...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Café 't Jonckholt
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Caf%20t%20Jonckholt_94A5_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/cafe-t-jonckholt" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Caf%20t%20Jonckholt_94A5_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/cafe-t-jonckholt" %}}
 Gezellig dorpscafé, met kleine keuken. In 2015 zijn we gestart met zo’n 30-tal bieren, ons aanbod is doorheen de jaren uitgebreid , we hebben ondertussen maar liefst zo’n 55 vaste bieren! Omdat onze interesse in bieren hoog liggen hebben we ervoor gekozen om met 2 wisseltappen en enkele wisselflesjes te werken, deze bieren wisselen heel erg vaak want op = op! Zo hebben we voor ieder wat wils en is...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Taverne Boelhof
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Taverne%20Boelhof_B6EF_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/taverne-boelhof" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Taverne%20Boelhof_B6EF_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/taverne-boelhof" %}}
 Taverne Boelhof is een Haspengouwse vierkantshoeve gelegen te Klein-Spouwen in Bilzen. We liggen dichtbij het Limburgse fietsroutenetwerk, tussen knooppunt 81 en 90. Bij ons kan je terecht voor een lekker kopje koffie of iets fris.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Buitenbar de Slagmolen
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Buitenbar%20de%20Slagmolen_9C35_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/buitenbar-de-slagmolen" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Buitenbar%20de%20Slagmolen_9C35_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/buitenbar-de-slagmolen" %}}
 In november 2020 kocht Toerisme Vlaanderen de historische Slagmolen aan, gelegen tussen de natuurgebieden De Maten en de Stiemerbeekvallei. Toerisme Vlaanderen heeft de ambitie om de site, samen met Natuurpunt, opnieuw te doen heropleven! Een renovatie van de molen zodat deze terug maalvaardig wordt, staat momenteel op de agenda. Zo kan deze plek, die altijd symbool stond voor het verenigen van...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Kattevenia
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Kattevenia_4461_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/kattevenia" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Kattevenia_4461_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/kattevenia" %}}
 The ideal stopping point for cyclists and hikers. The café is surrounded by greenery. You will be pampered with a snack and a drink while the children visit the stables.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### BRAUW
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/BRAUW_BD2F_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/brauw" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/BRAUW_BD2F_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/brauw" %}}
 If you want to enjoy a locally brewed beer, then Genker Stadsbrouwerij BRAUW is the right place for you. Come and taste our beers right beside the fermentation tanks and experience the brewing process with us. Next to some homebrewed beers, at BRAUW you will find a continuously varying offer of different beers and styles. Make sure to try our flight or paired flight, where you can enjoy the...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Brasserie de Vierde Wand
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Brasserie%20de%20Vierde%20Wand_1007_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/brasserie-de-vierde-wand" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Brasserie%20de%20Vierde%20Wand_1007_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/brasserie-de-vierde-wand" %}}
 Je kan bij ons zowel voor een heerlijke koffie of aperitiefje als voor een uitgebreide maaltijd terecht! Wij bieden je een uitgebreide eigentijdse menukaart, waar we traditionele gerechten op een eigentijdse manier brengen. Van een heerlijk stoofpotje in de herfst tot een zuiderse visschotel in de zomer. Je kan bij ons betalen met Bancontact, visa & Mastercard
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Roots Pub
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Roots%20Pub_2A17_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/roots-pub" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Roots%20Pub_2A17_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/roots-pub" %}}
 Roots pub is a very cosy place where you and your friends and family definitely are in the right place. For cyclists, there is plenty of room for both bikes and groups.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Café de Schom
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Caf%20de%20Schom_9AFB_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/cafe-de-schom" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Caf%20de%20Schom_9AFB_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/cafe-de-schom" %}}
 Een gezellig buurtcafé in de omgeving van natuurgebied "De Maten". Ideaal om te genieten van verschillende soorten (lokale) dranken en hapjes tijdens een wandeling of fietstocht op ons zonnig terras of binnen in een warme, familiale sfeer.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Restaurant ZUID
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Restaurant%20ZUID_9285_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/restaurant-zuid" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Restaurant%20ZUID_9285_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/restaurant-zuid" %}}
 Met veel passie voor de Zuiderse keuken verwelkomen wij je in ons vernieuwd restaurant ZUID. Bij ons drink je Italiaanse espresso, deel je Zuiderse gerechten met elkaar, luister je naar zwoele Bossa Nova en plof je neer in het gezellig interieur met Marokkaanse accenten. De echte Zuiderse keuken, met aandacht voor dagverse producten, zuiderse kruiden, heerlijke geuren, eerlijke wijnen, rozemarijn...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Brasserie-ijssalon Hild'Ice
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Brasserie-ijssalon%20HildIce_4527_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/brasserie-ijssalon-hildice" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Brasserie-ijssalon%20HildIce_4527_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/brasserie-ijssalon-hildice" %}}
 Hier kun je lekker smullen van huisbereid roomijs, gebak en verse snacks. Een leuke plek om even bij te komen na een inspannend fietstochtje.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### ROBUUST
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/ROBUUST_22A2_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/robuust" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/ROBUUST_22A2_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/robuust" %}}
 Robuust is a cozy stop in the center of the beautiful Zutendaal. On the terrace overlooking the church, you can enjoy a nice drink. If you still want to eat then you can find something tasty on our extensive menu. We are looking forward to welcome you. Welcome and see you at ROBUUST!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Restaurant-Cafe "De Kapelanij"
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Kapelanij_50E1_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/restaurant-cafe-de-kapelanij" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/De%20Kapelanij_50E1_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/restaurant-cafe-de-kapelanij" %}}
 Brasserie de Kapelanij is an initiative of the Limburg Autism Foundation, entrepreneurs in care and welfare and the municipality of Zutendaal. With this initiative, we want to offer people with autism and/or another disability the opportunity to work behind the scenes and enjoy a meaningful day. We try to involve people with autism, who are particularly hampered socially and communicatively, in...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Lieteberg's Cafetaria
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Lietebergs%20Cafetaria_9C35_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/lietebergs-cafetaria" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Lietebergs%20Cafetaria_9C35_1.jpg" extlink="https://www.visitlimburg.be/en/what-to-do/lietebergs-cafetaria" %}}
 Lieteberg is your base to explore the Hoge Kempen National Park. Located a stone's throw from Cycling through the Heath and within cycling distance from 'Cycling through Water' in Bokrijk, Lieteberg is a cycling oasis where you can not only rent bikes or walk barefoot. You can also relax and enjoy nature on the grass terrace. Did you know that you can relax at Lieteberg's cafeteria after a...
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Taverne de Krieckaert
 
-{{% imgandexttxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Taverne%20de%20Krieckaert_142A_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/taverne-de-krieckaert" %}}
+{{% imgandtxt url="https://www.altijdlimburg.com/sites/default/files/styles/accomodation_poi/public/import/Taverne%20de%20Krieckaert_142A_1.jpg" extlink="https://www.visitlimburg.be/nl/wat-te-doen/taverne-de-krieckaert" %}}
 Unieke ligging in de bossen aan de poort van Nationaal Park de Hoge Kempen. In onze gezellige Taverne of op ons heerlijke zonneterras kan je genieten van een kopje koffie met iets lekkers tot aan een volledige lunch of diner. Uitermate geschikt voor fietsers, wandelaars, kinderen(grote speeltuin), hondenbezitters en ruiters.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

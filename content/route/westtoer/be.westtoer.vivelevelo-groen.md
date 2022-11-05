@@ -1,7 +1,7 @@
 ---
 title: "Vive le Vélo fietsroute - Groen"
 subtitle: "Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)" 
 tags:
   - flanders

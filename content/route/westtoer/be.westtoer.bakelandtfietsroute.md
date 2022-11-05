@@ -1,7 +1,7 @@
 ---
 title: "Bakelandtfietsroute"
 subtitle: "Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield" 
 tags:
   - flanders

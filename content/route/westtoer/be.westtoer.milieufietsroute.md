@@ -1,7 +1,7 @@
 ---
 title: "Milieufietsroute"
 subtitle: "'Reizen om te leren’ is het motto van deze fietsroute"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "'Reizen om te leren’ is het motto van deze fietsroute" 
 tags:
   - flanders

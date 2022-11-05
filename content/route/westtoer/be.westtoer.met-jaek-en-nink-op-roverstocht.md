@@ -1,7 +1,7 @@
 ---
 title: "Met Jaek en Nink op roverstocht"
 subtitle: "De route is in totaal 28 km lang en is bewegwijzerd met 6-hoekige bordjes met de figuurtjes van Jaek en Nink"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De route is in totaal 28 km lang en is bewegwijzerd met 6-hoekige bordjes met de figuurtjes van Jaek en Nink" 
 tags:
   - flanders

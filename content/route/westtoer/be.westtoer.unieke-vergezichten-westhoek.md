@@ -1,7 +1,7 @@
 ---
 title: "Unieke vergezichten over de Westhoek"
 subtitle: "Tenzij in diep uitgesneden valleien genieten we elk fietsmoment van prachtige uitzichten"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Tenzij in diep uitgesneden valleien genieten we elk fietsmoment van prachtige uitzichten" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Knooppunt 30 op de markt van Mesen
 
 ### Vredeskater
 
-{{% imgandtxt url="/routes/page/be.westtoer.unieke-vergezichten-westhoek/pool_of_peace.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/pool_of_peace.jpg" %}}
 
 We fietsen een stuk gelijk op met de Via Sacra, een 70 kilometer lange wandelroute langs het WOI-front tussen Ploegsteert en Nieuwpoort. De Pool of Peace in Wijtschate was tot 7 november 1917 een heuvel waar de Spanbroekmolen bovenop stond. Een dieptemijn maakte daar een einde aan.
 
@@ -42,7 +42,7 @@ We fietsen een stuk gelijk op met de Via Sacra, een 70 kilometer lange wandelrou
 
 ### Boom Van Het Jaar
 
-{{% imgandtxt url="/routes/page/be.westtoer.unieke-vergezichten-westhoek/kemmelberg.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/flanders_fields/doen/kemmelberg.jpg" %}}
 
 Een holle weg brengt ons tot halverwege de Kemmelberg. Je kan nog een stapje hoger gaan en de Belvédère te bezoeken, de witte uitkijktoren op de top van de Kemmelberg. Daarna daal je via de kasseistrook af en pik je in op knooppunt 76.
 
@@ -50,7 +50,7 @@ Een holle weg brengt ons tot halverwege de Kemmelberg. Je kan nog een stapje hog
 
 ### Mouttoren
 
-{{% imgandtxt url="/routes/page/be.westtoer.unieke-vergezichten-westhoek/de_kinderbrouwerij_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_kinderbrouwerij_0.jpg" %}}
 
 Naarmate we Reningelst naderen, worden de hellingen minder uitgesproken. De Kinderbrouwerij in Reningelst is elk weekend in de namiddag open. De mouttoren is nu ook een uitkijktoren en biedt een mooi uitzicht op de heuvels waar we net doorheen fietsten.
 

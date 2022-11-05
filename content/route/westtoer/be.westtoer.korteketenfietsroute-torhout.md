@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Torhout"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de stad Torhout met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de stad Torhout met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -38,7 +38,7 @@ Je start bij het Kasteel van Wijnendale (Oostendestraat 390, Torhout) daan knoop
 
 ### Brouwerij Strubbe
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-torhout/brouwerij-strubbe.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/brouwerij-strubbe.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/brouwerij-strubbe" %}}
 
 Tussen knooppunt 31 en 73
 
@@ -50,7 +50,7 @@ Adres: Markt 1, 8480 Ichtegem
 
 ### Hoeve Pascal & Sandra
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-torhout/hoeve-pascal-en-sandra.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/hoeve-pascal-en-sandra.jpg" %}}
 
 Tussen knooppunt 74 en 70
 
@@ -62,7 +62,7 @@ Adres: Korenstraat 35, 8480 Ichtegem.
 
 ### Mostaard Wostyn
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-torhout/mostaard-wostyn.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/mostaard-wostyn.jpg" extlink="https://www.westtoer.be/nl/doen/mosterdwinkeltje-wostyn" %}}
 
 Tussen knooppunt 81 en 5
 
@@ -74,7 +74,7 @@ Adres: Conscienceplein 7, 8820 Torhout
 
 ### Koffie Torenhof
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-torhout/koffie-torenhof.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/koffie-torenhof.jpg" extlink="https://www.westtoer.be/nl/doen/koffie-torenhof" %}}
 
 Tussen knooppunt 49 en 34
 

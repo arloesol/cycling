@@ -3,7 +3,7 @@ title: "Aller-Retour"
 subtitle: "Fietsroute 14-18
 
 De fietsroute volgt de moeizame tocht van de soldaten van het grote legerkantonnement Alveringem naar de Dodengang in de sector Diksmuide, heen en terug"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 De fietsroute volgt de moeizame tocht van de soldaten van het grote legerkantonnement Alveringem naar de Dodengang in de sector Diksmuide, heen en terug" 

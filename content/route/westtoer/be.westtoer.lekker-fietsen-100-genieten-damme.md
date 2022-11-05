@@ -3,7 +3,7 @@ title: "Lekker fietsen: 100% genieten in Damme"
 subtitle: "Kom zelf ontdekken waarom Damme culinair befaamd is!
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Kom zelf ontdekken waarom Damme culinair befaamd is!
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland" 
@@ -38,7 +38,7 @@ Starten kan bij knooppunt 28 (Kerkstraat, Damme)
 
 ### De Ijshoeve
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-100-genieten-damme/de_ijshoeve.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/de_ijshoeve.jpg" extlink="/nl/eten-drinken/de-ijshoeve-0" %}}
 
 Tussen 61 en 18
 
@@ -50,7 +50,7 @@ Menukaart als een telefoonboek met maar liefst 64 smaken roomijs. De knoop doorh
 
 ### Roots Bar
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-100-genieten-damme/roots_bar3.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/roots_bar3.jpg" extlink="/nl/eten-drinken/roots-bar" %}}
 
 Bij 52
 
@@ -62,7 +62,7 @@ Nostalgische apérobar met een uitgebreide keuze aan bier, wijn, cocktails en ee
 
 ### Overzet Kobus
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-100-genieten-damme/lage_resolutie-kobus_damme_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lage_resolutie-kobus_damme_1.jpg" %}}
 
 Tussen 40 en 54
 
@@ -72,7 +72,7 @@ Zelf te bedienen overzetbootje voor fietsers en wandelaars.
 
 ### 'T Vogelkotje
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-100-genieten-damme/t_vogelkotje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/t_vogelkotje.jpg" extlink="/nl/eten-drinken/t-vogelkotje" %}}
 
 Nabij 25
 
@@ -84,7 +84,7 @@ Geniet in alle rust van een lekkere koffie en een vers gebak. Vogelspotters zijn
 
 ### Maïsterplan
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-100-genieten-damme/maisterplan2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/maisterplan2.jpg" extlink="/nl/doen/ma%C3%AFsterplan" %}}
 
 Tussen knooppunt 60 en 71
 

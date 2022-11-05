@@ -1,7 +1,7 @@
 ---
 title: "Trappen door de schoonheid van de Zwinregio"
 subtitle: "Neem je fiets en verken de mooie Zwinregio"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Neem je fiets en verken de mooie Zwinregio" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Knooppunt 13 (thv de kruising Anemonenlaan en Directeur Generaal Willemspark
 
 ### Generaal Willemspark
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-door-de-schoonheid-van-de-zwinregio/gen-willemspark_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/gen-willemspark_0.jpg" %}}
 
 De afgelopen jaren kreeg het park een grondige facelift. Het mooi verzorgde park biedt je een mooie plek om te wandelen door het groen. Het 'Bosje van Heist' is nu een leuk recreatiepark.
 
@@ -42,7 +42,7 @@ De afgelopen jaren kreeg het park een grondige facelift. Het mooi verzorgde park
 
 ### Beachclub Anemos
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-door-de-schoonheid-van-de-zwinregio/anemos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/anemos.jpg" extlink="/nl/doen/anemos-beachclub" %}}
 
 Een ideale plek om even op adem te komen en te genieten van strand- en watersport vanaf het mooie terras. Of ben je leiver toch zelf actief? Dat kan ook!
 
@@ -52,7 +52,7 @@ Een ideale plek om even op adem te komen en te genieten van strand- en waterspor
 
 ### Damme
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-door-de-schoonheid-van-de-zwinregio/foto_4_damme_rondom.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/arrangementen/foto_4_damme_rondom.jpg" extlink="https://www.brugseommeland.be/nl/praktische-info/toerisme-damme" %}}
 
 Dit pittoreske stadje is zeker een bezoekje waard. Het boekendorp is de uitgelezen plek om even op adem te komen en te genieten.
 
@@ -62,7 +62,7 @@ Dit pittoreske stadje is zeker een bezoekje waard. Het boekendorp is de uitgelez
 
 ### Damse Vaart
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-door-de-schoonheid-van-de-zwinregio/langs-de-damse-vaart.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/flanders_fields/campagnes/langs-de-damse-vaart.jpg" %}}
 
 Een prachtig decor om langs te fietsen; de Damse Vaart. Het unieke landschap is gekend om zijn statige populierenrijen die langs het water groeien.
 
@@ -70,7 +70,7 @@ Een prachtig decor om langs te fietsen; de Damse Vaart. Het unieke landschap is 
 
 ### Het Zwin
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-door-de-schoonheid-van-de-zwinregio/knokkeheist_37.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/knokkeheist_37.jpg" extlink="/nl/doen/zwin-natuur-park" %}}
 
 Je trapt doorheen het Natuurreservaat Het Zwin. Houd zeker ook even halt aan het Zwin Natuurpark. Je ontdekt er op een leuke manier de wereld van de vogels. Om van het prachtige zicht op de zwinvlakte maar te zwijgen.
 

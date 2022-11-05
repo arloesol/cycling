@@ -1,7 +1,7 @@
 ---
 title: "West-Vlaamse Bergenfietsroute"
 subtitle: "De West-Vlaamse Bergenfietsroute neemt je mee op verkenning in het Heuvelland"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De West-Vlaamse Bergenfietsroute neemt je mee op verkenning in het Heuvelland" 
 tags:
   - flanders

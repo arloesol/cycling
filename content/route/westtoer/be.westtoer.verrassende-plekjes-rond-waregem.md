@@ -1,7 +1,7 @@
 ---
 title: "Verrassende plekjes rond Waregem"
 subtitle: "Dit fietslusje start in Waregem en verkent ook de gemeenten Anzegem, Deerlijk en Harelbeke"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Dit fietslusje start in Waregem en verkent ook de gemeenten Anzegem, Deerlijk en Harelbeke" 
 tags:
   - flanders

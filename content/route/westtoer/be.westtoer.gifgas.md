@@ -3,7 +3,7 @@ title: "Gifgas"
 subtitle: "Fietsroute 14-18
 
 Op 22 april 1915 openen Duitse troepen ongeveer 6000 gasflessen gevuld met chloorgas over een 6 km lange frontlijn tussen de Stampkothoeve en ‘t Halfweghe huys"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 Op 22 april 1915 openen Duitse troepen ongeveer 6000 gasflessen gevuld met chloorgas over een 6 km lange frontlijn tussen de Stampkothoeve en ‘t Halfweghe huys" 

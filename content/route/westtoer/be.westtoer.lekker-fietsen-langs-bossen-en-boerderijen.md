@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Langs bossen en boerderijen"
 subtitle: "Kom op verkenning in de Kasteelbossen en sluit af met een bezoekje aan Kijkboerderij Pierlapont"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Kom op verkenning in de Kasteelbossen en sluit af met een bezoekje aan Kijkboerderij Pierlapont" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Starten kan bij knooppunt 70 (parking Tillegembos in Brugge)
 
 ### Tillegem
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-langs-bossen-en-boerderijen/lage_resolutie-tillegem.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lage_resolutie-tillegem.jpg" extlink="/nl/doen/tillegembos" %}}
 
 Tussen 59 en 70
 
@@ -46,7 +46,7 @@ Tillegembos met kasteel (niet toegankelijk) met uitgestrekte wandelpaden, een ro
 
 ### Kasteel Beisbroek En Het Koetsenhuis
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-langs-bossen-en-boerderijen/beisbroek.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/beisbroek.jpg" extlink="/nl/doen/kasteel-beisbroek" %}}
 
 Bij 61
 
@@ -58,7 +58,7 @@ Volkssterrenwacht Cozmix in kasteel Beisbroek en planetenpad. Vlak ernaast genie
 
 ### Pluktuin Landgoed Lisbona
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-langs-bossen-en-boerderijen/landgoed_lisbona_3.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/landgoed_lisbona_3.jpg" extlink="/nl/doen/landgoed-lisbona" %}}
 
 Tussen 73 en 67
 
@@ -70,7 +70,7 @@ Je hoeft geen grote moestuin of bloementuin te hebben om te genieten van verse g
 
 ### Hoeve-Ijs Z
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-langs-bossen-en-boerderijen/annelies_geconcentreerd_op_ijsje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/annelies_geconcentreerd_op_ijsje.jpg" extlink="/nl/eten-drinken/hoeve-ijs-z" %}}
 
 Bij 14
 
@@ -82,7 +82,7 @@ Zalig zoete zuivel uit Zedelgem. Het gluten-, lactose en suiekrvrije ijs én de 
 
 ### Kijkboerderij Pierlapont
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-langs-bossen-en-boerderijen/lage_resolutie-gasthof_lophem_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lage_resolutie-gasthof_lophem_1.jpg" extlink="/nl/doen/kijkboerderij-de-pierlapont" %}}
 
 Tussen 74 en 10
 

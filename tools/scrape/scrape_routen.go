@@ -107,9 +107,9 @@ func main() {
 		})
 		contentfmt := `### %s
 
-{{%% imgandexttxt url="%s" %%}}
+{{%% imgandtxt url="%s" %%}}
 %s%s
-{{%% /imgandexttxt %%}}
+{{%% /imgandtxt %%}}
 
 `
 		if poidesc != "" {

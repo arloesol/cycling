@@ -1,7 +1,7 @@
 ---
 title: "Trappen van stad naar strand met Jaek en Nink"
 subtitle: "Deze route vertrekt op de Grote Markt in Veurne"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Deze route vertrekt op de Grote Markt in Veurne" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ De route start op de Grote Markt van Veurne, maar wie dit wenst kan ook van de z
 
 ### Vaubanpark
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-van-stad-naar-strand-met-jaek-en-nink/vaubanpark.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/vaubanpark.jpg" %}}
 
 De verschillende heuvels en de waterpartijen verwijzen nog naar de Vaubanvestingen, maar zijn nu het ideale speelterrein voor kinderen.
 
@@ -40,7 +40,7 @@ De verschillende heuvels en de waterpartijen verwijzen nog naar de Vaubanvesting
 
 ### Bakkerijmuseum
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-van-stad-naar-strand-met-jaek-en-nink/bakkerijmuseum_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/bakkerijmuseum_0.jpg" %}}
 
 Tijdens de vakantie kunnen kinderen een broodje kneden en bakken of kunnen ze de huisbakker assisteren bij het vervaardigen van lekkere koekjes.
 
@@ -48,7 +48,7 @@ Tijdens de vakantie kunnen kinderen een broodje kneden en bakken of kunnen ze de
 
 ### Duinpanne
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-van-stad-naar-strand-met-jaek-en-nink/de_nachtegaal.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_nachtegaal.jpg" %}}
 
 De Duinpanne is de ideale uitvalsbasis voor een wandeling door één van de duincomplexen van de Westkust.
 
@@ -56,8 +56,8 @@ De Duinpanne is de ideale uitvalsbasis voor een wandeling door één van de duin
 
 ### Hoeve Paepehof
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-van-stad-naar-strand-met-jaek-en-nink/hoeve_paepehof.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/hoeve_paepehof.jpg" %}}
 
-Breng een bezoek aan de dieren op de authentieke boerderij en maak kennis met het boerderijleven. Geniet in het Eetkaffee of op het gezellig zonneterras met zicht op de grote speeltuin. 
+Breng een bezoek aan de dieren op de authentieke boerderij en maak kennis met het boerderijleven. Geniet in het Eetkaffee of op het gezellig zonneterras met zicht op de grote speeltuin.
 
 {{% /imgandtxt %}}

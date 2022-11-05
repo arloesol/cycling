@@ -1,7 +1,7 @@
 ---
 title: "De Moerenfietsroute"
 subtitle: "De Moerenroute brengt je door een heel afwisselend landschap"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Moerenroute brengt je door een heel afwisselend landschap" 
 tags:
   - flanders

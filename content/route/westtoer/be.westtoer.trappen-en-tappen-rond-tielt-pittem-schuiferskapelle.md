@@ -1,7 +1,7 @@
 ---
 title: "Trappen en Tappen rond Tielt-Pittem-Schuiferskapelle"
 subtitle: "Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Knooppunt 48 (Markt Tielt)
 
 ### Brouwerij Maenhout 
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-en-tappen-rond-tielt-pittem-schuiferskapelle/maenhout.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/maenhout.jpg" %}}
 
 (ca. 10 min van de route). In het centrum van Pittem volg je de Stationsstraat tot aan het rondpunt waar je de eerste afslag neemt (Joos de ter Beerstlaan). Aan het volgende rondpunt ga je rechtsaf (Brugsesteenweg). Een eindje verder op de rechterkant vind je brouwerij Maenhout. Terugkeren naar het fietsnetwerk doe je via dezelfde weg.
 
@@ -42,7 +42,7 @@ In 2009 startten Thijs en Birgit met de brouwerij. De brouwzaal werd al snel te 
 
 ### Verbiestcentrum
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-en-tappen-rond-tielt-pittem-schuiferskapelle/ferdinand_verbiestcentrum.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/praktische_info/ferdinand_verbiestcentrum.jpg" %}}
 
 Dit bezoekerscentrum is bekend tot in China! De reden: Ferdinand Verbiest, bekendste Pittemnaar en manusje-van-alles. Deze pater/missionaris/astronoom/diplomaat/uitvinder bracht een belangrijk stuk van zijn leven door aan het keizerlijk hof in China. De ene na de andere uitvinding passeert hier de interactieve revue en ondertussen leer je je eerste woordjes Chinees. (Markt 1, Pittem)
 
@@ -50,7 +50,7 @@ Dit bezoekerscentrum is bekend tot in China! De reden: Ferdinand Verbiest, beken
 
 ### Gelegenheidscafeetje
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-en-tappen-rond-tielt-pittem-schuiferskapelle/dirty_scum.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/dirty_scum.jpg" extlink="http://www.thedirtyscums.com" %}}
 
 Op verschillende zondagnamiddagen in juli en augustus is er in de Bilkbosstraat in Schuiferskapelle ter hoogte van huisnummer 9 een gelegenheidscafeetje waar je geniet van onder meer Nen Dirty Scu. Op [www.thedirtyscums.com](http://www.thedirtyscums.com) lees je meer over het ontstaan van het bier én de exacte openingsdata van het cafeetje.
 
@@ -58,7 +58,7 @@ Op verschillende zondagnamiddagen in juli en augustus is er in de Bilkbosstraat 
 
 ### 'T Een En 'T Ander
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-en-tappen-rond-tielt-pittem-schuiferskapelle/t_een_en_t_ander.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/t_een_en_t_ander.jpg" %}}
 
 Even pauze voor een lokaal drankje! In dit nostalgisch dorpswinkeltje annex café drink je hier op het zuidgerichte terras een streekbiertje. Bonus: je kan hier meteen je picknickmand volladen voor het vervolg van je trip. (Schuiferskapelledorp 3, Schuiferskapelle)
 

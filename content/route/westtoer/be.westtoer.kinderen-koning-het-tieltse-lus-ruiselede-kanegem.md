@@ -1,7 +1,7 @@
 ---
 title: "Kinderen koning in het Tieltse - lus Ruiselede - Kanegem"
 subtitle: "Kinderen zijn koning in het Brugse Ommeland"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Kinderen zijn koning in het Brugse Ommeland" 
 tags:
   - flanders
@@ -32,15 +32,15 @@ Knooppunt 30 (Kruispunt A. Rodenbachstraat met Verlovestraat in Ruiselede).
 
 ### Hostens En Knokmolen (Nabij 30)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-ruiselede-kanegem/hostens_molen_ruiselede.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/praktische_info/hostens_molen_ruiselede.jpg" extlink="/nl/doen/hostens-molen" %}}
 
-De [Hostens Molen](https://www.westtoer.be/nl/doen/hostens-molen) werd in de 18de eeuw gebouwd op een wal. Het is een graanmolen met een stenen bovenkruier. Je kan de molen gaan bezoeken elke zondag van 10.00 tot 12.00 uur. Ook de [Knokmolen](https://www.westtoer.be/nl/doen/knokmolen) in Ruiselede is regelmatig op zaterdagnamiddag in werking, en is een bezoekje overwaard. 
+De [Hostens Molen](https://www.westtoer.be/nl/doen/hostens-molen) werd in de 18de eeuw gebouwd op een wal. Het is een graanmolen met een stenen bovenkruier. Je kan de molen gaan bezoeken elke zondag van 10.00 tot 12.00 uur. Ook de [Knokmolen](https://www.westtoer.be/nl/doen/knokmolen) in Ruiselede is regelmatig op zaterdagnamiddag in werking, en is een bezoekje overwaard.
 
 {{% /imgandtxt %}}
 
 ### Aardbeienautomaat (Nabij 30-39)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-ruiselede-kanegem/aardbeienautomaat.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/aardbeienautomaat.jpg" extlink="/nl/eten-drinken/aardbeienautomaat-ruiselede" %}}
 
 In deze [automaat](https://www.westtoer.be/nl/eten-drinken/aardbeienautomaat-ruiselede) alleen maar gezonde snoepjes! Wie even van de route afwijkt, vindt hier 24/7 de meest verse aardbeien.
 
@@ -48,7 +48,7 @@ In deze [automaat](https://www.westtoer.be/nl/eten-drinken/aardbeienautomaat-rui
 
 ### Parochieveldbos (Nabij 39-54)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-ruiselede-kanegem/parochieveldbos_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/parochieveldbos_1.jpg" extlink="/nl/doen/parochieveld-bruwaanbos" %}}
 
 In het 35 ha grote [Parochieveld en Bruwaanbos](https://www.westtoer.be/nl/doen/parochieveld-bruwaanbos) vind je middenin een prachtige vijver met glashelder water, 'de Visserij'. Even verderop ontdek je een avontuurlijk speelbos.
 
@@ -56,7 +56,7 @@ In het 35 ha grote [Parochieveld en Bruwaanbos](https://www.westtoer.be/nl/doen/
 
 ### De Radio (Nabij 54)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-ruiselede-kanegem/radio.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/radio.jpg" extlink="/nl/eten-drinken/de-radio" %}}
 
 Er zijn vele redenen om halt te houden in [De Radio](https://www.westtoer.be/nl/eten-drinken/de-radio): zijn interieur met bommalook, de collectie kinderstoelen of de aanstekelijke ambiance. De Radio is de perfecte stop voor families met kinderen.
 
@@ -64,15 +64,15 @@ Er zijn vele redenen om halt te houden in [De Radio](https://www.westtoer.be/nl/
 
 ### Disveld
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-ruiselede-kanegem/disveld2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/disveld2.jpg" extlink="/nl/doen/gemeentepark-disveld" %}}
 
-Het [park Disveld](https://www.westtoer.be/nl/doen/gemeentepark-disveld) ligt in de schaduw van de Doomkerkse kerktoren. Er is een speelbos, speelweide, speelmoeras, boomgaard en educatieve poel, schapenweide, openlucht theater en leuke speeltoestellen. Rusten kan op de banken of picknickplaatsen. 
+Het [park Disveld](https://www.westtoer.be/nl/doen/gemeentepark-disveld) ligt in de schaduw van de Doomkerkse kerktoren. Er is een speelbos, speelweide, speelmoeras, boomgaard en educatieve poel, schapenweide, openlucht theater en leuke speeltoestellen. Rusten kan op de banken of picknickplaatsen.
 
 {{% /imgandtxt %}}
 
 ### Kanegem
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-ruiselede-kanegem/kanegem_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/kanegem_1.jpg" extlink="/nl/doen/flandrienhuis" %}}
 
 Kanegem is een pittoresk bloemendorp. Je kan in de raadszaal van het vroegere gemeentehuis van Kanegem [het 'Flandrienhuis'](https://www.westtoer.be/nl/doen/flandrienhuis) een bezoekje brengen, een ware ode aan wielerlegende Briek Schotte.
 
@@ -80,7 +80,7 @@ Kanegem is een pittoresk bloemendorp. Je kan in de raadszaal van het vroegere ge
 
 ### De Naelde (Nabij 69)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-ruiselede-kanegem/de_naelde_2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/de_naelde_2.jpg" extlink="/nl/eten-drinken/de-naelde" %}}
 
 [Restaurant/tearoom](https://www.westtoer.be/nl/eten-drinken/de-naelde) met prachtig terras en bijhorend speeltuintje.
 
@@ -88,7 +88,7 @@ Kanegem is een pittoresk bloemendorp. Je kan in de raadszaal van het vroegere ge
 
 ### De Nieuwe Lekkerbek (Nabij 49-30)
 
-{{% imgandtxt url="/routes/page/be.westtoer.kinderen-koning-het-tieltse-lus-ruiselede-kanegem/speeltuin_en_terras_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/speeltuin_en_terras_0.jpg" extlink="/nl/eten-drinken/de-nieuwe-lekkerbek" %}}
 
 In deze kindvriendelijke [tea-room en bistro](https://www.westtoer.be/nl/eten-drinken/de-nieuwe-lekkerbek) maakte mascotte Bekske een menu op maat van kleine buikjes tegen kleine prijzen. Ravotten doen ze in de speeltuin.
 

@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs Brouwerij 't Gaverhopke"
 subtitle: "Deze fietsroute verkent de mooie omgeving van Waregem"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Deze fietsroute verkent de mooie omgeving van Waregem" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Knooppunt 72
 
 ### Brouwerij Gaverhopke
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-brouwerij-t-gaverhopke/gaverhopke_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/gaverhopke_1.jpg" extlink="/nl/eten-drinken/ambachtelijke-brouwerij-t-gaverhopke" %}}
 
 Hier worden de ‘Gaverhopkes’, met liefde voor de brouwkunst, op ambachtelijke wijze gebrouwen. Alle ingrediënten zijn volledig natuurlijk en groeien in eigen streek. Deze unieke mix van West-Vlaamse bodem kan je enkel proeven in ‘t Gaverhopke. In het weekend kan je in het café op de beschermde site Goed te Nieuwenhove ook de biertjes degusteren.
 
@@ -44,7 +44,7 @@ Hier worden de ‘Gaverhopkes’, met liefde voor de brouwkunst, op ambachtelijk
 
 ### Park Baron Casier
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-brouwerij-t-gaverhopke/park_baron_casier.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/park_baron_casier.jpg" extlink="/nl/doen/park-baron-casier" %}}
 
 Het beschermde kasteelpark Baron Casier is een groen rustpunt van 8 ha. Het 19de-eeuwse domein laat je prachtige oude bomen en mooie vijvers zien. Kinderen kunnen er zich uitleven in de speeltuin. Het neoclassicistische kasteel met tearoom is de blikvanger. Hier kan je perfect genieten van een heerlijke koffie in een exclusief historisch kader.
 
@@ -54,7 +54,7 @@ Het beschermde kasteelpark Baron Casier is een groen rustpunt van 8 ha. Het 19de
 
 ### Flanders Fields American Cemetry
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-brouwerij-t-gaverhopke/flanders_fields_american_cemetry.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/flanders_fields_american_cemetry.jpg" extlink="/nl/doen/flanders-field-american-cemetery" %}}
 
 Deze Amerikaanse militaire begraafplaats is de kleinste in Europa en ook de enige Amerikaanse begraafplaats uit WOI in ons land. Het stijlvolle ‘Flanders Field American Cemetery‘ telt 368 zerken in wit marmer uit Carrara en ligt in een mooi park van 2 ha. In 1927 bracht Charles Lindbergh vanuit zijn Spirit of St.Louis een eresaluut met poppies boven de graven.
 

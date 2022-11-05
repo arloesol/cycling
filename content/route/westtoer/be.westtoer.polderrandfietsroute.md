@@ -1,7 +1,7 @@
 ---
 title: "Polderrandfietsroute"
 subtitle: "Welkom aan de rand van de kustpolders"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Welkom aan de rand van de kustpolders" 
 tags:
   - flanders

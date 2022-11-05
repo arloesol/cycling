@@ -3,7 +3,7 @@ title: "Pionier"
 subtitle: "Fietsroute 14-18
 
 De fietsroute neemt je mee doorheen het frontlandschap en vertelt het verhaal van de Duitse activiteiten in de streek tussen de Tweede en de Derde slag van Ieper"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 De fietsroute neemt je mee doorheen het frontlandschap en vertelt het verhaal van de Duitse activiteiten in de streek tussen de Tweede en de Derde slag van Ieper" 

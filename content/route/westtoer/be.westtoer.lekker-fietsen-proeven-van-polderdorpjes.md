@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Proeven van Polderdorpjes"
 subtitle: "Onderweg geniet je van de vele polderdorpjes, klein maar fijn"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Onderweg geniet je van de vele polderdorpjes, klein maar fijn" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Starten kan aan knooppunt 5 (kruispunt van de Polderstraat met de Keerweg)
 
 ### 'T Fietskotje
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-proeven-van-polderdorpjes/_dsc8109_2_-_lr.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/_dsc8109_2_-_lr.jpg" extlink="/nl/eten-drinken/t-fietskotje" %}}
 
 Tussen 5 en 96
 
@@ -46,7 +46,7 @@ Ooit al pannenkoeken aan de lopende meter gegeten? Dan is dit je kans!
 
 ### Herberg De Drie Koningen
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-proeven-van-polderdorpjes/herberg_drie_koningen_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/herberg_drie_koningen_0.jpg" extlink="/nl/eten-drinken/herberg-drie-koningen" %}}
 
 Tussen 20 en 29
 
@@ -58,7 +58,7 @@ Dat de tijd hier bleef stilstaan is een understatement. Stevige boerenkost uit d
 
 ### Vlissegem
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-proeven-van-polderdorpjes/2021-03-07_14.53.46-1_-_lr.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/2021-03-07_14.53.46-1_-_lr.jpg" %}}
 
 Tussen 28 en 98
 
@@ -68,7 +68,7 @@ Polderdorpje Vlissegem met kijkhut Put van Vlissegem
 
 ### Bistro De Kruidenmolen
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-proeven-van-polderdorpjes/kruidenmolen_230414_0193.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/kruidenmolen_230414_0193.jpg" extlink="/nl/eten-drinken/de-kruidenmolen" %}}
 
 Tussen 98 en 12
 
@@ -80,7 +80,7 @@ Klantvriendelijkheid en het aanbieden van kwaliteit en creativiteit worden hier 
 
 ### Brouwerij Betsy
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-proeven-van-polderdorpjes/20210904_2493_-_kopie.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/20210904_2493_-_kopie.jpg" extlink="/nl/eten-drinken/brouwerij-betsy-bierfirma" %}}
 
 Even afwijken na 67
 

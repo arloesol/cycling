@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in de buurt van Ardooie"
 subtitle: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ardooie via de knooppunten van dit voor jou uitgestippelde lusje"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ardooie via de knooppunten van dit voor jou uitgestippelde lusje" 
 tags:
   - flanders

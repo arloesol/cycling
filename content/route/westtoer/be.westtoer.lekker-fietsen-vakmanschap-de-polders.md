@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Vakmanschap in de polders"
 subtitle: "Onderweg zie je opvallend veel vakmanschap"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Onderweg zie je opvallend veel vakmanschap" 
 tags:
   - flanders
@@ -34,7 +34,7 @@ Starten kan aan de Oostmolensite in Gistel (Warandestraat 29)
 
 ### Oostmolensite
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-vakmanschap-de-polders/gistel_oostmolensite1_-_kopie.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/gistel_oostmolensite1_-_kopie.jpg" extlink="/nl/doen/oostmolensite-en-bezoekerscentrum" %}}
 
 Nabij 63
 
@@ -46,7 +46,7 @@ Molens oubollig? Dat had je gedacht! De hippe molenaar, het zalige terras en het
 
 ### Kenny's Paradijs
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-vakmanschap-de-polders/kennys_paradijs.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/kennys_paradijs.jpg" extlink="/nl/eten-drinken/kennys-paradijs" %}}
 
 Even afwijken tussen 32 en 35
 
@@ -58,7 +58,7 @@ Dit adres dekt de lading: een paradijs waar je in alle rust geniet van een drank
 
 ### Estaminet Ter Spinde
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-vakmanschap-de-polders/2014_fotokazo_terspinde_026_-_kopie.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/2014_fotokazo_terspinde_026_-_kopie.jpg" extlink="/nl/eten-drinken/estaminet-ter-spinde" %}}
 
 Bij 40
 
@@ -70,7 +70,7 @@ Hoogbejaarde estaminet van maar liefst 300 jaar oud, dan weet je dat het goed is
 
 ### ’T Kruidenboerderietje
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-vakmanschap-de-polders/kruidenboerderietje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/kruidenboerderietje.jpg" extlink="/nl/doen/%E2%80%99t-kruidenboerderietje" %}}
 
 Tussen knooppunt 9 en 23.
 
@@ -82,7 +82,7 @@ Idyllische kruidentuin met kabouterwinkeltje. op het terras geniet je van een kr
 
 ### 'T Spaans Tolhuis
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-vakmanschap-de-polders/20200802_182314_3.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/20200802_182314_3.jpg" extlink="/nl/eten-drinken/t-spaans-tolhuis" %}}
 
 Bij 66
 
@@ -94,7 +94,7 @@ Klein wit huisje met een grote geschiedenis! Eveneens fiets-, wandel- en vaartst
 
 ### Ram
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-vakmanschap-de-polders/ram_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/campagnes/ram_0.jpg" extlink="/nl/doen/romeins-archeologisch-museum" %}}
 
 Tussen knooppunt 66 en 62.
 

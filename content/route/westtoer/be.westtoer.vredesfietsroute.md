@@ -1,7 +1,7 @@
 ---
 title: "Vredesfietsroute"
 subtitle: "De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog" 
 tags:
   - flanders

@@ -1,7 +1,7 @@
 ---
 title: "Flirten met de Nederlandse grens in Knokke-Heist"
 subtitle: "Een fietstocht naar het volgende niveau tillen"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Een fietstocht naar het volgende niveau tillen" 
 tags:
   - flanders
@@ -36,7 +36,7 @@ Starten kan je ter hoogte van knooppunt 13 (Anemos Beachclub ter hoogte van Anem
 
 ### Beachclubs
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-de-nederlandse-grens-knokke-heist/beachlife-aan-zee.png" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/beachlife-aan-zee.png" %}}
 
 In Knokke-Heist vind je verschillende beachclubs op het strand. Heerlijk om even uit te plaatsen en te genieten van de actie op strand en zee vanaf het terras. Zin om zelf ook een strand- of watersport te beoefenen? Informeer je dan even bij de club.
 
@@ -44,7 +44,7 @@ In Knokke-Heist vind je verschillende beachclubs op het strand. Heerlijk om even
 
 ### Hazegras
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-de-nederlandse-grens-knokke-heist/hazegras_copyright_sincfala.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/hazegras_copyright_sincfala.jpg" extlink="/nl/slapen/hoeve-hazegras" %}}
 
 Stop! Hier wachten immers heerlijk ambachtelijk hoeve-ijsjes. Tijd dus om even halt te houden en één van de [15 verschillende smaken](https://www.westtoer.be/nl/slapen/hoeve-hazegras) te proeven.
 
@@ -52,7 +52,7 @@ Stop! Hier wachten immers heerlijk ambachtelijk hoeve-ijsjes. Tijd dus om even h
 
 ### Zoete Polder
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-de-nederlandse-grens-knokke-heist/zoete_polder_copyright_knokkeheist.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/zoete_polder_copyright_knokkeheist.jpg" extlink="/nl/doen/de-zoete-polder" %}}
 
 In de [Zoete Polder](https://www.westtoer.be/nl/doen/de-zoete-polder) worden dikke donkere kersen gekweekt en wat ‘s morgensvroeg geplukt wordt, kan je je wat later aanschaffen. De kersen die de test niet doorstaan, worden op artisanale wijze tot confituur verwerkt, tot sap geperst of omgetoverd tot friszoet kersenbier. Een boomgaard vol vitaminen.
 
@@ -60,7 +60,7 @@ In de [Zoete Polder](https://www.westtoer.be/nl/doen/de-zoete-polder) worden dik
 
 ### Kalfmolen
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-de-nederlandse-grens-knokke-heist/kalfmolen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/kalfmolen.jpg" extlink="/nl/doen/kalfmolen" %}}
 
 Ooit moeten er in het polderlandschap talloze windmolens hebben gestaan, nu is de [Kalfmolen](https://www.westtoer.be/nl/doen/kalfmolen) aan de Graaf Jansdijk een van de weinig overblijvende. De molen werd opgetrokken in de 16de eeuw en reed zijn laatste rondje in 1926. Sinds 1980 werd er opnieuw leven in geblazen en werkt de molen terug tijdens de Molenfeesten.
 
@@ -68,7 +68,7 @@ Ooit moeten er in het polderlandschap talloze windmolens hebben gestaan, nu is d
 
 ### Zeesterren
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-de-nederlandse-grens-knokke-heist/gastronomie.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/gastronomie.jpg" %}}
 
 Om je aan de Kust écht culinair te laten verwennen, moet je niet veel moeite doen. Je vindt er immers zeven(!) sterrenrestaurants die je het beste serveren wat de kustgastronomie te bieden heeft.
 
@@ -80,7 +80,7 @@ En ook in GaultMillau scoort de Kust zeer goed!
 
 ### Shoppen Aan De Kust
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-de-nederlandse-grens-knokke-heist/shoppen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/shoppen.jpg" %}}
 
 Ook op zondag ben je van harte welkom om te flaneren langs de mooiste boetieks. Knokke-Heist heeft in binnen- en buitenland faam als shoppingbestemming: van de Lippenslaan over de Kunstlaan tot en met de Zeedijk, hier wordt geshopt zoals het hoort. Vol overgave.
 

@@ -1,7 +1,7 @@
 ---
 title: "Leiestreekfietsroute"
 subtitle: "Ontdek de mooiste hoekjes van de Leiestreek tussen Gent en Deinze, in een landschap dat talloze kunstenaars inspireerde"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Ontdek de mooiste hoekjes van de Leiestreek tussen Gent en Deinze, in een landschap dat talloze kunstenaars inspireerde" 
 tags:
   - flanders

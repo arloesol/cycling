@@ -1,7 +1,7 @@
 ---
 title: "Westkustfietsroute"
 subtitle: "De Westkustfietsroute laat je kennismaken met de grote verscheidenheid die de Westkust te bieden heeft"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De Westkustfietsroute laat je kennismaken met de grote verscheidenheid die de Westkust te bieden heeft" 
 tags:
   - flanders
@@ -28,7 +28,7 @@ Parking Canadezenplein, Canadezenplein zn, 8660 De Panne - Toerisme Koksijde, Ze
 
 ### Bezoekerscentrum Duinpanne
 
-{{% imgandtxt url="/routes/page/be.westtoer.westkustfietsroute/bezoekerscentrum-duinpanne.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/bezoekerscentrum-duinpanne.jpg" extlink="https://www.westtoer.be/nl/node/133531" %}}
 
 In het centrum in De Panne ontdek je de pracht van de regio en de natuurlijke omgeving. Laat je buiten én binnen verrassen door het unieke duin-, kust- en zeeleven.
 
@@ -38,7 +38,7 @@ In het centrum in De Panne ontdek je de pracht van de regio en de natuurlijke om
 
 ### Bezoekerscentrum Westfront
 
-{{% imgandtxt url="/routes/page/be.westtoer.westkustfietsroute/bezoekerscentrum-westfront.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/bezoekerscentrum-westfront.jpg" extlink="https://www.westtoer.be/nl/node/59032" %}}
 
 Onder het imposante Albert I Monument in Nieuwpoort vind je alles over de onderwaterzetting van de poldervlakte in 1914. Een verhaal over de kracht van het zeewater en het slim dirigeren van sluizen en sassen.
 
@@ -48,7 +48,7 @@ Onder het imposante Albert I Monument in Nieuwpoort vind je alles over de onderw
 
 ### Dumontwijk
 
-{{% imgandtxt url="/routes/page/be.westtoer.westkustfietsroute/dumontwijk_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/dumontwijk_0.jpg" extlink="https://www.westtoer.be/nl/node/59868" %}}
 
 In de unieke en beschermde Dumontwijk in De Panne ontdek je bouwstijlen van de belle-epoque, de art deco en het modernisme tot de
 
@@ -60,7 +60,7 @@ cottagestijl.
 
 ### Navigo - Nationaal Visserijmuseum
 
-{{% imgandtxt url="/routes/page/be.westtoer.westkustfietsroute/navigomuseum.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/navigomuseum.jpg" extlink="https://www.westtoer.be/nl/node/59302" %}}
 
 Het Koksijdse museum verenigt erfgoed, kunst, ambacht en natuur van de Noordzee.
 
@@ -70,7 +70,7 @@ Het Koksijdse museum verenigt erfgoed, kunst, ambacht en natuur van de Noordzee.
 
 ### Sint-Niklaaskerk
 
-{{% imgandtxt url="/routes/page/be.westtoer.westkustfietsroute/sint-niklaaskerk.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/sint-niklaaskerk.jpg" %}}
 
 Bovenop de hoge Sint-Niklaastoren op de Markt in Veurne wacht je een adembenemend uitzicht. Je ziet er tot aan de zee, het West-Vlaamse Heuvelland en zelfs de haven in het Noord-Franse Duinkerke bij helder weer.
 

@@ -1,7 +1,7 @@
 ---
 title: "Kunst in de Oost-Vlaamse Leiestreek"
 subtitle: "Deze fietsroute start in het centrum van Deinze, de toegangspoort tot de Oost-Vlaamse Leiestreek"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Deze fietsroute start in het centrum van Deinze, de toegangspoort tot de Oost-Vlaamse Leiestreek" 
 tags:
   - flanders

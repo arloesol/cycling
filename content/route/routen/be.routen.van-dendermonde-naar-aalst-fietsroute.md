@@ -24,27 +24,27 @@ Spring op je fiets in de Ros Beiaardstad Dendermonde voor een rit richting Aalst
 
 ### Dendermonde
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-08/Stadhuis-van-Dendermonde-op-grote-markt.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-08/Stadhuis-van-Dendermonde-op-grote-markt.jpg" %}}
 Startpunt
 
 Je bent nog maar net vertrokken of je botst al op het eerste hoogtepunt van deze route: het mooie centrum van Dendermonde. Op de gezellige Grote Markt kan je vanop de vele terrasjes genieten van een zicht op het prachtige stadhuis. Deze voormalige lakenhalle met belfort dateert uit de 14de eeuw. Tijdens de zomermaanden sieren elf heraldische vlaggen de gevel.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Brusselse Forten
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-08/Vijver-Brusselse-Forten-in-Dendermonde.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-08/Vijver-Brusselse-Forten-in-Dendermonde.jpg" %}}
 Knooppunt 84
 
 Na het verlaten van het centrum, kom je al snel terecht in een mooi stukje natuur. Een vijver van 5ha met omringende bomen zorgt voor wat groen bij de stad. Oorspronkelijk waren de Brusselse Forten deel van de stadswallen aan de rand van de stadskern.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Zwembad Olympos & Tikipad
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-08/Tikipad.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-08/Tikipad.jpg" %}}
 Knooppunt 84
 
 Vervolgens rijd je bijna voorbij het station (deze route is dus ook heel goed met de trein te doen) langs zwembad Olympos. Met zijn glijbanen, verwarmd buitenbad, draaibad en groot kleuter- en peuterbad, is het de ideale plek voor waterpret. Naast het zwembad vind je het Tikipad, een speelse wandeling van ongeveer 600m voor de allerkleinsten.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Ijshoeve Nicky
 
@@ -54,34 +54,34 @@ Via enkele leuke binnenwegen zet je de route verder. Even tijd voor een stop? Da
 
 ### Leirekensroute
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-08/Brasserie-de-Graankorrel.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-08/Brasserie-de-Graankorrel.jpg" %}}
 Knooppunt 44-34
 
 De Leirekensroute is een fietspad dat Aalst met Londerzeel verbindt over de vroegere spoorwegverbinding. Waar vroeger het station was, kan je nu een leuke horecazaak terugvinden, ingericht alsof je in een trein zit: ’t Stationneke. Maar er zijn nog andere leuke horecazaken te ontdekken langs de Leirekensroute. Volgende stop is de Loereman, een gezellige en kindvriendelijke zomerbar (open van mei tot september) gevolgd door De Graankorrel, een brasserie met smakelijk eten, lekker drinken en goede muziek.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Carnavalswerkhallen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-08/Carnavalswerkhallen-utopia.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-08/Carnavalswerkhallen-utopia.jpg" %}}
 Knooppunt 34
 
 Dat je de carnavalsstad Aalst nadert, wordt al snel duidelijk. Vlak voor je Aalst binnen fietst, rijd je langs de de carnavalswerkhallen. De hallen bieden onderdak aan verschillende Aalsterse carnavalgroepen. Hier werken ze aan hun praalwagens die tijdens carnaval zullen meerijden in de stoet. ‘Team Alosta’ gaf de hallen kleur met graffiti.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Aalst
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-05/Werfplein_aalst.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-05/Werfplein_aalst.jpg" %}}
 Knooppunt 37
 
 Wijk bij knooppunt 37 zeker even van de route af en volg de Molenstraat naar de Grote Markt van Aalst, nog zo’n gezellig plein. Ook hier kan je genieten van leuke terrasjes en een zicht op verschillende mooie gebouwen zoals het schepenhuis, het stadhuis, de Borse van Amsterdam en Herberg Graaf van Egmond
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Jaagpad Dender
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-09/fietsen%20Dendervallei.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-09/fietsen%20Dendervallei.jpg" %}}
 Knooppunt 28-91
 
 Via het jaagpad langs de Dender keer je terug naar Dendermonde.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Met Jaek en Nink door het vlakke land"
 subtitle: "Voor deze route kan je vertrekken aan Mout- & Brouwhuis De Snoek (Alveringem) voor een gezellig namiddagje uit door het vlakke land"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Voor deze route kan je vertrekken aan Mout- & Brouwhuis De Snoek (Alveringem) voor een gezellig namiddagje uit door het vlakke land" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Mout- en Brouwhuis De Snoek, Fortem 40, 8690 Alveringem - Toeristische Dienst, M
 
 ### Mout- En Brouwhuis De Snoek
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-door-het-vlakke-land/mout-_en_brouwhuis.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/mout-_en_brouwhuis.jpg" %}}
 
 In de museumherberg kan je heel wat leuke volksspelletjes spelen zoals de toptafel, het hamertjesspel of de sjoelbak. Voor de ouders staat er een uitgebreide bierkaart ter beschikking.
 
@@ -40,15 +40,15 @@ In de museumherberg kan je heel wat leuke volksspelletjes spelen zoals de toptaf
 
 ### Pannendorp
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-door-het-vlakke-land/pannendorpsite.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/pannendorpsite.jpg" %}}
 
-Deze felgekleurde muurtjes symboliseren de Belgische en Duitse linie tijdens WO I. 
+Deze felgekleurde muurtjes symboliseren de Belgische en Duitse linie tijdens WO I.
 
 {{% /imgandtxt %}}
 
 ### Bezoekerscentrum Jules Destrooper
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-door-het-vlakke-land/jules_destrooper_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/jules_destrooper_0.jpg" %}}
 
 Hier in Lo bakt Jules Destrooper zijn lekkerste koekjes. Breng een bezoekje en leer alles over het bakken van de koekjes en Jules' beroemde lukken.
 
@@ -56,8 +56,8 @@ Hier in Lo bakt Jules Destrooper zijn lekkerste koekjes. Breng een bezoekje en l
 
 ### Markeymolen
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-door-het-vlakke-land/markeymolen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/markeymolen.jpg" %}}
 
-Deze molen is een houten standaardmolen gebouwd in 1797 om graan te maken en olie te stampen. In 1991-1992 werd de molen hersteld en kan er weer graan worden gemalen. 
+Deze molen is een houten standaardmolen gebouwd in 1797 om graan te maken en olie te stampen. In 1991-1992 werd de molen hersteld en kan er weer graan worden gemalen.
 
 {{% /imgandtxt %}}

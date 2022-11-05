@@ -26,6 +26,8 @@ var (
 	spaceStartLineRE = regexp.MustCompile("\\n[ \\t]*")
 	NewLineRE        = regexp.MustCompile("\\n+")
 	caser            = cases.Title(language.English)
+	poiimgurl        = ""
+	poilink          = ""
 )
 
 func main() {
@@ -57,7 +59,6 @@ func main() {
 			longdescription = ""
 			title = ""
 			os.Mkdir("img/gallery/"+name, 0750)
-			os.Mkdir("img/page/"+name, 0750)
 
 			e.Request.Visit(url)
 		}
@@ -107,23 +108,22 @@ func main() {
 	c.OnHTML("div.pane-node-field-on-your-route", func(e *colly.HTMLElement) {
 		content += "## En Route\n\n"
 		e.ForEach("div.content", func(nbr int, e *colly.HTMLElement) { // a POI on route
-			imgname := ""
+			poiimgurl = ""
 			poitext := ""
+			poilink = ""
 			e.ForEach("h3", func(nbr int, e *colly.HTMLElement) { // title of on route POI
 				content += "### " + caser.String(e.Text) + "\n\n"
 			})
 			e.ForEach("img[typeof=\"foaf:Image\"]", func(nbr int, e *colly.HTMLElement) {
-				src := e.Attr("src")
-				imgfilename := imgurl2imgname(src)
-				ctx := colly.NewContext()
-				ctx.Put("filename", "img/page/"+name+"/"+imgfilename)
-				imgname = "/routes/page/" + name + "/" + imgfilename
-				c.Request("GET", e.Request.AbsoluteURL(src), nil, ctx, nil)
+				poiimgurl = e.Request.AbsoluteURL(e.Attr("src"))
 			})
 			e.ForEach("div.field__item > p", func(nbr int, e *colly.HTMLElement) {
-				poitextfragment := e.Text
+				poitextfragment := strings.TrimSpace(e.Text)
 				e.ForEach("a", func(nbr int, e *colly.HTMLElement) {
 					link := e.Attr("href")
+					if poilink == "" {
+						poilink = link
+					}
 					linktxt := e.Text
 					if linktxt != "" {
 						poitextfragment = strings.Replace(poitextfragment, linktxt, "["+linktxt+"]("+e.Request.AbsoluteURL(link)+")", 1)
@@ -132,9 +132,13 @@ func main() {
 				poitext += poitextfragment + "\n\n"
 			})
 
-			if imgname != "" {
-				content += "{{% imgandtxt url=\"" + imgname + "\" %}}\n"
-				content += poitext
+			if poiimgurl != "" {
+				content += "{{% imgandtxt url=\"" + poiimgurl + "\""
+				if poilink != "" {
+					content += " extlink=\"" + poilink + "\""
+				}
+				content += " %}}\n"
+				content += strings.TrimSpace(poitext) + "\n"
 				content += "{{% /imgandtxt %}}\n"
 			} else {
 				content += poitext

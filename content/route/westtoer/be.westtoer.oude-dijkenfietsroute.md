@@ -1,7 +1,7 @@
 ---
 title: "Oude Dijkenfietsroute"
 subtitle: "De polders en het platteland ten oosten van Oostende kan je al fietsend verkennen langs de Oude Dijkenfietsroute"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "De polders en het platteland ten oosten van Oostende kan je al fietsend verkennen langs de Oude Dijkenfietsroute" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Tramstation, Tramlijst-Oost 7, 8420 De Haan
 
 ### Duinbossen
 
-{{% imgandtxt url="/routes/page/be.westtoer.oude-dijkenfietsroute/duinbossen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/duinbossen.jpg" %}}
 
 Bosstrook van Vosseslag tot Wenduine waar je grazende Gallowaykoeien kan spotten. Voor de ravottende kids is er een 'wonderbos'.
 
@@ -40,7 +40,7 @@ Bosstrook van Vosseslag tot Wenduine waar je grazende Gallowaykoeien kan spotten
 
 ### Vlissegem
 
-{{% imgandtxt url="/routes/page/be.westtoer.oude-dijkenfietsroute/vlissegem_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/vlissegem_0.jpg" %}}
 
 Een van de oudste (polder)dorpen aan de Kust. Een speldenkop groot en dus dé plek om even te kuieren. Check ook de kijkhut aan 'de put'!
 
@@ -48,7 +48,7 @@ Een van de oudste (polder)dorpen aan de Kust. Een speldenkop groot en dus dé pl
 
 ### Stalhille
 
-{{% imgandtxt url="/routes/page/be.westtoer.oude-dijkenfietsroute/stalhille.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/stalhille.jpg" %}}
 
 Dorpje met vele leuke ambachtsadresjes. Breng o.a. een bezoekje aan 't Kruidenboerderietje, De Sfeermaker en Ter Rode Poort.
 
@@ -56,7 +56,7 @@ Dorpje met vele leuke ambachtsadresjes. Breng o.a. een bezoekje aan 't Kruidenbo
 
 ### Natuurdomein Hoge Dijken
 
-{{% imgandtxt url="/routes/page/be.westtoer.oude-dijkenfietsroute/rietnest_-_hoge_dijken.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/rietnest_-_hoge_dijken.jpg" %}}
 
 Deze plas is een paradijs voor vogels, natuurfotografen en rustzoekers. Vergeet je verrekijker niet!
 
@@ -64,7 +64,7 @@ Deze plas is een paradijs voor vogels, natuurfotografen en rustzoekers. Vergeet 
 
 ### Romeins Archeologisch Museum
 
-{{% imgandtxt url="/routes/page/be.westtoer.oude-dijkenfietsroute/ram_oudenburg.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/ram_oudenburg.jpg" %}}
 
 Eigentijds museum over het romeinse verleden van Oudenburg. In de landschapstuin kan je je wagen aan Romeinse spelletjes!
 

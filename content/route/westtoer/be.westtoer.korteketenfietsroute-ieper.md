@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs de Korte Keten - Ieper"
 subtitle: "Verken de lekkerste korteketenadresjes in en rond de stad Ieper met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Verken de lekkerste korteketenadresjes in en rond de stad Ieper met behulp van dit voor jou uitgestippeld fietslusje" 
 tags:
   - flanders
@@ -32,7 +32,7 @@ Je start nabij de Menenpoort (Menenstraat) in Ieper.
 
 ### Brouwerij Kazematten
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/brouwerij-kazematten" %}}
 
 Tussen knooppunt 93 en 38
 
@@ -44,7 +44,7 @@ De unieke historische Kazematten van het “Houten Paard” aan de Rijselpoort w
 
 ### Hoeve Siam
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/hoeve-siam" %}}
 
 Nabij knooppunt 40
 
@@ -56,7 +56,7 @@ Het landbouwbedrijf en de fruitkwekerij heeft een hoevewinkel waar je behalve fr
 
 ### Hoevewinkel 'T Drevehof
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/t-drevehof" %}}
 
 Nabij knooppunt 14
 
@@ -68,7 +68,7 @@ De hoevewinkel bij het melkveebedrijf biedt een gevarieerd aanbod seizoensgroent
 
 ### Hoeve Zuid-Bellegoed
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/hoeve-zuid-bellegoed.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/hoeve-zuid-bellegoed.jpg" extlink="/nl/eten-drinken/hoeve-zuid-bellegoed" %}}
 
 Nabij knooppunt 48
 
@@ -80,7 +80,7 @@ Hier kan je het hele jaar door verse producten halen (uitgebreid assortiment zui
 
 ### Filip En Els Coppein
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/hoeve-coppein-filip-en-els" %}}
 
 Tussen knooppunt 49 en 61
 
@@ -92,7 +92,7 @@ Landbouwbedrijf met hoevewinkel waar je producten van eigen kweek vindt, aangevu
 
 ### Hoevewinkel 'T Kluizeken
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/t-kluizeken" %}}
 
 Tussen knooppunt 61 en 98
 
@@ -104,7 +104,7 @@ Tuin- en akkerbouwbedrijf met hoevewinkel vol lekker sneukelfruit van eigen kwee
 
 ### 'T Een En 'T Ander
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/t_een_en_t_ander_0.jpeg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/t_een_en_t_ander_0.jpeg" %}}
 
 Nabij knooppunt 66
 
@@ -116,7 +116,7 @@ Adres: Poperingseweg 8, 8900 Ieper
 
 ### Hoevwinkel 'T Wieltje
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/hoevewinkel-t-wieltje" %}}
 
 Tussen knooppunt 26 en 32
 
@@ -128,7 +128,7 @@ De hoevewinkel biedt een groot gamma van eigen gekweekte producten zoals aardapp
 
 ### Slowwings
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" %}}
 
 Nabij knooppunt 93
 

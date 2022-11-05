@@ -3,7 +3,7 @@ title: "IJzer 14-18"
 subtitle: "Fietsroute 14-18
 
 De WOI fietsroute ‘IJzer 14-18’ brengt ons bij monumenten en sites aan het IJzerfront"
-date: "2022-11-03"
+date: "2022-11-05"
 description: "Fietsroute 14-18
 
 De WOI fietsroute ‘IJzer 14-18’ brengt ons bij monumenten en sites aan het IJzerfront" 
