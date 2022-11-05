@@ -136,12 +136,12 @@ func main() {
 	// example: <div class="btnfield left"><a class="vlbr-btn btn-green2 matomo_download" href="https://tools.nodemapp.com/webservices/download-gpx/329" target="_blank">Download de route als GPX</a></div>
 	c.OnHTML("div.btnfield > a.matomo_download", func(e *colly.HTMLElement) {
 		if e.Text == "Download de route als GPX" {
-			//gpxurl := e.Attr("href")
+			gpxurl := e.Attr("href")
 			gpxfile = "gpx/vlaamsbrabant/" + title + ".gpx"
 			ctx := colly.NewContext()
 			ctx.Put("filename", gpxfile)
 			// fmt.Println("fetching gpx ", gpxfile, gpxurl)
-			//c.Request("GET", e.Request.AbsoluteURL(gpxurl), nil, ctx, nil)
+			c.Request("GET", e.Request.AbsoluteURL(gpxurl), nil, ctx, nil)
 		}
 	})
 
@@ -164,7 +164,7 @@ func main() {
 		if imgfilename != "" {
 			ctx := colly.NewContext()
 			ctx.Put("filename", "img/gallery/"+name+"/"+imgfilename)
-			//c.Request("GET", e.Request.AbsoluteURL(imgurl), nil, ctx, nil)
+			c.Request("GET", e.Request.AbsoluteURL(imgurl), nil, ctx, nil)
 		}
 	})
 
@@ -199,7 +199,7 @@ func main() {
 func getMainImage(url string, c *colly.Collector) {
 	ctx := colly.NewContext()
 	ctx.Put("filename", "img/gallery/"+name+"/"+imgname(url, false))
-	//c.Request("GET", "https://www.toerismevlaamsbrabant.be"+url, nil, ctx, nil)
+	c.Request("GET", "https://www.toerismevlaamsbrabant.be"+url, nil, ctx, nil)
 }
 
 func createRoutePage(i int) {
