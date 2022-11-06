@@ -1,7 +1,7 @@
 ---
 title: "Boterlandfietsroute"
 subtitle: "De polders rond Diksmuide worden ook wel het Boterland genoemd"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De polders rond Diksmuide worden ook wel het Boterland genoemd" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/boterlandfietsroute"
 gpx: "westtoer/boterlandfietsroute_2.gpx"
 length: 44
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -22,13 +24,17 @@ De polders rond Diksmuide worden ook wel het Boterland genoemd. Op marktdagen br
 
 ## Start 
 
-Dienst voor Toerisme, Grote Markt 6, 8600 Diksmuide - Parking Provinciedomein IJzerboomgaard, IJzerdijk z.n., 8600 Diksmuide 
+Dienst voor Toerisme, Grote Markt 6, 8600 Diksmuide - Parking Provinciedomein IJzerboomgaard, IJzerdijk z.n., 8600 Diksmuide
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 
 ### Diksmuide
 
-{{% imgandtxt url="/routes/page/be.westtoer.boterlandfietsroute/diksmuide_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/diksmuide_0.jpg" extlink="https://www.westtoer.be/nl/praktische-info/toerisme-diksmuide" %}}
 
 Diksmuide houdt zijn naam van boterstad in ere met tal van activiteiten en met enkele tongstrelende boterproducten.
 
@@ -38,7 +44,7 @@ Diksmuide houdt zijn naam van boterstad in ere met tal van activiteiten en met e
 
 ### Provinciedomein Ijzerboomgaard
 
-{{% imgandtxt url="/routes/page/be.westtoer.boterlandfietsroute/provinciedomein-ijzerboomgaard.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/provinciedomein-ijzerboomgaard.jpg" extlink="https://www.westtoer.be/nl/doen/provinciedomein-ijzerboomgaard" %}}
 
 De betonnen paadjes in het domein volgen de loopgraven van 100 jaar geleden. De waterspeeltuin is een echte kindermagneet en aan het water is het zalig picknicken.
 
@@ -48,7 +54,7 @@ De betonnen paadjes in het domein volgen de loopgraven van 100 jaar geleden. De 
 
 ### 'T Land Van Vlierbos
 
-{{% imgandtxt url="/routes/page/be.westtoer.boterlandfietsroute/t-land-van-vlierbos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/t-land-van-vlierbos.jpg" extlink="https://www.westtoer.be/nl/doen/kinderboerderij-t-land-van-vlierbos" %}}
 
 Aan de andere kant van het provinciedomein ligt een kinderboerderij, een pluktuin en een cafetaria in de onthaalhoeve.
 
@@ -58,7 +64,7 @@ Aan de andere kant van het provinciedomein ligt een kinderboerderij, een pluktui
 
 ### Museum Aan De Ijzer
 
-{{% imgandtxt url="/routes/page/be.westtoer.boterlandfietsroute/museum-aan-de-ijzer.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/museum-aan-de-ijzer.jpg" extlink="https://www.westtoer.be/nl/doen/museum-aan-de-ijzer" %}}
 
 Bovenop de 84 meter hoge IJzertoren heb je een prachtig uitzicht over de boterpolders. Binnen bevindt zich een interactief museum over oorlog en vrede.
 
@@ -68,7 +74,7 @@ Bovenop de 84 meter hoge IJzertoren heb je een prachtig uitzicht over de boterpo
 
 ### Viconia Kleiputten
 
-{{% imgandtxt url="/routes/page/be.westtoer.boterlandfietsroute/viconia-kleiputten.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/viconia-kleiputten.jpg" %}}
 
 De uit kleiontginning ontstane putten vormen een natuurreservaat waar talloze watervogels komen rusten. Je kan ze rustig bekijken vanuit de vogelkijkhutten.
 

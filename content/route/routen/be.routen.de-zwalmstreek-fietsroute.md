@@ -30,9 +30,9 @@ Toevallig zat Dikkelvenne zonder water. Achteloos tikte Christiana op 'De Rotse'
 
 ### Estaminet De Rotse
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-08/estaminet%20de%20rotse%20in%20Dikkelvenne.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-08/estaminet%20de%20rotse%20in%20Dikkelvenne.jpg" %}}
 Café De Rotse heeft een aangenaam terras en is dé ideale stop om de bieren te proeven van de artisanale familiebrouwerij Contreras uit Gavere, zoals de Valeir, Contrapils en Tonneke. Iets eten op deze schilderachtige locatie kan ook: op het menu prijken lekkere brasseriegerechten, en pannenkoeken, taartjes en ijs voor de zoetekauwen.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Blauw Kasteel
 
@@ -42,30 +42,30 @@ In de historische moestuin vind je vergeten groenten, kleinfruit (bessen, frambo
 
 ### Dikkele
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/Dikkele-Philippe-minnaert.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/Dikkele-Philippe-minnaert.jpg" %}}
 Knooppunt 50
 
 Ook de omgeving rond het dorp is in zekere zin beschermend. Het postkaartdorpje ligt in een kom, als verwijderd van de bewoonde wereld, waardoor vanop enige afstand nauwelijks meer te zien is dan de punt van de kerktoren. Doorgaand verkeer is er amper, wandelaars en fietsers daarentegen des te meer.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Café De Casino
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Caf%C3%A9_DeCasino_DavidSamyn.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Caf%C3%A9_DeCasino_DavidSamyn.jpg" %}}
 Een dorpsherberg met een gezelligheidsindex ver boven het gemiddelde, een Leuvense stoof en lokaal lekkers van onder meer Brouwerij Contreras op de drankenkaart. Het standbeeld voor de deur herinnert aan brouwerij De Wever die tot 1983 actief was in het dorp.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Klein Zwitserland
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/KleinZwitserland.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/KleinZwitserland.jpg" %}}
 Knooppunt 53-67
 
 Dit idyllische plekje dankt zijn naam aan een fantasierijke molenaar. Zijn vijvertje vergeleek hij met het Meer van Genève, de Zwalmbeek met een klaterende bergrivier en de ‘bergen’ met die van Zwitserland. ‘Klein Zwitserland’ was geboren. Er hangt zelfs een bordje met het aantal kilometers tot in het echte Zwitserland: precies 513. Zeker nog tot eind september kan je hier elk weekend – languit in het gras, in de hangmat of in de strandstoel – genieten van lokaal en vaak biologisch lekkers in OHNE’s Bosbar, een van de eerste afvalarme cafés van Oost-Vlaanderen. Nadien gaat het sprookjeshuisje even dicht voor verbouwingen.’
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Zwalmmolen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Zwalmmolen_DavidSamyn3.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Zwalmmolen_DavidSamyn3.jpg" %}}
 Het molengebouw bezoeken, kan alleen op afspraak. Het vroegere sluiswachtershuisje biedt onderdak aan Streekpunt Zwalm, het toeristische infopunt voor de regio. Spring binnen voor alle info over de Zwalmstreek en de Vlaamse Ardennen.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Door het land van Mortagne en Mira"
 subtitle: "Tijdens deze fietstocht verken je de groene en glooiende omgeving tussen Leie en Schelde"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Tijdens deze fietstocht verken je de groene en glooiende omgeving tussen Leie en Schelde" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/door-het-land-van-mortagne-en-mira"
 gpx: "westtoer/mortagne_mira.gpx"
 length: 36
+nodetype: "vlaams"
+nodes: "60"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? Gebruik onze Fietsrouteplanne
 
 ## Start 
 
-Je start aan knooppunt 60 in de Oudenaardseweg in Spiere. 
+Je start aan knooppunt 60 in de Oudenaardseweg in Spiere.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 60 - 76 - 61 - 77 - 69 - 74 - 67 - 70 - 78 - 48 - 85 - 93 - 99 - 11 - 57 - 59 - 35 - 71 - 86 - 83 - 60
 
 ## En Route
 
 ### Pompgebouw Bossuit
 
-{{% imgandtxt url="/routes/page/be.westtoer.door-het-land-van-mortagne-en-mira/pompgebouw-bossuit.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/pompgebouw-bossuit.jpg" extlink="/nl/doen/pompgebouw-bossuit" %}}
 
 Tussen knooppunt 86 en 83.
 
@@ -44,7 +50,7 @@ Het Pompgebouw van Bossuit wordt in de 19de eeuw gebouwd om het Kanaal Bossuit-K
 
 ### Oud Zwembad Spiere
 
-{{% imgandtxt url="/routes/page/be.westtoer.door-het-land-van-mortagne-en-mira/oud-zwembad-spiere.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/oud-zwembad-spiere.jpg" extlink="/nl/doen/oud-zwembad-spiere-met-buitententoonstelling" %}}
 
 Tussen knooppunt 83 en 60.
 
@@ -56,7 +62,7 @@ Het zwembad van Spiere was een van de eerste openluchtzwembaden in België.
 
 ### Sluizencomplex Van Spiere
 
-{{% imgandtxt url="/routes/page/be.westtoer.door-het-land-van-mortagne-en-mira/sluizencomplex-spiere.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/sluizencomplex-spiere.jpg" extlink="/nl/doen/sluizencomplex-van-spiere" %}}
 
 Tussen knooppunt 83 en 60.
 
@@ -68,7 +74,7 @@ De Sluis werd gevormd op de Schelde aan de grens tussen Spiere enerzijds, Pottes
 
 ### Tontekapel
 
-{{% imgandtxt url="/routes/page/be.westtoer.door-het-land-van-mortagne-en-mira/tontekapel.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/tontekapel.jpg" %}}
 
 Tussen knooppunt 76 en 61.
 
@@ -78,7 +84,7 @@ In de loop der eeuwen evolueerde de Tontekapel tot een waar bedevaartsoord op de
 
 ### Ter Claere Molen
 
-{{% imgandtxt url="/routes/page/be.westtoer.door-het-land-van-mortagne-en-mira/ter-claere-molen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/ter-claere-molen.jpg" extlink="/nl/doen/ter-claere-molen" %}}
 
 Tussen knooppunt 77 en 69.
 
@@ -90,7 +96,7 @@ De Molen ter Claere siert het hoogste punt van Zwevegem (76 meter), met mooie ui
 
 ### Sint-Pietersbrug
 
-{{% imgandtxt url="/routes/page/be.westtoer.door-het-land-van-mortagne-en-mira/sint-pietersbrug.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/sint-pietersbrug.jpg" extlink="/nl/doen/sint-pietersbrug" %}}
 
 Tussen knooppunt 67 en 70.
 
@@ -102,7 +108,7 @@ Als je een goed beeld wil hebben van hoe een kanaal er in de 19de eeuw uitzag, m
 
 ### Orveytbos
 
-{{% imgandtxt url="/routes/page/be.westtoer.door-het-land-van-mortagne-en-mira/orveytbos_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/orveytbos_0.jpg" extlink="/nl/doen/orveytbos" %}}
 
 Tussen knooppunt 67 en 70.
 
@@ -114,7 +120,7 @@ Je kan er gaan wandelen in een mooi en divers groengebied, met onder meer bos, h
 
 ### Avelgemse Scheldemeersen
 
-{{% imgandtxt url="/routes/page/be.westtoer.door-het-land-van-mortagne-en-mira/avelgemse-scheldemeersen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/avelgemse-scheldemeersen.jpg" extlink="/nl/doen/avelgemse-scheldemeersen" %}}
 
 Tussen knooppunt 57 en 59.
 

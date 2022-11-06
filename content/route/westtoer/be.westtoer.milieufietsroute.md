@@ -1,7 +1,7 @@
 ---
 title: "Milieufietsroute"
 subtitle: "'Reizen om te leren’ is het motto van deze fietsroute"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "'Reizen om te leren’ is het motto van deze fietsroute" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/milieufietsroute"
 gpx: "westtoer/milieu_fietsroute.gpx"
 length: 50
+nodetype: "vlaams"
+nodes: "14"
 ---
 
 ## Let's Go !
@@ -26,6 +28,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Provinciedomein De Brielmeersen, Lucien Matthyslaan, 9800 Deinze 
+Provinciedomein De Brielmeersen, Lucien Matthyslaan, 9800 Deinze
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

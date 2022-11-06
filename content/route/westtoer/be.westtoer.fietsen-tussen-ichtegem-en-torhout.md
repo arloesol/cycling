@@ -1,7 +1,7 @@
 ---
 title: "Fietsen tussen Ichtegem en Torhout"
 subtitle: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ichtegem via de knooppunten van dit voor jou uitgestippelde lusje"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ichtegem via de knooppunten van dit voor jou uitgestippelde lusje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-tussen-ichtegem-en-torhout"
 gpx: "westtoer/fietsen_ichtegem.gpx"
 length: 32
+nodetype: "vlaams"
+nodes: "13"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start op de kruising van de Engelstraat, de Melkerijstraat en de Keibergstraat, aan knooppunt 13. 
+Je start op de kruising van de Engelstraat, de Melkerijstraat en de Keibergstraat, aan knooppunt 13.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 13 - 74 - 70 - 63 - 88 - 72 - 8 - 81 - 4 - 71 - 85 - 75 - 13
 
 ## En Route
 
 ### Café De Hert
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-ichtegem-en-torhout/cafe-de-hert.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/cafe-de-hert.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/caf%C3%A9-de-hert" %}}
 
 Tussen knooppunt 13 en 74.
 
@@ -44,7 +50,7 @@ Café De Hert is een heerlijke ouderwetse plek waar je uren nodig hebt om alle w
 
 ### Beeldentuin Irénée Duriez
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-ichtegem-en-torhout/irenee-duriez.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/irenee-duriez.jpg" extlink="https://www.westtoer.be/nl/doen/museum-ir%C3%A9n%C3%A9e-duriez" %}}
 
 Tussen knooppunt 13 en 74.
 
@@ -56,7 +62,7 @@ In het atelier en de romantisch aangelegde tuin kan je tekeningen en beelden bew
 
 ### Groene 62
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-ichtegem-en-torhout/groene-62_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/groene-62_0.jpg" extlink="https://www.westtoer.be/nl/Groene62" %}}
 
 Tussen knooppunt 74 en 70.
 
@@ -68,7 +74,7 @@ Spoorlijn 62 was vroeger een 22 km lange spoorweg tussen Oostende (Zandvoordestr
 
 ### Kasteel D'aertrycke
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-ichtegem-en-torhout/kasteel-daertrycke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/kasteel-daertrycke.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/kasteel-daertrycke" %}}
 
 Tussen knooppunt 70 en 63.
 
@@ -80,11 +86,11 @@ Het 19-de eeuwse kasteel in eclectische neo-Vlaamse-renaissance stijl is een ech
 
 ### Groenhove
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-ichtegem-en-torhout/groenhove_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/groenhove_0.jpg" extlink="https://www.westtoer.be/nl/doen/groenhove-0" %}}
 
 Tussen knooppunt 8 en 81.
 
-Groenhove is een plaats waar gezinnen graag vertoeven, want dit domein biedt voor ieder wat. 
+Groenhove is een plaats waar gezinnen graag vertoeven, want dit domein biedt voor ieder wat.
 
 [Meer info](https://www.westtoer.be/nl/doen/groenhove-0)
 
@@ -92,7 +98,7 @@ Groenhove is een plaats waar gezinnen graag vertoeven, want dit domein biedt voo
 
 ### Museum Torhouts Aardewerk
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-ichtegem-en-torhout/museum-torhouts-aardewerk.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/museum-torhouts-aardewerk.jpg" extlink="https://www.westtoer.be/nl/doen/museum-torhouts-aardewerk" %}}
 
 Tussen knooppunt 81 en 4.
 
@@ -104,7 +110,7 @@ In het prachtige gerestaureerde interieur van Kasteel Ravenhof bevindt zich het 
 
 ### Kinderboerderij D'oude Smelterij
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-ichtegem-en-torhout/kinderboerderij-doude-smelterij.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/kinderboerderij-doude-smelterij.jpg" extlink="https://www.westtoer.be/nl/doen/kinderboerderij-doude-smelterij" %}}
 
 Tussen knooppunt 81 en 4.
 
@@ -116,7 +122,7 @@ Wie één wil worden met de natuur, moet zich naar Kinderboerderij d'Oude Smelte
 
 ### Kasteel Wijnendale
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-tussen-ichtegem-en-torhout/kasteel-wijnendale.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/kasteel-wijnendale.jpg" extlink="https://www.westtoer.be/nl/doen/kasteel-wijnendale-0" %}}
 
 Tussen knooppunt 85 en 75.
 

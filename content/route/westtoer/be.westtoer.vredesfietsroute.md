@@ -1,7 +1,7 @@
 ---
 title: "Vredesfietsroute"
 subtitle: "De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/vredesfietsroute"
 gpx: "westtoer/vredesfietsroute_0.gpx"
 length: 45
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Grote Markt, 8900 Ieper 
+Grote Markt, 8900 Ieper
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

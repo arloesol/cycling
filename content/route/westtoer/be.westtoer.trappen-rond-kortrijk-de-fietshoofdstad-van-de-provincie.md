@@ -1,7 +1,7 @@
 ---
 title: "Trappen rond Kortrijk, de fietshoofdstad van de provincie"
 subtitle: "Kortrijk werkt de laatste jaren aan een groen gordijn rond zijn grenzen"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Kortrijk werkt de laatste jaren aan een groen gordijn rond zijn grenzen" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/trappen-rond-kortrijk-de-fietshoofdstad-van-de-provincie"
 gpx: "westtoer/gpx_fietslus_rond_kortrijk.gpx"
 length: 35
+nodetype: "vlaams"
+nodes: "46"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ TIP: Op en vlakbij deze fietslus vind je verschillende creatieve ondernemers. On
 
 ## Start 
 
-Knooppunt 95 - thv Transfo Zwevegem 
+Knooppunt 95 - thv Transfo Zwevegem
+
+## Signage
+
+Fietsnetwerkbordjes
 
 ## En Route
 
 ### Site Transfo
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-rond-kortrijk-de-fietshoofdstad-van-de-provincie/transfo.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/transfo.jpg" extlink="/nl/doen/transfo" %}}
 
 Hier bevond zich vroeger een elektriciteitscentrale. De centrale deed dienst van 1911 en bleef tot 2001 in gebruik. Nu is het een leuk avonturenpark met duiktank. In de zomer kan je genieten op het terras.
 
@@ -44,7 +50,7 @@ Hier bevond zich vroeger een elektriciteitscentrale. De centrale deed dienst van
 
 ### Bioboerderij 'T Goed Ter Heule
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-rond-kortrijk-de-fietshoofdstad-van-de-provincie/t_goed_ter_heule_-_aarbeitjes.png" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/eten_drinken/t_goed_ter_heule_-_aarbeitjes.png" extlink="/nl/eten-drinken/t-goed-ter-heule" %}}
 
 ’t Goed Ter Heule is geen boerderij als een andere. Snijbloemen, groenten, aardbeien en kruiden worden hier door de klanten zelf op het veld geplukt. Varkentjes wroeten in de modder en schapen grazen op de weide. “Onze boerderij is een biotoop van biodiversiteit”, klinkt het bij Justine Dewitte en Wieland Fisher.
 
@@ -56,7 +62,7 @@ Hier bevond zich vroeger een elektriciteitscentrale. De centrale deed dienst van
 
 ### Texture
 
-{{% imgandtxt url="/routes/page/be.westtoer.trappen-rond-kortrijk-de-fietshoofdstad-van-de-provincie/texture_2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/texture_2.jpg" extlink="/nl/doen/texture" %}}
 
 Het museum over Leie en vlas huist in een authentiek vlasverzendhuis uit 1913. Je ontdekt er een boeiend verhaal over de vlas- en linnennijverheid in de streek. Wist je dat heel wat regionale bedrijven hun wortels hebben in de vlasindustrie. En heel verrassend zijn bovendien de allernieuwste toepassingen van vlas in diverse sectoren. Loop zeker ook even bij in de museumbistro Kaffee Damast.
 

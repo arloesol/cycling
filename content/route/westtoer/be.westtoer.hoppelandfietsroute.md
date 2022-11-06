@@ -1,7 +1,7 @@
 ---
 title: "Hoppelandfietsroute"
 subtitle: "De streek rond Poperinge wordt ook wel het Hoppeland genoemd"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De streek rond Poperinge wordt ook wel het Hoppeland genoemd" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/hoppelandfietsroute"
 gpx: "westtoer/gpx_hoppelandfietsroute_start_poperinge_2.gpx"
 length: 53
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -22,6 +24,8 @@ De streek rond Poperinge wordt ook wel het Hoppeland genoemd. In dit glooiende l
 
 ## Start 
 
-Meerdere startpaatsen: Visit Poperinge, Grote Markt 1, 8970 Poperinge - OC De Sceure, Veurnestraat 4, 8640 Vleteren - OC In de Vrede, Sint-Sixtusabdij, Donkerstraat 13, 8640 Westvleteren 
+Meerdere startpaatsen: Visit Poperinge, Grote Markt 1, 8970 Poperinge - OC De Sceure, Veurnestraat 4, 8640 Vleteren - OC In de Vrede, Sint-Sixtusabdij, Donkerstraat 13, 8640 Westvleteren
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

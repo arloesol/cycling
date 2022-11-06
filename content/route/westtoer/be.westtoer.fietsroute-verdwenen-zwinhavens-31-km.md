@@ -1,7 +1,7 @@
 ---
 title: "Fietsroute Verdwenen Zwinhavens 31 km"
 subtitle: "De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (dit is de lus van 31 km, of kies voor de volledige lust van 60 km of inkorting van 44 km)"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (dit is de lus van 31 km, of kies voor de volledige lust van 60 km of inkorting van 44 km)" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsroute-verdwenen-zwinhavens-31-km"
 gpx: "westtoer/verdwenenzwinhavens_startbrugge.gpx"
 length: 31
+nodetype: "vlaams"
+nodes: "93"
 ---
 
 ## Let's Go !
@@ -26,6 +28,8 @@ Alle info via [www.verdwenen-zwinhavens.be](http://www.verdwenen-zwinhavens.be)
 
 ## Start 
 
-Brugge: Jan van Eyckplein 
+Brugge: Jan van Eyckplein
 
+## Signage
 
+De route is bewegwijzerd met bordjes van 'verdwenen zwinhavens' tot oktober 2023

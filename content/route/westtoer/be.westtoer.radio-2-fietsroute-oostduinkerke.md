@@ -1,7 +1,7 @@
 ---
 title: "Radio 2- fietsroute in Oostduinkerke"
 subtitle: "Natuur, cultuur, visserij, en zelf een vleugje sport (naast het fietsen!); dat biedt deze fietstocht"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Natuur, cultuur, visserij, en zelf een vleugje sport (naast het fietsen!); dat biedt deze fietstocht" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietsroute-oostduinkerke"
 gpx: "westtoer/fietsen_oostduinkerke.gpx"
 length: 28
+nodetype: "vlaams"
+nodes: "74,75,6,69,57,28,7,27,78,12,14,58,18,59,92,81,45,21,28,58,50,96,49,74"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten doe je aan knooppunt 96 ter hoogte van Groenendijk-Bad. 
+Starten doe je aan knooppunt 96 ter hoogte van Groenendijk-Bad.
+
+## Signage
+
+96-24-66-98-6-86-62-65-59-76-74-88-96
 
 ## En Route
 
 ### Surfclub Windekind
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietsroute-oostduinkerke/windekind.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/windekind.jpg" extlink="/nl/doen/surfclub-windekind-vzw" %}}
 
 Deze [beachclub](https://www.westtoer.be/nl/doen/surfclub-windekind-vzw) is een aanrader om even halt te houden. Vanaf het terras kan je de water- en strandsporters gadeslaan terwijl je zelf van iets lekker geniet.
 
@@ -40,7 +46,7 @@ Deze [beachclub](https://www.westtoer.be/nl/doen/surfclub-windekind-vzw) is een 
 
 ### Navigo - Nationaal Visserijmuseum
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietsroute-oostduinkerke/koksijde_navigo.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/koksijde_navigo.jpg" extlink="/nl/doen/navigo-nationaal-visserijmuseum" %}}
 
 Ontdek op een boeiende manier het leven en de wereld van de visserij in het [Navigo](https://www.westtoer.be/nl/doen/navigo-nationaal-visserijmuseum). Het aquarium is sowieso een topper voor de kleinsten, al kunnen de grote ook wel vol verwondering naar de vissen kijken!
 
@@ -48,15 +54,15 @@ Ontdek op een boeiende manier het leven en de wereld van de visserij in het [Nav
 
 ### Estaminet De Peerdevisscher
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietsroute-oostduinkerke/estaminet.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/eten_drinken/estaminet.jpg" %}}
 
-Een absloute aanrader voor wie van vis en gezelligheid houdt. Dit adresje, uitgebaat door een garnaalvisser te paard en zijn vrouw is de ideale plek om even halt te houden. 
+Een absloute aanrader voor wie van vis en gezelligheid houdt. Dit adresje, uitgebaat door een garnaalvisser te paard en zijn vrouw is de ideale plek om even halt te houden.
 
 {{% /imgandtxt %}}
 
 ### Golf Ter Hille
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietsroute-oostduinkerke/golf_juni_2013_5.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/golf_juni_2013_5.jpg" extlink="/nl/doen/koksijde-golf-ter-hille" %}}
 
 Een balletje slaan en van hole naar hole wandelen, met de zuchtende zee in je rug? Dat kan in [Golf Ter Hille](https://www.westtoer.be/nl/doen/koksijde-golf-ter-hille) in Koksijde-Oostduinkerke.
 
@@ -64,7 +70,7 @@ Een balletje slaan en van hole naar hole wandelen, met de zuchtende zee in je ru
 
 ### Hoge Blekker
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietsroute-oostduinkerke/koksijde_blekker.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/koksijde_blekker.jpg" extlink="/nl/doen/duin-de-hoge-blekker" %}}
 
 Even afstappen en de hoogste duin van de Kust beklimmen! Deze duin ligt meteen ook in het gelijknamige natuurreservaat. De naam van de [Hoge Blekker](https://www.westtoer.be/nl/doen/duin-de-hoge-blekker) komt van het West-Vlaamse blinken ('blekken'), omdat de witte zandduin al van ver te zien was.
 
@@ -72,7 +78,7 @@ Even afstappen en de hoogste duin van de Kust beklimmen! Deze duin ligt meteen o
 
 ### Paul Delvauxmuseum
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietsroute-oostduinkerke/koksijde_delvauxmuseum_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/koksijde_delvauxmuseum_0.jpg" extlink="/nl/doen/paul-delvauxmuseum" %}}
 
 Dit museum met de werken van de schilder [Paul Delvaux](https://www.westtoer.be/nl/doen/paul-delvauxmuseum) is zeker een bezoek waard. Je ontdekt het verhaal van de kunstenaar en zijn passies: vrouwen, treinen en de oudheid.
 

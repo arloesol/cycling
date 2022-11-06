@@ -3,7 +3,7 @@ title: "Mijnenslag"
 subtitle: "Fietsroute 14-18
 
 De Mijnenslag fietsroute brengt je naar alle plaatsen waar de Geallieerden op 7 juni 1917 om 4"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Fietsroute 14-18
 
 De Mijnenslag fietsroute brengt je naar alle plaatsen waar de Geallieerden op 7 juni 1917 om 4" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/mijnenslag"
 gpx: "westtoer/mijnenslag_14-18_fietsroute_kemmel_1.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "5"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ De Mijnenslag fietsroute brengt je naar alle plaatsen waar de Geallieerden op 7 
 
 ## Start 
 
-Toerisme Heuvelland, Sint-Laurentiusplein 1, 8950 Kemmel (Heuvelland) - Markt Mesen, 8957 Mesen - Parking Provinciedomein Palingbeek, Palingbeekstraat, 8902 Zillebeke (Ieper) 
+Toerisme Heuvelland, Sint-Laurentiusplein 1, 8950 Kemmel (Heuvelland) - Markt Mesen, 8957 Mesen - Parking Provinciedomein Palingbeek, Palingbeekstraat, 8902 Zillebeke (Ieper)
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

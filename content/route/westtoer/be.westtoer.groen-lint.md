@@ -1,7 +1,7 @@
 ---
 title: "Groen Lint Oostende"
 subtitle: "Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buitenrand van Oostende laat ontdekken"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buitenrand van Oostende laat ontdekken" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/groen-lint"
 gpx: "westtoer/groen_lint_oostende_fietsroute-oostende.gpx"
 length: 35
+nodetype: "vlaams"
+nodes: "75,74,82,88,4,3,53,40,78,23,46,70,93,33,17,18,73,60,69,75,4,83,9,68,86,62,58,88,96,64,82,67,8,70,10,46,95,55,36,30,37,77,6,69,1,75"
 ---
 
 ## Let's Go !
@@ -22,13 +24,17 @@ Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buiten
 
 ## Start 
 
-Provinciedomein Raversyde, Nieuwpoortsesteenweg 636, 8400 Oostende - Romeins Archeologisch Museum, Marktstraat 25, 8460 Oudenburg - Sportcentrum Ter Polder, Spuikomlaan 21, 8450 Bredene 
+Provinciedomein Raversyde, Nieuwpoortsesteenweg 636, 8400 Oostende - Romeins Archeologisch Museum, Marktstraat 25, 8460 Oudenburg - Sportcentrum Ter Polder, Spuikomlaan 21, 8450 Bredene
+
+## Signage
+
+Het traject is bewegwijzerd met rechthoekige bordjes in twee richtingen.
 
 ## En Route
 
 ### Provinciedomein Raversyde
 
-{{% imgandtxt url="/routes/page/be.westtoer.groen-lint/domein_raversyde.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/domein_raversyde.jpg" %}}
 
 Met Walraversijde (middeleeuws vissersdorp) Atlantikwall (wandel door twee wereldoorlogen in bunkers en loopgraven) en Natuurpark (50 ha).
 
@@ -36,7 +42,7 @@ Met Walraversijde (middeleeuws vissersdorp) Atlantikwall (wandel door twee werel
 
 ### De Lange Schuur
 
-{{% imgandtxt url="/routes/page/be.westtoer.groen-lint/geitje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/geitje.jpg" %}}
 
 Kinderboerderij met hoge aaibaarheidsfactor. Marietje de pony, Marouane de ezel en Dina de koe verwachten je!
 
@@ -44,7 +50,7 @@ Kinderboerderij met hoge aaibaarheidsfactor. Marietje de pony, Marouane de ezel 
 
 ### Sluizencomplex Plassendale
 
-{{% imgandtxt url="/routes/page/be.westtoer.groen-lint/sluizencomplex_plassendale_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/sluizencomplex_plassendale_0.jpg" %}}
 
 Dit beschermde uitzicht is een oase van rust en een ideale stop om er een hapje te eten.
 
@@ -52,7 +58,7 @@ Dit beschermde uitzicht is een oase van rust en een ideale stop om er een hapje 
 
 ### Overzetbootje Veerboot
 
-{{% imgandtxt url="/routes/page/be.westtoer.groen-lint/overzet_met_veerboot_oostende.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/overzet_met_veerboot_oostende.jpg" %}}
 
 Gratis overzet van de Oosteroever (Maritiem Plein) naar het centrum van Oostende (Visserskaai ter hoogte van Noordzeeaquarium)
 
@@ -60,7 +66,7 @@ Gratis overzet van de Oosteroever (Maritiem Plein) naar het centrum van Oostende
 
 ### Strand Oostende
 
-{{% imgandtxt url="/routes/page/be.westtoer.groen-lint/strand_oostende.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/strand_oostende.jpg" %}}
 
 Heerlijk genieten op het strand van Oostende! Wat moet een mens nog meer?
 

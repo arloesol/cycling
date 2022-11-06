@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs de Korte Keten - Ieper"
 subtitle: "Verken de lekkerste korteketenadresjes in en rond de stad Ieper met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Verken de lekkerste korteketenadresjes in en rond de stad Ieper met behulp van dit voor jou uitgestippeld fietslusje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-ieper"
 gpx: "westtoer/fietsen-langs-de-korte-keten-ieper.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "93"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Ontdek nog meer 'de grote goesting' fietsroutes via deze [link](https://www.west
 
 ## Start 
 
-Je start nabij de Menenpoort (Menenstraat) in Ieper. 
+Je start nabij de Menenpoort (Menenstraat) in Ieper.
+
+## Signage
+
+Je fietst op het fietsnetwerk van de Westhoek aan de hand van knooppunten. Volg deze knooppunten: 93 - 38 - 40 - 55 - 85 - 42 - 44 - 14 - 45 - 51 - 59 - 46 - 47 - 48 - 53 - 49 - 61 - 98 - 17 - 66 - 35 - 39 - 26 - 32 - 93
 
 ## En Route
 
 ### Brouwerij Kazematten
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/brouwerij-kazematten" %}}
 
 Tussen knooppunt 93 en 38
 
@@ -44,7 +50,7 @@ De unieke historische Kazematten van het “Houten Paard” aan de Rijselpoort w
 
 ### Hoeve Siam
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/hoeve-siam" %}}
 
 Nabij knooppunt 40
 
@@ -56,7 +62,7 @@ Het landbouwbedrijf en de fruitkwekerij heeft een hoevewinkel waar je behalve fr
 
 ### Hoevewinkel 'T Drevehof
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/t-drevehof" %}}
 
 Nabij knooppunt 14
 
@@ -68,7 +74,7 @@ De hoevewinkel bij het melkveebedrijf biedt een gevarieerd aanbod seizoensgroent
 
 ### Hoeve Zuid-Bellegoed
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/hoeve-zuid-bellegoed.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/hoeve-zuid-bellegoed.jpg" extlink="/nl/eten-drinken/hoeve-zuid-bellegoed" %}}
 
 Nabij knooppunt 48
 
@@ -80,7 +86,7 @@ Hier kan je het hele jaar door verse producten halen (uitgebreid assortiment zui
 
 ### Filip En Els Coppein
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/hoeve-coppein-filip-en-els" %}}
 
 Tussen knooppunt 49 en 61
 
@@ -92,7 +98,7 @@ Landbouwbedrijf met hoevewinkel waar je producten van eigen kweek vindt, aangevu
 
 ### Hoevewinkel 'T Kluizeken
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/t-kluizeken" %}}
 
 Tussen knooppunt 61 en 98
 
@@ -104,7 +110,7 @@ Tuin- en akkerbouwbedrijf met hoevewinkel vol lekker sneukelfruit van eigen kwee
 
 ### 'T Een En 'T Ander
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/t_een_en_t_ander_0.jpeg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/t_een_en_t_ander_0.jpeg" %}}
 
 Nabij knooppunt 66
 
@@ -116,7 +122,7 @@ Adres: Poperingseweg 8, 8900 Ieper
 
 ### Hoevwinkel 'T Wieltje
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/hoevewinkel-t-wieltje" %}}
 
 Tussen knooppunt 26 en 32
 
@@ -128,7 +134,7 @@ De hoevewinkel biedt een groot gamma van eigen gekweekte producten zoals aardapp
 
 ### Slowwings
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-ieper/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" %}}
 
 Nabij knooppunt 93
 

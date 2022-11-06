@@ -1,7 +1,7 @@
 ---
 title: "Bulskampveldfietsroute"
 subtitle: "Deze fietsroute verkent de ruimere omgeving van het Bulskampveld, een parklandschap ten zuidoosten van Brugge, dat gedomineerd wordt door bossen en landgoederen"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Deze fietsroute verkent de ruimere omgeving van het Bulskampveld, een parklandschap ten zuidoosten van Brugge, dat gedomineerd wordt door bossen en landgoederen" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/bulskampveldfietsroute"
 gpx: "westtoer/bulskampveld_fietsroute_0.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Parking Aanwijs, Reigerlostraat/Wingenesteenweg, 8730 Beernem 
+Parking Aanwijs, Reigerlostraat/Wingenesteenweg, 8730 Beernem
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 
 ### Vagevuurbossen
 
-{{% imgandtxt url="/routes/page/be.westtoer.bulskampveldfietsroute/sint-pietersveld_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/sint-pietersveld_0.jpg" %}}
 
 Onderdeel van het Landschapspark Bulskampveld. Dit bosdomein is een waar aards paradijs voor fauna en flora!
 
@@ -40,7 +46,7 @@ Onderdeel van het Landschapspark Bulskampveld. Dit bosdomein is een waar aards p
 
 ### De Kruiderie
 
-{{% imgandtxt url="/routes/page/be.westtoer.bulskampveldfietsroute/loca_labora.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/loca_labora.jpg" %}}
 
 Walhalla voor herboristen, waar alle mogelijke kruiden en specerijen te vinden zijn. Verschillende topchefs zijn vaste klant in de pluktuin.
 
@@ -48,7 +54,7 @@ Walhalla voor herboristen, waar alle mogelijke kruiden en specerijen te vinden z
 
 ### Kasteel Bulskampveld
 
-{{% imgandtxt url="/routes/page/be.westtoer.bulskampveldfietsroute/kasteel_bulskampveld_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/kasteel_bulskampveld_0.jpg" %}}
 
 In dit kasteel vertellen de muren letterlijk het verhaal van de streek! Het bezoekerscentrum is de ideale uitvalsbasis om het Bulskampveld te verkennen.
 
@@ -56,7 +62,7 @@ In dit kasteel vertellen de muren letterlijk het verhaal van de streek! Het bezo
 
 ### Domein Lippensgoed-Bulskampveld
 
-{{% imgandtxt url="/routes/page/be.westtoer.bulskampveldfietsroute/speeltuin_bulskampveld.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/speeltuin_bulskampveld.jpg" %}}
 
 Rondom het kasteel valt heel wat te beleven: speeltuin, kruidentuin, picknickplekjes, restaurant, diverse wandelpaden,...
 
@@ -64,8 +70,8 @@ Rondom het kasteel valt heel wat te beleven: speeltuin, kruidentuin, picknickple
 
 ### Leiemeersen En Warandeputten
 
-{{% imgandtxt url="/routes/page/be.westtoer.bulskampveldfietsroute/warandeputten.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/warandeputten.jpg" %}}
 
-Wondermooie vallei ten zuiden van Brugge. Hier geniet je ten volle van één van de mooiste plekjes van de provincie en ontdek je een landschap vol uniek erfgoed. 
+Wondermooie vallei ten zuiden van Brugge. Hier geniet je ten volle van één van de mooiste plekjes van de provincie en ontdek je een landschap vol uniek erfgoed.
 
 {{% /imgandtxt %}}

@@ -1,7 +1,7 @@
 ---
 title: "Smuudse Smoefelfietsroute"
 subtitle: "Maak via rustige fietswegen een ommetje rond de Boterstad"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Maak via rustige fietswegen een ommetje rond de Boterstad" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/smuudse-smoefelfietsroute"
 gpx: "westtoer/smuudse_smoefelfietsroute_diksmuide.gpx"
 length: 50
+nodetype: "vlaams"
+nodes: "1"
 ---
 
 ## Let's Go !
@@ -36,17 +38,21 @@ Ontdek nog meer 'de grote goesting' fietsroutes via deze [link](https://www.west
 
 ## Start 
 
-Deze route start en eindigt op de Grote Markt van Diksmuide. 
+Deze route start en eindigt op de Grote Markt van Diksmuide.
+
+## Signage
+
+Je fietst op het fietsnetwerk van de Westhoek aan de hand van knooppunten. Volg deze knooppunten: 1 - 59 - 92 - 61 - 68 – 19 - 80 - 45 - 21 - 28 - 58 - 11 - 34 - 64 - 51 - 71 - 96 - 49 - 74 - 75 - 1 - 69 - 57 - 28 - 7 - 27 - 78 - 12 - 14 - 58 - 18 - 59 - 1
 
 ## En Route
 
 ### Natuurgebied De Blankaart
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/de_blankaart_0_3.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_blankaart_0_3.jpg" extlink="/nl/doen/natuurgebied-de-blankaart" %}}
 
 Afwijken nabij knooppunt 80 (350m)
 
-Het hele jaar door valt er heel wat te beleven in het natuurgebied De Blankaart. Vanop het mooie terras aan het bezoekerscentrum kan je genieten van het prachtige uitzicht. 
+Het hele jaar door valt er heel wat te beleven in het natuurgebied De Blankaart. Vanop het mooie terras aan het bezoekerscentrum kan je genieten van het prachtige uitzicht.
 
 [Meer info](https://www.westtoer.be/nl/doen/natuurgebied-de-blankaart)
 
@@ -54,7 +60,7 @@ Het hele jaar door valt er heel wat te beleven in het natuurgebied De Blankaart.
 
 ### 'T Hof Van Der Rhille
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/t-hof-van-de-rhille" %}}
 
 Nabij knooppunt 45 eventjes rechtsaf
 
@@ -66,7 +72,7 @@ Geniet van een heerlijk hoeve-ijsje op het terras tijdens jouw fietsstop. Wie di
 
 ### 'T Madeliefje'
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/studiografie_20210825_9480.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/studiografie_20210825_9480.jpg" extlink="/nl/eten-drinken/t-madeliefje" %}}
 
 Nabij knooppunt 20
 
@@ -78,7 +84,7 @@ Op de binnenplaats word je volledig opgeslorpt in het mooie groene landschap en 
 
 ### Fot'oeil
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/fotoeil.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/fotoeil.jpg" extlink="/nl/eten-drinken/de-fotoeil" %}}
 
 Nabij knooppunt 50
 
@@ -90,7 +96,7 @@ Vanuit het huiselijke praatcafé bewonder je de Westhoek in al zijn glorie. 's Z
 
 ### De Knocke
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/herberg_de_knocke_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/herberg_de_knocke_0.jpg" extlink="/nl/eten-drinken/herberg-de-knocke" %}}
 
 Nabij knooppunt 58
 
@@ -102,7 +108,7 @@ Tijdens je wandel- of fietstocht word je gastvrij verwelkomd in Herberg De Knock
 
 ### Tofdak
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/tofdak_diksmuide_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/tofdak_diksmuide_0.jpg" extlink="/nl/eten-drinken/tofdak" %}}
 
 Tussen knooppunt 71 en 96
 
@@ -114,7 +120,7 @@ Hier word je verwend met streekgebonden producten. Er worden enkel lokale bieren
 
 ### 'T Land Van Vlierbos
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/doen/provinciedomein-ijzerboomgaard" %}}
 
 Tussen knooppunt 96 en 49
 
@@ -126,7 +132,7 @@ In het provinciedomein IJzerboomgaard zijn er picknickzones en is er een speelzo
 
 ### Nachtraaf
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/nachtraaf.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/nachtraaf.jpg" %}}
 
 Nabij knooppunt 1
 
@@ -140,7 +146,7 @@ Open van mei tot september
 
 ### Papegaei
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/papegaei_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/papegaei_0.jpg" extlink="/nl/eten-drinken/brouwerij-verstraete-bierfirma" %}}
 
 Nabij knooppunt 69
 
@@ -152,7 +158,7 @@ Al in 1448 werd café Den Papegaei in Diksmuide vermeld in een keure, een middel
 
 ### Keiemse Kazen
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/keiemse-kazen" %}}
 
 Tussen knooppunt 28 en 7
 
@@ -164,7 +170,7 @@ Keiemse Kazen pakt graag uit met het Keiems Bloempje, een zachte schimmelkaas me
 
 ### 'T Boertje
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/logohonderd_2_0.jpg" %}}
+{{% imgandtxt url="https://www.toerismewesthoek.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_0.jpg" extlink="/nl/eten-drinken/t-boertje" %}}
 
 Tussen knooppunt 27 en 78
 
@@ -176,7 +182,7 @@ Bij 't Boertje kan je terecht voor heerlijke zuivelproducten. Lekker genieten va
 
 ### Brouwerij De Dolle Brouwers
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/brouwerij_de_dolle_brouwers.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/brouwerij_de_dolle_brouwers.jpg" extlink="/nl/eten-drinken/brouwerij-de-dolle-brouwers" %}}
 
 Tussen knooppunt 58 en 18
 
@@ -188,7 +194,7 @@ De Dolle Brouwers brouwern op beperkte schaal en ambachtelijke manier enkele mer
 
 ### De Wikkelaar
 
-{{% imgandtxt url="/routes/page/be.westtoer.smuudse-smoefelfietsroute/wikkelaar_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/eten_drinken/wikkelaar_0.jpg" extlink="/nl/eten-drinken/de-wikkelaar" %}}
 
 Tussen knooppunt 12 en 14
 

@@ -30,39 +30,39 @@ De route start aan het gemeentehuis van Lierde, waar zich ook een toeristisch in
 
 ### Sint-Maria-Lierde
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding20.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding20.jpg" %}}
 Dit dorp bestaat uit twee kernen. Je vertrekt in het nieuwe gedeelte, dat gebouwd is rond het station en het gemeentehuis. Eenmaal je de spoorwegbrug oversteekt, heb je een prachtig zicht op de lagergelegen akkers. Via een smal fietspad tussen de weides fiets je de oude dorpskern binnen met de 19e eeuwse Maria-Magdalenakerk. Bij het uitrijden van de dorpskern passeer je de statige Kapel Onze-Lieve-Vrouw van Lourdes met Mariagrot.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Waesberg
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding22.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding22.jpg" %}}
 Op de Waesberg heb je op verschillende plaatsen een prachtig zicht op de omgeving. Op de mooiste uitzichtpunten zijn picknickbanken voorzien. Hier kan je even je fiets achterlaten om Parkbos-Uilenbroek te bezoeken, een natuurreservaat dat bestaat uit graslanden, bossen, weides, boomgaarden, beken en poelen.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Molen Ter Rijst
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding23.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding23.jpg" %}}
 Op het volgende deel van de tocht fiets je langs rustige binnenwegen tussen de velden en boerderijen. Enkele weides worden omzoomd door bomen en het landschap is bezaaid met kleine stukjes bos. Op het einde van deze etappe vind je de Molen Ter Rijst, een 18e eeuwse windmolen die na een restauratie in 1993 terug graan maalt.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Doormansvallei
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding524.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding524.jpg" %}}
 Dit rustige natuurgebied langs de Doormansbeek zorgt voor de natuurlijke afwatering van de nabijgelegen woonwijken. Het wordt gekenmerkt door waterpartijen, heggen, hooiweides en kleine bosjes. Naast de vallei ligt het Doormansbos, een klein bos dat bestaat uit lokale loofboomsoorten.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Burcht Herzele
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding25.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding25.jpg" %}}
 Vanuit de Doormansvallei rijd je rechtstreeks Herzele binnen. Via de oude kasteelgronden, die nu omgebouwd zijn tot een groot park met sport- en recreatievoorzieningen, kom je uit op de burchtruïnes van Herzele. Deze 13e eeuwse waterburcht werd gebouwd door de heren van Herzele en is getuige van de rijke geschiedenis van de gemeente.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Trambaan
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding26.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/Afbeelding26.jpg" %}}
 Ooit lag hier een tramverbinding die Herzele met Geraardsbergen verbond, maar nu is het een autovrije weg waar fietsers en wandelaars zich veilig kunnen verplaatsen en tot rust kunnen komen. Dit gedeelte van de trambaan leidt naar Sint-Lievens-Esse, waar we afslaan richting de dorpskern aan de oude tramstatie.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Brouwerij Van Den Bossche
 
@@ -74,14 +74,14 @@ Deze rustige dorpskern is sinds 1986 erkend als dorpsgezicht. In het midden staa
 
 ### Hemelveerdegem
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/img_20220310_142416.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/img_20220310_142416.jpg" %}}
 Dit gezellige dorpje nodigt uit om eens een pauze te nemen onder de bomen op het plein voor de kerk. Bezoek als je kunt ook zeker eens de Sint-Jan-Baptistkerk, want het altaarstuk uit 1520 is erkend als een Vlaams topstuk.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Kartuizerpriorij
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/img_20220310_145443.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-03/img_20220310_145443.jpg" %}}
 Als je richting Lierde rijdt, kan je al van ver de Sint-Martinus-Kartuizerkerk herkennen. Het maakt deel uit van de grote voormalige kartuizerpriorij Sint-Martens-Bos. De oorspronkelijke priorij uit 1329 werd verschillende malen verwoest en het grootste deel van de gebouwen vandaag dateert uit de 18e eeuw. Bij het verlaten van het domein rijd je onder de 18e eeuwse classicistische toegangspoort, waar vroeger langs beide zijden de gastenverblijven waren.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Fietsen op de rand van de kustpolders"
 subtitle: "De nieuwe [Polderrandfietsroute](https://www"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De nieuwe [Polderrandfietsroute](https://www" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-op-de-rand-van-de-kustpolders"
 gpx: "westtoer/gpx_polderrandroute.gpx"
 length: 47
+nodetype: "vlaams"
+nodes: "6"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Wij startten de route in Eernegem, maar er zijn nog andere startplaatsen voorzie
 
 ## Start 
 
-We parkeren in de Spoorwegstraat in Eernegem, naast de Stationsput (1). Het water uit deze put werd gebruikt om de locomotieven in Oostende onder stoom te houden. We gaan de Groene 62 op en fietsen naar rechts in de richting van de Kust. Hier en daar zijn perrons zichtbaar. Het station van Moere is nu een stijlvolle B&B. 
+We parkeren in de Spoorwegstraat in Eernegem, naast de Stationsput (1). Het water uit deze put werd gebruikt om de locomotieven in Oostende onder stoom te houden. We gaan de Groene 62 op en fietsen naar rechts in de richting van de Kust. Hier en daar zijn perrons zichtbaar. Het station van Moere is nu een stijlvolle B&B.
+
+## Signage
+
+Bewegwijzerd met zeshoekige borden
 
 ## En Route
 
 ### 1.	Stationsput
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-op-de-rand-van-de-kustpolders/stationsput_in_eernegem_-_foto_maf_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/stationsput_in_eernegem_-_foto_maf_1.jpg" extlink="/nl/doen/groendomein-stationsput" %}}
 
 Dit groendomein ligt langs de Groene 62. De vijver werd ooit gegraven om de stoomtreinen langs het spoortraject Torhout-Oostende van water te voorzien. Nu is het een heerlijke groene plek om te vertoeven. Neem zeker ook een kijkje in de kleine poëzietuin.
 
@@ -42,7 +48,7 @@ Dit groendomein ligt langs de Groene 62. De vijver werd ooit gegraven om de stoo
 
 ### 2.	Uitkijktoren Het Rietnest
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-op-de-rand-van-de-kustpolders/5._uitkijktoren_rietnest_aan_zwaanhoek_-_foto_westtoer.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/5._uitkijktoren_rietnest_aan_zwaanhoek_-_foto_westtoer.jpg" %}}
 
 Deze uitkijktoren geeft je een prachtig zicht op de vlakke polders en het natuurgebied Zwaanburg in Oudenburg.
 
@@ -50,7 +56,7 @@ Deze uitkijktoren geeft je een prachtig zicht op de vlakke polders en het natuur
 
 ### 3.	Sluizencomplex Plassendale
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-op-de-rand-van-de-kustpolders/7._kanaal_plassendale_-_duinkerke_-_kant_oudenburg_-_foto_westtoer.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/7._kanaal_plassendale_-_duinkerke_-_kant_oudenburg_-_foto_westtoer.jpg" %}}
 
 De kanalen Gent-Oostende en Oudenburg-Nieuwpoort werden in de 17de eeuw gegraven. Door de verschillende zeestromen werden er twee sluizen gebouwd (eentje werd later verplaatst). Het Spaanse tolhuisje herinnert nog aan het rijke verleden van de wijk. Nu is het er een oase van rust en een beschermd dorpsgezicht.
 
@@ -58,7 +64,7 @@ De kanalen Gent-Oostende en Oudenburg-Nieuwpoort werden in de 17de eeuw gegraven
 
 ### 4.	Bezoekerscentrum Sint-Arnoldus En Romeins Archeologisch Museum
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-op-de-rand-van-de-kustpolders/8._romeins_archeologisch_museum_oudenburg_-_foto_westtoer.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/8._romeins_archeologisch_museum_oudenburg_-_foto_westtoer.jpg" extlink="/nl/doen/romeins-archeologisch-museum" %}}
 
 Het bezoekerscentrum, op het gelijkvloers van het Romeins Archeologisch Museum vertelt het verhaal van de voormalig abdijsite. Het museum maakt je wegwijs maakt in het enige Belgische Kust-castellum van de Romeinen.
 
@@ -70,7 +76,7 @@ Het bezoekerscentrum, op het gelijkvloers van het Romeins Archeologisch Museum v
 
 ### 5.	Natuurgebied De Hoge Dijken (Roksemput)
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-op-de-rand-van-de-kustpolders/hoge_dijken_lr.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/hoge_dijken_lr.jpg" extlink="/nl/doen/natuurreservaat-de-hoge-dijken" %}}
 
 Dit natuurreservaat veranderde helemaal toen de snelweg Jabbeke-Veurne werd aangelegd. De oude binnenduin werd een vijver en is nu een mooie thuis voor heel wat vogels. Je kan er heerlijk wandelen en voor de kinderen is er een speelzone. Het natuureducatief centrum De Grote Zaagbek bezoek je op woensdag- of zondagnamiddag.
 
@@ -80,7 +86,7 @@ Dit natuurreservaat veranderde helemaal toen de snelweg Jabbeke-Veurne werd aang
 
 ### 6.	Permekemuseum
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-op-de-rand-van-de-kustpolders/10._permekemuseum_-_foto_westtoer_2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/10._permekemuseum_-_foto_westtoer_2.jpg" extlink="/nl/doen/permekemuseum" %}}
 
 Dit modernistische huis en uitgestrekt tuin zijn de thuishaven voor vele werken van Permeke. Een heerlijke plek voor wie van kunst houdt.
 
@@ -90,7 +96,7 @@ Dit modernistische huis en uitgestrekt tuin zijn de thuishaven voor vele werken 
 
 ### 7.	Heidetoren (Uitkijktoren Vloethemveld)
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-op-de-rand-van-de-kustpolders/11._uitzicht_vanop_heidetoren_in_vloethemveld_-_foto_maf_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/11._uitzicht_vanop_heidetoren_in_vloethemveld_-_foto_maf_1.jpg" extlink="/nl/doen/vloethemveld" %}}
 
 Deze uitkijktoren laat je uitkijken op dit bijzondere domein. Wist je dat Vloethemveld een groot oorlogsverhaal heeft? In beide wereldoorlogen speelde deze plek een belangrijke rol. Nu is het een mooie natuurplek en kunnen kinderen zich uitleven in de speelzone.
 

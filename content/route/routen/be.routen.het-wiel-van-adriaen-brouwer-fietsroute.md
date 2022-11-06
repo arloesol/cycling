@@ -30,50 +30,50 @@ De fietsroute start aan knooppunt 96, aan de kruising van de Markt met de Kruiss
 
 ### Brouwerij Liefmans
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Brouwerij%20Liefmans%20Oudenaarde%201%20David%20Samyn.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Brouwerij%20Liefmans%20Oudenaarde%201%20David%20Samyn.jpg" %}}
 Knooppunt 92 – 86
 
 Het verhaal van Brouwerij Liefmans, aan de oever van de Schelde, begon al in de 17de eeuw. In het museum kan je de originele bouwinstallaties bezichtigen! Bij mooi weer kan je neerstrijken op een van de vele terrasjes langs de Schelde om te proeven van het bekende fruitbier.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### PAM Ename
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/preview_TOV_Ename-3.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/preview_TOV_Ename-3.jpg" %}}
 Knooppunt 86 – 79
 
 In het PAM Ename nemen archeologische vondsten en historische reconstructies je mee op een tocht door de geschiedenis van het Scheldedorpje Ename. Neem ook een kijkje in de Sint-Laurentiuskerk, een restant uit Enames 10de-eeuwse verleden.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bos t'Ename
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Bos%20%27t%20Ename_DavidSamyn3.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Bos%20%27t%20Ename_DavidSamyn3.jpg" %}}
 Knooppunt 79 – 72
 
 Bos t'Ename, een verrassend stuk groen met een trap midden in het bos. Een prachtig zicht op Oudenaarde en bij heel helder weer tot in Gent! Het bos heeft een rijke fauna en flora en doorsteekbrugjes. Schrik niet als je plots oog in oog komt te staan met een roodbont rund of een Konikpaard. Zij helpen mee de biodiversiteit van het bos te bewaren en grazen er dus vrij rond. Veesluizen houden de dieren in het bos, maar verder krijgen ze vrij spel.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Tissenhovemolen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/tissenhovemolen.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/tissenhovemolen.jpg" %}}
 Knooppunt 78 – 94
 
 Tussen knooppunt 78 en 94 kijk je uit op de Tissenhovemolen. Deze staakmolen werd omwille van zijn uitzonderlijke ligging en panorama in de Tweede Wereldoorlog gebruikt als uitkijkpost.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Brouwerij Roman
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/RomanBrouwerij_JanOpdekamp.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/RomanBrouwerij_JanOpdekamp.jpg" %}}
 Knooppunt 94 – 33
 
 Bij Brouwerij Roman, de oudste familiebrouwerij van België, brouwt men al eeuwenlang op ambachtelijke wijze een rijkelijk assortiment bieren. Hun verhaal gaat terug tot 1545! Hou even halt en proef van het beroemde Adriaen Brouwer bier dat hier in de ketels borrelt.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bossenaarmolen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Bossenaremolen%20-%20Koen%20De%20Groote.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Bossenaremolen%20-%20Koen%20De%20Groote.jpg" %}}
 Knooppunt 30 – 25
 
 De huidige Boosenaarmolen, gebouwd in 1993, is een houten korenmolen die we vinden op de plek waar in 1939 de oorspronkelijke Bossenaarmolen verdween. De molen is gelegen op de top van de Bossenareheuvel en dus al van ver te spotten. De nieuwe Bossenaarmolen maakt deel uit van de windmolenrenaissance van de Vlaamse Ardennen.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

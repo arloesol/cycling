@@ -46,7 +46,6 @@ func main() {
 	os.Mkdir("gpx/limburg", 0750)
 	os.Mkdir("img", 0750)
 	os.Mkdir("img/gallery", 0750)
-	os.Mkdir("img/page", 0750)
 	os.Mkdir("route", 0750)
 	os.Mkdir("route/limburg", 0750)
 
@@ -131,9 +130,9 @@ func main() {
 		// fmt.Println(poititle, poidesc, poialt, poiimgurl, poiurl)
 		contentfmt := `### %s
 
-{{%% imgandexttxt url="%s" extlink="%s" %%}}
+{{%% imgandtxt url="%s" extlink="%s" %%}}
 %s
-{{%% /imgandexttxt %%}}
+{{%% /imgandtxt %%}}
 
 `
 		content += fmt.Sprintf(contentfmt, poititle, poiimgurl, poiurl, poidesc)

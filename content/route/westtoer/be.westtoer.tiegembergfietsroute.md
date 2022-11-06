@@ -1,7 +1,7 @@
 ---
 title: "Tiegembergfietsroute"
 subtitle: "Tussen de Leie en de Schelde glooit het landschap"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Tussen de Leie en de Schelde glooit het landschap" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/tiegembergfietsroute"
 gpx: "westtoer/tiegembergfietsroute.gpx"
 length: 48
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -40,13 +42,17 @@ Parking Sint-Arnolduspark, Vital Moreelsplein z.n., 8573 Anzegem -
 
 
 
-Parking Kapelstraat/Kerkstraat, Kapelstraat z.n., 8540 Deerlijk 
+Parking Kapelstraat/Kerkstraat, Kapelstraat z.n., 8540 Deerlijk
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 
 ### Hippo.war
 
-{{% imgandtxt url="/routes/page/be.westtoer.tiegembergfietsroute/hippo.war__0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/hippo.war__0.jpg" extlink="https://www.westtoer.be/nl/doen/hippowar" %}}
 
 In het bezoekerscentrum op de hippodroom ontdek je de belangrijke rol van paarden tijdens WOI. Ook de Amerikaanse inmenging wordt belicht.
 
@@ -56,7 +62,7 @@ In het bezoekerscentrum op de hippodroom ontdek je de belangrijke rol van paarde
 
 ### Kloron Yachthaven
 
-{{% imgandtxt url="/routes/page/be.westtoer.tiegembergfietsroute/kloron-yachthaven.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/kloron-yachthaven.jpg" extlink="https://www.westtoer.be/nl/doen/jachthaven-kloron" %}}
 
 Vanuit het clubcafé Kloron, gelegen aan één van de afgesneden Scheldemeanders, heb je een mooi zicht op de gezellige drukte in de jachthaven.
 
@@ -66,7 +72,7 @@ Vanuit het clubcafé Kloron, gelegen aan één van de afgesneden Scheldemeanders
 
 ### De Geestige Put
 
-{{% imgandtxt url="/routes/page/be.westtoer.tiegembergfietsroute/geestige-put.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/geestige-put.jpg" extlink="https://www.westtoer.be/nl/doen/aqua-en-adventure-park-de-geestige-put" %}}
 
 In De Geestige Put in Waregem staat waterpret centraal. Niet te missen. Het Park biedt activiteiten voor alle leeftijden, individueel of in groep.
 

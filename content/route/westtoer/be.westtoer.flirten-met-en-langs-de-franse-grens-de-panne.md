@@ -1,7 +1,7 @@
 ---
 title: "Flirten met en langs de Franse grens in De Panne"
 subtitle: "Deze mooie route rond De Panne voert je via het Delvauxmuseum, langs de Kust en door verschillende mooie groene zones die onze Westkust rijk is"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Deze mooie route rond De Panne voert je via het Delvauxmuseum, langs de Kust en door verschillende mooie groene zones die onze Westkust rijk is" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/flirten-met-en-langs-de-franse-grens-de-panne"
 gpx: "westtoer/de_panne_atf_-_blauw.gpx"
 length: 33
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 1, dicht bij het station van Adinkerke, aan het kruispunt van de Dorpsstraat en de Stationsstraat. 
+Knooppunt 1, dicht bij het station van Adinkerke, aan het kruispunt van de Dorpsstraat en de Stationsstraat.
+
+## Signage
+
+1 - 84 - 59 - 76 - 50 - 39 - 71 - 21 - 34 - 85 - 12 - 10 - 1
 
 ## En Route
 
 ### Paul Delvauxmuseum
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-en-langs-de-franse-grens-de-panne/koksijde_delvauxmuseum.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/koksijde_delvauxmuseum.jpg" %}}
 
 Het museum toont topwerken van de grootmeester. Het kader van de voormalig visserswoning die ondergronds werd uitgebreid, zorgt voor de juiste sfeer om de werken te presenteren. Het museum is gelegen in de architectonisch interessante villawijk achter de dijk van Sint-Idesbald.
 
@@ -42,7 +48,7 @@ P. Delvauxlaan 42, Sint-Idesbald
 
 ### Zeedijk De Panne (Tussen Knooppunt 76 En 50)
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-en-langs-de-franse-grens-de-panne/zeedijk_de_panne.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/zeedijk_de_panne.jpg" %}}
 
 Hou even halt om te genieten van de zee. Typisch in De Panne zijn de strandterrassen. Ideaal om even te verpozen.
 
@@ -50,7 +56,7 @@ Hou even halt om te genieten van de zee. Typisch in De Panne zijn de strandterra
 
 ### Bezoekerscentrum Duinpanne (Tussen Knooppunt 76 En 50)
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-en-langs-de-franse-grens-de-panne/de_panne_nachtegaal.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/de_panne_nachtegaal.jpg" %}}
 
 In het Vlaams Bezoekers- en Natuureducatiecentrum Duinpanne maakt je op een actieve manier kennis met de zee, het strand en de duinen.
 
@@ -60,7 +66,7 @@ Zeelaan 21, De Panne
 
 ### Het Calmeynbos (Tussen Knooppunt 50 En 39)
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-en-langs-de-franse-grens-de-panne/calmeynbos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/calmeynbos.jpg" %}}
 
 Maurice Calmeyn startte in 1902-1903 met het aanplanten van 55 ha bos in de duinen van De Panne. Hij wou hiermee aantonen dat het mogelijk was om bomen aan te planten dicht bij de zee.
 
@@ -68,7 +74,7 @@ Maurice Calmeyn startte in 1902-1903 met het aanplanten van 55 ha bos in de duin
 
 ### Lekkere Stops Onderweg (Tussen Knooppunt 76 En 50)
 
-{{% imgandtxt url="/routes/page/be.westtoer.flirten-met-en-langs-de-franse-grens-de-panne/armalot.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/armalot.jpg" %}}
 
 Maak van je route een lekkere trip. Hou onderweg even halt bij Huyze Armalot, een heerlijk chocoladehuis waar je verwend wordt van ontbijt tot lunch en zoet dessert. In Hoevewinkel Noordgasthuis geniet je van artisanale en verse producten en de Gerockten Hoarinck biedt je een lekker streekbiertje in een authentiek en gezellig kader.
 

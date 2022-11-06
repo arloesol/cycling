@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Damme"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de stad Damme met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de stad Damme met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-damme"
 gpx: "westtoer/fietsen-langs-de-korte-keten-damme.gpx"
 length: 36
+nodetype: "vlaams"
+nodes: "6"
 ---
 
 ## Let's Go !
@@ -32,13 +34,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start op de Markt in Damme, aan knooppunt 6. Van hieruit fiets je naar knooppunt 28. 
+Je start op de Markt in Damme, aan knooppunt 6. Van hieruit fiets je naar knooppunt 28.
+
+## Signage
+
+Je fietst op het fietsnetwerk van het Brugse Ommeland aan de hand van knooppunten. Volg deze knooppunten: 6 - 28 - 42 - 61 - 18 - 52 - 75 - 38 - 73 - 39 - 77 - 78 - 2 - 66 - 16 - 21 - 15 - 82 - 63 - 60 - 67 - 22 - 92 - 34 - 6
 
 ## En Route
 
 ### Desender
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-damme/damme7.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/damme7.jpg" extlink="https://www.korteketenkaart.be/locatie/desender" %}}
 
 Tussen knooppunt 15 en 82
 
@@ -50,7 +56,7 @@ Adres: Algonquinstraat 1, 8340 Moerkerke
 
 ### Kasteelhoeve
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-damme/kasteelhoeve.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/kasteelhoeve.jpg" %}}
 
 Tussen knooppunt 21 en 15
 
@@ -62,7 +68,7 @@ Adres: Kasteelstraat 6, 8340 Moerkerke
 
 ### De Beukenhoeve
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-damme/de-beukenhoeve.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/de-beukenhoeve.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/de-beukenhoeve" %}}
 
 Tussen knooppunt 61 en 18
 
@@ -74,7 +80,7 @@ Adres: Weststraat 65B, 8340 Vivenkappele
 
 ### Hoeveslagerij Van Haverbeke
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-damme/van_haverbeke_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/van_haverbeke_1.jpg" %}}
 
 Tussen knooppunt 61 en 18
 
@@ -86,7 +92,7 @@ Adres: Schardauwstraat 5, 8340 Sijsele
 
 ### Steffi Fruit
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-damme/steffi_fruit_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/steffi_fruit_1.jpg" %}}
 
 Tussen knooppunt 16 en 21
 
@@ -98,7 +104,7 @@ Adres: Weststraat 12, 8340 Moerkerke
 
 ### Depestel 
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-damme/aardbeien.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/eten_drinken/aardbeien.jpg" %}}
 
 Tussen knooppunt 16 en 21
 

@@ -1,7 +1,7 @@
 ---
 title: "Radio 2-fietstocht in De Haan-Wenduine"
 subtitle: "Het mooie pittoreske De Haan en het gezellige Wenduine zijn het decor van deze fietstocht"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Het mooie pittoreske De Haan en het gezellige Wenduine zijn het decor van deze fietstocht" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietstocht-de-haan-wenduine"
 gpx: "westtoer/fietsen_dehaan.gpx"
 length: 28
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten doe je aan knooppunt 6, ter hoogte van het Tramstation in De Haan-Wenduine. 
+Starten doe je aan knooppunt 6, ter hoogte van het Tramstation in De Haan-Wenduine.
+
+## Signage
+
+6 - 31 - 16 - 83 - 34 - 95 - 22 - 20 - 28 - 98 - 78 - 6
 
 ## En Route
 
 ### Tramstation En Concessie
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietstocht-de-haan-wenduine/de_haan_tramstation.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/de_haan_tramstation.jpg" extlink="/nl/doen/tramstation-de-haan" %}}
 
 Het geklasseerde [tramstationnetje ](https://www.westtoer.be/nl/doen/tramstation-de-haan)van De Haan en de [villawijk ](https://www.westtoer.be/nl/doen/concessiewijk)ten noorden van de tramlijn zijn mooie voorbeelden met Engels-Normandiche vakwerkelementen. Deze badplaats ademt belle époque in al z'n pracht.
 
@@ -40,7 +46,7 @@ Het geklasseerde [tramstationnetje ](https://www.westtoer.be/nl/doen/tramstation
 
 ### Duinbossen
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietstocht-de-haan-wenduine/duinbossen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/duinbossen.jpg" extlink="/nl/doen/duinbossen" %}}
 
 De [Duinbossen ](https://www.westtoer.be/nl/doen/duinbossen)is een gebied van 157 ha dat De Haan en Wenduine aan elkaar rijgt. De beboste duinen hebben een unieke fauna en flora en zijn zeker een wandeling waard.
 
@@ -48,7 +54,7 @@ De [Duinbossen ](https://www.westtoer.be/nl/doen/duinbossen)is een gebied van 15
 
 ### Spioenkop
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietstocht-de-haan-wenduine/spioenkop.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/spioenkop.jpg" %}}
 
 Het witte paviljoentje op de tweede hoogste duin van onze Kust. Stap even af en ga er een kijkje nemen. Het prachtige zicht is de stop meer dan waard. Aan de voet van de duin ligt de Rotonde, recent vernieuwd en een place to be voor wie even wil genieten.
 
@@ -56,8 +62,8 @@ Het witte paviljoentje op de tweede hoogste duin van onze Kust. Stap even af en 
 
 ### Polderdorpjes Nieuwmunster, Houthave En Vlissegem
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietstocht-de-haan-wenduine/vlissegem_0_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/vlissegem_0_0.jpg" %}}
 
-De gezelligheid van de kleine polderdorpjes voel je meteen. 
+De gezelligheid van de kleine polderdorpjes voel je meteen.
 
 {{% /imgandtxt %}}

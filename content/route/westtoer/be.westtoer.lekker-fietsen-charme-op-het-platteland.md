@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Charme op het platteland"
 subtitle: "Verken het zuiden van de regio met Pittem, Ardooie, Lichtervelde en Zwevezele"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Verken het zuiden van de regio met Pittem, Ardooie, Lichtervelde en Zwevezele" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-charme-op-het-platteland"
 gpx: "westtoer/route-11-charme-op-het-platteland.gpx"
 length: 49
+nodetype: "vlaams"
+nodes: "58"
 ---
 
 ## Let's Go !
@@ -28,13 +30,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Bezoekerscentrum Ferdinand Verbiest, Markt 1 Pittem (Dan verder fietsen tot aan knooppunt 58 = start) 
+Bezoekerscentrum Ferdinand Verbiest, Markt 1 Pittem (Dan verder fietsen tot aan knooppunt 58 = start)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 58 - 38 - 34 - 44 - 18 - 16 - 14 - 15 - 89 - 12 - 82 - 6 - 21 - 23 - 36 - 58
 
 ## En Route
 
 ### Koffie- En Eethuis Castelly
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-charme-op-het-platteland/castelly8.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/castelly8.jpg" extlink="/nl/eten-drinken/koffie-en-eethuis-castelly" %}}
 
 Tussen knooppunt 36 en 58
 
@@ -46,7 +52,7 @@ Koffie of thee? Met iedere dag zelfgebakken taartjes of een ander dessert. Voor 
 
 ### Rysselendemolen
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-charme-op-het-platteland/rysselendemolen3_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/rysselendemolen3_1.jpg" extlink="/nl/eten-drinken/rysselende-molen" %}}
 
 Even afwijken bij 34
 
@@ -58,7 +64,7 @@ In deze tearoom en restaurant aan de puik gerestaureerde molen kan je ook blijve
 
 ### De Bossneppe
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-charme-op-het-platteland/de_bossneppe.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/campagnes/de_bossneppe.jpg" extlink="/nl/eten-drinken/zuivelhoeve-de-bossneppe" %}}
 
 Tussen 16 en 14
 
@@ -70,7 +76,7 @@ In dit ijssalon krijg je ruezenollen met smaken als oreo of bloedsinaas. De pick
 
 ### Poer
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-charme-op-het-platteland/poer-39.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/poer-39.jpg" extlink="/nl/eten-drinken/poer" %}}
 
 Even afwijken van 15
 
@@ -82,7 +88,7 @@ Geniet van fijne, seizoensgebonden gerechten in een fraai interieur met aandacht
 
 ### Brouwerij Maenhout
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-charme-op-het-platteland/maenhout.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/maenhout.jpg" extlink="/nl/eten-drinken/brouwerij-maenhout" %}}
 
 Even afwijken bij 23
 

@@ -1,7 +1,7 @@
 ---
 title: "Recreatieve lus Veurne"
 subtitle: "Deze route brengt je naar Alveringem, waar je een bezoekje kan brengen aan het Mout- en Brouwhuis de Snoek"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Deze route brengt je naar Alveringem, waar je een bezoekje kan brengen aan het Mout- en Brouwhuis de Snoek" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/recreatieve-lus-veurne"
 gpx: "westtoer/fietsen_veurne.gpx"
 length: 26
+nodetype: "vlaams"
+nodes: "9"
 ---
 
 ## Let's Go !
@@ -28,13 +30,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Belevingscentrum Vrij Vaderland, Grote Markt 29, 8630 Veurne 
+Belevingscentrum Vrij Vaderland, Grote Markt 29, 8630 Veurne
+
+## Signage
+
+Start: 9 - 83 - 4 - 14 - 29 - 80 - 63 - 43 - 67 - 44 - 94 - 31 - 32 - 16 - 15 - 17 - 18 - 73 - 60 - 69 - 75 - 68 - 9
 
 ## En Route
 
 ### Belevingscentrum Vrij Vaderland
 
-{{% imgandtxt url="/routes/page/be.westtoer.recreatieve-lus-veurne/vrij_vaderland.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/vrij_vaderland.jpg" extlink="/nl/doen/belevingscentrum-vrij-vaderland" %}}
 
 Beleef het verhaal achter het front, het dagelijkse leven in dit stukje onbezet gebied. 'Vrij Vaderland' brengt dit verhaal in een sfeervolle scenografie.
 
@@ -44,7 +50,7 @@ Beleef het verhaal achter het front, het dagelijkse leven in dit stukje onbezet 
 
 ### Mout- En Brouwhuis De Snoek
 
-{{% imgandtxt url="/routes/page/be.westtoer.recreatieve-lus-veurne/mout_en_brouwhuis_de_snoek.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/mout_en_brouwhuis_de_snoek.jpg" extlink="/nl/doen/mout-brouwhuis-de-snoek" %}}
 
 Hier vind je nog een volledige, authentieke brouwerij en mouterij uit de 19de eeuw. In het Brouwershof kan je ook even halt houden om te proeven van een lekker biertje.
 

@@ -1,7 +1,7 @@
 ---
 title: "Groene 62 L62 - Groene as"
 subtitle: "Spoorlijn 62 was vroeger een 22 km lange spoorweg tussen Oostende (Zandvoordestraat) en Torhout (Aartrijksestraat)"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Spoorlijn 62 was vroeger een 22 km lange spoorweg tussen Oostende (Zandvoordestraat) en Torhout (Aartrijksestraat)" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/Groene62"
 gpx: "westtoer/fietsen_groene62.gpx"
 length: 22
+nodetype: "vlaams"
+nodes: "81"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan in Torhout (in de Aartrijksestraat) of in Oostende (in de Zandvoordestraat) 
+Starten kan in Torhout (in de Aartrijksestraat) of in Oostende (in de Zandvoordestraat)
+
+## Signage
+
+De groene as is bewegwijzerd met paaltjes. Je kan ook de knooppunten van het fietsnetwerk volgen: 81 - 70 - 74 - 30 - 34 - 42 - 48 - 89 - 83 - 20 - 11 (richting Torhout - Oostende).
 
 ## En Route
 
 ### Kasteel Wijnendale En Bos
 
-{{% imgandtxt url="/routes/page/be.westtoer.Groene62/kasteel_wijnendale.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/kasteel_wijnendale.jpg" %}}
 
 Indrukwekkend waterslot in een groene oase. De kids stuur je op spookjesspeurtocht in het kasteel terwijl jij het museum verkent.
 
@@ -40,7 +46,7 @@ Indrukwekkend waterslot in een groene oase. De kids stuur je op spookjesspeurtoc
 
 ### D'aertrycke
 
-{{% imgandtxt url="/routes/page/be.westtoer.Groene62/daertrycke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/daertrycke.jpg" %}}
 
 Sprookjesachtig park met dito kasteel. Het koetshuis is de plek voor een pannenkoek of kaasplank. In het weekend geniet je in het kasteel van rijkelijke buffetten.
 
@@ -48,7 +54,7 @@ Sprookjesachtig park met dito kasteel. Het koetshuis is de plek voor een pannenk
 
 ### Groendomein Stationsput
 
-{{% imgandtxt url="/routes/page/be.westtoer.Groene62/stationsput_eernegem.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/stationsput_eernegem.jpg" %}}
 
 Vijver die gegraven werd om stoomtreinen van Torhout naar Oostende van water te voorzien. Nu een prachtig rustplekje!
 
@@ -56,7 +62,7 @@ Vijver die gegraven werd om stoomtreinen van Torhout naar Oostende van water te 
 
 ### Oostmolensite Gistel
 
-{{% imgandtxt url="/routes/page/be.westtoer.Groene62/oostmolensite_gistel.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/praktische_info/oostmolensite_gistel.jpg" %}}
 
 De moeite om even af te wijken van het parcours. De hippe molenaar, het zalige terras met speeltuin en het Flandrienhuis zullen je zeker bekoren.
 

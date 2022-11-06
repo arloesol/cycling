@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Kastelen en mosterd"
 subtitle: "Onderweg geniet je van de vele natuurplekjes, kastelen en de befaamde Mostaard Wostyn"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Onderweg geniet je van de vele natuurplekjes, kastelen en de befaamde Mostaard Wostyn" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-kastelen-en-mosterd"
 gpx: "westtoer/route-10-kastelen-en-mosterd.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "85"
 ---
 
 ## Let's Go !
@@ -28,13 +30,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan aan knooppunt 85 aan Kasteel Wijnendale (Oostendestraat 390, Torhout) 
+Starten kan aan knooppunt 85 aan Kasteel Wijnendale (Oostendestraat 390, Torhout)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 85 - 75 - 13 - 73 - 3 - 9 - 49 - 34 - 30 - 74 - 70 - 63 - 88 - 72 - 8 - 81 - 4 - 71 - 85
 
 ## En Route
 
 ### Café De Hert
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-kastelen-en-mosterd/cafe_de_hert.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/cafe_de_hert.jpg" extlink="/nl/eten-drinken/caf%C3%A9-de-hert" %}}
 
 Bij 73
 
@@ -46,7 +52,7 @@ Rasecht authentiek volkscafé waar je uren nodig hebt om alle wieleprullaria gro
 
 ### Koffie Torenhof
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-kastelen-en-mosterd/116217094_191354719011037_6423614503374052422_n.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/116217094_191354719011037_6423614503374052422_n.jpg" extlink="/nl/doen/koffie-torenhof" %}}
 
 Tussen 49 en 34
 
@@ -58,7 +64,7 @@ Al vijf generaties een begrip in de streek. Hét adres voor een pakje vers gebra
 
 ### Provinciedomein En Kasteel D'aertrycke
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-kastelen-en-mosterd/daertrycke_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/daertrycke_0.jpg" extlink="/nl/doen/daertrycke" %}}
 
 Tussen 70 en 63
 
@@ -70,7 +76,7 @@ Provinciedomein met kasteel (restaurant), kasteelpark en speeltuin.
 
 ### Mosterdwinkeltje Wostyn
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-kastelen-en-mosterd/piet_wostyn.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/piet_wostyn.jpg" extlink="/nl/doen/mosterdwinkeltje-wostyn" %}}
 
 Nabij 81
 
@@ -82,7 +88,7 @@ Bakermat van de enige echte Mostaard Wostyn. Je houdt er je eigen potje onder de
 
 ### De Houtlandse Brouwers
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-kastelen-en-mosterd/img_0285.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/img_0285.jpg" extlink="/nl/eten-drinken/de-houtlandse-brouwers" %}}
 
 In de buurt tussen 81 en 4
 

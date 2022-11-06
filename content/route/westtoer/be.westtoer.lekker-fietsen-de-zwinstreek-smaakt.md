@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: De Zwinstreek smaakt"
 subtitle: "Ontdek langs deze route de talrijke toprestaurantjes en bistro's die de Zwinstreek herbergt"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Ontdek langs deze route de talrijke toprestaurantjes en bistro's die de Zwinstreek herbergt" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-de-zwinstreek-smaakt"
 gpx: "westtoer/route-4-de-zwinstreek-smaakt.gpx"
 length: 38
+nodetype: "vlaams"
+nodes: "26"
 ---
 
 ## Let's Go !
@@ -28,13 +30,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 26 in Oostkerke (kruispunt Hoekestraat met Eienbroekstraat) 
+Starten kan bij knooppunt 26 in Oostkerke (kruispunt Hoekestraat met Eienbroekstraat)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 26 - 44 - 47 - 74 - 24 - 57 - 54 - 94 - 98 - 93 - 53 - 50 - 59 - 49 - 73 - 33 - 62 - 39 - 70 - 65 - 32 - 23 - 47 - 75 - 26
 
 ## En Route
 
 ### De Knotwilg
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-de-zwinstreek-smaakt/de_knotwilg_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/de_knotwilg_1.jpg" extlink="/nl/eten-drinken/de-knotwilg" %}}
 
 Bij 26
 
@@ -46,7 +52,7 @@ Eet- en speelcafé met indrukwekkend arsenaal volksspelen. De vierkante Damse pa
 
 ### Bar Antiques
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-de-zwinstreek-smaakt/image00007_0.jpeg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/image00007_0.jpeg" extlink="/nl/eten-drinken/bar-antiques" %}}
 
 Bij 47
 
@@ -58,7 +64,7 @@ Small bites aan de lopende band bij Bar Antiques. Hier bestel je niet één, maa
 
 ### Hoeve Hazegras
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-de-zwinstreek-smaakt/hoeve_hazegras_-_bureau_blanc-203.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/hoeve_hazegras_-_bureau_blanc-203.jpg" extlink="/nl/eten-drinken/hoeve-hazegras" %}}
 
 Tussen 59 en 49
 
@@ -70,7 +76,7 @@ Vers smaakt altijd beter. In het Ijshuisje proef je dagelijks vijftien verschill
 
 ### For Freedom Museum
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-de-zwinstreek-smaakt/lage_resolutie-museum_for_freedom.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lage_resolutie-museum_for_freedom.jpg" extlink="/nl/doen/freedom-museum" %}}
 
 Tussen knooppunt 70 en 65
 
@@ -82,7 +88,7 @@ For Freedom museum, een aanrader voor groot en klein!
 
 ### Uitkerkse Polder
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-de-zwinstreek-smaakt/235619895_4524519507560162_7749449640654060532_n_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/235619895_4524519507560162_7749449640654060532_n_0.jpg" extlink="/nl/eten-drinken/de-kruier" %}}
 
 Tussen knooppunt 70 en 65
 

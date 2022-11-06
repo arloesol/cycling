@@ -1,7 +1,7 @@
 ---
 title: "Bedevaartfietsroute"
 subtitle: "Tussen Roeselare en Menen herinneren heel wat religieuze elementen aan de godsdienstige devotie van de plaatselijke bevolking"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Tussen Roeselare en Menen herinneren heel wat religieuze elementen aan de godsdienstige devotie van de plaatselijke bevolking" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/bedevaartfietsroute"
 gpx: "westtoer/bedevaartfietsroute_0.gpx"
 length: 42
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -26,6 +28,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Gemeentelijk domein 't Torreke, Plaats 6, 8890 Dadizele 
+Gemeentelijk domein 't Torreke, Plaats 6, 8890 Dadizele
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

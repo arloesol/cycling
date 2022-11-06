@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Allemaal beestjes"
 subtitle: "Van oervlaamse koeien tot exotische papegaaien: genoeg ideeën voor een beestige dag"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Van oervlaamse koeien tot exotische papegaaien: genoeg ideeën voor een beestige dag" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-allemaal-beestjes"
 gpx: "westtoer/kidsroute-2-allemaal-beestjes.gpx"
 length: 14
+nodetype: "vlaams"
+nodes: "84"
 ---
 
 ## Let's Go !
@@ -28,13 +30,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 84 in Ver-Assebroek (Brugge). Kruispunt Kerkdreef en Zwarte Paard. 
+Starten kan bij knooppunt 84 in Ver-Assebroek (Brugge). Kruispunt Kerkdreef en Zwarte Paard.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 84 - 24 - 54 - 75 - 30 - 81 - 40 - 45 - 72 - 84
 
 ## En Route
 
 ### Hoeve Hangerijn
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-allemaal-beestjes/hoeve_hangerijn_0_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/hoeve_hangerijn_0_0.jpg" extlink="/nl/doen/hoeve-hangerijn" %}}
 
 Vlakbij 54
 
@@ -46,7 +52,7 @@ Ontmoetings- en belevingshoeve met prikkelpad en speelplein Paelbos.
 
 ### Ryckevelde
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-allemaal-beestjes/ryckevelde_10.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/ryckevelde_10.jpg" extlink="/nl/eten-drinken/restaurant-tearoom-ryckevelde" %}}
 
 Bij 75
 
@@ -58,7 +64,7 @@ Domeinbos met speelzones, blindentuin, heemtuin en kasteel met restaurant.
 
 ### Nally's Papegaaienopvang
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-allemaal-beestjes/brugsommeland_nathalie5_10873_-_lr_2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/brugsommeland_nathalie5_10873_-_lr_2.jpg" extlink="/nl/doen/nallys-papegaaienopvang" %}}
 
 In de buurt tussen 75 en 30
 
@@ -70,7 +76,7 @@ Breng een bezoekje aan Nally's papegaaien en steun zo het goede doel van de vzw.
 
 ### De Boomgaard
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-allemaal-beestjes/terras_met_tuin.png" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/terras_met_tuin.png" extlink="/nl/eten-drinken/de-boomgaard" %}}
 
 Nabij 81
 
@@ -82,7 +88,7 @@ Deze bistro / Tearoom in een oude herberg kreeg onlangs een leuke facelift. Zuid
 
 ### Moo-Boerderij
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-allemaal-beestjes/moo_boerderij.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/moo_boerderij.jpg" extlink="/nl/eten-drinken/moo-boerderij" %}}
 
 Bij 72
 

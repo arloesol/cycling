@@ -1,7 +1,7 @@
 ---
 title: "Fietsen vanuit Lendelede"
 subtitle: "Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Lendelede langs Kuurne, Kortrijk en Moorsele"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Lendelede langs Kuurne, Kortrijk en Moorsele" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-vanuit-lendelede"
 gpx: "westtoer/lendelede.gpx"
 length: 38
+nodetype: "vlaams"
+nodes: "5"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan het knooppunt 5 op het kruispunt van de Manpadstraat en de Rozebeekstraat. 
+Je start aan het knooppunt 5 op het kruispunt van de Manpadstraat en de Rozebeekstraat.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 5 - 47 - 14 - 42 - 64 - 94 - 90 - 11 - 31 - 36 - 16 - 48 - 18 - 10 - 93 - 83 - 53 - 73 - 27 - 88 - 28 - 35 - 67 - 86 - 34 - 61 - 1 - 5
 
 ## En Route
 
 ### Patrijzenbos
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-vanuit-lendelede/patrijzenbos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/patrijzenbos.jpg" extlink="/nl/doen/patrijzenbos" %}}
 
 Tussen knooppunt 5 en 47.
 
@@ -44,7 +50,7 @@ Het Patrijzenbos is een groene oase van ongeveer 5,5 hectare groot aan de rand v
 
 ### Brouwerij Gulden Spoor
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-vanuit-lendelede/brouwerij-gulden-spoor.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/brouwerij-gulden-spoor.jpg" extlink="/nl/eten-drinken/brouwerij-gulden-spoor" %}}
 
 Tussen knooppunt 11 en 31.
 
@@ -56,7 +62,7 @@ Sinds 2014 is de volledige installatie van Brouwerij ’t Gulden Spoor verhuisd 
 
 ### Texture
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-vanuit-lendelede/texture_2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/texture_2.jpg" extlink="/nl/doen/texture" %}}
 
 Tussen knooppunt 18 en 10.
 
@@ -68,7 +74,7 @@ Texture, museum over Leie en vlas, opende in 2014 de deuren in dit authentiek vl
 
 ### Broeltorens
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-vanuit-lendelede/broeltorens_2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/broeltorens_2.jpg" extlink="/nl/doen/broeltorens" %}}
 
 Tussen knooppunt 83 en 53.
 
@@ -80,7 +86,7 @@ De iconische Broeltorens zijn de enige overblijfselen van de oudste vestingen va
 
 ### Verlaagde Leieboorden
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-vanuit-lendelede/verlaagde-leieboorden.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/verlaagde-leieboorden.jpg" extlink="https://www.toerisme-leiestreek.be/nl/het-beste-van-belgie/topterrasjes-in-kortrijk" %}}
 
 Tussen knooppunt 83 en 53.
 
@@ -92,7 +98,7 @@ De Leieboorden bij de eeuwenoude Broeltorens zijn met voorsprong het coolste ple
 
 ### Begijnhof
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-vanuit-lendelede/begijnhof_0_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/begijnhof_0_0.jpg" extlink="/nl/doen/begijnhof-kortrijk" %}}
 
 Tussen knooppunt 83 en 53.
 
@@ -104,7 +110,7 @@ Het Sint-Elisabethbegijnhof dateert uit 1238 en werd in 1998 opgenomen op de Une
 
 ### Buda Beach
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-vanuit-lendelede/buda-beach.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/buda-beach.jpg" extlink="https://www.toerisme-leiestreek.be/nl/inspiratie/pop-zomerbars" %}}
 
 Tussen knooppunt 88 en 28.
 
@@ -116,7 +122,7 @@ Bar Amorse is een gezellige strandbar aan Buda Beach, de beste optie voor wie ee
 
 ### De Groene Long
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-vanuit-lendelede/de-groene-long_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/de-groene-long_0.jpg" extlink="/nl/doen/de-groene-long" %}}
 
 Tussen knooppunt 67 en 86.
 

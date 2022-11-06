@@ -24,47 +24,47 @@ Het kasteeldomein de Ghellinck is je startpunt voor een rit langs de kouters in 
 
 ### Domein de Ghellinck
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_134328.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_134328.jpg" %}}
 specialleke,
 
 Dit kasteeldomein is een specialleke, want er staat geen kasteel. Dat werd in 1973 verwoest door een brand. De prachtige tuinen met vijvers en verschillende bijgebouwen zijn wel goed bewaard gebleven en hebben sindsdien een grondige opknapbeurt gekregen. Vooral het koetshuis is een echte blikvanger en doet vandaag dienst als tearoom en restaurant.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Elsegem
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_135043.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_135043.jpg" %}}
 De pittoreske dorpskern van Elsegem, deelgemeente van Wortegem-Petegem, is beschermd als dorpsgezicht. In het dorp vind je heel wat restaurants, zoals De Hooiopper en het gastronomische Plein25.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Petegemberg
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_142816.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_142816.jpg" %}}
 Op deze route in de glooiende Vlaamse Ardennen kom je verschillende hellingen tegen. De meeste zijn vrij gemakkelijk overbrugbaar, maar de Bergstraat op de Petegemberg doet je toch flink zweten. Eenmaal boven word je wel beloond voor het hard labeur met een prachtig zicht op de Scheldevallei, Petegem en Oudenaarde.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Wortegem
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_150420.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_150420.jpg" %}}
 Via boerderijen en velden rijd je op een lichte heuvel richting Wortegem. Rond het kerkplein kan je je even verfrissen in een van de cafeetjes met terras.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Ooike & Moregem
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_155934.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_155934.jpg" %}}
 Het noorden van Wortegem-Petegem wordt gekenmerkt door oude hoeves en landbouwgebied. Via weides vol koeien en kleine gehuchten waar de tijd lijkt stil te staan rijd je door de pittoreske dorpskernen van Ooike en Moregem. De witgeverfde parochiekerk Sint-Pietersstoel van Moregem werd gebouwd voor 1400 en is samen met het plein beschermd als dorpszicht. Hier kan je je dorst lessen of je maag vullen in tearoom-restaurant De Vierschaar.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Langemeersen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/langemeersen_kl.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/langemeersen_kl.jpg" %}}
 Het natuurgebied Langemeersen ligt laag en vormt een soort badkuip, waar al het water uit de ruime omgeving naartoe vloeit. Door al dat water zijn hier mooie natte hooilanden en rietlanden en stukjes moeras bewaard gebleven. Tot de eerste helft van vorige eeuw trad de Schelde hier nog regelmatig buiten haar oevers. Neem zeker je verrekijker mee, want de vogelpopulatie is hier erg divers.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Abdij van Beaulieu
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_130610.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2022-05/IMG_20220502_130610.jpg" %}}
 De volgende stop op je route is de schilderachtige Abdij van Beaulieu. Ooit beheerste deze abdij de omliggende landen en meer dan 50 dorpen waren eraan schatplichtig. Ze werd gesticht in 1290 door Isabella van Namen, gravin van Vlaanderen, en tijdens de 15e en 16e eeuw was het één van de rijkste abdijen van Vlaanderen. Vandaag is slechts een klein deel van de abdij bewaard gebleven, maar deze overblijfselen zijn indrukwekkend en geven een goed beeld van de voormalige rijkdom.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Petegem-aan-de-Schelde
 

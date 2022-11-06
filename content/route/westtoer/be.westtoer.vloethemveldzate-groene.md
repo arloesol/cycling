@@ -1,7 +1,7 @@
 ---
 title: "Vloethemveldzate - Groene as"
 subtitle: "Deze as is de kortste van de West-Vlaamse groene assen"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Deze as is de kortste van de West-Vlaamse groene assen" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/vloethemveldzate-groene"
 gpx: "westtoer/fietsen_zedelgem.gpx"
 length: 5
+nodetype: "vlaams"
+nodes: "74"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Diepstraat 12, 8210 Zedelgem 
+Diepstraat 12, 8210 Zedelgem
+
+## Signage
+
+De route is niet apart bewegwijzerd. Je kan wel de knooppunten van het fietsnetwerk volgen (iets langer): 74 - 14 - 77 - 16.
 
 ## En Route
 
 ### Vloethemveld
 
-{{% imgandtxt url="/routes/page/be.westtoer.vloethemveldzate-groene/vloethemveld.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/vloethemveld.jpg" %}}
 
 Via een robuuste uitkijktoren kijk je uit op dit militair domein met bijzondere oorlogsgeschiedenis en uitzonderlijke natuurwaarden.
 

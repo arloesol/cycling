@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in het Lekkere Westen - Middenkust en Hinterland"
 subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes," 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-middenkust-en-hinterland"
 gpx: "westtoer/fietsen_in_het_lekkere_westen_westkust.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "89"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten aan knooppunt 85 (Maria-Hendrikapark, gratis parkeren) 
+Starten aan knooppunt 85 (Maria-Hendrikapark, gratis parkeren)
+
+## Signage
+
+85-4-15-11-20-83-58-94-60-62-66-29-27-25-33-23-28-98-12-96-5-92-8-45-85
 
 ## En Route
 
 ### Hertenfinesse
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/logohonderd_2_4.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_4.jpg" extlink="http://www.hertenfinesse.be/index.php/hoevepicknick" %}}
 
 Tussen knooppunt 11 en 20
 
@@ -44,57 +50,57 @@ Hoevepicknick kan ook gecombineerd worden met bedrijfsbezoek
 
 ### Romeins Archeologisch Museum
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/ram.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/ram.jpg" extlink="http://www.ram-oudenburg.be" %}}
 
 Tussen knooppunt 62 en 66
 
-Eigentijds museum over het [Romeins verleden van Oudenburg](http://www.ram-oudenburg.be).  In het museumcafé kan je terecht voor een streekbiertje of een St. Arnolduscake  
+Eigentijds museum over het [Romeins verleden van Oudenburg](http://www.ram-oudenburg.be).  In het museumcafé kan je terecht voor een streekbiertje of een St. Arnolduscake
 
 {{% /imgandtxt %}}
 
 ### Hoeve Macarel 
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/macarel_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/macarel_0.jpg" extlink="http://www.macarel.be/hoeve-macarel/" %}}
 
 Tussen knooppunt 25 en 33
 
-Zin in een hoeve-ijsje ? Hoeve Macarel is in juli en augustus iedere dag open (van pasen tot september op maandag, donderdag en zondag).  Er is ook een [ijsautomaat waar dagelijks verse ijsjes](http://www.macarel.be/hoeve-macarel/) ter beschikking zijn. 
+Zin in een hoeve-ijsje ? Hoeve Macarel is in juli en augustus iedere dag open (van pasen tot september op maandag, donderdag en zondag).  Er is ook een [ijsautomaat waar dagelijks verse ijsjes](http://www.macarel.be/hoeve-macarel/) ter beschikking zijn.
 
 {{% /imgandtxt %}}
 
 ### De Sfeermaker 
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/sfeermaker.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/sfeermaker.jpg" extlink="http://www.desfeermaker.be" %}}
 
 Tussen knooppunt 33 en 23
 
-Glasblazerij, korfvlechterij en imkerij met gezellig winkeltje.  [Proef eens een honingbiertje of honingthee op het terras](http://www.desfeermaker.be). 
+Glasblazerij, korfvlechterij en imkerij met gezellig winkeltje.  [Proef eens een honingbiertje of honingthee op het terras](http://www.desfeermaker.be).
 
 {{% /imgandtxt %}}
 
 ### Jerseyhoeve - Melkautomaat
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/melk.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/melk.jpg" extlink="http://www.jerseyhoevedehaan.be/" %}}
 
 Nabij knooppunt 98
 
-Mmmelk ! Ideale stop om op krachten te komen. In de zuivelautomaten vind je yoghurt, ijs ... en je kan zelfs [dagverse melk tappen aan de melkautomaat](http://www.jerseyhoevedehaan.be/). (Bredeweg 129, De Haan). 
+Mmmelk ! Ideale stop om op krachten te komen. In de zuivelautomaten vind je yoghurt, ijs ... en je kan zelfs [dagverse melk tappen aan de melkautomaat](http://www.jerseyhoevedehaan.be/). (Bredeweg 129, De Haan).
 
 {{% /imgandtxt %}}
 
 ### Plassendale
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/025_-_bram_coenen_1_klein_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/025_-_bram_coenen_1_klein_0.jpg" extlink="https://www.westtoer.be/nl/het-lekkere-westen/plassendale-bram-coenen" %}}
 
 Nabij knooppunt 22
 
-Proef eens van de huisbereide garnaalkroketten met versgepelde Oostendse garnalen in [Lekkere Westen-restaurant Plassendale](https://www.westtoer.be/nl/het-lekkere-westen/plassendale-bram-coenen).  
+Proef eens van de huisbereide garnaalkroketten met versgepelde Oostendse garnalen in [Lekkere Westen-restaurant Plassendale](https://www.westtoer.be/nl/het-lekkere-westen/plassendale-bram-coenen).
 
 {{% /imgandtxt %}}
 
 ### De Kruidenmolen
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/kruidenmolen.png" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/kruidenmolen.png" extlink="https://www.westtoer.be/nl/het-lekkere-westen/kruidenmolen-stijn-bauwens" %}}
 
 Tussen knooppunt 98 en 12
 
@@ -104,29 +110,27 @@ In Klemskerke kan je aan de kerk links afslaan. Aan de Geersemolen kan in de Kru
 
 ### 'T Reigershof
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/logohonderd_2_7.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_7.jpg" extlink="http://www.reigershof.be" %}}
 
 Tussen knooppunt 98 en 12
 
-Rij nog iets verder en je komt aan 't Reigershof, een biologische geitenboerderij en kaasmakerij.  In de hoevewinkel kan je terecht voor [ijs, kaas, yoghurt op baas van geitenmelk
-
-](http://www.reigershof.be)
+Rij nog iets verder en je komt aan 't Reigershof, een biologische geitenboerderij en kaasmakerij.  In de hoevewinkel kan je terecht voor ijs, kaas, yoghurt op baas van geitenmelk
 
 {{% /imgandtxt %}}
 
 ### De Fruithoeve
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/0076.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/0076.jpg" extlink="http://www.defruithoeve.be" %}}
 
 Nabij knooppunt 96
 
-Korte keten is in, nabij knooppunt 96 vind je de Fruithoeve.  Hier vind je [groenten en fruit recht van bij de boer](http://www.defruithoeve.be) 
+Korte keten is in, nabij knooppunt 96 vind je de Fruithoeve.  Hier vind je [groenten en fruit recht van bij de boer](http://www.defruithoeve.be)
 
 {{% /imgandtxt %}}
 
 ### 'T Fietskotje
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/fietskotje_bredene_2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/fietskotje_bredene_2.jpg" extlink="http://www.fietskotje.be" %}}
 
 Tussen knooppunt 96 en 5
 
@@ -136,7 +140,7 @@ Ooit al [pannenkoeken aan de lopende meter](http://www.fietskotje.be) gegeten? D
 
 ### Brouwerij Betsy
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/logohonderd_2_6.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_6.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/brouwerij-betsy" %}}
 
 Tussen knooppunt 96 en 5
 
@@ -146,7 +150,7 @@ Betsy en Bredene zijn niet van elkaar los te denken. Dit vind je ook terug in he
 
 ### Tafelen In Bredene
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/donald_deschagt_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/donald_deschagt_1.jpg" extlink="https://www.westtoer.be/nl/het-lekkere-westen/le-homard-et-la-moule-donald-deschagt" %}}
 
 Nabij knooppunt 92
 
@@ -156,17 +160,17 @@ Bredene biedt diverse mogelijkheden om lekker te tafelen o.a. bij [Lekkere Weste
 
 ### Fort Napoleon
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/fort_napoleon.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/fort_napoleon.jpg" extlink="https://www.fort-napoleon-brasserie.be/brasseriemenu/" %}}
 
 Nabij knooppunt 8
 
-Breng een bezoekje aan dit oude militaire bolwerk uit de tijd van Napoleon. Je kan er ook terecht in de brasserie voor o.a. [Fish & Chips à l'Ostendaise](https://www.fort-napoleon-brasserie.be/brasseriemenu/). 
+Breng een bezoekje aan dit oude militaire bolwerk uit de tijd van Napoleon. Je kan er ook terecht in de brasserie voor o.a. [Fish & Chips à l'Ostendaise](https://www.fort-napoleon-brasserie.be/brasseriemenu/).
 
 {{% /imgandtxt %}}
 
 ### Genieten In Oostende
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/020_-_nick_wallaeys_2_klein.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/020_-_nick_wallaeys_2_klein.jpg" extlink="https://www.westtoer.be/nl/lekkere-westen-chefs#kust" %}}
 
 Nabij knooppunt 45
 
@@ -176,7 +180,7 @@ Heb je honger of dorst gekregen na je fietstocht ? Dan kan je terecht bij tal va
 
 ### Deschildre Streekproducten
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-het-lekkere-westen-middenkust-en-hinterland/logohonderd_2_6.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/campagnes/het_lekkere_westen/logohonderd_2_6.jpg" extlink="http://www.westtoer.be/nl/doen/streekproducten-deschildre" %}}
 
 Nabij knooppunt 8
 

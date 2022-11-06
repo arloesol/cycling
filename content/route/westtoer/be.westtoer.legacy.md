@@ -3,7 +3,7 @@ title: "The Legacy"
 subtitle: "Fietsroute 14-18
 
 In Zonnebeke bevind je je in het hartje van de beruchte Ieperboog"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Fietsroute 14-18
 
 In Zonnebeke bevind je je in het hartje van de beruchte Ieperboog" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/legacy"
 gpx: "westtoer/the-legacy.gpx"
 length: 37
+nodetype: "vlaams"
+nodes: "46"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ In Zonnebeke bevind je je in het hartje van de beruchte Ieperboog. In de Slag va
 
 ## Start 
 
-Memorial Museum Passchendaele 1917, Berten Pilstraat 5A, 8980 Zonnebeke 
+Memorial Museum Passchendaele 1917, Berten Pilstraat 5A, 8980 Zonnebeke
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

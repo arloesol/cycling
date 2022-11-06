@@ -1,7 +1,7 @@
 ---
 title: "Literaire Lus met start in Deerlijk"
 subtitle: "Deze toeristisch-literaire fietsroute vormt een lus die het Lijsternest van Stijn Streuvels (Anzegem), het André Demedtshuis (Wielsbeke), en het René De Clercqmuseum (Deerlijk) met elkaar verbindt"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Deze toeristisch-literaire fietsroute vormt een lus die het Lijsternest van Stijn Streuvels (Anzegem), het André Demedtshuis (Wielsbeke), en het René De Clercqmuseum (Deerlijk) met elkaar verbindt" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/literaire-lus-met-start-deerlijk"
 gpx: "westtoer/literaire_lus.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "6"
 ---
 
 ## Let's Go !
@@ -26,6 +28,8 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 52 in het centrum van Deerlijk 
+Knooppunt 52 in het centrum van Deerlijk
 
+## Signage
 
+52 - 55 - 82 - 62 - 84 - 54 - 59 - 71 - 16 - 76 - 70 - 80 - 88 - 89 - 67 - 47 - 92 - 36 - 27 - 20 - 25 - 96 - 14 - 65

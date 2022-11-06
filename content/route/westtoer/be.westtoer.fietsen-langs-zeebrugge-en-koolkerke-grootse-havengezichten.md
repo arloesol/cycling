@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs Zeebrugge en Koolkerke: grootse havengezichten"
 subtitle: "Jaarlijks worden in Zeebrugge 2,9 miljoen wagens verscheept"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Jaarlijks worden in Zeebrugge 2,9 miljoen wagens verscheept" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-zeebrugge-en-koolkerke-grootse-havengezichten"
 gpx: "westtoer/gpx_de_buitenwijken_van_brugge_0.gpx"
 length: 47
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 40 - Met start in de Pol Dhontstraat, Lissewege. 
+Knooppunt 40 - Met start in de Pol Dhontstraat, Lissewege.
 
+## Signage
 
+Knooppunten - fietsen in tegenwijzerzin

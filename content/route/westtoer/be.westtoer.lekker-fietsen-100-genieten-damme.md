@@ -3,7 +3,7 @@ title: "Lekker fietsen: 100% genieten in Damme"
 subtitle: "Kom zelf ontdekken waarom Damme culinair befaamd is!
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Kom zelf ontdekken waarom Damme culinair befaamd is!
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-100-genieten-damme"
 gpx: "westtoer/route-5-100-genieten-in-damme.gpx"
 length: 40
+nodetype: "vlaams"
+nodes: "28"
 ---
 
 ## Let's Go !
@@ -32,13 +34,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 28 (Kerkstraat, Damme) 
+Starten kan bij knooppunt 28 (Kerkstraat, Damme)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 28 - 42 - 61 - 18 - 52 - 16 - 21 - 15 - 82 - 58 - 68 - 40 - 54 - 57 - 24 - 74 - 47 - 44 - 26 - 20 - 95 - 25 - 92 - 22 - 67 - 60 - 71 - 6 - 28
 
 ## En Route
 
 ### De Ijshoeve
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-100-genieten-damme/de_ijshoeve.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/de_ijshoeve.jpg" extlink="/nl/eten-drinken/de-ijshoeve-0" %}}
 
 Tussen 61 en 18
 
@@ -50,7 +56,7 @@ Menukaart als een telefoonboek met maar liefst 64 smaken roomijs. De knoop doorh
 
 ### Roots Bar
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-100-genieten-damme/roots_bar3.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/roots_bar3.jpg" extlink="/nl/eten-drinken/roots-bar" %}}
 
 Bij 52
 
@@ -62,7 +68,7 @@ Nostalgische apérobar met een uitgebreide keuze aan bier, wijn, cocktails en ee
 
 ### Overzet Kobus
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-100-genieten-damme/lage_resolutie-kobus_damme_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lage_resolutie-kobus_damme_1.jpg" %}}
 
 Tussen 40 en 54
 
@@ -72,7 +78,7 @@ Zelf te bedienen overzetbootje voor fietsers en wandelaars.
 
 ### 'T Vogelkotje
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-100-genieten-damme/t_vogelkotje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/t_vogelkotje.jpg" extlink="/nl/eten-drinken/t-vogelkotje" %}}
 
 Nabij 25
 
@@ -84,7 +90,7 @@ Geniet in alle rust van een lekkere koffie en een vers gebak. Vogelspotters zijn
 
 ### Maïsterplan
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-100-genieten-damme/maisterplan2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/maisterplan2.jpg" extlink="/nl/doen/ma%C3%AFsterplan" %}}
 
 Tussen knooppunt 60 en 71
 

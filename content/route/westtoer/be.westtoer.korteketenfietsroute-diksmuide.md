@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Diksmuide"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de stad Diksmuide met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de stad Diksmuide met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-diksmuide"
 gpx: "westtoer/fietsen-langs-de-korte-keten-diksmuide.gpx"
 length: 25
+nodetype: "vlaams"
+nodes: "12"
 ---
 
 ## Let's Go !
@@ -32,13 +34,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan knooppunt 12 t.h.v het Duits kerkhof in de Houtlandstraat 4  in Vladslo. Van hieruit fiets je naar knooppunt 14. 
+Je start aan knooppunt 12 t.h.v het Duits kerkhof in de Houtlandstraat 4  in Vladslo. Van hieruit fiets je naar knooppunt 14.
+
+## Signage
+
+Je fietst op het fietsnetwerk van de Westhoek aan de hand van knooppunten. Volg deze knooppunten: 12 - 14 - 57 - 28 - 7 - 27 - 78 - 25 - 53 - 26 - 72 - 62 -12
 
 ## En Route
 
 ### De Heerlijkheid
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-diksmuide/de-heerlijkheid.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/de-heerlijkheid.jpg" extlink="/nl/eten-drinken/de-heerlijkheid" %}}
 
 Tussen knooppunt 12 en 14 (afwijken van de route) 
 
@@ -50,7 +56,7 @@ Adres: Lange Limaertstraat 2, 8600 Vladslo
 
 ### Hoeve Saperge
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-diksmuide/hoeve-saperge.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/hoeve-saperge.jpg" extlink="/nl/eten-drinken/asperges-luc-sap" %}}
 
 Tussen knooppunt 14 en 57
 
@@ -62,7 +68,7 @@ Adres: Beerststraat 63, 8600 Beerst
 
 ### Keiemse Kazen
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-diksmuide/keiemse-kazen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/keiemse-kazen.jpg" extlink="/nl/eten-drinken/keiemse-kazen" %}}
 
 Tussen knooppunt 63 en 97
 
@@ -74,7 +80,7 @@ Adres: Dodepaardenstraat 58, 8600 Keiem-Diksmuide
 
 ### Den Uytkant
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-diksmuide/den-uytkant.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/den-uytkant.jpg" extlink="https://www.westtoer.be/nl/lekker-eten-en-drinken-west-vlaanderen/den-uytkant" %}}
 
 Tussen knooppunt 78 en 25
 
@@ -86,7 +92,7 @@ Adres: Moerestraat 20, 8600 Keiem
 
 ### Berkenweelde
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-diksmuide/berkenweelde.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/berkenweelde.jpg" extlink="/nl/eten-drinken/berkenweelde" %}}
 
 Tussen knooppunt 25 en 53
 

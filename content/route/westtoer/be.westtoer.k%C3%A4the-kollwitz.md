@@ -3,7 +3,7 @@ title: "Käthe Kollwitz"
 subtitle: "Fietsroute 14-18
 
 Käthe Kollwitz (1867-1945) was een Duitse expressionistische kunstenares"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Fietsroute 14-18
 
 Käthe Kollwitz (1867-1945) was een Duitse expressionistische kunstenares" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/k%C3%A4the-kollwitz"
 gpx: "westtoer/kathe_kollwitz_14-18_fietsroute.gpx"
 length: 42
+nodetype: "vlaams"
+nodes: "13"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ Käthe Kollwitz (1867-1945) was een Duitse expressionistische kunstenares. Haar 
 
 ## Start 
 
-CC De Brouwerij, Sint-Maartensplein 15b, 8680 Koekelare 
+CC De Brouwerij, Sint-Maartensplein 15b, 8680 Koekelare
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

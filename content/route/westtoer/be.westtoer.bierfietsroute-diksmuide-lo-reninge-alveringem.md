@@ -1,7 +1,7 @@
 ---
 title: "Bierfietsroute Diksmuide - Lo-Reninge - Alveringem"
 subtitle: "Diksmuide heeft 2 brouwerijen: brouwerij Verstraete en De Dolle Brouwers"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Diksmuide heeft 2 brouwerijen: brouwerij Verstraete en De Dolle Brouwers" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/bierfietsroute-diksmuide-lo-reninge-alveringem"
 gpx: "westtoer/fietsen_diksmuide.gpx"
 length: 44
+nodetype: "vlaams"
+nodes: "32"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Grote Markt, 8600 Diksmuide. 
+Grote Markt, 8600 Diksmuide.
+
+## Signage
+
+1-69-57-14-58-18-59-92-81-45-21-28-58-11-13-22-30-65-44-94-31-46-23-78-47-54-51-71-96-49-74-75-1
 
 ## En Route
 
 ### De Vrede
 
-{{% imgandtxt url="/routes/page/be.westtoer.bierfietsroute-diksmuide-lo-reninge-alveringem/de_vrede.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_vrede.jpg" %}}
 
 Comfortabele tearoom en ruim terras met unieke ligging op de Grote Markt en prachtig zicht op het Stadhuis met Belfort.
 
@@ -40,7 +46,7 @@ Comfortabele tearoom en ruim terras met unieke ligging op de Grote Markt en prac
 
 ### Mout- En Brouwhuis De Snoek
 
-{{% imgandtxt url="/routes/page/be.westtoer.bierfietsroute-diksmuide-lo-reninge-alveringem/mout_brouwhuis_de_snoek.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/mout_brouwhuis_de_snoek.jpg" %}}
 
 Dit is de enige, nog volledig intacte brouwerij en mouterij uit de 19de eeuw, waarin je alle authentieke glorie kunt ervaren hoe er tijdens de Eerste Wereldoorlog voor de duizenden soldaten in Bachten de Kupe gebrouwen werd. In de authentieke herberg kan je proeven van een Snoekbiertje.
 
@@ -48,7 +54,7 @@ Dit is de enige, nog volledig intacte brouwerij en mouterij uit de 19de eeuw, wa
 
 ### Lettenburg
 
-{{% imgandtxt url="/routes/page/be.westtoer.bierfietsroute-diksmuide-lo-reninge-alveringem/lettenburg_14.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/lettenburg_14.jpg" %}}
 
 Kinderen kunnen zich hier uitleven in de vernieuwde speeltuin, terwijl de ouders zich uitleven bij een streekbiertje op het terras of in de tearoom.
 
@@ -56,8 +62,8 @@ Kinderen kunnen zich hier uitleven in de vernieuwde speeltuin, terwijl de ouders
 
 ### De Tapperij
 
-{{% imgandtxt url="/routes/page/be.westtoer.bierfietsroute-diksmuide-lo-reninge-alveringem/de_tapperij.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_tapperij.jpg" %}}
 
-Hier kan je genieten van een lekker streekbiertje op het ruime en zonnige terras met zicht op de haven van Diksmuide en de IJzertoren. 
+Hier kan je genieten van een lekker streekbiertje op het ruime en zonnige terras met zicht op de haven van Diksmuide en de IJzertoren.
 
 {{% /imgandtxt %}}

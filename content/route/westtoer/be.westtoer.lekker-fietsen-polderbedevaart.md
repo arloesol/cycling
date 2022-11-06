@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Polderbedevaart"
 subtitle: "Onderweg fiets je langs vroegere bedevaartsoorden Lissewege en Meetkerke"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Onderweg fiets je langs vroegere bedevaartsoorden Lissewege en Meetkerke" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-polderbedevaart"
 gpx: "westtoer/route-3-polderbedevaart.gpx"
 length: 38
+nodetype: "vlaams"
+nodes: "40"
 ---
 
 ## Let's Go !
@@ -28,13 +30,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan aan het station in Lissewege (knooppunt 40) 
+Starten kan aan het station in Lissewege (knooppunt 40)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 40 - 5 - 45 - 99 - 69 - 78 - 11 - 81 - 86 - 77 - 32 - 58 - 52 - 72 - 22 - 95 - 15 - 2 - 89 - 29 - 26 - 30 - 88 - 40
 
 ## En Route
 
 ### Lissewege
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-polderbedevaart/lissewege_5.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lissewege_5.jpg" extlink="www.brugseommeland.be/lissewege" %}}
 
 Bij 40
 
@@ -46,7 +52,7 @@ Het witte polderdorp met bezoekerscentrum, torenbezoek, kerk en vele lekkere res
 
 ### Domein Polderwind
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-polderbedevaart/cafetaria_hotel_polderwind.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/cafetaria_hotel_polderwind.jpg" extlink="/nl/eten-drinken/domein-polderwind-cafetaria" %}}
 
 Tussen 78 en 11
 
@@ -58,7 +64,7 @@ Te midden van een schitterend natuurlandschap vind je aan een grote waterplas (z
 
 ### Café Het Boldershof
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-polderbedevaart/zuienkerke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/agenda/zuienkerke.jpg" extlink="/nl/eten-drinken/t-boldershof" %}}
 
 Bij 81
 
@@ -70,7 +76,7 @@ Het laatste dorpscafé onder de kerktoren van Zuienkerke. Geniet van een hapje e
 
 ### Meetkerke
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-polderbedevaart/meetkerke_9.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/meetkerke_9.jpg" extlink="/nl/doen/natuurreservaat-meetkerkse-moeren" %}}
 
 Tussen knooppunt 58 en 52
 
@@ -82,7 +88,7 @@ Polderdorpje Meetkerke met Meetkerkse Moeren
 
 ### Uitkerkse Polder
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-polderbedevaart/uitkerkse_polder_bank.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/uitkerkse_polder_bank.jpg" extlink="/nl/doen/natuurreservaat-uitkerkse-polder" %}}
 
 Tussen knooppunt 89 en 29
 

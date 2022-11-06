@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in de omgeving van Deerlijk"
 subtitle: "Welkom op het Fietsnetwerk Leiestreek! Verken de wijde omgeving van Deerlijk, Waregem en Harelbeke via de knooppunten van dit voor jou uitgestippelde lusje"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Welkom op het Fietsnetwerk Leiestreek! Verken de wijde omgeving van Deerlijk, Waregem en Harelbeke via de knooppunten van dit voor jou uitgestippelde lusje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-omgeving-van-deerlijk"
 gpx: "westtoer/fietsen_deerlijk.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "52"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan knooppunt 52 aan het kruispunt Dammeke en René de Clercqstraat. 
+Je start aan knooppunt 52 aan het kruispunt Dammeke en René de Clercqstraat.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 52 - 56 - 45 - 44 - 40 - 60 - 9 - 55 - 82 - 72 - 92 - 47 - 21 - 24 - 4 - 34 - 35 - 6 - 36 - 27 - 94 - 14 - 65 - 52
 
 ## En Route
 
 ### Museum René De Clercq 
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-de-omgeving-van-deerlijk/museum-rene-de-clercq.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/museum-rene-de-clercq.jpg" extlink="https://www.westtoer.be/nl/doen/museum-ren%C3%A9-de-clercq" %}}
 
 Tussen knooppunt 52 en 56.
 
@@ -44,7 +50,7 @@ Dit is het geboortehuis van de dichter René De Clercq. Het museum is gevestigd 
 
 ### Koutermolen
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-de-omgeving-van-deerlijk/koutermolen-harelbeke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/koutermolen-harelbeke.jpg" extlink="https://www.westtoer.be/nl/doen/koutermolen" %}}
 
 Tussen knooppunt  56 en 45.
 
@@ -56,7 +62,7 @@ De Koutermolen, een houten graanmolen uit het einde van de 18de eeuw staat nu in
 
 ### De Gavers
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-de-omgeving-van-deerlijk/de-gavers.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/de-gavers.jpg" extlink="https://www.westtoer.be/nl/doen/provinciaal-recreatie-en-natuurcentrum-de-gavers" %}}
 
 Tussen knooppunt  56 en 45.
 
@@ -68,7 +74,7 @@ Provinciaal Recreatie- en Natuurcentrum De Gavers ligt rond een zandwinningsput.
 
 ### Zavelput
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-de-omgeving-van-deerlijk/zavelput.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/zavelput.jpg" extlink="https://www.westtoer.be/nl/doen/zavelput" %}}
 
 Tussen knooppunt 60 en 9.
 
@@ -80,7 +86,7 @@ De Zavelput is een oude zandgroeve die nu beheerd wordt als natuurgebied.
 
 ### Be-Part
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-de-omgeving-van-deerlijk/be-part.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/be-part.jpg" extlink="https://www.westtoer.be/nl/doen/be-part" %}}
 
 Tussen knooppunt 47 en 21.
 
@@ -92,7 +98,7 @@ Be-Part is een platform voor hedendaagse kunst.
 
 ### Park Baron Casier
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-de-omgeving-van-deerlijk/park-baron-casier.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/park-baron-casier.jpg" extlink="https://www.westtoer.be/nl/doen/park-baron-casier" %}}
 
 Tussen knooppunt 47 en 21.
 
@@ -104,7 +110,7 @@ Het beschermde kasteelpark Baron Casier is een groen rustpunt van 8 hectare in h
 
 ### Kinderboerderij Bokkeslot
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-de-omgeving-van-deerlijk/kinderboerderij-bokkeslot.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/kinderboerderij-bokkeslot.jpg" extlink="https://www.westtoer.be/nl/doen/kinderboerderij-bokkeslot" %}}
 
 Tussen knooppunt 65 en 52.
 
@@ -116,7 +122,7 @@ Op deze kinderboerderij kunnen de kinderen zich naar hartenlust uitleven.
 
 ### Natuurdomein Wijmelbroek
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-de-omgeving-van-deerlijk/wijmelbroek.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/leiestreek/doen/wijmelbroek.jpg" extlink="https://www.westtoer.be/nl/doen/natuurdomein-wijmelbroek" %}}
 
 Tussen knooppunt 65 en 52.
 

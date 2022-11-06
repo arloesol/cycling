@@ -24,11 +24,11 @@ In het gebied tussen Leie en Schelde lonken niet alleen de jaagpaden langs beide
 
 ### De Blaarmeersen, Zuiderlaan Gent
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-26.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-26.jpg" %}}
 Startpunt - Knooppunt 4
 
 In wat vroeger een meersengebied aan de Leie was, werd midden de jaren ‘70 de Blaarmeersen aangelegd, een 100 hectare grote recreatiezone. Vandaag is het een aangenaam groengebied met bosjes, ligweiden en wandelwegen rond een centrale vijver met een strand en een speeltuin. De ‘plage Gantoise’ dus, en dat zorgt bij zomerse temperaturen al eens voor drukke taferelen. Je tentje opzetten op de camping kan hier ook, net als een begeleide kano- of kajaktocht boeken die je helemaal over de Leie tot in Afsnee brengt. Urban sporters kunnen er vanaf zomer 2020 hun beste moves uitproberen op het grootste openluchtskatepark van België (4000 m²)!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Kantien
 
@@ -38,59 +38,59 @@ Sluit je rit in schoonheid af in Kantien, een hippe horecazaak aan de Watersport
 
 ### Gent
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Gent_sept_2016-59.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Gent_sept_2016-59.jpg" %}}
 Knooppunt 5-4
 
 De meest veelzijdige en fietsvriendelijke stad van Vlaanderen verwent met een mix van cultuur, geschiedenis, gastvrije (veggie)restaurants en heel veel ambiance. Strijk neer aan een tafeltje langs de Gras- of Korenlei, doe de audiotour van komiek Wouter Deprez in het Gravensteen, flaneer door het pittoreske Patershol en maak die romantische selfie vanop de Sint-Michielsbrug.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Keizerspark
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Keizerpark%20Knooppunt%205.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Keizerpark%20Knooppunt%205.jpg" %}}
 Knooppunt 5
 
 Twee moderne fietsbruggen maakten van het geïsoleerde Keizerspark aan de rand van Gent een hippe en groene hangout. Op zonnige dagen gonst het er van de activiteit: zowel buurtbewoners als vissers, basketters en skaters hebben er hun vertrouwde stek langs het water.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Liedermeerspark
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-05/Liedemeerspark.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-05/Liedemeerspark.jpg" %}}
 Knooppunt 3-5
 
 Voorbij knooppunt 3 wordt het even klimmen en glijden over de bruggen aan het kanaal Zwijnaarde en de Ringvaart. Voorbij de Ghelamco Arena, het stadion van AA Gent, gaat het richting het sluis van Merelbeke en de Yaghting Club. Fiets rechts even het Liedermeersparkje in.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Het Gouden Hoofd
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-32.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-32.jpg" %}}
 Knooppunt 6-3
 
 Zwijnaarde dorp is gekend voor zijn historische kiosk, maar al evengoed voor deze authentieke horecazaak met fantastisch terras. Alles zit hier prima: de locatie, de bediening en een kaart die alle honger en dorst verslaat. In het houten kraampje naast het café kan je 's zomers ook een ijsje on the go bestellen!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Kasteel van Welden
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-36.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-36.jpg" %}}
 Knooppunt 34
 
 In de middeleeuwen stond hier al een versterking, waarvan vandaag alleen nog de cirkelvormige gracht met walmuur en een toren resteren. Het huidige waterkasteel in late barokstijk dateert uit de 18de eeuw. Bezoeken kan niet, maar het zorgt vanop de Weldendreef wel voor een fraai plaatje.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Café Boldershof
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-33.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-33.jpg" %}}
 Knooppunt 34
 
 Al 25 jaar tapt Connie de mooiste bierkragen van Zevergem in deze bruine kroeg in de schaduw van de kerk. ‘s Zomers is er een leuk terras op het dorpspleintje.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Ponthoeve
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-37.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-37.jpg" %}}
 Knooppunt 40-34
 
 Toen vader Marc Morel de activiteiten op zijn boerderij wat wilde terugschroeven, toverde zoon Gert de varkensstal om tot de gezellige Ponthoeve. Hier kan je binnen iets eten of drinken, maar bij mooi weer is het ruime terras dé place to be van de streek. Op de kaart: frisse biertjes, heerlijk hoeve-ijs en rijkelijk belegde hoeveboterhammen met kaas, rauwe hesp of hoofdvlees. Ook de desserts zijn niet te versmaden!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Hospicebossen
 
@@ -100,27 +100,27 @@ De 58 hectare grote Hospicebossen - ook de Nazarethse bossen genoemd - staan bek
 
 ### Kasteel Viteux en Café Hubert
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-40.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-40.jpg" %}}
 Knooppunt 23-79
 
 De oude hoeve die hier tot 1847 stond, maakte plaats voor een riant buitenverblijf met neoclassicistisch uitzicht, dat eind 19de eeuw werd uitgebreid met een park en een vijver. In opdracht van de toenmalige eigenaar Hubert Viteux werd het omgebouwd tot een heus kasteel. In het koetshuis ben je van woensdag tot en met zondag welkom voor een hap of drankje in Café Hubert, waar ze ‘s zomers op het voorplein de tuintafeltjes en parasols uitzetten.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Parkbos
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Fietsvakanties_Vlaanderen_TOV_Parkbos_Sint_Denijs_Westrem-14.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Fietsvakanties_Vlaanderen_TOV_Parkbos_Sint_Denijs_Westrem-14.jpg" %}}
 Knooppunt 88
 
 Naast het kasteel zelf beschikt het domein ook over een aangelegd park met bijhorende vijver, koetshuizen en hovenierswoning. Vroeger was dit privaat terrein, maar nu kun je er in wandelen en – achter het kasteel – zelfs picknicken aan een nieuwe picknicktafel. Bruggetjes en knuppelpaden in de nattere zones dragen bij aan de sprookjessfeer.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### RESTAURANT NENUPHAR
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-14.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-14.jpg" %}}
 Knooppunt 62-63
 
 Met zijn heerlijk terras aan het water en artistieke inrichting, is Nenuphar dé perfecte lunchstop op deze route. Al sinds 1795 komen de Gentenaars hier graag de voetjes onder de tafel schuiven. Op het menu: een ruime keuze aan klassieke en trendy gerechten, met vakkennis bereid en met liefde op tafel gebracht. Vooraf reserveren is een goed idee!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Oude Drie Leien
 
@@ -130,10 +130,10 @@ Het ‘strategisch gelegen’ terrasje van herberg Oude Drie Leien biedt een pra
 
 ### Abdij Drongen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-3.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Terrasjes%20tussen%20Leie%20en%20Schelde-3.jpg" %}}
 Knooppunt 57
 
 Eens de Ringvaart over, bol je zo het charmante dorpsplein van Drongen op. De mooie abdij is helaas niet individueel te bezoeken – tenzij je er op bezinning komt. Maar in groep kun je wel binnenkijken in deze Norbertijnenabdij met een domein van 10 hectare. Een boeiende gids opent de deuren naar enkele bijzondere pareltjes zoals de neogotische kapel, de bijzondere elementen in de pandgangen, de schilderijen en kunstwerken. Rondleidingen duren anderhalf uur en kunnen geboekt worden vanaf 10 personen.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

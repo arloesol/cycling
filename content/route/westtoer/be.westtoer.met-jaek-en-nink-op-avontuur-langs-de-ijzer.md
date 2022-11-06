@@ -1,7 +1,7 @@
 ---
 title: "Met Jaek en Nink op avontuur langs de IJzer"
 subtitle: "Jaek en Nink nemen je mee op avontuur langs de IJzer"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Jaek en Nink nemen je mee op avontuur langs de IJzer" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/met-jaek-en-nink-op-avontuur-langs-de-ijzer"
 gpx: "westtoer/kd_ontdekking_langs_de_ijzer_fietsroute_nieuwpoort_1.gpx"
 length: 47
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -26,29 +28,33 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Toerisme Diksmuide, Grote Markt 6, 8600 Diksmuide - Parking Kaaiplein, 8620 Nieuwpoort 
+Toerisme Diksmuide, Grote Markt 6, 8600 Diksmuide - Parking Kaaiplein, 8620 Nieuwpoort
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes waarop Jaek en Nink de weg wijzen. Je kan de route ook volgen via het fietsnetwerk, volg hiervoor volgende knooppunten: 67 - 82 - 64 - 73 - 61 - 70 - 10 - 46 - 95 - 55 - 36 - 30 - 37 - 77 - 7 - 28 - 57 - 69 - 1 - 75 - 74 - 82 - 88 - 85 - 5 - 39 - 38 - 35 - 89 - 57 - 7 - 67
 
 ## En Route
 
 ### Kijkhutten
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-op-avontuur-langs-de-ijzer/kijkhutten.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/kijkhutten.jpg" %}}
 
-Van hieruit heb je een mooi overzicht over de IJzer en met een beetje geluk zie je er misschien een zeehond! Door één van de hutten heb je zicht op het rijke vogelgebied. 
+Van hieruit heb je een mooi overzicht over de IJzer en met een beetje geluk zie je er misschien een zeehond! Door één van de hutten heb je zicht op het rijke vogelgebied.
 
 {{% /imgandtxt %}}
 
 ### Westfront
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-op-avontuur-langs-de-ijzer/westfront_nieuwpoort.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/westfront_nieuwpoort.jpg" %}}
 
-Westfront Nieuwpoort toont je het volledige verhaal van de onderwaterzetting van de poldervlakte, waardoor de Duitse invasie voor Nieuwpoort tot stand werd gebracht. Vanop het monument geniet je van een panorama over de Kust en het hinterland. 
+Westfront Nieuwpoort toont je het volledige verhaal van de onderwaterzetting van de poldervlakte, waardoor de Duitse invasie voor Nieuwpoort tot stand werd gebracht. Vanop het monument geniet je van een panorama over de Kust en het hinterland.
 
 {{% /imgandtxt %}}
 
 ### Oma's Ijs
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-op-avontuur-langs-de-ijzer/omas_ijs.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/omas_ijs.jpg" %}}
 
 Geniet er van lekker huisbereid roomijs.
 
@@ -56,7 +62,7 @@ Geniet er van lekker huisbereid roomijs.
 
 ### Het Dischhof
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-op-avontuur-langs-de-ijzer/dischhof.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/dischhof.jpg" %}}
 
 Hier wordt er dagelijks verse melk verwerkt tot lekkere kazen. Daarnaast hebben zij ook hoeveboter en roomijs. Vanuit de winkel kan je het kaasproces van dichtbij volgen.
 
@@ -64,7 +70,7 @@ Hier wordt er dagelijks verse melk verwerkt tot lekkere kazen. Daarnaast hebben 
 
 ### 'T Kakelend Kippenmuseum
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-op-avontuur-langs-de-ijzer/kakelend_kippenmuseum_3.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/kakelend_kippenmuseum_3.jpg" %}}
 
 Hier kan je niet enkel kippen van dichtbij zien, maar ook konijntjes, cavia's, schapen, ezels, geiten,.... Kinderen kunnen zich uitleven op de boerderij en in de speeltuin.
 
@@ -72,8 +78,8 @@ Hier kan je niet enkel kippen van dichtbij zien, maar ook konijntjes, cavia's, s
 
 ### De Lenspolder
 
-{{% imgandtxt url="/routes/page/be.westtoer.met-jaek-en-nink-op-avontuur-langs-de-ijzer/de_lenspolder_mss_-_via_internet.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_lenspolder_mss_-_via_internet.jpg" %}}
 
-Een kinderboerderij waar je lekker kan spelen, dieren verzorgen en alles leert over het leven tussen de boerderijdieren. 
+Een kinderboerderij waar je lekker kan spelen, dieren verzorgen en alles leert over het leven tussen de boerderijdieren.
 
 {{% /imgandtxt %}}

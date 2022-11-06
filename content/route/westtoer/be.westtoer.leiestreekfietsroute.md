@@ -1,7 +1,7 @@
 ---
 title: "Leiestreekfietsroute"
 subtitle: "Ontdek de mooiste hoekjes van de Leiestreek tussen Gent en Deinze, in een landschap dat talloze kunstenaars inspireerde"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Ontdek de mooiste hoekjes van de Leiestreek tussen Gent en Deinze, in een landschap dat talloze kunstenaars inspireerde" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/leiestreekfietsroute"
 gpx: "westtoer/leiestreek_fietsroute.gpx"
 length: 58
+nodetype: "vlaams"
+nodes: "46"
 ---
 
 ## Let's Go !
@@ -24,6 +26,8 @@ Opgelet! Tussen knooppunt 82 en 42 aan de Stropkaai in Gent is een kleine omleid
 
 ## Start 
 
-Parking Watersportbaan (Blaarmeersen) 
+Parking Watersportbaan (Blaarmeersen)
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

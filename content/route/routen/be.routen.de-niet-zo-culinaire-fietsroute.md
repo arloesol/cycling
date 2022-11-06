@@ -30,11 +30,11 @@ De perfecte fietsroute voor elke levensgenieter die houdt van fietsen en lekker 
 
 ### Stoomcentrum Maldegem
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Station%20Frederic%20Paulussen.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Station%20Frederic%20Paulussen.jpg" %}}
 Knooppunt 19
 
 Schrik niet als je in Adegem plots de stoomfluit van een trein hoort! Vanaf begin mei tot eind september rijden vanuit het Stoomcentrum Maldegem historische treinen heen en weer op de oude spoorlijn tussen Maldegem en Eeklo.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Dorp 56
 
@@ -44,27 +44,27 @@ De eerste culinaire stop op deze route vind je al aan knooppunt 19 in Adegem. Le
 
 ### Canada Poland War Museum
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Meetjesland_BasvanOortHR-34.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Meetjesland_BasvanOortHR-34.jpg" %}}
 Knooppunt 24
 
 Het Canadamuseum herdenkt en brengt een ode aan de Canadese soldaten die in 1944 de streek rond Maldegem bevrijdden. Dat die operatie niet zonder slag of stoot verliep, bewijst het Canadian War Cemetery op een boogscheut van het museum.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Provinciaal Domein Het Leen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/het%20leen.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/het%20leen.jpg" %}}
 Knooppunt 58
 
 Aan knooppunt 58 kan je even een ommetje maken tot aan Het Leen: vroeger een militair munitiedepot, vandaag een provinciaal domein met bijna 300 ha bos, een arboretum, een gloednieuw bosinfocentrum met uitkijktoren en een cafetaria met speeltuin.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### De Lieve
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Fietsen%20langs%20Lieve.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Fietsen%20langs%20Lieve.jpg" %}}
 Knooppunt 13-9
 
 Waarschoot heeft eigen ‘love bridge’. Aan de oude Beirtjesbrug over de Lieve hangt een stalen kabel waar verliefden een slotje kunnen aan vast maken. Hier is de Lieve, het oudste kanaal van Vlaanderen, op haar fotogeniekst.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### 't Zoet Gemoed
 
@@ -86,11 +86,11 @@ De omgeving van het veldkruis in Keigatbos was vroeger een rust- en herkenningsp
 
 ### Landschapspark Drongengoed
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Drongengoedhoeve_BasvanOort.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Drongengoedhoeve_BasvanOort.jpg" %}}
 Knooppunt 68-69
 
 Met zijn 750 ha is het Landschapspark Drongengoed het grootste aaneengesloten bosgebied van Oost-Vlaanderen. Middenin staat de Drongengoedhoeve, een voormalige abdijhoeve en vandaag een streekbezoekerscentrum met een gezellig café en een terras in het groen. ’s Zomers kom je hier de schaapskudde van herderin Leen tegen, met wie je een stukje kunt meewandelen.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Elckerlijc
 

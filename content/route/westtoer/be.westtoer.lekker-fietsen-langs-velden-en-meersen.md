@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Langs Velden en Meersen"
 subtitle: "Fiets langs historische landschappen en fraaie dorpjes"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Fiets langs historische landschappen en fraaie dorpjes" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-langs-velden-en-meersen"
 gpx: "westtoer/route-7-langs-velden-en-meersen.gpx"
 length: 36
+nodetype: "vlaams"
+nodes: "84"
 ---
 
 ## Let's Go !
@@ -28,13 +30,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 84 in Ver-Assebroek (kruispunt Kerkdreef en Zwarte Paard) 
+Starten kan bij knooppunt 84 in Ver-Assebroek (kruispunt Kerkdreef en Zwarte Paard)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 84 - 24 - 69 - 5 - 98 - 54 - 75 - 38 - 78 - 77 - 39 - 73 - 80 - 30 - 81 - 74 - 89 - 45 - 72 - 84
 
 ## En Route
 
 ### 'T Leenhof
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-langs-velden-en-meersen/t_leenhof.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/t_leenhof.jpg" extlink="/nl/eten-drinken/t-leenhof" %}}
 
 Bij 84
 
@@ -46,11 +52,11 @@ Op het terras van deze historische herberg is het heerlijk verpozen met een stre
 
 ### Ryckevelde
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-langs-velden-en-meersen/ryckevelde_1_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/ryckevelde_1_1.jpg" extlink="/nl/eten-drinken/restaurant-tearoom-ryckevelde" %}}
 
 Nabij 75
 
-Domeinbos, kasteel en restaurant. Geniet van regionale streekgerechten in een unieke brasserie. 
+Domeinbos, kasteel en restaurant. Geniet van regionale streekgerechten in een unieke brasserie.
 
 [Meer info](https://www.westtoer.be/nl/eten-drinken/restaurant-tearoom-ryckevelde)
 
@@ -58,7 +64,7 @@ Domeinbos, kasteel en restaurant. Geniet van regionale streekgerechten in een un
 
 ### Koffiehuis Eliana
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-langs-velden-en-meersen/eliana_koffie.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/eliana_koffie.jpg" extlink="/nl/eten-drinken/eliana-ontbijt-en-koffieboetiek" %}}
 
 In de buurt tussen 81 en 74
 
@@ -70,7 +76,7 @@ The place-to-be voor wie houdt van een verwenontbijt of zoets bij de koffie.
 
 ### Huiskamerkroeg Perle D'ozette
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-langs-velden-en-meersen/perle_dozette_huiskamerkroeg_oedelem_6.jpeg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/perle_dozette_huiskamerkroeg_oedelem_6.jpeg" extlink="/nl/eten-drinken/perle-dozette" %}}
 
 Tussen 81 en 74
 
@@ -82,7 +88,7 @@ Nieuw! De gezellige huiskamerkroeg van Oedelem!
 
 ### Moo-Boerderij
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-langs-velden-en-meersen/moo_boerderij.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/moo_boerderij.jpg" extlink="/nl/eten-drinken/moo-boerderij" %}}
 
 Bij 72
 

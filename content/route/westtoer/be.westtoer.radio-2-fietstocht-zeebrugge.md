@@ -1,7 +1,7 @@
 ---
 title: "Radio 2-fietstocht in Zeebrugge"
 subtitle: "Trap langs de fietslus van Radio 2 op het Fietsnetwerk aan de Kust"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Trap langs de fietslus van Radio 2 op het Fietsnetwerk aan de Kust" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietstocht-zeebrugge"
 gpx: "westtoer/fietsen_zeebrugge_0.gpx"
 length: 15
+nodetype: "vlaams"
+nodes: "18"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten?[ Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten doe je aan Knooppunt 33, ter hoogte van het Zeebos. 
+Starten doe je aan Knooppunt 33, ter hoogte van het Zeebos.
+
+## Signage
+
+33 - 76 - 26 - 84 - 88 - 40 - 96 - 30 - 33
 
 ## En Route
 
 ### Provinciedomein Zeebos
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietstocht-zeebrugge/zeebos2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/zeebos2.jpg" extlink="/nl/doen/provinciedomein-zeebos" %}}
 
 Net achter de kuslijn, tussen Blankenberge en Zeebrugge vind je het [Provinciedomein Zeebos](https://www.westtoer.be/nl/doen/provinciedomein-zeebos). Het jonge bos met open ruimten, is bloemenrijk, en herbergt diverse vogelsoorten van bos- en weidegebieden. Een leuke plek om te vertoeven.
 
@@ -40,7 +46,7 @@ Net achter de kuslijn, tussen Blankenberge en Zeebrugge vind je het [Provinciedo
 
 ### Sea Life
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietstocht-zeebrugge/blankenberge_sealife.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/blankenberge_sealife.jpg" extlink="/nl/doen/sea-life-blankenberge" %}}
 
 De onderwaterwereld kan je in [SEA LIFE Blankenberge](https://www.westtoer.be/nl/doen/sea-life-blankenberge) ontdekken. Een leuke stop voor onderweg, zeker als je met de kinderen trapt. (Je moet wel eventjes van de route afwijken)
 
@@ -48,7 +54,7 @@ De onderwaterwereld kan je in [SEA LIFE Blankenberge](https://www.westtoer.be/nl
 
 ### Lissewege
 
-{{% imgandtxt url="/routes/page/be.westtoer.radio-2-fietstocht-zeebrugge/lissewege_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lissewege_1.jpg" %}}
 
 Het pittoreske, witte dorp Lissewege kan je zeker bekoren. Het is een klein sprookjesdecor om in te vertoeven. Hou er even halt en nestel je op een gezellig terras of restaurant. Je krijgt meteen weer goeie moed om de tocht terug aan te vatten!
 

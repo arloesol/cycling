@@ -24,11 +24,11 @@ Deze sportieve fietsroute neemt je mee langs het parcours van de Vlaamse klassie
 
 ### Centrum Ronde Van Vlaanderen - knooppunt 96
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-02/Centrum_Ronde_Van_Vlaanderen3.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-02/Centrum_Ronde_Van_Vlaanderen3.jpg" %}}
 Startpunt
 
 Perfect als start- en eindpunt, met (koers-) fietsverhuur, douches, een brasserie en uiteraard een wielermuseum.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Jaagpad Schelde
 
@@ -38,34 +38,34 @@ Op dit kort stukje fiets je langs het jaagpad aan de Schelde.
 
 ### Ename
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-02/Huis%20Beaucarne%20Ename%20binnentuin_0.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-02/Huis%20Beaucarne%20Ename%20binnentuin_0.jpg" %}}
 Knooppunt 86 - 79
 
 Ename dorp is ouder dan Oudenaarde, met een pittoresk dorpsplein, een vroegromaanse kerk en gezellige horecazaken.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Brouwerij Roman
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/preview_ogsr2326.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/preview_ogsr2326.jpg" %}}
 Knooppunt 94 - 33
 
 Roman is de oudste familiebrouwerij van Vlaanderen. De brouwerij ligt pal op het parcours, net voor de afdaling van de Varent.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Taaienberg
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Taaienberg.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Taaienberg.jpg" %}}
 Knooppunt 32
 
 De Taaienberg wordt ook wel eens de 'Boonenberg' genoemd, omdat drievoudig Rondewinnaar Tom Boonen er altijd graag als eerste boven kwam.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Koppenberg
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Koppenberg6.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Koppenberg6.jpg" %}}
 Knooppunt 18
 
 De Koppenberg, of de ‘Bult van Melden’, niet meer dan een puist in het landschap, maar met 66 hoogtemeters en een maximale stijging van 22% een aanslag op je kuiten.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

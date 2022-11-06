@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs Erfgoed in en rond Middelkerke"
 subtitle: "Erfgoed is met andere ogen naar de wereld kijken"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Erfgoed is met andere ogen naar de wereld kijken" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-erfgoed-en-rond-middelkerke"
 gpx: "westtoer/gpx_erfgoedroute_middelkerke.gpx"
 length: 46
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -24,13 +26,19 @@ Erfgoed is met andere ogen naar de wereld kijken. Wat vandaag een hoeve is in Sl
 
 ## Start 
 
-We starten onze tocht op het Epernayplein in Middelkerke. Fiets naar de Kerkstraat, sla rechtsaf en neem net voorbij het kruispunt met de Koninginnelaan de eerste straat links, de Duinenweg. Wie vanuit het binnenland komt, start best aan de parking voor de kerk van Sint-Pieters-Kapelle en pikt in op knooppunt 52. 
+We starten onze tocht op het Epernayplein in Middelkerke. Fiets naar de Kerkstraat, sla rechtsaf en neem net voorbij het kruispunt met de Koninginnelaan de eerste straat links, de Duinenweg. Wie vanuit het binnenland komt, start best aan de parking voor de kerk van Sint-Pieters-Kapelle en pikt in op knooppunt 52.
+
+## Signage
+
+Knooppunten 
+
+52-80-75-16-17-84-50-21-22-52-53-25-56-54-1-11-2-44-60-80
 
 ## En Route
 
 ### Provinciedomein Raversyde
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-erfgoed-en-rond-middelkerke/raversyde_-_atlantikwall.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/raversyde_-_atlantikwall.jpg" extlink="/nl/doen/provinciedomein-atlantikwall-raversyde" %}}
 
 Dit provinciedomein van 50ha groot, gelegen onmiddellijk aan zee, in gedeeltelijk beschermd duinengebied, biedt je een unieke combinatie van cultuurhistorie en natuurrecreatie met als topattractie de Atlantikwall. Een aansluitend bezoek aan de archeologische site, museum ANNO 1465 en een wandeling in het Natuurpark maken je bezoek compleet.
 
@@ -40,7 +48,7 @@ Dit provinciedomein van 50ha groot, gelegen onmiddellijk aan zee, in gedeeltelij
 
 ### Groot Kalkaertsleen En Desserthuisje Op Ieperleedhof
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-erfgoed-en-rond-middelkerke/4._groot_kalkaertsleen_-_foto_maf.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/4._groot_kalkaertsleen_-_foto_maf.jpg" %}}
 
 Elke hoeve die een beetje buiten proportie lijkt, heeft zijn verhaal. Het witgekalkte Groot Kalkaertsleen lag in de middeleeuwen op een slibeiland midden in de Testerepgeul. Toen was de Kust een waddengebied met heel wat afwateringskanalen naar zee. Net voor het pittoreske centrum van Leffinge passeren we het Ieperleedhof waar Katrien Goemaere tussen 14 en 18 uur haar pop-up desserthuisje open houdt.
 
@@ -48,7 +56,7 @@ Elke hoeve die een beetje buiten proportie lijkt, heeft zijn verhaal. Het witgek
 
 ### Groot Tempelhof
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-erfgoed-en-rond-middelkerke/symbolen_van_tempeliers_in_het_straatbeeld_van_slijpe_-_beeld_maf.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/symbolen_van_tempeliers_in_het_straatbeeld_van_slijpe_-_beeld_maf.jpg" %}}
 
 In de Sint-Niklaaskerk in Slijpe hangen muurschilderingen die verwijzen naar de Tempeliers en de Hospitaalridders. De Tempeliers kregen van de graaf van Vlaanderen veel eigendom in de regio, zoals het Groot Tempelhof. Toen deze ridderorde in 1312 werd opgedoekt, namen de Hospitaalridders hun eigendommen over.
 
@@ -56,7 +64,7 @@ In de Sint-Niklaaskerk in Slijpe hangen muurschilderingen die verwijzen naar de 
 
 ### 'T Groenselpoortje
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-erfgoed-en-rond-middelkerke/tgroenselpoortje-middelkerke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/eten_drinken/tgroenselpoortje-middelkerke.jpg" extlink="http://www.hoevepicknick.be" %}}
 
 Tip! Ga voor een hoevepicknick in ’t Groenselpoortje, vooraf te reserveren via [www.hoevepicknick.be](http://www.hoevepicknick.be).
 
@@ -64,7 +72,7 @@ Tip! Ga voor een hoevepicknick in ’t Groenselpoortje, vooraf te reserveren via
 
 ### Spermaliehoeve
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-erfgoed-en-rond-middelkerke/15._pop-up_in_spermaliehoeve_-_foto_spermaliehoeve.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/15._pop-up_in_spermaliehoeve_-_foto_spermaliehoeve.jpg" extlink="/nl/doen/de-spermaliehoeve" %}}
 
 De monumentale toegangspoort van de Spermaliehoeve zie je al van ver. Hier kan je deze zomer dagelijks (en in de weekends van september) van 13 tot 18 uur terecht voor heerlijk hoeve-ijs, streekbier en verfrissende vruchtensappen. Tien pancartes laten je kennismaken met de geschiedenis van de hoeve.
 
@@ -74,7 +82,7 @@ De monumentale toegangspoort van de Spermaliehoeve zie je al van ver. Hier kan j
 
 ### Fort Nieuwendamme
 
-{{% imgandtxt url="/routes/page/be.westtoer.fietsen-langs-erfgoed-en-rond-middelkerke/rattevallebrug_in_middelkerke_-_foto_maf.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/rattevallebrug_in_middelkerke_-_foto_maf.jpg" %}}
 
 In een weide voor de Rattevallebrug zien we een aantal bulten. Hier lag het Spaanse fort Nieuwendamme (7), gebouwd in 1584, dat Nieuwpoort moest beschermen tegen de geuzen van Oostende. Boven op het fort bevinden zich de resten van Duitse bunkers uit de Eerste Wereldoorlog.
 

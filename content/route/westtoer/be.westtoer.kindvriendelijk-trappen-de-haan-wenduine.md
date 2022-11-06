@@ -1,7 +1,7 @@
 ---
 title: "Kindvriendelijk trappen in De Haan-Wenduine"
 subtitle: "De Haan ademt authenticiteit uit"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De Haan ademt authenticiteit uit" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kindvriendelijk-trappen-de-haan-wenduine"
 gpx: "westtoer/fietsen_dehaan_0.gpx"
 length: 15
+nodetype: "vlaams"
+nodes: "32"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan je ter hoogte van knooppunt 6, in het centrum van De Haan nabij het historisch tramstationnetje. 
+Starten kan je ter hoogte van knooppunt 6, in het centrum van De Haan nabij het historisch tramstationnetje.
+
+## Signage
+
+6 - 78 - 98 - 12 - 96 - 56 - 6
 
 ## En Route
 
 ### Tramstation
 
-{{% imgandtxt url="/routes/page/be.westtoer.kindvriendelijk-trappen-de-haan-wenduine/de_haan_tramstation.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/de_haan_tramstation.jpg" %}}
 
 Het geklasseerd tramstationnetje is, samen met de beschermde villawijk de Concessie, een parel van de 20ste eeuwse kustarchitectuur. In het tramstation vind je vandaag de infobalie van de dienst toerisme.
 
@@ -40,7 +46,7 @@ Het geklasseerd tramstationnetje is, samen met de beschermde villawijk de Conces
 
 ### Dorpskern Vlissegem
 
-{{% imgandtxt url="/routes/page/be.westtoer.kindvriendelijk-trappen-de-haan-wenduine/vlissegem_2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/vlissegem_2.jpg" %}}
 
 Vlissegem, een van de oudste dorpen aan onze kust, is slechts een speldenknop groot.
 
@@ -50,7 +56,7 @@ Eens de kerk voorbij ben je het dorp al weer uit. Maar toch loont een passage de
 
 ### Dorpskern Klemskerke 
 
-{{% imgandtxt url="/routes/page/be.westtoer.kindvriendelijk-trappen-de-haan-wenduine/klemskerke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/klemskerke.jpg" %}}
 
 Ook het kleine, maar fijne Klemskerke charmeert en laat je proeven van het dorpsleven van weleer.
 
@@ -58,7 +64,7 @@ Ook het kleine, maar fijne Klemskerke charmeert en laat je proeven van het dorps
 
 ### Het Verhaal Van De Geitenkaas
 
-{{% imgandtxt url="/routes/page/be.westtoer.kindvriendelijk-trappen-de-haan-wenduine/de_haan_reigershof.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/de_haan_reigershof.jpg" %}}
 
 In Klemskerke kom je in het Reigershof alles te weten over geitenkaas. En, je kunt ook zelf de handen uit de mouwen steken ! Daarna sla je een voorraadje in om te genieten van al die verschillende geitenkazen.
 
@@ -66,7 +72,7 @@ In Klemskerke kom je in het Reigershof alles te weten over geitenkaas. En, je ku
 
 ### D'heye
 
-{{% imgandtxt url="/routes/page/be.westtoer.kindvriendelijk-trappen-de-haan-wenduine/dheye02-cmarc-de-vos.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/dheye02-cmarc-de-vos.jpg" %}}
 
 Het beschermde natuurreservaat D’Heye vind je op de grens van Bredene en De Haan. Het maakt deel uit van het selecte clubje fossiele duinen. Dankzij zijn kalkarme bodem tref je hier een aparte plantengroei aan. Daarnaast bewonder je er ook tal van zwammen, zoals de felgekleurde wasplaten. Om het plaatje compleet te maken,
 
@@ -76,7 +82,7 @@ begrazen konikpaarden het gebied.
 
 ### Natuurreservaat De Kijkuit
 
-{{% imgandtxt url="/routes/page/be.westtoer.kindvriendelijk-trappen-de-haan-wenduine/kijkuit.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/doen/kijkuit.jpg" %}}
 
 Je vindt dit duinreservaat ten westen van het Zeepreventorium van De Haan. Het duinviooltje en de cypreswolfsmelk vormen hier de voornaamste flora.
 
@@ -84,7 +90,7 @@ Je vindt dit duinreservaat ten westen van het Zeepreventorium van De Haan. Het d
 
 ### La Potinière
 
-{{% imgandtxt url="/routes/page/be.westtoer.kindvriendelijk-trappen-de-haan-wenduine/de_haan_potiniere.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/de_haan_potiniere.jpg" %}}
 
 Dit parkdomein in het hartje van De Haan is de plek bij uitstek waar kinderen zich in alle rust kunnen uitleven. Tennisterreinen, minigolf, ligweide, speelpleinen en een centrale cafetaria met zicht op al die pret.
 
@@ -92,7 +98,7 @@ Dit parkdomein in het hartje van De Haan is de plek bij uitstek waar kinderen zi
 
 ### Concessiewijk
 
-{{% imgandtxt url="/routes/page/be.westtoer.kindvriendelijk-trappen-de-haan-wenduine/de_haan_concessiewijk.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/de_kust/praktische_info/de_haan_concessiewijk.jpg" %}}
 
 De Concessie, de beschermde belle epoque villawijk, laat je van het ene naar het andere interessante adres wandelen. Van het eerste luxehotel met stromend water tot en met het onderduikadres van Albert Einstein net voor WO II.
 

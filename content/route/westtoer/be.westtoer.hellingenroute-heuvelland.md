@@ -1,7 +1,7 @@
 ---
 title: "Hellingenroute Heuvelland"
 subtitle: "Heuvelland is een ideaal trainingsgebied voor een tocht door het Europees hooggebergte"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Heuvelland is een ideaal trainingsgebied voor een tocht door het Europees hooggebergte" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/hellingenroute-heuvelland"
 gpx: "westtoer/heuvellandhellingenroutehhr40.gpx"
 length: 116
+nodetype: "vlaams"
+nodes: "85"
 ---
 
 ## Let's Go !
@@ -24,6 +26,4 @@ Meer info vind je op www.fietseninheuvelland.be
 
 ## Start 
 
-Toeristische Dienst Heuvelland, Polenlaan 1, 8956 Kemmel 
-
-
+Toeristische Dienst Heuvelland, Polenlaan 1, 8956 Kemmel

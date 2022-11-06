@@ -3,7 +3,7 @@ title: "POP"
 subtitle: "Fietsroute 14-18
 
 De fietstocht gaat terug naar de sporen van de Eerste Wereldoorlog achter het front"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Fietsroute 14-18
 
 De fietstocht gaat terug naar de sporen van de Eerste Wereldoorlog achter het front" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/pop"
 gpx: "westtoer/pop_14-18_fietsroute_0.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "50"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ De fietstocht gaat terug naar de sporen van de Eerste Wereldoorlog achter het fr
 
 ## Start 
 
-Toeristische Dienst, Grote Markt 1, 8970 Poperinge 
+Toeristische Dienst, Grote Markt 1, 8970 Poperinge
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

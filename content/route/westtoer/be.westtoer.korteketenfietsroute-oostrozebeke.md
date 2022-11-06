@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Oostrozebeke"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Oostrozebeke met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Oostrozebeke met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-oostrozebeke"
 gpx: "westtoer/fietsen-langs-de-korte-keten-oostrozebeke.gpx"
 length: 40
+nodetype: "vlaams"
+nodes: "14"
 ---
 
 ## Let's Go !
@@ -32,13 +34,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan 't Melkhuisje, Leegstraat 109 in Oostrozebeke, nabij knooppunt 14. Van hieruit fiets je naar knooppunt 73. 
+Je start aan 't Melkhuisje, Leegstraat 109 in Oostrozebeke, nabij knooppunt 14. Van hieruit fiets je naar knooppunt 73.
+
+## Signage
+
+Je fietst op het fietsnetwerk van de Leiestreek aan de hand van knooppunten. Volg deze knooppunten: 14 - 73 - 66 - 61 - 38 - 34 - 53 - 27 - 64 - 74 - 77 - 17 - 13 - 15 - 85 - 14
 
 ## En Route
 
 ### 'T Melkhuisje
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-oostrozebeke/t-melkhuisje.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/t-melkhuisje.jpg" extlink="/nl/eten-drinken/het-melkhuisje-0" %}}
 
 Tussen knooppunt 15 en 14
 
@@ -50,7 +56,7 @@ Adres: Leegstraat 109, 8780 Oostrozebeke
 
 ### Ingelzwam
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-oostrozebeke/ingelzwam.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/ingelzwam.jpg" %}}
 
 Tussen knooppunt 27 en 64 (afwijken) 
 
@@ -62,7 +68,7 @@ Adres: Dossestraat 8, 8770 Ingelmunster
 
 ### Klein Gistelgoed
 
-{{% imgandtxt url="/routes/page/be.westtoer.korteketenfietsroute-oostrozebeke/klein-gistelgoed.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/klein-gistelgoed.jpg" extlink="/nl/eten-drinken/klein-gistelgoed" %}}
 
 Tussen knooppunt 53 en 27
 

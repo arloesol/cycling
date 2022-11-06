@@ -1,7 +1,7 @@
 ---
 title: "Groene Gordel Brugge"
 subtitle: "De Groene Gordel Brugge fietsroute laat je kennismaken met de gevarieerde omgeving rondom de Werelderfgoedstad Brugge"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De Groene Gordel Brugge fietsroute laat je kennismaken met de gevarieerde omgeving rondom de Werelderfgoedstad Brugge" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/groene-gordel-brugge"
 gpx: "westtoer/groene_gordel_brugge_fietsroute.gpx"
 length: 53
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -24,13 +26,17 @@ Ga van start aan één van de startplaatsen in Steenbrugge (Baron Ruzettelaan), 
 
 ## Start 
 
-Parking Beisbroek, Wittemolenstraat, Doornstraat, 8200 Sint-Andries - Parking Damme Oost, Oude Sluissedijk, 8340 Damme - Parking Ryckevelde, Holleweg (Kasteeldreef), 8310 Assebroek - Parking Park & Ride Steenbrugge, Baron Ruzettelaan, 8310 Assebroek - Parking Oostcampus, Siemenslaan 1, 8020 Oostkamp 
+Parking Beisbroek, Wittemolenstraat, Doornstraat, 8200 Sint-Andries - Parking Damme Oost, Oude Sluissedijk, 8340 Damme - Parking Ryckevelde, Holleweg (Kasteeldreef), 8310 Assebroek - Parking Park & Ride Steenbrugge, Baron Ruzettelaan, 8310 Assebroek - Parking Oostcampus, Siemenslaan 1, 8020 Oostkamp
+
+## Signage
+
+Het traject is bewegwijzerd met rechthoekige bordjes in twee richtingen.
 
 ## En Route
 
 ### Kasteel Van Loppem En Doolhof
 
-{{% imgandtxt url="/routes/page/be.westtoer.groene-gordel-brugge/kasteel_van_loppem_1.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/kasteel_van_loppem_1.jpg" %}}
 
 Een van de weinige kastelen waar het interieur quasi onaangeroerd bleef. Het doolhof in de tuin maakt het een unicum!
 
@@ -38,7 +44,7 @@ Een van de weinige kastelen waar het interieur quasi onaangeroerd bleef. Het doo
 
 ### Tillegembos En Kasteel
 
-{{% imgandtxt url="/routes/page/be.westtoer.groene-gordel-brugge/tillegem.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/tillegem.jpg" %}}
 
 Uitgestrekte wandelpaden, een rosmolen, lig- en speelweiden, een waterburcht en uiteraard ook het terras van de Trutselaar! Populair bij Bruggelingen.
 
@@ -46,7 +52,7 @@ Uitgestrekte wandelpaden, een rosmolen, lig- en speelweiden, een waterburcht en 
 
 ### Kasteel Beisbroek
 
-{{% imgandtxt url="/routes/page/be.westtoer.groene-gordel-brugge/beisbroek.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/beisbroek.jpg" %}}
 
 In de volkssterrenwacht ontdek je je innerlijke astronaut. Wie liever dichter bij huis blijft kan wandelen in de prachtige kasteelbossen.
 
@@ -54,7 +60,7 @@ In de volkssterrenwacht ontdek je je innerlijke astronaut. Wie liever dichter bi
 
 ### Fort Van Beieren
 
-{{% imgandtxt url="/routes/page/be.westtoer.groene-gordel-brugge/forten_en_linies_luchtfoto_fort_v_beieren_vildaphoto.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/forten_en_linies_luchtfoto_fort_v_beieren_vildaphoto.jpg" %}}
 
 Prachtige setting voor een groene wandeling. In het landschap herken je de wallen en grachten van de oude burcht.
 
@@ -62,7 +68,7 @@ Prachtige setting voor een groene wandeling. In het landschap herken je de walle
 
 ### Damme En Damse Vaart
 
-{{% imgandtxt url="/routes/page/be.westtoer.groene-gordel-brugge/lamme_goedzak_op_de_damse_vaart.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lamme_goedzak_op_de_damse_vaart.jpg" %}}
 
 Historisch stadje met bezoekerscentrum, Uilenspiegelmuseum, de Stadswallen en kerk met panoramisch zicht. Ook culinair befaamd!
 
@@ -70,7 +76,7 @@ Historisch stadje met bezoekerscentrum, Uilenspiegelmuseum, de Stadswallen en ke
 
 ### Domein Ryckevelde En Kasteel
 
-{{% imgandtxt url="/routes/page/be.westtoer.groene-gordel-brugge/ryckevelde_kasteel_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/ryckevelde_kasteel_0.jpg" %}}
 
 Groendomein, maar net dat tikkeltje anders. Bijzonder zijn de heemtuin, het blindenpad en de afgesloten hondenweide met zwemvijver.
 

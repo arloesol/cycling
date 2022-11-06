@@ -3,7 +3,7 @@ title: "Lekker fietsen: Tussen Jabbeke en Zedelgem"
 subtitle: "Geniet van de vele natuurplekjes onderweg!
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Geniet van de vele natuurplekjes onderweg!
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-tussen-jabbeke-en-zedelgem"
 gpx: "westtoer/route-6-tussen-jabbeke-en-zedelgem.gpx"
 length: 47
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -32,13 +34,19 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 76 in Snellegem. Kruispunt van de Bosweg met de Oostmoerstraat. 
+Starten kan bij knooppunt 76 in Snellegem. Kruispunt van de Bosweg met de Oostmoerstraat.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 76 - 90 - 61 - 94 - 59 - 70 - 94 - 61 - 90 - 68 - 48 - 30 - 40 - 50 - 81 - 71 - 54 - 6 - 16 - 55 - 69 - 84 - 53 - 77 - 96 - 76
+
+Deze route kan ook ingekort worden of opgesplitst in 2 kortere lussen
 
 ## En Route
 
 ### 'T Oosthof
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-tussen-jabbeke-en-zedelgem/oosthof.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/oosthof.jpg" extlink="/nl/eten-drinken/t-oosthof" %}}
 
 Bij 76
 
@@ -50,7 +58,7 @@ Eenmaal neergevlijd op dit bloemrijke terras, is het moeilijk nog weg te geraken
 
 ### Het Koetsenhuis
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-tussen-jabbeke-en-zedelgem/koetsenhuis.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/koetsenhuis.jpg" extlink="/nl/eten-drinken/het-koetsenhuis" %}}
 
 Tussen 90 en 61
 
@@ -62,7 +70,7 @@ Op het prachtige terras van het Koetsenhuis heb je een schitterend beeld op het 
 
 ### Brasserie Fiston
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-tussen-jabbeke-en-zedelgem/66843194_554385295093478_1393226952042610688_o.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/66843194_554385295093478_1393226952042610688_o.jpg" %}}
 
 In de buurt van 68
 
@@ -72,7 +80,7 @@ Zin om gastronomisch verwend te worden? Tip: reserveer op voorhand je tafeltje.
 
 ### Vloethemveld
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-tussen-jabbeke-en-zedelgem/lage_resolutie-vloethemveld.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lage_resolutie-vloethemveld.jpg" extlink="/nl/verborgen/vloethemveld" %}}
 
 Tussen 6 en 16
 
@@ -84,7 +92,7 @@ Een voormalig militair domein met prachtige natuur op grondgebied Zedelgem en Ja
 
 ### Krinkelhof Pluktuin En Zomercafé
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-tussen-jabbeke-en-zedelgem/mosselsouperkrinkelhof2-1_0.jpeg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/mosselsouperkrinkelhof2-1_0.jpeg" extlink="/nl/eten-drinken/krinkelhof" %}}
 
 Tussen knooppunt 16 en 55
 

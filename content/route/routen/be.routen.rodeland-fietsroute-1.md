@@ -24,58 +24,58 @@ Flaneer via autovrije paden naar de mooiste plekjes van de Gentse buitenrand en 
 
 ### Café Zappa
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-09/IMG_6718.JPG" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-09/IMG_6718.JPG" %}}
 Langs het water in Moortsele vind je café Zappa. Op het gezellige tuinterras met zicht op de kabbelende Molenbeek kan je genieten van een drankje of een kleine snack. Hun 'zappaghetti' is bekend in de ruime regio.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Watermolen van Moortsele
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-09/IMG_6716_0.JPG" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-09/IMG_6716_0.JPG" %}}
 what's in a name?
 
 In de Watermolenstraat (what's in a name?) in Moortsele vind je een oude watermolen uit de 16de eeuw. Hij wordt helaas niet meer gebruikt. In 1974 werd de aanhoudende waterdruk van de Molenbeek namelijk te veel voor de molen. De as hield het voor bekeken en het met ijzer beslagen rad raakte in verval.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Munte
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-09/preview_Merelbeke_Munte-4.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-09/preview_Merelbeke_Munte-4.jpg" %}}
 Munte – inwoners: 700 – dankt zijn naam aan het Latijnse ‘montem’ (berg) en verwijst naar de heuvelrug waarop dit charmante kouterdorpje ligt. De Sint-Bonifasiuskerk ligt op het hoogste punt van de regio (55 meter) en dankt zijn roem aan het relikwie van Sint-Apollonia of ‘Sinte Plonne’, de patrones tegen tandpijn. Samen met de kerk maken de twee huisjes links deel uit van het geklasseerde dorpsgezicht.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Bistro Oud Munte
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-01/Munte%20Afspanning%20Oud%20Munte.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-01/Munte%20Afspanning%20Oud%20Munte.jpg" %}}
 Bistro Oud Munte was jarenlang een typisch dorpscafé tegenover de kerk, een afspanning waar paard, ruiter, wandelaar en fietser hun dorst konden lessen. Vandaag is het een gezellig restaurant dat de lekkere Frans-Belgische keuken zonder poespas serveert.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Kasteel ter Zinkt
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-03/preview_Merelbeke_Munte-36.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-03/preview_Merelbeke_Munte-36.jpg" %}}
 Net nadat je Munte verlaten hebt, kom je langs het Kasteel ter Zinkt. Dit middeleeuw slot en het bijhorende kasteeldomein kan je helaas niet bezoeken, maar zijn ook vanop een afstand indrukwekkend.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Makegemse Bossen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Makegembos.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Makegembos.jpg" %}}
 Je fiets de Makegemse Bossen binnen, een bos- en natuurgebied van ongeveer 200 hectare. Het gebied is een mozaïek van verschillende bossen (Makegembos, Heilig-Geestgoed, Harentbeekbos, Bruinbos, Nerenbos, Makenbos, Luisdonkbos of Huisdonkbos en Hogenbos) omgeven door landbouwgebied. In het voorjaar is het er bijzonder fleurig, en je kan er vuur- en kamsalamanders spotten!
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Kinderboerderij 't Bakkershof
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-09/WhatsApp%20Image%202021-09-23%20at%2015.18.00%20%284%29.jpeg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2021-09/WhatsApp%20Image%202021-09-23%20at%2015.18.00%20%284%29.jpeg" %}}
 In de Kastijdestraat vind je kinderboerderij ’t Bakkershof. Op zondagnamiddag staat hun poort voor iedereen open. Volg vanop de parking de de bordjes 'Hoevepad' voor een gratis bezoek aan de dieren, of laat je kinderen de speeltuin ontdekken. Je kan er dan ook iets drinken of eten. De rest van de week kan je de boerderij enkel bezoeken op afspraak.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Prinsenmolen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Prinsenmolen%20Baaigem%202%20TOV.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-07/Prinsenmolen%20Baaigem%202%20TOV.jpg" %}}
 Deze ronde, stenen bergmolen vinden we op de plek waar in 1551 een houten staakmolen geplaatst werd in opdracht van de familie van Lamoraal van Egmont. Lamoraal was prins van Gavere, vandaar de naam Prinsenmolen. In 2017 is de molen omgebouwd tot woonhuis.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### Scheldemeersen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/scheldemeersen_zingem.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/scheldemeersen_zingem.jpg" %}}
 Een opvallend zijn de oude kleiputten. Tot de jaren ’50 waren de Scheldemeersen immers zeer belangrijk voor de klei-ontginning. Een tiental plaatselijke steenbakkerijen groeven de kleilagen af.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

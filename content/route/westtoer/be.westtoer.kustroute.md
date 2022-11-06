@@ -1,7 +1,7 @@
 ---
 title: "Kustroute"
 subtitle: "De Kustroute laat je fietsen naast het strand met zicht op zee, door unieke duinen en duinbossen, of langs polders en uitgestrekte slikken en schorren"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De Kustroute laat je fietsen naast het strand met zicht op zee, door unieke duinen en duinbossen, of langs polders en uitgestrekte slikken en schorren" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/kustroute"
 gpx: "westtoer/kustroute_3.gpx"
 length: 85
+nodetype: "vlaams"
+nodes: "75,74,82,88,4,3,53,40,78,23,46,70,93,33,17,18,73,60,69,75,4,83,9,68,86,62,58,88,96,64,82,67,8,70,10,46,95,55,36,30,37,77,6,69,1,75"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ De Kustroute is een initiatief van Westtoer, de Vlaamse Provincies en Toerisme V
 
 ## Start 
 
-Meerdere startpunten. 
+Meerdere startpunten.
+
+## Signage
+
+Het traject is bewegwijzerd met rechthoekige bordjes in twee richtingen.
 
 ## En Route
 
 ### Het Zwin In Knokke-Heist
 
-{{% imgandtxt url="/routes/page/be.westtoer.kustroute/knokke-heist-het-zwin.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/knokke-heist-het-zwin.jpg" extlink="https://www.dekust.be/nl/knokke-heist" %}}
 
 Je wandelt door het adembenemende natuurgebied ’t Zwin, een van de belangrijkste slikke- en schorregebieden van de Kust. Het is een paradijs om vogels te observeren.
 
@@ -42,7 +48,7 @@ Je wandelt door het adembenemende natuurgebied ’t Zwin, een van de belangrijks
 
 ### Seafront In Zeebrugge
 
-{{% imgandtxt url="/routes/page/be.westtoer.kustroute/zeebrugge-seafront.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/zeebrugge-seafront.jpg" extlink="https://www.dekust.be/nl/zeebrugge" %}}
 
 In het themapark Seafront ontdek je de geheimen van de zee. Je maakt kennis met het ruwe vissersbestaan, de Zeebrugse havengeschiedenis en het leven onder de zeespiegel.
 
@@ -52,7 +58,7 @@ In het themapark Seafront ontdek je de geheimen van de zee. Je maakt kennis met 
 
 ### Lustige Velodroom In Blankenberge
 
-{{% imgandtxt url="/routes/page/be.westtoer.kustroute/blankenberge-velodroom.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/blankenberge-velodroom.jpg" extlink="https://www.dekust.be/nl/blankenberge" %}}
 
 Bij de Lustige Velodroom is plezier verzekerd. Al sinds 1933 kan je hier fietsen op 70 komische fietsen. Kies een gekke fiets en leef je uit!
 
@@ -62,7 +68,7 @@ Bij de Lustige Velodroom is plezier verzekerd. Al sinds 1933 kan je hier fietsen
 
 ### Concessiewijk In De Haan
 
-{{% imgandtxt url="/routes/page/be.westtoer.kustroute/de-haan-concessiewijk.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/de-haan-concessiewijk.jpg" extlink="https://www.dekust.be/nl/de-haan-wenduine" %}}
 
 Laat je charmeren door de prachtige Concessiewijk, een  Anglo-Normandische villawijk met een eigen architectuur zonder hoogbouw.
 
@@ -72,7 +78,7 @@ Laat je charmeren door de prachtige Concessiewijk, een  Anglo-Normandische villa
 
 ### Twins Club In Bredene
 
-{{% imgandtxt url="/routes/page/be.westtoer.kustroute/bredene-twins.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/bredene-twins.jpg" extlink="https://www.dekust.be/nl/bredene" %}}
 
 Ben je een watersporter? Kom dan naar de Twins Club. Je kan er surfen, raften en zeilen. Of ga gewoon even relaxen in de clublounge.
 
@@ -82,7 +88,7 @@ Ben je een watersporter? Kom dan naar de Twins Club. Je kan er surfen, raften en
 
 ### The Crystal Ship In Oostende
 
-{{% imgandtxt url="/routes/page/be.westtoer.kustroute/oostende-the-crystal-ship.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/oostende-the-crystal-ship.jpg" extlink="https://www.dekust.be/nl/oostende" %}}
 
 Je ziet niet alleen tientallen reusachtige kunstwerken in alle vormen en maten, maar je leert onderweg ook de verschillende wijken en facetten van Oostende kennen.
 
@@ -92,7 +98,7 @@ Je ziet niet alleen tientallen reusachtige kunstwerken in alle vormen en maten, 
 
 ### De Warandetoren In Middelkerke
 
-{{% imgandtxt url="/routes/page/be.westtoer.kustroute/middelkerke-warandetoren.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/middelkerke-warandetoren.jpg" extlink="https://www.dekust.be/nl/middelkerke-westende" %}}
 
 Vanop de toren krijg je een mooi uitzicht op de Warandeduinen, een heel waardevol natuurgebied met bijzondere planten en dieren.
 
@@ -102,7 +108,7 @@ Vanop de toren krijg je een mooi uitzicht op de Warandeduinen, een heel waardevo
 
 ### Garnaalvissers In Oostduinkerke
 
-{{% imgandtxt url="/routes/page/be.westtoer.kustroute/koksijde-garnaalvissers.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/koksijde-garnaalvissers.jpg" extlink="https://www.dekust.be/nl/koksijde-oostduinkerke" %}}
 
 De garnaalvissers te paard doen je wegdromen naar het vissersleven van weleer. De trekpaarden slepen het garnaalnet urenlang achter zich aan en op deze manier worden uitzonderlijk verse garnalen gevangen.
 
@@ -112,7 +118,7 @@ De garnaalvissers te paard doen je wegdromen naar het vissersleven van weleer. D
 
 ### Westfront In Nieuwpoort
 
-{{% imgandtxt url="/routes/page/be.westtoer.kustroute/nieuwpoort-westfront.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/nieuwpoort-westfront.jpg" extlink="https://www.dekust.be/nl/nieuwpoort" %}}
 
 In het bezoekerscentrum pal onder het terras van het Albert I monument ontdek je een boeiende tentoonstelling en leer je meer over de onderwaterzetting van het Westfront in Wereldoorlog I.
 
@@ -122,7 +128,7 @@ In het bezoekerscentrum pal onder het terras van het Albert I monument ontdek je
 
 ### Westhoekreservaat In De Panne
 
-{{% imgandtxt url="/routes/page/be.westtoer.kustroute/de-panne-westhoekreservaat.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/de-panne-westhoekreservaat.jpg" extlink="https://www.dekust.be/nl/de-panne" %}}
 
 In dit oudste natuurreservaat van Vlaanderen ontdek je de hoogste duin in een ongerept duinengebied. Je kan er wandelen langs 11 km wandelpaden.
 

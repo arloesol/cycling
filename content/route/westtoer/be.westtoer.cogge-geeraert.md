@@ -3,7 +3,7 @@ title: "Cogge-Geeraert"
 subtitle: "Fietsroute 14-18
 
 De fietsroute belicht de onderwaterzetting van de IJzervlakte tijdens de Eerste Wereldoorlog en de rol die de historische figuren Karel Cogge en Hendrik Geeraert daarbij speelden"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Fietsroute 14-18
 
 De fietsroute belicht de onderwaterzetting van de IJzervlakte tijdens de Eerste Wereldoorlog en de rol die de historische figuren Karel Cogge en Hendrik Geeraert daarbij speelden" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/cogge-geeraert"
 gpx: "westtoer/cogge-geeraertfietsroute.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "32"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ De fietsroute belicht de onderwaterzetting van de IJzervlakte tijdens de Eerste 
 
 ## Start 
 
-Belevingscentrum Vrij Vaderland, Grote markt 29, 8630 Veurne - Bezoekerscentrum Westfront, Kustweg 1, 8620 Nieuwpoort 
+Belevingscentrum Vrij Vaderland, Grote markt 29, 8630 Veurne - Bezoekerscentrum Westfront, Kustweg 1, 8620 Nieuwpoort
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

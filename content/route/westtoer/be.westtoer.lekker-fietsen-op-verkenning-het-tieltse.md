@@ -3,7 +3,7 @@ title: "Lekker fietsen: Op verkenning in het Tieltse"
 subtitle: "Verken het zuiden van de regio met Tielt en Ruiselede
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Verken het zuiden van de regio met Tielt en Ruiselede
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-op-verkenning-het-tieltse"
 gpx: "westtoer/route-12-op-verkenning-in-het-tieltse.gpx"
 length: 32
+nodetype: "vlaams"
+nodes: "42"
 ---
 
 ## Let's Go !
@@ -32,13 +34,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 42 in Schuiferskapelle. Parkeren kan aan de kerk (De Breuckplein). 
+Starten kan bij knooppunt 42 in Schuiferskapelle. Parkeren kan aan de kerk (De Breuckplein).
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 42 - 82 - 89 - 84 - 70 - 30 - 49 - 69 - 67 - 53 - 62 - 1 - 57 - 50 - 9 - 52 - 32 - 48 - 46 - 56 - 42
 
 ## En Route
 
 ### 'T Een En 'T Ander
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-op-verkenning-het-tieltse/lage_resolutie-t_een_en_t_ander_schuiferskapelle.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/lage_resolutie-t_een_en_t_ander_schuiferskapelle.jpg" extlink="/nl/eten-drinken/t-een-en-t-ander" %}}
 
 Bij 42
 
@@ -50,7 +56,7 @@ Nostalgisch dorpswinkeltje annex café. Op het zuidgerichte terras wordt een fij
 
 ### La Vida
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-op-verkenning-het-tieltse/lounge2.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/lounge2.jpg" extlink="/nl/eten-drinken/la-vida-0" %}}
 
 Bij 53
 
@@ -62,7 +68,7 @@ Geniet van gezelligheid, bediening met een lach en een streekgebonden keuken met
 
 ### Serelly's
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-op-verkenning-het-tieltse/serellys.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/serellys.jpg" extlink="/nl/eten-drinken/serellys" %}}
 
 Even afwijken bij 1
 
@@ -74,7 +80,7 @@ Begrip in de streek. Dit ijsje met stevige reputatie - lees: volledig ambachteli
 
 ### Brouwerij De Poes
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-op-verkenning-het-tieltse/de_poes.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/de_poes.jpg" extlink="/nl/eten-drinken/de-poes" %}}
 
 Even afwijken bij 32
 
@@ -86,7 +92,7 @@ Met De Poes heeft Tielt sinds 2014 weer een stadsbrouwerij, ongeveer 50 jaar nad
 
 ### De Traagheid
 
-{{% imgandtxt url="/routes/page/be.westtoer.lekker-fietsen-op-verkenning-het-tieltse/de_traagheid_restaurant.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/de_traagheid_restaurant.jpg" extlink="/nl/eten-drinken/de-traagheid" %}}
 
 Tussen 46 en 56
 

@@ -1,7 +1,7 @@
 ---
 title: "Tabaksfietsroute"
 subtitle: "De streek rond Wervik kende vroeger een bloeiende tabaksindustrie"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De streek rond Wervik kende vroeger een bloeiende tabaksindustrie" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/tabaksfietsroute-0"
 gpx: "westtoer/tabaks_fietsroute_1.gpx"
 length: 50
+nodetype: "vlaams"
+nodes: "93"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Nationaal Tabaksmuseum, Koestraat 63, 8940 Wervik 
+Nationaal Tabaksmuseum, Koestraat 63, 8940 Wervik
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

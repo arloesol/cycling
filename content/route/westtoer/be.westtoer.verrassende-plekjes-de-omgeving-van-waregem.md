@@ -1,7 +1,7 @@
 ---
 title: "Verrassende plekjes in de omgeving van Waregem"
 subtitle: "Dit fietslusje verkent de gemeenten Anzegem, Deerlijk, Harelbeke en Waregem"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Dit fietslusje verkent de gemeenten Anzegem, Deerlijk, Harelbeke en Waregem" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/verrassende-plekjes-de-omgeving-van-waregem"
 gpx: "westtoer/plekjes_in_waregem.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Start: Achterkant station Waregem, Boulezlaan, 8790 Waregem. Fiets 300m naar links - met je rug naar het station - tot knooppunt 67. 
+Start: Achterkant station Waregem, Boulezlaan, 8790 Waregem. Fiets 300m naar links - met je rug naar het station - tot knooppunt 67.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 67 - 47 - 21 - 4 - 34 - 35 - 6 - 36 - 27 - 94 - 14 - 65 - 52 - 56 - 44 - 40 - 60 - 54 - 84 - 62 - 67
 
 ## En Route
 
 ### Be-Part
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/be-part.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/be-part.jpg" extlink="https://www.westtoer.be/nl/doen/be-part" %}}
 
 Tussen knooppunt 47 en 21.
 
@@ -44,7 +50,7 @@ Be-Part is een platform voor hedendaagse kunst. Je kan er actuele, beeldende kun
 
 ### Park Baron Casier
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/baron-casier.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/baron-casier.jpg" extlink="https://www.westtoer.be/nl/doen/park-baron-casier" %}}
 
 Tussen knooppunt 47 en 21.
 
@@ -56,7 +62,7 @@ Het beschermde kasteelpark Baron Casier is een groen rustpunt van 8 hectare in h
 
 ### Sport Vlaanderen Waregem 'De Gaverbeek'
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/gaverbeek_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/gaverbeek_0.jpg" extlink="https://www.sport.vlaanderen" %}}
 
 Tussen knooppunt 47 en 21.
 
@@ -68,7 +74,7 @@ Sport Vlaanderen Waregem 'De Gaverbeek', vlak naast de befaamde Waregemse renbaa
 
 ### Robuust
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/robuust.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/robuust.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/robuust" %}}
 
 Tussen knooppunt 21 en 4.
 
@@ -80,7 +86,7 @@ Gastvrouwen Caren & Charlotte ontvangen u graag in het aangename kader van deze 
 
 ### Flanders Field American Cemetery
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/american-cemetery.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/american-cemetery.jpg" extlink="https://www.westtoer.be/nl/doen/flanders-field-american-cemetery" %}}
 
 Tussen knooppunt 21 en 4.
 
@@ -92,7 +98,7 @@ In Waregem vind je de enige Amerikaanse militaire begraafplaats in België: er r
 
 ### Watermolen Goed Te Walskerke
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/watermolen-walskerke.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/watermolen-walskerke.jpg" extlink="https://www.westtoer.be/nl/doen/watermolen-goed-te-walskerke" %}}
 
 Tussen knooppunt 6 en 36.
 
@@ -104,7 +110,7 @@ De enige nog draaiende watermolen van West-Vlaanderen vind je in Anzegem. Hij ga
 
 ### Park Beukenhof
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/park-beukenhof.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/park-beukenhof.jpg" extlink="https://www.westtoer.be/nl/doen/park-beukenhof" %}}
 
 Tussen knooppunt 14 en 65.
 
@@ -116,7 +122,7 @@ Het Beukenhof is de groene long van Vichte en is 2,5 ha groot. Het park bevat in
 
 ### Brouwerij Verhaeghe
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/brouwerij-verhaeghe.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/brouwerij-verhaeghe.jpg" extlink="https://www.westtoer.be/nl/eten-drinken/brouwerij-verhaeghe" %}}
 
 Tussen knooppunt 14 en 65.
 
@@ -128,7 +134,7 @@ Brouwerij Verhaeghe maakt enkele uitstekende bieren zoals het roodbruin pareltje
 
 ### Vichte Military Cemetery
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/vichte-cemetery.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/vichte-cemetery.jpg" %}}
 
 Tussen knooppunt 14 en 65.
 
@@ -138,7 +144,7 @@ Deze militaire begraafplaats bevat 236 graven van voornamelijk Britse gesneuveld
 
 ### Kinderboerderij Bokkeslot
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/bokkeslot.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/bokkeslot.jpg" extlink="https://www.westtoer.be/nl/slapen/bokkeslot" %}}
 
 Tussen knooppunt 65 en 52.
 
@@ -150,7 +156,7 @@ Op deze kinderboerderij kunnen de kinderen zich naar hartenlust uitleven. Ze ler
 
 ### Natuurdomein Wijmelbroek
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/wijmelbroek.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/wijmelbroek.jpg" extlink="https://www.westtoer.be/nl/doen/natuurdomein-wijmelbroek" %}}
 
 Tussen knooppunt 65 en 52.
 
@@ -162,7 +168,7 @@ Gesitueerd in het centrum van Deerlijk met een oppervlakte van 5ha. Enkel toegan
 
 ### Museum René De Clercq
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/de-clercq.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/de-clercq.jpg" extlink="https://www.westtoer.be/nl/doen/museum-ren%C3%A9-de-clercq" %}}
 
 Tussen knooppunt 52 en 56.
 
@@ -174,7 +180,7 @@ Het museum is gevestigd in het oudste huisje van Deerlijk, gebouwd door notaris 
 
 ### Bistro Poirot
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/bistro-poirot.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/bistro-poirot.jpg" extlink="http://www.bistro-poirot.be" %}}
 
 Tussen knooppunt 52 en 56.
 
@@ -186,7 +192,7 @@ In dit restaurant in het centrum van Deerlijk kan je zowel menu’s als à la ca
 
 ### Provinciaal Recreatie- En Natuurcentrum De Gavers
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/de-gavers.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/de-gavers.jpg" extlink="https://www.westtoer.be/nl/arrangementen/provinciaal-recreatie-en-natuurcentrum-de-gavers-harelbeke" %}}
 
 Tussen knooppunt 56 en 44.
 
@@ -198,7 +204,7 @@ Provinciaal Recreatie- en Natuurcentrum De Gavers ligt rond een zandwinningsput 
 
 ### Track 75
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/track-75.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/track-75.jpg" extlink="https://www.track75.be " %}}
 
 Tussen knooppunt 44 en 40.
 
@@ -206,13 +212,13 @@ Wanneer je aankomt in Track75, kan je niet anders dan versteld staan van dit ind
 
 Tijdens de zomermaanden kan je er gezellig tafelen op het zonneterras.
 
-[https://www.track75.be ](https://www.track75.be%C2%A0)
+https://www.track75.be
 
 {{% /imgandtxt %}}
 
 ### Sint-Salvatorskerk
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/salvatorkerk.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/salvatorkerk.jpg" extlink="https://www.westtoer.be/nl/doen/sint-salvatorskerk" %}}
 
 Tussen knooppunt 44 en 40.
 
@@ -226,7 +232,7 @@ In 2009 werd het interieur volledig gerestaureerd en de omgeving helemaal opnieu
 
 ### Zavelput
 
-{{% imgandtxt url="/routes/page/be.westtoer.verrassende-plekjes-de-omgeving-van-waregem/zavelput.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westtoer/doen/routes/zavelput.jpg" extlink="https://www.westtoer.be/nl/doen/zavelput" %}}
 
 Tussen knooppunt 60 en 54.
 

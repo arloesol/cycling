@@ -1,7 +1,7 @@
 ---
 title: "Boerhovenroute"
 subtitle: "De Boerhovenroute is een mountainbikeroute waar elke sportieveling, zowel beginner als gevorderde de kuiten kan spannen"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De Boerhovenroute is een mountainbikeroute waar elke sportieveling, zowel beginner als gevorderde de kuiten kan spannen" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/boerhovenroute"
 gpx: "westtoer/boerhoven_atf_-_blauw.gpx"
 length: 79
+nodetype: "vlaams"
+nodes: "81"
 ---
 
 ## Let's Go !
@@ -22,6 +24,4 @@ De Boerhovenroute is een mountainbikeroute waar elke sportieveling, zowel beginn
 
 ## Start 
 
-Kortrijk (groene lus): Sportcentrum Lange Munte - Zwevegem (rode lus): Ontmoetingscentrum De Brug - Spiere (blauwe lus): Sporthal Michelsberg of Pompgebouw Bossuit 
-
-
+Kortrijk (groene lus): Sportcentrum Lange Munte - Zwevegem (rode lus): Ontmoetingscentrum De Brug - Spiere (blauwe lus): Sporthal Michelsberg of Pompgebouw Bossuit

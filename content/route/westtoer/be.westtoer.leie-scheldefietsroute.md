@@ -1,7 +1,7 @@
 ---
 title: "Leie-Scheldefietsroute"
 subtitle: "Het glooiende landschap tussen Leie en Schelde is een rijk landbouwgebied"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Het glooiende landschap tussen Leie en Schelde is een rijk landbouwgebied" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/leie-scheldefietsroute"
 gpx: "westtoer/leie-schelde_fietsroute_bossuit_1.gpx"
 length: 35
+nodetype: "vlaams"
+nodes: "5"
 ---
 
 ## Let's Go !
@@ -26,6 +28,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Pompgebouw Bossuit, Doorniksesteenweg 402, 8583 Bossuit 
+Pompgebouw Bossuit, Doorniksesteenweg 402, 8583 Bossuit
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

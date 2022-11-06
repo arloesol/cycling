@@ -24,19 +24,19 @@ Tussen Ninove en Geraardsbergen is de Dender op haar mooist. Maar vooraleer je o
 
 ### Kaai Geraardsbergen
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/kapelDS.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/kapelDS.jpg" %}}
 Giesbaargen
 
 Wijd en zijd staat Geraardsbergen - Giesbaargen in het lokale dialect - bekend voor zijn drie troeven, toevallig 3 M's: Manneken-Pis, Mattentaarten en de Muur. Op de Markt prijkt de eerste: het beeldje dateert al uit 1459 en is daarmee precies 160 jaar ouder dan zijn beroemde Brusselse broertje. Mattentaarten, een zoete lekkernij die werd erkend als Europees streekproduct, koop je bij elke bakker in de stad. En de Muur, dat is natuurlijk de legendarische kasseistrook op de Oudenberg waar wielergoden jaarlijks hun tanden op stuk bijten.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### HEMELVEERDEGEM
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/hemelveerdegemDS.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-04/hemelveerdegemDS.jpg" %}}
 Sesjans
 
 Hemelveerdegem – in de volksmond Sesjans, naar de patroonheilige Sint-Jan – kan prat gaan op een van de mooiste, meest authentieke dorpspleintjes van het land. In 1981 werd het volledig terecht beschermd als dorpsgezicht. Vlakblij staat Den Dikken van Sesjans, een gebeeldhouwde knol die 100 jaar hengstenfokkerij in de regio herdenkt. Wie zich graag laaft aan de couleur locale, is welkom in café Sint-Jan vlakbij de kerk.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### MOENEBROEK
 
@@ -46,27 +46,27 @@ De kern van dit natuurgebied vlakbij knooppunt 71 is een moerasbos met verschill
 
 ### CAFE 't BERGHOF
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Caf%25C3%25A9Claudy1.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/preview_Caf%25C3%25A9Claudy1.jpg" %}}
 KNOOPPUNT 36-37
 
 Net voorbij het dorp van Steenhuize is dit voormalige stamcafé van de betreurde Frank Vandenbroucke een verplichte stop bij wielerfanaten. De verzameling wielertruitjes aan de muur is bijna zo uitgebreid als het aanbod streekbieren op de kaart. Tijdens zijn laatste levensjaar vond Vandenbroucke hier zijn tweede thuis: een groot deel van het café is dan ook gewijd aan zijn nagedachtenis.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### SINT-ANTELINKS
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-05/Duivenbos%20Sint-Antelinks%202%20TOV.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-05/Duivenbos%20Sint-Antelinks%202%20TOV.jpg" %}}
 KNOOPPUNT 43
 
 De oriëntatietafel op het kerkhof van Sint-Antelinks biedt een mooi uitzicht over de Dendervallei. Bij helder weer kan je de Oudenbergkapel van Geraardsbergen zien.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### NINOVE
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Ninove%20Centrum.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-06/Ninove%20Centrum.jpg" %}}
 KNOOPPUNT 90-91
 
 De Onze-Lieve-Vrouw Hemelvaartkerk van Ninove, de ‘oudste, stoutste en wijste der steden’, is misschien nog geen UNESCO-werelderfgoed, maar wel een van de grootste en mooiste barokkerken van Vlaanderen. In de archeologische tuin ernaast kan je nog de fundamenten zien van de Norbertijnenabdij die hier vroeger stond. Het typische habijt van de paters, met witte kap, zorgde voor de naam en het logo van het beroemde Witkap abdijbier van Brouwerij Slagmuylder.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### SINT-ANNAKAMER
 
@@ -74,11 +74,11 @@ Dichtbij de Onze-Lieve-Vrouw Hemelvaartkerk, op de hoek van de Biezenstraat, lig
 
 ### DENDERVALLEI LINKEROEVER
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/preview_85512cec378f423f80fdf4262f38cd82b8b0243d6347453fb54a495d6e70993fde72321b856249b69498e38c65288895.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/preview_85512cec378f423f80fdf4262f38cd82b8b0243d6347453fb54a495d6e70993fde72321b856249b69498e38c65288895.jpg" %}}
 KNOOPPUNT 91-95
 
 Het natuurreservaat Dendervallei Ninove ligt als een langgerekt lint op de linkeroever van de Dender, tussen Ninove en Zandbergen. In dit meersenlandschap wisselen beboste en open ruimtes elkaar af en is de rivier op z’n mooist. Bij het begin van elke lente kleuren bijzondere bloemen en planten hier de hooilanden prachtig geel en roze.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 ### WILDERMOLEN
 
@@ -94,8 +94,8 @@ Vlakbij het sas van Idegem, uitgerust met een authentiek metalen ophaalbruggetje
 
 ### DE GAVERS
 
-{{% imgandexttxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Kajak_De_Gavers.jpg" %}}
+{{% imgandtxt url="https://www.routen.be/sites/default/files/public/styles/background_image/public/2020-03/Kajak_De_Gavers.jpg" %}}
 Geen tijd meer voor nóg een stop? Onthoud dit 20 hectare grote provinciaal domein aan de voet van de Oudenberg dan zeker voor je volgende bezoek. De mooi aangelegde zwem- en strandzone met speeltuin, watersporten zoals surf, kajak, roeien of pedalo, en de rondvaartboot trekken waterratten van allerlei pluimage aan. Er is ook een overdekte zwemhal met sauna. Zelfs overnachten kan hier, in je eigen tentje op de camping, in een trekkershut of in de jeugdherberg.
-{{% /imgandexttxt %}}
+{{% /imgandtxt %}}
 
 

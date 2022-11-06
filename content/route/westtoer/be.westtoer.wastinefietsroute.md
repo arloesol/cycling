@@ -1,7 +1,7 @@
 ---
 title: "Wastinefietsroute"
 subtitle: "De Wastinefietsroute laat je kennismaken met het lichtglooiende landschap in de buurt van Tielt"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "De Wastinefietsroute laat je kennismaken met het lichtglooiende landschap in de buurt van Tielt" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/wastinefietsroute"
 gpx: "westtoer/wastinefietsroute_0.gpx"
 length: 50
+nodetype: "vlaams"
+nodes: "62"
 ---
 
 ## Let's Go !
@@ -26,13 +28,17 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Dorpsplein, 8740 Egem 
+Dorpsplein, 8740 Egem
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 
 ### Dorpsplein Egem
 
-{{% imgandtxt url="/routes/page/be.westtoer.wastinefietsroute/egem_0.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/egem_0.jpg" %}}
 
 Het antieke straatnaambord, de kleine huisjes en pittoreske kruidenierswinkeltjes laten een respectabele leeftijd vermoeden...
 
@@ -40,7 +46,7 @@ Het antieke straatnaambord, de kleine huisjes en pittoreske kruidenierswinkeltje
 
 ### Huwynsbossen
 
-{{% imgandtxt url="/routes/page/be.westtoer.wastinefietsroute/huwynsbossen.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/huwynsbossen.jpg" %}}
 
 Groene long van Lichtervelde met wandelpad, speelbos en picknickruimte.
 
@@ -48,8 +54,8 @@ Groene long van Lichtervelde met wandelpad, speelbos en picknickruimte.
 
 ### Recreatiebad De Alk
 
-{{% imgandtxt url="/routes/page/be.westtoer.wastinefietsroute/recreatiebad_de_alk.jpg" %}}
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/recreatiebad_de_alk.jpg" %}}
 
-The place to be voor echte waterratten: een stroomversnelling, familieglijbaan, peuterbad, instructiebad, whirlpool, geurbad, stoombad, ligzetels,... 
+The place to be voor echte waterratten: een stroomversnelling, familieglijbaan, peuterbad, instructiebad, whirlpool, geurbad, stoombad, ligzetels,...
 
 {{% /imgandtxt %}}

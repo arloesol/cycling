@@ -1,7 +1,7 @@
 ---
 title: "Bakelandtfietsroute"
 subtitle: "Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield"
-date: "2022-11-03"
+date: "2022-11-06"
 description: "Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/bakelandtfietsroute"
 gpx: "westtoer/bakelandtfietsroute_1.gpx"
 length: 48
+nodetype: "vlaams"
+nodes: "93"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Gemeentehuis, Kasteelstraat 1, 8920 Langemark 
+Gemeentehuis, Kasteelstraat 1, 8920 Langemark
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.
