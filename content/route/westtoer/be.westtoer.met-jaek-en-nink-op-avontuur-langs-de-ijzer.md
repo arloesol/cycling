@@ -1,7 +1,7 @@
 ---
 title: "Met Jaek en Nink op avontuur langs de IJzer"
 subtitle: "Jaek en Nink nemen je mee op avontuur langs de IJzer"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Jaek en Nink nemen je mee op avontuur langs de IJzer" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/met-jaek-en-nink-op-avontuur-langs-de-ijzer"
 gpx: "westtoer/kd_ontdekking_langs_de_ijzer_fietsroute_nieuwpoort_1.gpx"
 length: 47
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Toerisme Diksmuide, Grote Markt 6, 8600 Diksmuide - Parking Kaaiplein, 8620 Nieuwpoort 
+Toerisme Diksmuide, Grote Markt 6, 8600 Diksmuide - Parking Kaaiplein, 8620 Nieuwpoort
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes waarop Jaek en Nink de weg wijzen. Je kan de route ook volgen via het fietsnetwerk, volg hiervoor volgende knooppunten: 67 - 82 - 64 - 73 - 61 - 70 - 10 - 46 - 95 - 55 - 36 - 30 - 37 - 77 - 7 - 28 - 57 - 69 - 1 - 75 - 74 - 82 - 88 - 85 - 5 - 39 - 38 - 35 - 89 - 57 - 7 - 67
 
 ## En Route
 

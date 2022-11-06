@@ -1,7 +1,7 @@
 ---
 title: "Recreatieve lus Ieper"
 subtitle: "Met deze route fiets je richting Wervik, waar je even kan uitblazen in recratiedomein De Balokken of een bezoekje kan brengen aan het Nationaal Tabaksmuseum"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Met deze route fiets je richting Wervik, waar je even kan uitblazen in recratiedomein De Balokken of een bezoekje kan brengen aan het Nationaal Tabaksmuseum" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/recreatieve-lus-ieper"
 gpx: "westtoer/fietsen_ieper_2.gpx"
 length: 46
+nodetype: "vlaams"
+nodes: "89"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Lakenhalle, Grote Markt 34, 8900 Ieper 
+Lakenhalle, Grote Markt 34, 8900 Ieper
+
+## Signage
+
+Start: 89 - 69 - 66 - 17 - 98 - 48 - 53 - 59 - 46 - 44 - 14 - 45 - 31 - 6 - 9 - 12 - 54 - 58 - 10 - 21 - 42 - 85 - 65 - 33 - 63 - 40 - 38 - 93 - 89
 
 ## En Route
 

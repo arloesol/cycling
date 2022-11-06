@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Charme op het platteland"
 subtitle: "Verken het zuiden van de regio met Pittem, Ardooie, Lichtervelde en Zwevezele"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Verken het zuiden van de regio met Pittem, Ardooie, Lichtervelde en Zwevezele" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-charme-op-het-platteland"
 gpx: "westtoer/route-11-charme-op-het-platteland.gpx"
 length: 49
+nodetype: "vlaams"
+nodes: "58"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Bezoekerscentrum Ferdinand Verbiest, Markt 1 Pittem (Dan verder fietsen tot aan knooppunt 58 = start) 
+Bezoekerscentrum Ferdinand Verbiest, Markt 1 Pittem (Dan verder fietsen tot aan knooppunt 58 = start)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 58 - 38 - 34 - 44 - 18 - 16 - 14 - 15 - 89 - 12 - 82 - 6 - 21 - 23 - 36 - 58
 
 ## En Route
 

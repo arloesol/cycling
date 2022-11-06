@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Vakmanschap in de polders"
 subtitle: "Onderweg zie je opvallend veel vakmanschap"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Onderweg zie je opvallend veel vakmanschap" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-vakmanschap-de-polders"
 gpx: "westtoer/route-1-vakmanschap-in-de-polders.gpx"
 length: 45
+nodetype: "vlaams"
+nodes: "63"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan aan de Oostmolensite in Gistel (Warandestraat 29) 
+Starten kan aan de Oostmolensite in Gistel (Warandestraat 29)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 63 - 68 - 18 - 88 - 32 - 35 - 45 - 65 - 47 - 40 - 93 - 9 - 23 - 33 - 25 - 27 - 29 - 66 - 62 - 60 - 94 - 11 - 20 - 83 - 89 - 48 - 63
 
 ## En Route
 

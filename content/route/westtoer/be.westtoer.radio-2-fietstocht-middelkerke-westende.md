@@ -1,7 +1,7 @@
 ---
 title: "Radio 2-fietstocht in Middelkerke-Westende"
 subtitle: "Fiets met zicht op zee en verken het mooie achterland van Middelkerke-Westende"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Fiets met zicht op zee en verken het mooie achterland van Middelkerke-Westende" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietstocht-middelkerke-westende"
 gpx: "westtoer/fietsen_westende.gpx"
 length: 22
+nodetype: "vlaams"
+nodes: "18"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten doe je aan knooppunt 81 (aan de Doornstraat). 
+Starten doe je aan knooppunt 81 (aan de Doornstraat).
+
+## Signage
+
+81 - 60 - 80 - 52 - 77 - 75 - 16 - 59 - 44 - 2 - 12 - 81
 
 ## En Route
 

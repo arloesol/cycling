@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs de Korte Keten - Ieper"
 subtitle: "Verken de lekkerste korteketenadresjes in en rond de stad Ieper met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Verken de lekkerste korteketenadresjes in en rond de stad Ieper met behulp van dit voor jou uitgestippeld fietslusje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-ieper"
 gpx: "westtoer/fietsen-langs-de-korte-keten-ieper.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "93"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Ontdek nog meer 'de grote goesting' fietsroutes via deze [link](https://www.west
 
 ## Start 
 
-Je start nabij de Menenpoort (Menenstraat) in Ieper. 
+Je start nabij de Menenpoort (Menenstraat) in Ieper.
+
+## Signage
+
+Je fietst op het fietsnetwerk van de Westhoek aan de hand van knooppunten. Volg deze knooppunten: 93 - 38 - 40 - 55 - 85 - 42 - 44 - 14 - 45 - 51 - 59 - 46 - 47 - 48 - 53 - 49 - 61 - 98 - 17 - 66 - 35 - 39 - 26 - 32 - 93
 
 ## En Route
 

@@ -1,7 +1,7 @@
 ---
 title: "Cobergherfietsroute"
 subtitle: "De Cobergherfietsroute flirt met de Franse grens"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Cobergherfietsroute flirt met de Franse grens" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/cobergherfietsroute"
 gpx: "westtoer/cobergher_fietsroute_0.gpx"
 length: 47
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Station, Stationsplein 9, 8660 De Panne 
+Station, Stationsplein 9, 8660 De Panne
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

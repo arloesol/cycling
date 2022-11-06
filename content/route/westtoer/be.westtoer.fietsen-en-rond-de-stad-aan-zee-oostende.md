@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in en rond de Stad aan Zee Oostende"
 subtitle: "De Stad aan Zee herbergt allerlei mooie bezienswaardigheden en ook de groene omgeving rond Oostende is een topper voor fietsliefhebbers"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Stad aan Zee herbergt allerlei mooie bezienswaardigheden en ook de groene omgeving rond Oostende is een topper voor fietsliefhebbers" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-en-rond-de-stad-aan-zee-oostende"
 gpx: "westtoer/fietsen_oostende.gpx"
 length: 24
+nodetype: "vlaams"
+nodes: "75,1,69,57,28,12,62,29,65,61,31,92,32,97,35,36,43,23,86,63,39,84,94,16,99,47,13,10,68,61,9,18,59,1,75"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan je ter hoogte van knooppunt 85 (Maria Hendrikapark). 
+Starten kan je ter hoogte van knooppunt 85 (Maria Hendrikapark).
+
+## Signage
+
+85 – 74 – 45 – 8 – 39 – 67 – 95 – 10 – 4 – 15 – 11- -20 – 46 – 97 – 15 – 4 - 85
 
 ## En Route
 

@@ -1,7 +1,7 @@
 ---
 title: "Boterlandfietsroute"
 subtitle: "De polders rond Diksmuide worden ook wel het Boterland genoemd"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De polders rond Diksmuide worden ook wel het Boterland genoemd" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/boterlandfietsroute"
 gpx: "westtoer/boterlandfietsroute_2.gpx"
 length: 44
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -22,7 +24,11 @@ De polders rond Diksmuide worden ook wel het Boterland genoemd. Op marktdagen br
 
 ## Start 
 
-Dienst voor Toerisme, Grote Markt 6, 8600 Diksmuide - Parking Provinciedomein IJzerboomgaard, IJzerdijk z.n., 8600 Diksmuide 
+Dienst voor Toerisme, Grote Markt 6, 8600 Diksmuide - Parking Provinciedomein IJzerboomgaard, IJzerdijk z.n., 8600 Diksmuide
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 

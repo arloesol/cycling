@@ -1,7 +1,7 @@
 ---
 title: "Crossen door de bossen met Jaek en Nink"
 subtitle: "Voor deze route kan je vertrekken aan de Dienst voor Toerisme in Ieper (Grote Markt) of aan de Dienst voor Toerisme in Zonnebeke (Berten Pilstraat 5A)"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Voor deze route kan je vertrekken aan de Dienst voor Toerisme in Ieper (Grote Markt) of aan de Dienst voor Toerisme in Zonnebeke (Berten Pilstraat 5A)" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/crossen-door-de-bossen-met-jaek-en-nink"
 gpx: "westtoer/kd_crossen_door_de_bossen_fietsroute-ieper.gpx"
 length: 29
+nodetype: "vlaams"
+nodes: "89"
 ---
 
 ## Let's Go !
@@ -22,7 +24,11 @@ Voor deze route kan je vertrekken aan de Dienst voor Toerisme in Ieper (Grote Ma
 
 ## Start 
 
-De Grote Markt, Grote Markt 34, 8900 Ieper - Toeristische Dienst, Berten Pilstraat 5A, 8980 Zonnebeke 
+De Grote Markt, Grote Markt 34, 8900 Ieper - Toeristische Dienst, Berten Pilstraat 5A, 8980 Zonnebeke
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes waarop Jaek en Nink de weg wijzen. Je kan de route ook volgen via het fietsnetwerk, volg hiervoor volgende knooppunten: 89 - 93 - 32 - 56 - 80 - 81 - 80 - 18 - 72 - 42 - 85 - 65 - 33 - 63 - 40 - 38 - 93
 
 ## En Route
 

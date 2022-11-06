@@ -1,7 +1,7 @@
 ---
 title: "Groen Lint Oostende"
 subtitle: "Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buitenrand van Oostende laat ontdekken"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buitenrand van Oostende laat ontdekken" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/groen-lint"
 gpx: "westtoer/groen_lint_oostende_fietsroute-oostende.gpx"
 length: 35
+nodetype: "vlaams"
+nodes: "75,74,82,88,4,3,53,40,78,23,46,70,93,33,17,18,73,60,69,75,4,83,9,68,86,62,58,88,96,64,82,67,8,70,10,46,95,55,36,30,37,77,6,69,1,75"
 ---
 
 ## Let's Go !
@@ -22,7 +24,11 @@ Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buiten
 
 ## Start 
 
-Provinciedomein Raversyde, Nieuwpoortsesteenweg 636, 8400 Oostende - Romeins Archeologisch Museum, Marktstraat 25, 8460 Oudenburg - Sportcentrum Ter Polder, Spuikomlaan 21, 8450 Bredene 
+Provinciedomein Raversyde, Nieuwpoortsesteenweg 636, 8400 Oostende - Romeins Archeologisch Museum, Marktstraat 25, 8460 Oudenburg - Sportcentrum Ter Polder, Spuikomlaan 21, 8450 Bredene
+
+## Signage
+
+Het traject is bewegwijzerd met rechthoekige bordjes in twee richtingen.
 
 ## En Route
 

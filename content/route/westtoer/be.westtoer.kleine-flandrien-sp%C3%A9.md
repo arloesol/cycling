@@ -1,7 +1,7 @@
 ---
 title: "Kleine Flandrien in spé"
 subtitle: "Deze route vertrekt vanuit de Kinderbrouwerij richting Heuvelland voor een gezellig namiddagje uit op de Rode- en Zwarteberg"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route vertrekt vanuit de Kinderbrouwerij richting Heuvelland voor een gezellig namiddagje uit op de Rode- en Zwarteberg" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kleine-flandrien-sp%C3%A9"
 gpx: "westtoer/kd_kleine_flandrien_fietsroute_0.gpx"
 length: 17
+nodetype: "vlaams"
+nodes: "96"
 ---
 
 ## Let's Go !
@@ -22,7 +24,11 @@ Deze route vertrekt vanuit de Kinderbrouwerij richting Heuvelland voor een gezel
 
 ## Start 
 
-De Kinderbrouwerij, Reningelstplein 5A, 8970 Reningelst 
+De Kinderbrouwerij, Reningelstplein 5A, 8970 Reningelst
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes waarop Jaek en Nink de weg wijzen. Je kan de route ook volgen via het fietsnetwerk, volg hiervoor volgende knooppunten: 96 - 97 - 55 - 4 - 84 - 99 - 98 - 18 - 1 - 96
 
 ## En Route
 

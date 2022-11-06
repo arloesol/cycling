@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in het Lekkere Westen - Westkust en Hinterland"
 subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes," 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-westkust-en-hinterland"
 gpx: "westtoer/het_lekkere_westen_kust_en_hinterland_middelkerke_1.gpx"
 length: 51
+nodetype: "vlaams"
+nodes: "60"
 ---
 
 ## Let's Go !
@@ -26,7 +28,13 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Start in Middelkerke aan knooppunt 60 (kruising van de zeedijk met Alexandre Ponchonstraat).   Naast een versie van 51 km is er ook een kortere route voorzien van 31 km 
+Start in Middelkerke aan knooppunt 60 (kruising van de zeedijk met Alexandre Ponchonstraat).   Naast een versie van 51 km is er ook een kortere route voorzien van 31 km
+
+## Signage
+
+Route 52 km : 60-44-2-11-1-46-95-37-77-7-28-57-69-1-75-74-82-88-4-3-38-35-89-57-7-8-70-61-73-81-60
+
+Route 31 km : 60-44-2-11-1-46-95-55-89-57-7-8-70-61-73-81-60
 
 ## En Route
 

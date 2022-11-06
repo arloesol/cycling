@@ -1,7 +1,7 @@
 ---
 title: "100% West-Vlaams fietsroute Kortrijk-Zuid"
 subtitle: "De Panoramaweg in Kortrijk heeft zijn naam niet gestolen"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Panoramaweg in Kortrijk heeft zijn naam niet gestolen" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/100-west-vlaams-fietsroute-kortrijk-zuid"
 gpx: "westtoer/100-procent-west-vlaams-fietsroute-regio-kort.gpx"
 length: 34
+nodetype: "vlaams"
+nodes: "80,57,30,38,14,61,76,72,66"
 ---
 
 ## Let's Go !
@@ -30,7 +32,11 @@ Ontdek alle 100% West-Vlaams streekproducenten haltes op de route [hier](https:/
 
 ## Start 
 
-Start en parking: Sporthal Lange Munte, Bad Godesberglaan 22, Kortrijk 
+Start en parking: Sporthal Lange Munte, Bad Godesberglaan 22, Kortrijk
+
+## Signage
+
+Knooppunten:  80 – 57 – 30 – 38 – 14 – 61 – 76 – 72 – 66 - 84 - 67 - 74 – 69 – 50 – 80
 
 ## En Route
 

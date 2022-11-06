@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Proeven van Polderdorpjes"
 subtitle: "Onderweg geniet je van de vele polderdorpjes, klein maar fijn"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Onderweg geniet je van de vele polderdorpjes, klein maar fijn" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-proeven-van-polderdorpjes"
 gpx: "westtoer/route-2-proeven-van-polderdorpjes.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "5"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? Gebruik onze [Fietsrouteplann
 
 ## Start 
 
-Starten kan aan knooppunt 5 (kruispunt van de Polderstraat met de Keerweg) 
+Starten kan aan knooppunt 5 (kruispunt van de Polderstraat met de Keerweg)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 5 - 96 - 78 - 6 - 31 - 34 - 95 - 22 - 72 - 52 - 39 - 20 - 28 - 98 - 12 - 26 - 95 - 67 - 5
 
 ## En Route
 

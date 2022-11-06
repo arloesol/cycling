@@ -1,7 +1,7 @@
 ---
 title: "Trappen van stad naar strand met Jaek en Nink"
 subtitle: "Deze route vertrekt op de Grote Markt in Veurne"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route vertrekt op de Grote Markt in Veurne" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/trappen-van-stad-naar-strand-met-jaek-en-nink"
 gpx: "westtoer/kd_van_stad_naar_strand_fietsroute_veurne_1_0.gpx"
 length: 21
+nodetype: "vlaams"
+nodes: "9"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-De route start op de Grote Markt van Veurne, maar wie dit wenst kan ook van de zee vertrekken (Toerisme De Panne, Zeelaan 21 of Bezoekerscentrum Duinpanne, Olmendreef 2). 
+De route start op de Grote Markt van Veurne, maar wie dit wenst kan ook van de zee vertrekken (Toerisme De Panne, Zeelaan 21 of Bezoekerscentrum Duinpanne, Olmendreef 2).
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes waarop Jaek en Nink de weg wijzen. Je kan de route ook volgen via het fietsnetwerk, volg hiervoor volgende knooppunten: 9 - 84 - 1 - 50 - 76 - 59 - 65 - 62 - 86 - 68
 
 ## En Route
 

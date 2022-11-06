@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in het Lekkere Westen - De Westkust"
 subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes," 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-de-westkust"
 gpx: "westtoer/_t_smaakt_naar_meer.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "89"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 1 (nabij station Adinkerke) 
+Knooppunt 1 (nabij station Adinkerke)
+
+## Signage
+
+1-10-12-13-27-26-41-92-42-88-90-45-43-67-44-94-80-29-14-4-75-68-9-84-59-76-50-1
 
 ## En Route
 

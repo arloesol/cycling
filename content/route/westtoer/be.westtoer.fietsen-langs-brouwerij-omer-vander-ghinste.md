@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs brouwerij Omer Vander Ghinste"
 subtitle: "Deze fietstocht in de Leiestreek laat je trappen langs brouwerij Omer Vander Ghinste, één van de interessantste brouwerijen in de streek"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze fietstocht in de Leiestreek laat je trappen langs brouwerij Omer Vander Ghinste, één van de interessantste brouwerijen in de streek" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-brouwerij-omer-vander-ghinste"
 gpx: "westtoer/fietsroute_29_5_2020_vljtt.gpx"
 length: 35
+nodetype: "vlaams"
+nodes: "6"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 38 
+Knooppunt 38
+
+## Signage
+
+Netwerkbordjes van het Fietsnetwerk Leiestreek
 
 ## En Route
 

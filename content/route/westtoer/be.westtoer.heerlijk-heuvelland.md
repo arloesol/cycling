@@ -1,7 +1,7 @@
 ---
 title: "(H)eerlijk Heuvelland"
 subtitle: "Deze fietslus voert je door de mooie landschappen en vergezichten en brengt je naar de smakelijkste adressen van Heuvelland: geen grote ketens, maar ondernemers die dagelijks eigenhandig voor de lekkerste producten zorgen"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze fietslus voert je door de mooie landschappen en vergezichten en brengt je naar de smakelijkste adressen van Heuvelland: geen grote ketens, maar ondernemers die dagelijks eigenhandig voor de lekkerste producten zorgen" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/heerlijk-heuvelland"
 gpx: "westtoer/heerlijk_heuvelland.gpx"
 length: 44
+nodetype: "vlaams"
+nodes: "32"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Ontdek nog meer 'de grote goesting' fietsroutes via deze [link](https://www.west
 
 ## Start 
 
-Deze route start aan Bezoekerscentrum Het Heuvelland, Sint-Laurentiusplein 1, Kemmel. 
+Deze route start aan Bezoekerscentrum Het Heuvelland, Sint-Laurentiusplein 1, Kemmel.
+
+## Signage
+
+De route is uitgetekend op het fietsnetwerk Westhoek. Volg de knooppunten 2 – 7 – 9 -6 – 57 – 99 – 98 – 18 – 11 – 96 – 97 – 55 – 4 – 54 – 3 – 16 – 13 – 61 – 49 – 53 – 59 – 51 – 50 – 92 – 62 – 7 – 2
 
 ## En Route
 

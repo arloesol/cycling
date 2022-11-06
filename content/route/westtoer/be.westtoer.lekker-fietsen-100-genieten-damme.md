@@ -3,7 +3,7 @@ title: "Lekker fietsen: 100% genieten in Damme"
 subtitle: "Kom zelf ontdekken waarom Damme culinair befaamd is!
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Kom zelf ontdekken waarom Damme culinair befaamd is!
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-100-genieten-damme"
 gpx: "westtoer/route-5-100-genieten-in-damme.gpx"
 length: 40
+nodetype: "vlaams"
+nodes: "28"
 ---
 
 ## Let's Go !
@@ -32,7 +34,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 28 (Kerkstraat, Damme) 
+Starten kan bij knooppunt 28 (Kerkstraat, Damme)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 28 - 42 - 61 - 18 - 52 - 16 - 21 - 15 - 82 - 58 - 68 - 40 - 54 - 57 - 24 - 74 - 47 - 44 - 26 - 20 - 95 - 25 - 92 - 22 - 67 - 60 - 71 - 6 - 28
 
 ## En Route
 

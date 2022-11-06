@@ -1,7 +1,7 @@
 ---
 title: "Radio 2- fietsroute in Oostende"
 subtitle: "De stad aan zee en het mooie hinterland laten je genieten van op de fiets"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De stad aan zee en het mooie hinterland laten je genieten van op de fiets" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietsroute-oostende"
 gpx: "westtoer/fietsen_oostende_0.gpx"
 length: 26
+nodetype: "vlaams"
+nodes: "5"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start op de kruising van de Koninginnelaan met de Koning Boudewijnpromenade, aan knooppunt 74. 
+Je start op de kruising van de Koninginnelaan met de Koning Boudewijnpromenade, aan knooppunt 74.
+
+## Signage
+
+74 - 57 - 52 - 77 - 75 - 16 - 17 - 46 - 20 - 11 - 15 - 4 - 85 - 45 - 74
 
 ## En Route
 

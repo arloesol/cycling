@@ -1,7 +1,7 @@
 ---
 title: "Smuudse Smoefelfietsroute"
 subtitle: "Maak via rustige fietswegen een ommetje rond de Boterstad"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Maak via rustige fietswegen een ommetje rond de Boterstad" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/smuudse-smoefelfietsroute"
 gpx: "westtoer/smuudse_smoefelfietsroute_diksmuide.gpx"
 length: 50
+nodetype: "vlaams"
+nodes: "1"
 ---
 
 ## Let's Go !
@@ -36,7 +38,11 @@ Ontdek nog meer 'de grote goesting' fietsroutes via deze [link](https://www.west
 
 ## Start 
 
-Deze route start en eindigt op de Grote Markt van Diksmuide. 
+Deze route start en eindigt op de Grote Markt van Diksmuide.
+
+## Signage
+
+Je fietst op het fietsnetwerk van de Westhoek aan de hand van knooppunten. Volg deze knooppunten: 1 - 59 - 92 - 61 - 68 – 19 - 80 - 45 - 21 - 28 - 58 - 11 - 34 - 64 - 51 - 71 - 96 - 49 - 74 - 75 - 1 - 69 - 57 - 28 - 7 - 27 - 78 - 12 - 14 - 58 - 18 - 59 - 1
 
 ## En Route
 

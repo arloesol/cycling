@@ -1,7 +1,7 @@
 ---
 title: "West-Vlaamse Bergenfietsroute"
 subtitle: "De West-Vlaamse Bergenfietsroute neemt je mee op verkenning in het Heuvelland"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De West-Vlaamse Bergenfietsroute neemt je mee op verkenning in het Heuvelland" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/west-vlaamse-bergenfietsroute"
 gpx: "westtoer/west-vlaamse_bergen_fietsroute_0.gpx"
 length: 45
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Bezoekerscentrum Het Heuvelland, Sint-Laurentiusplein 1, 8956 Kemmel. 
+Bezoekerscentrum Het Heuvelland, Sint-Laurentiusplein 1, 8956 Kemmel.
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

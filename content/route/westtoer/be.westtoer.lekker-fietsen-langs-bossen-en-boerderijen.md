@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Langs bossen en boerderijen"
 subtitle: "Kom op verkenning in de Kasteelbossen en sluit af met een bezoekje aan Kijkboerderij Pierlapont"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Kom op verkenning in de Kasteelbossen en sluit af met een bezoekje aan Kijkboerderij Pierlapont" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-langs-bossen-en-boerderijen"
 gpx: "westtoer/kidsroute-3-langs-bossen-en-boerderijen.gpx"
 length: 20
+nodetype: "vlaams"
+nodes: "70"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 70 (parking Tillegembos in Brugge) 
+Starten kan bij knooppunt 70 (parking Tillegembos in Brugge)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 70 - 94 - 61 - 73 - 67 - 10 - 14 - 74 - 10 - 67 - 97 - 99 - 59 - 70
 
 ## En Route
 

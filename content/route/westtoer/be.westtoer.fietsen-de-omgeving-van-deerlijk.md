@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in de omgeving van Deerlijk"
 subtitle: "Welkom op het Fietsnetwerk Leiestreek! Verken de wijde omgeving van Deerlijk, Waregem en Harelbeke via de knooppunten van dit voor jou uitgestippelde lusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het Fietsnetwerk Leiestreek! Verken de wijde omgeving van Deerlijk, Waregem en Harelbeke via de knooppunten van dit voor jou uitgestippelde lusje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-omgeving-van-deerlijk"
 gpx: "westtoer/fietsen_deerlijk.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "52"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan knooppunt 52 aan het kruispunt Dammeke en René de Clercqstraat. 
+Je start aan knooppunt 52 aan het kruispunt Dammeke en René de Clercqstraat.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 52 - 56 - 45 - 44 - 40 - 60 - 9 - 55 - 82 - 72 - 92 - 47 - 21 - 24 - 4 - 34 - 35 - 6 - 36 - 27 - 94 - 14 - 65 - 52
 
 ## En Route
 

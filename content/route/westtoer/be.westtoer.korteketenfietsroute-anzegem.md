@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Anzegem"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Anzegem met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Anzegem met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-anzegem"
 gpx: "westtoer/fietsen-langs-de-korte-keten-anzegem.gpx"
 length: 39
+nodetype: "vlaams"
+nodes: "6"
 ---
 
 ## Let's Go !
@@ -32,7 +34,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan Hoeveproducten Vindevoghel in de Tempeliersstraat 20 in Anzegem, nabij knooppunt 6. Van hieruit fiets je naar knooppunt 13. 
+Je start aan Hoeveproducten Vindevoghel in de Tempeliersstraat 20 in Anzegem, nabij knooppunt 6. Van hieruit fiets je naar knooppunt 13.
+
+## Signage
+
+Je fietst op het fietsnetwerk van de Leiestreek aan de hand van knooppunten. Volg deze knooppunten: 6 - 13 - 18 - 15 - 12 - 97 - 17 - 57 - 11 - 10 - 81 - 89 - 28 - 8 - 20 - 25 - 96 - 14 - 94 - 27 - 36 - 6
 
 ## En Route
 

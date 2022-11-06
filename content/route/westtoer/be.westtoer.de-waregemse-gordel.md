@@ -1,7 +1,7 @@
 ---
 title: "De Waregemse Gordel"
 subtitle: "Tijdens deze fietstocht verken je de regio rond Dentergem, Waregem en Wielsbeke"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Tijdens deze fietstocht verken je de regio rond Dentergem, Waregem en Wielsbeke" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/de-waregemse-gordel"
 gpx: "westtoer/de_waregemse_gordel.gpx"
 length: 46
+nodetype: "vlaams"
+nodes: "18"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan het provinciedomein Baliekouter, Ommegangstraat 11, Wakken (Dentergem) 
+Je start aan het provinciedomein Baliekouter, Ommegangstraat 11, Wakken (Dentergem)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 18 - 8 - 58 - 76 - 16 - 71 - 59 - 54 - 84 - 62 - 82 - 72 - 94 - 27 - 36 - 6 - 35 - 34 - 4 - 21 - 24 - 89 - 88 - 98 - 97 - 87 - 22 -18
 
 ## En Route
 

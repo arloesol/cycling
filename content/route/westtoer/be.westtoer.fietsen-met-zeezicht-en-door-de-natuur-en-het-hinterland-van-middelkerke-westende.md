@@ -1,7 +1,7 @@
 ---
 title: "Fietsen met zeezicht en door de natuur en het hinterland van Middelkerke-Westende"
 subtitle: "Middelkerke-Westende is een perfecte plek voor een strandvakantie met het hele gezin"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Middelkerke-Westende is een perfecte plek voor een strandvakantie met het hele gezin" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende"
 gpx: "westtoer/fietsen_middelkerke.gpx"
 length: 25
+nodetype: "vlaams"
+nodes: "46"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan je ter hoogte van knooppunt 81, aan het kruispunt van de Doornstraat en de Henri Jasparlaan. 
+Starten kan je ter hoogte van knooppunt 81, aan het kruispunt van de Doornstraat en de Henri Jasparlaan.
+
+## Signage
+
+81 – 60 – 80 – 52 – 77 – 75 – 16 – 59 – 19 – 2 – 12 – 81
 
 ## En Route
 

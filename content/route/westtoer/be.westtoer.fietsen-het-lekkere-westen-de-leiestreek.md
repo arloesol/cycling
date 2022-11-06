@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in het Lekkere Westen - De Leiestreek"
 subtitle: "Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-de-leiestreek"
 gpx: "westtoer/fietsen_in_het_lekkere_westen_de_leiestreek.gpx"
 length: 44
+nodetype: "vlaams"
+nodes: "30"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Start is Bellegemplaats in Bellegem (Kortrijk).  Je kan parkeren aan de kerk van Bellegem.  Bellegemplaats ligt tussen knooppunt 38 en 14.   Rij richting knooppunt 14 
+Start is Bellegemplaats in Bellegem (Kortrijk).  Je kan parkeren aan de kerk van Bellegem.  Bellegemplaats ligt tussen knooppunt 38 en 14.   Rij richting knooppunt 14
+
+## Signage
+
+14-61-76-72-66-84-67-74-69-50-80-99-53-83-93-10-18-82-92-54-32-62-30-38-14
 
 ## En Route
 

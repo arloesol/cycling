@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in de buurt van Lichtervelde"
 subtitle: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Lichtervelde via de knooppunten van dit voor jou uitgestippelde lusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Lichtervelde via de knooppunten van dit voor jou uitgestippelde lusje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-buurt-van-lichtervelde"
 gpx: "westtoer/fietsen_lichtervelde.gpx"
 length: 36
+nodetype: "vlaams"
+nodes: "15"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan knooppunt 15 op het kerkplein van Lichtervelde, op het kruispunt van de Pastorijstraat en de Hoogstraat. 
+Je start aan knooppunt 15 op het kerkplein van Lichtervelde, op het kruispunt van de Pastorijstraat en de Hoogstraat.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 15 - 14 - 5 - 80 - 4 - 71 - 85 - 75 - 13 - 74 - 70 - 81 - 8 - 12 - 89 - 15
 
 ## En Route
 

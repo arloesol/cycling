@@ -1,7 +1,7 @@
 ---
 title: "Op roverstocht rond het Vrijbos met Jaek en Nink"
 subtitle: "Deze kindvriendelijke fietsroute neemt je mee door het Vrijbos, de schuilplaats van Bakelandt"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze kindvriendelijke fietsroute neemt je mee door het Vrijbos, de schuilplaats van Bakelandt" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/op-roverstocht-rond-het-vrijbos-met-jaek-en-nink"
 gpx: "westtoer/gpx_-_kd-fietsroute-rovershol.gpx"
 length: 30
+nodetype: "vlaams"
+nodes: "13"
 ---
 
 ## Let's Go !
@@ -24,7 +26,11 @@ Deze kindvriendelijke fietsroute neemt je mee door het Vrijbos, de schuilplaats 
 
 ## Start 
 
-Ter hoogte van de Markt van Houthulst 
+Ter hoogte van de Markt van Houthulst
+
+## Signage
+
+Bewegwijzerd met zeshoekige bordjes
 
 ## En Route
 

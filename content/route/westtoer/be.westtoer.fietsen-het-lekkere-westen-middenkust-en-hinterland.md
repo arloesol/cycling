@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in het Lekkere Westen - Middenkust en Hinterland"
 subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes," 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-middenkust-en-hinterland"
 gpx: "westtoer/fietsen_in_het_lekkere_westen_westkust.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "89"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten aan knooppunt 85 (Maria-Hendrikapark, gratis parkeren) 
+Starten aan knooppunt 85 (Maria-Hendrikapark, gratis parkeren)
+
+## Signage
+
+85-4-15-11-20-83-58-94-60-62-66-29-27-25-33-23-28-98-12-96-5-92-8-45-85
 
 ## En Route
 

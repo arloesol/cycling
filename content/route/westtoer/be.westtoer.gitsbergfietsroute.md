@@ -1,7 +1,7 @@
 ---
 title: "Gitsbergfietsroute"
 subtitle: "Deze route beschrijft een rondrit door een landelijk gebied"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route beschrijft een rondrit door een landelijk gebied" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/gitsbergfietsroute"
 gpx: "westtoer/gitsberg_fietsroute_0.gpx"
 length: 45
+nodetype: "vlaams"
+nodes: "5"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Kerk, Gitsbergstraat, 8830 Gits 
+Kerk, Gitsbergstraat, 8830 Gits
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

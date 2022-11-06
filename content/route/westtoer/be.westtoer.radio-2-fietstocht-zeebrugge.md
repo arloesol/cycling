@@ -1,7 +1,7 @@
 ---
 title: "Radio 2-fietstocht in Zeebrugge"
 subtitle: "Trap langs de fietslus van Radio 2 op het Fietsnetwerk aan de Kust"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Trap langs de fietslus van Radio 2 op het Fietsnetwerk aan de Kust" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietstocht-zeebrugge"
 gpx: "westtoer/fietsen_zeebrugge_0.gpx"
 length: 15
+nodetype: "vlaams"
+nodes: "18"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten?[ Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten doe je aan Knooppunt 33, ter hoogte van het Zeebos. 
+Starten doe je aan Knooppunt 33, ter hoogte van het Zeebos.
+
+## Signage
+
+33 - 76 - 26 - 84 - 88 - 40 - 96 - 30 - 33
 
 ## En Route
 

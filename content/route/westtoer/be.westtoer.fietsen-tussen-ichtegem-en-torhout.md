@@ -1,7 +1,7 @@
 ---
 title: "Fietsen tussen Ichtegem en Torhout"
 subtitle: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ichtegem via de knooppunten van dit voor jou uitgestippelde lusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ichtegem via de knooppunten van dit voor jou uitgestippelde lusje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-tussen-ichtegem-en-torhout"
 gpx: "westtoer/fietsen_ichtegem.gpx"
 length: 32
+nodetype: "vlaams"
+nodes: "13"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start op de kruising van de Engelstraat, de Melkerijstraat en de Keibergstraat, aan knooppunt 13. 
+Je start op de kruising van de Engelstraat, de Melkerijstraat en de Keibergstraat, aan knooppunt 13.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 13 - 74 - 70 - 63 - 88 - 72 - 8 - 81 - 4 - 71 - 85 - 75 - 13
 
 ## En Route
 

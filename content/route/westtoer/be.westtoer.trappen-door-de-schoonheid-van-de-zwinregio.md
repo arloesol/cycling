@@ -1,7 +1,7 @@
 ---
 title: "Trappen door de schoonheid van de Zwinregio"
 subtitle: "Neem je fiets en verken de mooie Zwinregio"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Neem je fiets en verken de mooie Zwinregio" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/trappen-door-de-schoonheid-van-de-zwinregio"
 gpx: "westtoer/fietsen_knokke.gpx"
 length: 45
+nodetype: "vlaams"
+nodes: "13"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Het WK Tijdrijden gaat door van 18 tem 22 september in zowel Brugge, Damme als K
 
 ## Start 
 
-Knooppunt 13 (thv de kruising Anemonenlaan en Directeur Generaal Willemspark 
+Knooppunt 13 (thv de kruising Anemonenlaan en Directeur Generaal Willemspark
+
+## Signage
+
+Knooppunten: 13-39-70-38-9-46-85-95-25-55-34-92-22-17-47-74-24-57-54-94-98-93-53-50-59-49-45-4-64-86-18-4-45-68-13
 
 ## En Route
 

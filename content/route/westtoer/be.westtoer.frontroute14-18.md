@@ -1,7 +1,7 @@
 ---
 title: "Frontroute 14-18"
 subtitle: "De Frontroute 14-18 neemt je als fietser 100 km lang mee doorheen het frontzonelandschap van de ‘Groote Oorlog’"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Frontroute 14-18 neemt je als fietser 100 km lang mee doorheen het frontzonelandschap van de ‘Groote Oorlog’" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/frontroute14-18"
 gpx: "westtoer/frontroute_14-18.gpx"
 length: 100
+nodetype: "vlaams"
+nodes: "75,1,69,57,28,12,62,29,65,61,31,92,32,97,35,36,43,23,86,63,39,84,94,16,99,47,13,10,68,61,9,18,59,1,75"
 ---
 
 ## Let's Go !
@@ -30,7 +32,11 @@ Alle Vlaamse icoonroutes ontdek je [hier](http://www.vlaanderenmetdefiets.be/).
 
 ## Start 
 
-Meerdere startpunten. De Frontroute 14-18 start in Nieuwpoort of in Mesen. 
+Meerdere startpunten. De Frontroute 14-18 start in Nieuwpoort of in Mesen.
+
+## Signage
+
+Het traject is bewegwijzerd met rechthoekige bordjes in twee richtingen.
 
 ## En Route
 

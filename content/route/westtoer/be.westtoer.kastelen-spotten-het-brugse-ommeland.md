@@ -1,7 +1,7 @@
 ---
 title: "Kastelen spotten in het Brugse Ommeland"
 subtitle: "Een kasteel is uiteindelijk maar een verzameling stenen"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Een kasteel is uiteindelijk maar een verzameling stenen" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kastelen-spotten-het-brugse-ommeland"
 gpx: "westtoer/gpx_kastelen_fietsroute_tillegem_1.gpx"
 length: 52
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -24,7 +26,11 @@ Een kasteel is uiteindelijk maar een verzameling stenen. Het zijn de bewoners, o
 
 ## Start 
 
-Start aan parking Tillegembos, Wittemolenstraat, Sint-Michiels. Fietsen in wijzerzin. 
+Start aan parking Tillegembos, Wittemolenstraat, Sint-Michiels. Fietsen in wijzerzin.
+
+## Signage
+
+Bordjes 'Kastelenroute'
 
 ## En Route
 

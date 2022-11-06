@@ -1,7 +1,7 @@
 ---
 title: "Grenzeloze Goesting"
 subtitle: "Deze fietslus mag je gerust grenzeloos noemen want je komt zowel in de Westhoek als in de Leiestreek"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze fietslus mag je gerust grenzeloos noemen want je komt zowel in de Westhoek als in de Leiestreek" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/grenzeloze-goesting"
 gpx: "westtoer/grenzeloze_goesting.gpx"
 length: 58
+nodetype: "vlaams"
+nodes: "74,75,6,69,57,28,7,27,78,12,14,58,18,59,92,81,45,21,28,58,50,96,49,74"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Ontdek nog meer 'de grote goesting' fietsroutes via deze [link](https://www.west
 
 ## Start 
 
-Deze route start bij Toerisme Zonnebeke, Berten Pilstraat 5A, Zonnebeke of bij Toerisme Wervik, Koestraat 63, Wervik. 
+Deze route start bij Toerisme Zonnebeke, Berten Pilstraat 5A, Zonnebeke of bij Toerisme Wervik, Koestraat 63, Wervik.
+
+## Signage
+
+De route is uitgetekend op het fietsnetwerk Westhoek. Volg de knooppunten 84 – 36 – 29 – 35 – 5 – 75 – 46 – 88 – 48 – 66 – 76 – 1 - 58 – 54 – 12 – 9 – 6 – 31 – 45 – 14 – 44 – 42 – 72 – 49 – 41 – 81 - 84
 
 ## En Route
 

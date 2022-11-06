@@ -1,7 +1,7 @@
 ---
 title: "Radio 2- fietsroute in Oostduinkerke"
 subtitle: "Natuur, cultuur, visserij, en zelf een vleugje sport (naast het fietsen!); dat biedt deze fietstocht"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Natuur, cultuur, visserij, en zelf een vleugje sport (naast het fietsen!); dat biedt deze fietstocht" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietsroute-oostduinkerke"
 gpx: "westtoer/fietsen_oostduinkerke.gpx"
 length: 28
+nodetype: "vlaams"
+nodes: "74,75,6,69,57,28,7,27,78,12,14,58,18,59,92,81,45,21,28,58,50,96,49,74"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten doe je aan knooppunt 96 ter hoogte van Groenendijk-Bad. 
+Starten doe je aan knooppunt 96 ter hoogte van Groenendijk-Bad.
+
+## Signage
+
+96-24-66-98-6-86-62-65-59-76-74-88-96
 
 ## En Route
 

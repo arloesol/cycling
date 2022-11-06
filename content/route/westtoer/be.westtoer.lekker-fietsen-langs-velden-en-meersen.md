@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Langs Velden en Meersen"
 subtitle: "Fiets langs historische landschappen en fraaie dorpjes"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Fiets langs historische landschappen en fraaie dorpjes" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-langs-velden-en-meersen"
 gpx: "westtoer/route-7-langs-velden-en-meersen.gpx"
 length: 36
+nodetype: "vlaams"
+nodes: "84"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 84 in Ver-Assebroek (kruispunt Kerkdreef en Zwarte Paard) 
+Starten kan bij knooppunt 84 in Ver-Assebroek (kruispunt Kerkdreef en Zwarte Paard)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 84 - 24 - 69 - 5 - 98 - 54 - 75 - 38 - 78 - 77 - 39 - 73 - 80 - 30 - 81 - 74 - 89 - 45 - 72 - 84
 
 ## En Route
 

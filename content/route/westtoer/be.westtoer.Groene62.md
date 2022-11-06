@@ -1,7 +1,7 @@
 ---
 title: "Groene 62 L62 - Groene as"
 subtitle: "Spoorlijn 62 was vroeger een 22 km lange spoorweg tussen Oostende (Zandvoordestraat) en Torhout (Aartrijksestraat)"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Spoorlijn 62 was vroeger een 22 km lange spoorweg tussen Oostende (Zandvoordestraat) en Torhout (Aartrijksestraat)" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/Groene62"
 gpx: "westtoer/fietsen_groene62.gpx"
 length: 22
+nodetype: "vlaams"
+nodes: "81"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan in Torhout (in de Aartrijksestraat) of in Oostende (in de Zandvoordestraat) 
+Starten kan in Torhout (in de Aartrijksestraat) of in Oostende (in de Zandvoordestraat)
+
+## Signage
+
+De groene as is bewegwijzerd met paaltjes. Je kan ook de knooppunten van het fietsnetwerk volgen: 81 - 70 - 74 - 30 - 34 - 42 - 48 - 89 - 83 - 20 - 11 (richting Torhout - Oostende).
 
 ## En Route
 

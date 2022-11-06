@@ -1,7 +1,7 @@
 ---
 title: "Mandeldalfietsroute"
 subtitle: "De Mandeldalfietsroute biedt veel variatie"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Mandeldalfietsroute biedt veel variatie" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/mandeldalfietsroute"
 gpx: "westtoer/mandeldal_fietsroute_nieuw_oostrozebeke_1_0.gpx"
 length: 54
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -30,7 +32,11 @@ Is deze route te lang, dan kan je kiezen voor een ingekorte lus. Start vanuit De
 
 ## Start 
 
-Provinciedomein De Baliekouter, Ommegangsstraat, 8720 Wakken - Toerisme Oostrozebeke, Ernest Brengierstraat 6, 8780 Oostrozebeke - Mobipunt Station Ingelmunster, Stationsplein 18, 8770 Ingelmunster - Sport- en recreatiedomein Ter Borcht, Ter Borchtlaan, 8760 Meulebeke 
+Provinciedomein De Baliekouter, Ommegangsstraat, 8720 Wakken - Toerisme Oostrozebeke, Ernest Brengierstraat 6, 8780 Oostrozebeke - Mobipunt Station Ingelmunster, Stationsplein 18, 8770 Ingelmunster - Sport- en recreatiedomein Ter Borcht, Ter Borchtlaan, 8760 Meulebeke
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 

@@ -1,7 +1,7 @@
 ---
 title: "Kinderen koning in het Tieltse - lus Tielt - Pittem"
 subtitle: "Kinderen zijn koning in het Tieltse"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Kinderen zijn koning in het Tieltse" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-tielt-pittem"
 gpx: "westtoer/fietsen_tielt_4.gpx"
 length: 25
+nodetype: "vlaams"
+nodes: "6"
 ---
 
 ## Let's Go !
@@ -24,7 +26,11 @@ Tip: is de route te lang? Download de pdf en kort je route in!
 
 ## Start 
 
-Knooppunt 46 (kruispunt Ieperstraat/Kerkstraat in Tielt) 
+Knooppunt 46 (kruispunt Ieperstraat/Kerkstraat in Tielt)
+
+## Signage
+
+46 - 48 - 32 - 52 - 11 - 61 - 38 - 58 - 36 - 56 - 46
 
 ## En Route
 

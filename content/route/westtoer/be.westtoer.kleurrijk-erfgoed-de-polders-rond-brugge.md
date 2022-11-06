@@ -1,7 +1,7 @@
 ---
 title: "Kleurrijk erfgoed in de polders rond Brugge"
 subtitle: "Deze fietsroute tussen Damme en Lissewege rijgt talloze erfgoedplekjes als een ketting aan elkaar"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze fietsroute tussen Damme en Lissewege rijgt talloze erfgoedplekjes als een ketting aan elkaar" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kleurrijk-erfgoed-de-polders-rond-brugge"
 gpx: "westtoer/gpx_erfgoedroute_damme_-_lissewege.gpx"
 length: 46
+nodetype: "vlaams"
+nodes: "48"
 ---
 
 ## Let's Go !
@@ -34,7 +36,11 @@ Knooppunt 28
 
 
 
-Gratis parking Damme Oost, Oude Sluissedijk 6 
+Gratis parking Damme Oost, Oude Sluissedijk 6
+
+## Signage
+
+Volg de knooppunten 28– 6 – 34 – 92 – 22– 17– 47– 44 – 26– 20– 95– 25– 55– 35– 90– 66– 99– 45– 59– 5– 45– 99– 69– 31– 27– 23– 3– 98– 54– 75–52– 18– 61– 42 – 28
 
 ## En Route
 

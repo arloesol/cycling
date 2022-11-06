@@ -1,7 +1,7 @@
 ---
 title: "Paters en hertoginnen vanuit Kuurne"
 subtitle: "Beleef 38 km fietsplezier tussen brouwerij De Brabandere in Bavikhove en brouwerij Verhaeghe in Vichte"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Beleef 38 km fietsplezier tussen brouwerij De Brabandere in Bavikhove en brouwerij Verhaeghe in Vichte" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/paters-en-hertoginnen-vanuit-kuurne"
 gpx: "westtoer/paters_hertoginnen.gpx"
 length: 37
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je kan parkeren op de parking in de Lt.-Gen. Gérardstraat in Kuurne. Volg vanaf daar de bordjes tot aan knooppunt 67. 
+Je kan parkeren op de parking in de Lt.-Gen. Gérardstraat in Kuurne. Volg vanaf daar de bordjes tot aan knooppunt 67.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 67 - 86 - 34 - 39 - 23 - 69 - 59 - 54 - 60 - 9 - 55 - 82 - 72 - 94 - 14 - 65 - 52 - 56 - 45 - 44 - 40 - 97 - 26 - 35 - 67
 
 ## En Route
 

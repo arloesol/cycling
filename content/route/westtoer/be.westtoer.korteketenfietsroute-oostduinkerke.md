@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Oostduinkerke"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Oostduinkerke met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Oostduinkerke met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-oostduinkerke"
 gpx: "westtoer/fietsroute-langs-de-korte-keten-oostduinker.gpx"
 length: 23
+nodetype: "vlaams"
+nodes: "98"
 ---
 
 ## Let's Go !
@@ -32,7 +34,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan de Rozenwingerd, Hof Ter Hillestraat 1 in Oostduinkerke, aan knooppunt 98.Van hieruit fiets je naar knooppunt 6. 
+Je start aan de Rozenwingerd, Hof Ter Hillestraat 1 in Oostduinkerke, aan knooppunt 98.Van hieruit fiets je naar knooppunt 6.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 98 - 6 - 86 - 68 - 75 - 69 - 19 - 20 - 90 - 89 - 57 - 7 - 98
 
 ## En Route
 

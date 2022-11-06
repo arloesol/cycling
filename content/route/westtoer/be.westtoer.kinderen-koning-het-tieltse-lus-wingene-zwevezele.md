@@ -1,7 +1,7 @@
 ---
 title: "Kinderen koning in het Tieltse - lus Wingene - Zwevezele"
 subtitle: "Kinderen zijn koning in het Tieltse"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Kinderen zijn koning in het Tieltse" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-wingene-zwevezele"
 gpx: "westtoer/fietsen_wingene.gpx"
 length: 23
+nodetype: "vlaams"
+nodes: "1"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 25 (kruispunt Markt met Tieltstraat in Wingene) 
+Knooppunt 25 (kruispunt Markt met Tieltstraat in Wingene)
+
+## Signage
+
+25 - 50 - 22 - 6 - 21 - 23 - 25
 
 ## En Route
 

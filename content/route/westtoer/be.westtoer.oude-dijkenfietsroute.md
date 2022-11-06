@@ -1,7 +1,7 @@
 ---
 title: "Oude Dijkenfietsroute"
 subtitle: "De polders en het platteland ten oosten van Oostende kan je al fietsend verkennen langs de Oude Dijkenfietsroute"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De polders en het platteland ten oosten van Oostende kan je al fietsend verkennen langs de Oude Dijkenfietsroute" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/oude-dijkenfietsroute"
 gpx: "westtoer/oude_dijken_fietsroute_0.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "75,1,69,57,28,12,62,29,65,61,31,92,32,97,35,36,43,23,86,63,39,84,94,16,99,47,13,10,68,61,9,18,59,1,75"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Tramstation, Tramlijst-Oost 7, 8420 De Haan 
+Tramstation, Tramlijst-Oost 7, 8420 De Haan
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 

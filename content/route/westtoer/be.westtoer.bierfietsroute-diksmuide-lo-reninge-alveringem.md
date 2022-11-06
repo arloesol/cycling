@@ -1,7 +1,7 @@
 ---
 title: "Bierfietsroute Diksmuide - Lo-Reninge - Alveringem"
 subtitle: "Diksmuide heeft 2 brouwerijen: brouwerij Verstraete en De Dolle Brouwers"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Diksmuide heeft 2 brouwerijen: brouwerij Verstraete en De Dolle Brouwers" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/bierfietsroute-diksmuide-lo-reninge-alveringem"
 gpx: "westtoer/fietsen_diksmuide.gpx"
 length: 44
+nodetype: "vlaams"
+nodes: "32"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Grote Markt, 8600 Diksmuide. 
+Grote Markt, 8600 Diksmuide.
+
+## Signage
+
+1-69-57-14-58-18-59-92-81-45-21-28-58-11-13-22-30-65-44-94-31-46-23-78-47-54-51-71-96-49-74-75-1
 
 ## En Route
 

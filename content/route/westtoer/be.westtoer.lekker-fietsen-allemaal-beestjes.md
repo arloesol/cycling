@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Allemaal beestjes"
 subtitle: "Van oervlaamse koeien tot exotische papegaaien: genoeg ideeën voor een beestige dag"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Van oervlaamse koeien tot exotische papegaaien: genoeg ideeën voor een beestige dag" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-allemaal-beestjes"
 gpx: "westtoer/kidsroute-2-allemaal-beestjes.gpx"
 length: 14
+nodetype: "vlaams"
+nodes: "84"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 84 in Ver-Assebroek (Brugge). Kruispunt Kerkdreef en Zwarte Paard. 
+Starten kan bij knooppunt 84 in Ver-Assebroek (Brugge). Kruispunt Kerkdreef en Zwarte Paard.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 84 - 24 - 54 - 75 - 30 - 81 - 40 - 45 - 72 - 84
 
 ## En Route
 

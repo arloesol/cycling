@@ -1,7 +1,7 @@
 ---
 title: "Groene Gordel Brugge"
 subtitle: "De Groene Gordel Brugge fietsroute laat je kennismaken met de gevarieerde omgeving rondom de Werelderfgoedstad Brugge"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Groene Gordel Brugge fietsroute laat je kennismaken met de gevarieerde omgeving rondom de Werelderfgoedstad Brugge" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/groene-gordel-brugge"
 gpx: "westtoer/groene_gordel_brugge_fietsroute.gpx"
 length: 53
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -24,7 +26,11 @@ Ga van start aan één van de startplaatsen in Steenbrugge (Baron Ruzettelaan), 
 
 ## Start 
 
-Parking Beisbroek, Wittemolenstraat, Doornstraat, 8200 Sint-Andries - Parking Damme Oost, Oude Sluissedijk, 8340 Damme - Parking Ryckevelde, Holleweg (Kasteeldreef), 8310 Assebroek - Parking Park & Ride Steenbrugge, Baron Ruzettelaan, 8310 Assebroek - Parking Oostcampus, Siemenslaan 1, 8020 Oostkamp 
+Parking Beisbroek, Wittemolenstraat, Doornstraat, 8200 Sint-Andries - Parking Damme Oost, Oude Sluissedijk, 8340 Damme - Parking Ryckevelde, Holleweg (Kasteeldreef), 8310 Assebroek - Parking Park & Ride Steenbrugge, Baron Ruzettelaan, 8310 Assebroek - Parking Oostcampus, Siemenslaan 1, 8020 Oostkamp
+
+## Signage
+
+Het traject is bewegwijzerd met rechthoekige bordjes in twee richtingen.
 
 ## En Route
 

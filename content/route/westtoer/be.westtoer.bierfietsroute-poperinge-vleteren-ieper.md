@@ -1,7 +1,7 @@
 ---
 title: "Bierfietsroute Poperinge - (Vleteren) - Ieper"
 subtitle: "Deze lus bestaat uit een lange en een korte route"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze lus bestaat uit een lange en een korte route" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/bierfietsroute-poperinge-vleteren-ieper"
 gpx: "westtoer/fietsen_poperinge_1.gpx"
 length: 46
+nodetype: "vlaams"
+nodes: "46"
 ---
 
 ## Let's Go !
@@ -30,7 +32,13 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Hopmuseum, Gasthuisstraat 71, 8970 Poperinge 
+Hopmuseum, Gasthuisstraat 71, 8970 Poperinge
+
+## Signage
+
+Lange route: 46-42-67-68-98-31-80-74-52-8-75-25-24-35-39-89-93-38-69-66-17-12-34-94-15-56-38-28-40-46 
+
+Korte route: 40-90-50-82-81-25-24-35-39-89-93-38-69-66-17-12-34-94-15-56-38-28-40
 
 ## En Route
 

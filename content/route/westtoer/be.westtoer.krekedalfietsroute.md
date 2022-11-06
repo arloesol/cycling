@@ -1,7 +1,7 @@
 ---
 title: "Krekedalfietsroute"
 subtitle: "Zoals de naam van de route laat vermoeden, verken je de vallei van de Krekebeek"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Zoals de naam van de route laat vermoeden, verken je de vallei van de Krekebeek" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/krekedalfietsroute"
 gpx: "westtoer/krekedal_fietsroute_0.gpx"
 length: 47
+nodetype: "vlaams"
+nodes: "5"
 ---
 
 ## Let's Go !
@@ -26,6 +28,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Grote Markt, 8600 Diksmuide 
+Grote Markt, 8600 Diksmuide
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

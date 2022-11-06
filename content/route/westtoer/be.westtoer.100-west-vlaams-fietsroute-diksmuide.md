@@ -1,7 +1,7 @@
 ---
 title: "100% West-Vlaams fietsroute Diksmuide"
 subtitle: "Welkom in de blote polders rond Diksmuide"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom in de blote polders rond Diksmuide" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/100-west-vlaams-fietsroute-diksmuide"
 gpx: "westtoer/100-procent-west-vlaams-fietsroute-diksmuide.gpx"
 length: 39
+nodetype: "vlaams"
+nodes: "74,75,6,69,57,28,7,27,78,12,14,58,18,59,92,81,45,21,28,58,50,96,49,74"
 ---
 
 ## Let's Go !
@@ -32,7 +34,11 @@ Ontdek alle 100% West-Vlaams streekproducenten haltes op de route hier.
 
 ## Start 
 
-Start en parking: Provinciedomein IJzerboomgaard, IJzerdijk 50, Diksmuide 
+Start en parking: Provinciedomein IJzerboomgaard, IJzerdijk 50, Diksmuide
+
+## Signage
+
+Knooppunten: 74 – 75 – 6 – 69 – 57 – 28 – 7 – 27 – 78 – 12 – 14 – 58 – 18 – 59 – 92 – 81 – 45 – 21 – 28 – 58 – 50 – 96 – 49 – 74
 
 ## En Route
 

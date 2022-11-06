@@ -1,7 +1,7 @@
 ---
 title: "Verrassende plekjes in de omgeving van Waregem"
 subtitle: "Dit fietslusje verkent de gemeenten Anzegem, Deerlijk, Harelbeke en Waregem"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Dit fietslusje verkent de gemeenten Anzegem, Deerlijk, Harelbeke en Waregem" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/verrassende-plekjes-de-omgeving-van-waregem"
 gpx: "westtoer/plekjes_in_waregem.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Start: Achterkant station Waregem, Boulezlaan, 8790 Waregem. Fiets 300m naar links - met je rug naar het station - tot knooppunt 67. 
+Start: Achterkant station Waregem, Boulezlaan, 8790 Waregem. Fiets 300m naar links - met je rug naar het station - tot knooppunt 67.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 67 - 47 - 21 - 4 - 34 - 35 - 6 - 36 - 27 - 94 - 14 - 65 - 52 - 56 - 44 - 40 - 60 - 54 - 84 - 62 - 67
 
 ## En Route
 

@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Alveringem"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Alveringem met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de gemeente Alveringem met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-alveringem"
 gpx: "westtoer/fietsen-langs-de-korte-keten-alveringem.gpx"
 length: 34
+nodetype: "vlaams"
+nodes: "42"
 ---
 
 ## Let's Go !
@@ -32,7 +34,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan De Korenhalm, Bampoelstraat 4 in Alveringem, nabij knooppunt 42. Van hieruit fiets je naar knooppunt 53. 
+Je start aan De Korenhalm, Bampoelstraat 4 in Alveringem, nabij knooppunt 42. Van hieruit fiets je naar knooppunt 53.
+
+## Signage
+
+Je fietst op het fietsnetwerk van de Westhoek aan de hand van knooppunten. Volg deze knooppunten: 42 - 53 - 75 - 35 - 77 - 62 - 61 - 60 - 59 - 55 - 76 - 99 -65 - 44 - 67 - 43 - 63 - 97 - 27 - 26 - 41 - 92 - 42
 
 ## En Route
 

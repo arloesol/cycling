@@ -3,7 +3,7 @@ title: "Lekker fietsen: Tussen Jabbeke en Zedelgem"
 subtitle: "Geniet van de vele natuurplekjes onderweg!
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Geniet van de vele natuurplekjes onderweg!
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-tussen-jabbeke-en-zedelgem"
 gpx: "westtoer/route-6-tussen-jabbeke-en-zedelgem.gpx"
 length: 47
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -32,7 +34,13 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 76 in Snellegem. Kruispunt van de Bosweg met de Oostmoerstraat. 
+Starten kan bij knooppunt 76 in Snellegem. Kruispunt van de Bosweg met de Oostmoerstraat.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 76 - 90 - 61 - 94 - 59 - 70 - 94 - 61 - 90 - 68 - 48 - 30 - 40 - 50 - 81 - 71 - 54 - 6 - 16 - 55 - 69 - 84 - 53 - 77 - 96 - 76
+
+Deze route kan ook ingekort worden of opgesplitst in 2 kortere lussen
 
 ## En Route
 

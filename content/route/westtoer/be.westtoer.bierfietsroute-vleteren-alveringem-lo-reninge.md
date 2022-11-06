@@ -1,7 +1,7 @@
 ---
 title: "Bierfietsroute Vleteren - Alveringem - Lo-Reninge"
 subtitle: "Vanuit Westvleteren ontdek je het mooie Westhoeklandschap met enkele van zijn typische volkscafeetjes en restaurantjes die specialiteiten uit de streek serveren"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Vanuit Westvleteren ontdek je het mooie Westhoeklandschap met enkele van zijn typische volkscafeetjes en restaurantjes die specialiteiten uit de streek serveren" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/bierfietsroute-vleteren-alveringem-lo-reninge"
 gpx: "westtoer/fietsen_vleteren.gpx"
 length: 34
+nodetype: "vlaams"
+nodes: "46"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-In de Vrede, Donkerstraat 13, 9640 Westvleteren 
+In de Vrede, Donkerstraat 13, 9640 Westvleteren
+
+## Signage
+
+98-68-67-66-2-84-64-62-61-60-59-89-95-91-4-69-70-92-98
 
 ## En Route
 

@@ -1,7 +1,7 @@
 ---
 title: "Fietsen vanuit Lendelede"
 subtitle: "Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Lendelede langs Kuurne, Kortrijk en Moorsele"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Lendelede langs Kuurne, Kortrijk en Moorsele" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-vanuit-lendelede"
 gpx: "westtoer/lendelede.gpx"
 length: 38
+nodetype: "vlaams"
+nodes: "5"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan het knooppunt 5 op het kruispunt van de Manpadstraat en de Rozebeekstraat. 
+Je start aan het knooppunt 5 op het kruispunt van de Manpadstraat en de Rozebeekstraat.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 5 - 47 - 14 - 42 - 64 - 94 - 90 - 11 - 31 - 36 - 16 - 48 - 18 - 10 - 93 - 83 - 53 - 73 - 27 - 88 - 28 - 35 - 67 - 86 - 34 - 61 - 1 - 5
 
 ## En Route
 

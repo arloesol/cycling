@@ -1,7 +1,7 @@
 ---
 title: "Wastinefietsroute"
 subtitle: "De Wastinefietsroute laat je kennismaken met het lichtglooiende landschap in de buurt van Tielt"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Wastinefietsroute laat je kennismaken met het lichtglooiende landschap in de buurt van Tielt" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/wastinefietsroute"
 gpx: "westtoer/wastinefietsroute_0.gpx"
 length: 50
+nodetype: "vlaams"
+nodes: "62"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Dorpsplein, 8740 Egem 
+Dorpsplein, 8740 Egem
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 

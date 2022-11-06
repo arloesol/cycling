@@ -3,7 +3,7 @@ title: "Pionier"
 subtitle: "Fietsroute 14-18
 
 De fietsroute neemt je mee doorheen het frontlandschap en vertelt het verhaal van de Duitse activiteiten in de streek tussen de Tweede en de Derde slag van Ieper"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Fietsroute 14-18
 
 De fietsroute neemt je mee doorheen het frontlandschap en vertelt het verhaal van de Duitse activiteiten in de streek tussen de Tweede en de Derde slag van Ieper" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/pionier-0"
 gpx: "westtoer/pionierfietsroute.gpx"
 length: 38
+nodetype: "vlaams"
+nodes: "13"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ De fietsroute neemt je mee doorheen het frontlandschap en vertelt het verhaal va
 
 ## Start 
 
-Kerk, Zandvoordeplaats, 8980 Zandvoorde 
+Kerk, Zandvoordeplaats, 8980 Zandvoorde
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

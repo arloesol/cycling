@@ -1,7 +1,7 @@
 ---
 title: "Kinderen koning in het Tieltse - lus Ruiselede - Kanegem"
 subtitle: "Kinderen zijn koning in het Brugse Ommeland"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Kinderen zijn koning in het Brugse Ommeland" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-ruiselede-kanegem"
 gpx: "westtoer/fietsen_ruiselede.gpx"
 length: 23
+nodetype: "vlaams"
+nodes: "20"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 30 (Kruispunt A. Rodenbachstraat met Verlovestraat in Ruiselede). 
+Knooppunt 30 (Kruispunt A. Rodenbachstraat met Verlovestraat in Ruiselede).
+
+## Signage
+
+30 - 39 - 54 - 86 - 89 - 84 - 44 - 64 - 67 - 69 - 49 - 30
 
 ## En Route
 

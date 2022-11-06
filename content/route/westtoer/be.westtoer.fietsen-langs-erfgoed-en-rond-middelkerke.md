@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs Erfgoed in en rond Middelkerke"
 subtitle: "Erfgoed is met andere ogen naar de wereld kijken"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Erfgoed is met andere ogen naar de wereld kijken" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-erfgoed-en-rond-middelkerke"
 gpx: "westtoer/gpx_erfgoedroute_middelkerke.gpx"
 length: 46
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -24,7 +26,13 @@ Erfgoed is met andere ogen naar de wereld kijken. Wat vandaag een hoeve is in Sl
 
 ## Start 
 
-We starten onze tocht op het Epernayplein in Middelkerke. Fiets naar de Kerkstraat, sla rechtsaf en neem net voorbij het kruispunt met de Koninginnelaan de eerste straat links, de Duinenweg. Wie vanuit het binnenland komt, start best aan de parking voor de kerk van Sint-Pieters-Kapelle en pikt in op knooppunt 52. 
+We starten onze tocht op het Epernayplein in Middelkerke. Fiets naar de Kerkstraat, sla rechtsaf en neem net voorbij het kruispunt met de Koninginnelaan de eerste straat links, de Duinenweg. Wie vanuit het binnenland komt, start best aan de parking voor de kerk van Sint-Pieters-Kapelle en pikt in op knooppunt 52.
+
+## Signage
+
+Knooppunten 
+
+52-80-75-16-17-84-50-21-22-52-53-25-56-54-1-11-2-44-60-80
 
 ## En Route
 

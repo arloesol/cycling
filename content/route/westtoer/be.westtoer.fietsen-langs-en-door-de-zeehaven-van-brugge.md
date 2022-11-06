@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs en door de Zeehaven van Brugge"
 subtitle: "Een robuuste zeehaven, een rustgevende strandomgeving en een snuifje vissersnostalgie vormen het scenario voor deze fietstocht"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Een robuuste zeehaven, een rustgevende strandomgeving en een snuifje vissersnostalgie vormen het scenario voor deze fietstocht" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-en-door-de-zeehaven-van-brugge"
 gpx: "westtoer/fietsen_zeebrugge.gpx"
 length: 29
+nodetype: "vlaams"
+nodes: "84"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan je ter hoogte van knooppunt 33. 
+Starten kan je ter hoogte van knooppunt 33.
+
+## Signage
+
+33 – 30 – 96 – 59 – 45 – 99 – 66 – 46 – 9 – 38 – 36 – 33
 
 ## En Route
 

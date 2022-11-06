@@ -1,7 +1,7 @@
 ---
 title: "De Cichoreiroute: interessante ontmoeting met vergeten ambacht"
 subtitle: "De overwegend vlakke Cichoreifietsroute boort een bijna vergeten stuk geschiedenis aan: die van de cichoreiteelt, het ersatz voor koffie"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De overwegend vlakke Cichoreifietsroute boort een bijna vergeten stuk geschiedenis aan: die van de cichoreiteelt, het ersatz voor koffie" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/de-cichoreiroute-interessante-ontmoeting-met-vergeten-ambacht"
 gpx: "westtoer/gpx_cichoreifietsroute.gpx"
 length: 55
+nodetype: "vlaams"
+nodes: "9"
 ---
 
 ## Let's Go !
@@ -24,7 +26,11 @@ De overwegend vlakke Cichoreifietsroute boort een bijna vergeten stuk geschieden
 
 ## Start 
 
-We parkeren op de Markt van LichtervWe parkeren op de Markt van Lichtervelde. Links van de kerk pikken we in op de route. elde. Links van de kerk pikken we in op de route. 
+We parkeren op de Markt van LichtervWe parkeren op de Markt van Lichtervelde. Links van de kerk pikken we in op de route. elde. Links van de kerk pikken we in op de route.
+
+## Signage
+
+Zeshoekige bordjes met vermelding Chicoreifietsroute
 
 ## En Route
 

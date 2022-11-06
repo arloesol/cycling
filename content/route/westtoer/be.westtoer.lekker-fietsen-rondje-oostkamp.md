@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Rond(je) Oostkamp"
 subtitle: "Ontdek talloze natuurplekjes in Oostkamp en geniet van het fameuze Kasteel van Loppem"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Ontdek talloze natuurplekjes in Oostkamp en geniet van het fameuze Kasteel van Loppem" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-rondje-oostkamp"
 gpx: "westtoer/route-9-rondje-oostkamp.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "71"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan aan knooppunt 71 (kruispunt Westdijk met Sint-Godelievestraat in Oostkamp) 
+Starten kan aan knooppunt 71 (kruispunt Westdijk met Sint-Godelievestraat in Oostkamp)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 71 - 56 - 83 - 85 - 52 - 92 - 95 - 74 - 14 - 10 - 67 - 97 - 13 - 93 - 82 - 71
 
 ## En Route
 

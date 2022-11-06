@@ -1,7 +1,7 @@
 ---
 title: "Kindvriendelijk trappen in De Haan-Wenduine"
 subtitle: "De Haan ademt authenticiteit uit"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Haan ademt authenticiteit uit" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kindvriendelijk-trappen-de-haan-wenduine"
 gpx: "westtoer/fietsen_dehaan_0.gpx"
 length: 15
+nodetype: "vlaams"
+nodes: "32"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan je ter hoogte van knooppunt 6, in het centrum van De Haan nabij het historisch tramstationnetje. 
+Starten kan je ter hoogte van knooppunt 6, in het centrum van De Haan nabij het historisch tramstationnetje.
+
+## Signage
+
+6 - 78 - 98 - 12 - 96 - 56 - 6
 
 ## En Route
 

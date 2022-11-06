@@ -1,7 +1,7 @@
 ---
 title: "Fietsen vanuit Ledegem"
 subtitle: "Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Ledegem doorheen Roeselare en langs Ingelmunster"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Ledegem doorheen Roeselare en langs Ingelmunster" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-vanuit-ledegem"
 gpx: "westtoer/ledegem.gpx"
 length: 44
+nodetype: "vlaams"
+nodes: "30"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan het knooppunt 30 op het kruispunt van de Papestraat en de Stationstraat in Ledegem. 
+Je start aan het knooppunt 30 op het kruispunt van de Papestraat en de Stationstraat in Ledegem.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 30 - 44 - 39 - 76 - 6 - 1 - 3 - 32 - 22 - 26 - 78 - 24 - 53 - 27 - 57 - 83 - 55 - 21 - 12 - 56 - 50 - 95 - 98 - 60 - 30
 
 ## En Route
 

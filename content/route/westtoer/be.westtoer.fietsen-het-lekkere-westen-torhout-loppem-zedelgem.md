@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in Het Lekkere Westen - Torhout, Loppem, Zedelgem, ..."
 subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes," 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-torhout-loppem-zedelgem"
 gpx: "westtoer/fietsen_in_het_lekkere_westen_brugse_ommeland_2.gpx"
 length: 50
+nodetype: "vlaams"
+nodes: "18"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Er is parking nabij Kasteel van Wijnendale, Oostendestraat 390, Torhout.  Je start aan knooppunt 85 
+Er is parking nabij Kasteel van Wijnendale, Oostendestraat 390, Torhout.  Je start aan knooppunt 85
+
+## Signage
+
+85-70-63-53-77-96-76-61-73-67-10-14-74-95-88-72-8-81-4-71-85
 
 ## En Route
 

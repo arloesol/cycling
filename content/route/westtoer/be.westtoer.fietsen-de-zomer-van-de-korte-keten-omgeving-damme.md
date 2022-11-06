@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs de Korte Keten - Omgeving Damme"
 subtitle: "Met een picknickmand van De Beukenhoeve in Damme (Moerkerke) sta je sterk voor een deugddoende fietstocht"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Met een picknickmand van De Beukenhoeve in Damme (Moerkerke) sta je sterk voor een deugddoende fietstocht" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-omgeving-damme"
 gpx: "westtoer/fietsroute_19_5_2020_ihgdx.gpx"
 length: 32
+nodetype: "vlaams"
+nodes: "9"
 ---
 
 ## Let's Go !
@@ -22,7 +24,11 @@ Met een picknickmand van De Beukenhoeve in Damme (Moerkerke) sta je sterk voor e
 
 ## Start 
 
-Starten doe je aan knooppunt 42 in de Kerkstraat 47, 8340 Damme. Vlakbij ligt de Beukenhoeve waar je terecht kan voor een lekkere picknickmand. 
+Starten doe je aan knooppunt 42 in de Kerkstraat 47, 8340 Damme. Vlakbij ligt de Beukenhoeve waar je terecht kan voor een lekkere picknickmand.
+
+## Signage
+
+Knooppuntenbordjes van het Fietsnetwerk Brugse Ommeland.
 
 ## En Route
 

@@ -5,7 +5,7 @@ subtitle: "Werken Beaufort 21
 Benjamin - Maen Florin
 
 Bos, Park Leopold II, De Wenduine - 51"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Werken Beaufort 21
 
 Benjamin - Maen Florin
@@ -22,6 +22,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/beaufort-oostkustfietsroute"
 gpx: "westtoer/beaufort-21-oostkust.gpx"
 length: 56
+nodetype: "vlaams"
+nodes: "6"
 ---
 
 ## Let's Go !
@@ -100,6 +102,8 @@ Ontdek meer
 
 ## Start 
 
-Tramstation, Tramlijn Oost, 8420 De Haan 
+Tramstation, Tramlijn Oost, 8420 De Haan
 
+## Signage
 
+Je fietst op het fietsnetwerk van De Kust aan de hand van knooppunten. Volg deze knooppunten: 6 - 31 - 16 - 80 - 76 - 33 - 36 - 13 - 68 - 62 - 39 - 70 - 38 - 36 - 33 - 30 - 26 - 29 - 89 - 2 - 83 - 34 - 31

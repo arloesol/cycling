@@ -1,7 +1,7 @@
 ---
 title: "Vintage Heuvelland fietsroute"
 subtitle: "Heuvelland is goed voor 12% van de totale wijnproductie in België, omgerekend zijn dat zo’n 235"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Heuvelland is goed voor 12% van de totale wijnproductie in België, omgerekend zijn dat zo’n 235" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/vintage-heuvelland-fietsroute"
 gpx: "westtoer/vintage_heuvelland_fietsroute.gpx"
 length: 37
+nodetype: "vlaams"
+nodes: "18"
 ---
 
 ## Let's Go !
@@ -32,7 +34,21 @@ Deze route is gemakkelijker te fietsen met een elektrische fiets!
 
 ## Start 
 
-De fietsroute start in het centrum van Kemmel, bij fietsknooppunt 2. 
+De fietsroute start in het centrum van Kemmel, bij fietsknooppunt 2.
+
+## Signage
+
+De route is uitgetekend op het fietsnetwerk Westhoek. Volg de knooppunten 2 - 36 - 54 - 4 - 55 - 97 - 93 - 98 - 99 - 57 - 6 - 8 - 29 - 10 - 22 - 1 - 60 - 20 - 62 - 7 - 9 - 6 - 57 - 76 - 36 - 2.
+
+De route kan worden opgedeeld in 2 lussen: 
+
+- Lus 1: 18,4 km
+
+2-36-54-4-55-97-93-88-99-57-76-36-2
+
+- Lus 2: 24,6 km
+
+2-36-76-57-6-9-7-62-20-60-1-22-10-29-8-6-57-76-36-2
 
 ## En Route
 

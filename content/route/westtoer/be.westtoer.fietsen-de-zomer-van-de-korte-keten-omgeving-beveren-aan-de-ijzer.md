@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs de Korte Keten - Omgeving Beveren aan de IJzer"
 subtitle: "Verken de wijde omgeving van Alveringem via de knooppunten van dit voor jou uitgestippelde lusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Verken de wijde omgeving van Alveringem via de knooppunten van dit voor jou uitgestippelde lusje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-omgeving-beveren-aan-de-ijzer"
 gpx: "westtoer/fietsroute_19_5_2020_anzbu.gpx"
 length: 31
+nodetype: "vlaams"
+nodes: "89"
 ---
 
 ## Let's Go !
@@ -22,7 +24,11 @@ Verken de wijde omgeving van Alveringem via de knooppunten van dit voor jou uitg
 
 ## Start 
 
-Starten doe je aan knooppunt 9. Even verderop vind je de hoeve 't Zeugekot. Hier kan je terecht voor een lekkere picknick. 
+Starten doe je aan knooppunt 9. Even verderop vind je de hoeve 't Zeugekot. Hier kan je terecht voor een lekkere picknick.
+
+## Signage
+
+Volg de knooppuntenbordjes
 
 ## En Route
 

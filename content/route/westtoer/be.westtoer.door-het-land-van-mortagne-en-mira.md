@@ -1,7 +1,7 @@
 ---
 title: "Door het land van Mortagne en Mira"
 subtitle: "Tijdens deze fietstocht verken je de groene en glooiende omgeving tussen Leie en Schelde"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Tijdens deze fietstocht verken je de groene en glooiende omgeving tussen Leie en Schelde" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/door-het-land-van-mortagne-en-mira"
 gpx: "westtoer/mortagne_mira.gpx"
 length: 36
+nodetype: "vlaams"
+nodes: "60"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? Gebruik onze Fietsrouteplanne
 
 ## Start 
 
-Je start aan knooppunt 60 in de Oudenaardseweg in Spiere. 
+Je start aan knooppunt 60 in de Oudenaardseweg in Spiere.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 60 - 76 - 61 - 77 - 69 - 74 - 67 - 70 - 78 - 48 - 85 - 93 - 99 - 11 - 57 - 59 - 35 - 71 - 86 - 83 - 60
 
 ## En Route
 

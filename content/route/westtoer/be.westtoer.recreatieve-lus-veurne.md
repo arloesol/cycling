@@ -1,7 +1,7 @@
 ---
 title: "Recreatieve lus Veurne"
 subtitle: "Deze route brengt je naar Alveringem, waar je een bezoekje kan brengen aan het Mout- en Brouwhuis de Snoek"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route brengt je naar Alveringem, waar je een bezoekje kan brengen aan het Mout- en Brouwhuis de Snoek" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/recreatieve-lus-veurne"
 gpx: "westtoer/fietsen_veurne.gpx"
 length: 26
+nodetype: "vlaams"
+nodes: "9"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Belevingscentrum Vrij Vaderland, Grote Markt 29, 8630 Veurne 
+Belevingscentrum Vrij Vaderland, Grote Markt 29, 8630 Veurne
+
+## Signage
+
+Start: 9 - 83 - 4 - 14 - 29 - 80 - 63 - 43 - 67 - 44 - 94 - 31 - 32 - 16 - 15 - 17 - 18 - 73 - 60 - 69 - 75 - 68 - 9
 
 ## En Route
 

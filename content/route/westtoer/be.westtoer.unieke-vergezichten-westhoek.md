@@ -1,7 +1,7 @@
 ---
 title: "Unieke vergezichten over de Westhoek"
 subtitle: "Tenzij in diep uitgesneden valleien genieten we elk fietsmoment van prachtige uitzichten"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Tenzij in diep uitgesneden valleien genieten we elk fietsmoment van prachtige uitzichten" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/unieke-vergezichten-westhoek"
 gpx: "westtoer/gpx_vergezichten_in_heuvelland.gpx"
 length: 49
+nodetype: "vlaams"
+nodes: "30"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 30 op de markt van Mesen 
+Knooppunt 30 op de markt van Mesen
+
+## Signage
+
+Volg de knooppunten: 30 - 92 - 62 - 7 - 9 - 76 - 36 - 54 - 4 - 55 - 97 - 96 - 11 - 18 - 98 - 99 - 57 - 6 - 8 - 29 - 10 - 22 - 1 - 23 - 2 - 15 - 30
 
 ## En Route
 

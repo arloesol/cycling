@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs hotspots rond Roeselare"
 subtitle: "Deze aangename fietstocht combineert de rust van het platteland met het stadsgewoel van Izegem en Roeselare"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze aangename fietstocht combineert de rust van het platteland met het stadsgewoel van Izegem en Roeselare" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-hotspots-rond-roeselare"
 gpx: "westtoer/gpx_hotspot_fietslus_roeselare.gpx"
 length: 39
+nodetype: "vlaams"
+nodes: "48"
 ---
 
 ## Let's Go !
@@ -22,7 +24,11 @@ Deze aangename fietstocht combineert de rust van het platteland met het stadsgew
 
 ## Start 
 
-Vertrek aan Rhodesgoed (Rhodesstraat 2) in Izegem. Fietsen in wijzerzin. 
+Vertrek aan Rhodesgoed (Rhodesstraat 2) in Izegem. Fietsen in wijzerzin.
+
+## Signage
+
+Fietsnetwerkbordjes van het Fietsnetwerk Leiestreek
 
 ## En Route
 

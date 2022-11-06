@@ -1,7 +1,7 @@
 ---
 title: "Gent-Wevelgem in Flanders Fields - 128 km"
 subtitle: "Het parcours van Gent-Wevelgem in Flanders Fields bedwingt de belangrijkste hellingen van de wielerklassieker 'Gent-Wevelgem'"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Het parcours van Gent-Wevelgem in Flanders Fields bedwingt de belangrijkste hellingen van de wielerklassieker 'Gent-Wevelgem'" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/gent-wevelgem-IFF"
 gpx: "westtoer/gent-wevelgem_in_flanders_fields_-_rood.gpx"
 length: 128
+nodetype: "vlaams"
+nodes: "46"
 ---
 
 ## Let's Go !
@@ -36,6 +38,4 @@ Bezoekerscentrum Het Heuvelland, Sint-Laurentiusplein 1, 8956 Kemmel -
 
 
 
-Fiets deze route ook vanuit Roeselare - KOERS. Museum van de Wielersport, Polenplein 15 en Wevelgem - Parking Guldenbergplein. 
-
-
+Fiets deze route ook vanuit Roeselare - KOERS. Museum van de Wielersport, Polenplein 15 en Wevelgem - Parking Guldenbergplein.

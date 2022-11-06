@@ -1,7 +1,7 @@
 ---
 title: "Beverhoutsfietsroute"
 subtitle: "De Beverhoutsfietsroute loodst je naar de boeiende streek ten zuiden van Brugge"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Beverhoutsfietsroute loodst je naar de boeiende streek ten zuiden van Brugge" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/beverhoutsfietsroute"
 gpx: "westtoer/beverhouts_fietsroute_0.gpx"
 length: 38
+nodetype: "vlaams"
+nodes: "93"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Kijkuit Outdoorsport, Kijkuit 1, 8730 Beernem 
+Kijkuit Outdoorsport, Kijkuit 1, 8730 Beernem
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 

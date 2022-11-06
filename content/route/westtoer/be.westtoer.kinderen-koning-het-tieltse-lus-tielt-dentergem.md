@@ -1,7 +1,7 @@
 ---
 title: "Kinderen koning in het Tieltse - lus Tielt - Dentergem"
 subtitle: "Kinderen zijn koning in het Tieltse"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Kinderen zijn koning in het Tieltse" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-tielt-dentergem"
 gpx: "westtoer/fietsen_tielt_3.gpx"
 length: 24
+nodetype: "vlaams"
+nodes: "89"
 ---
 
 ## Let's Go !
@@ -24,7 +26,11 @@ Tip: is de route te lang? Download de pdf en kort je route in!
 
 ## Start 
 
-Poelbergsite, Poelberg 1, 8700 Tielt 
+Poelbergsite, Poelberg 1, 8700 Tielt
+
+## Signage
+
+52 - 9 - 4 - 63 - 3 - 8 - 18 - 78 - 74 - 2 - 57 -  50 - 9 - 52
 
 ## En Route
 

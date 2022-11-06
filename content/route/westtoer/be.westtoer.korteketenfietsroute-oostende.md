@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Oostende"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond Oostende met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond Oostende met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-oostende"
 gpx: "westtoer/oostende-smoefelroute.gpx"
 length: 34
+nodetype: "vlaams"
+nodes: "67"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Verken de lekkerste korteketenadresjes in en rond Oostende met behulp van dit vo
 
 ## Start 
 
-Je start aan Maritiemplein 2, Oostende. 
+Je start aan Maritiemplein 2, Oostende.
+
+## Signage
+
+De route wijkt af van de fietsknooppunten. Route niet bewegwijzerd, route te volgen met behulp van fietskaart in pdf.
 
 ## En Route
 

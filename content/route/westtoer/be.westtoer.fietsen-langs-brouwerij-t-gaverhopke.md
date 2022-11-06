@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs Brouwerij 't Gaverhopke"
 subtitle: "Deze fietsroute verkent de mooie omgeving van Waregem"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze fietsroute verkent de mooie omgeving van Waregem" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-brouwerij-t-gaverhopke"
 gpx: "westtoer/fietsroute_29_5_2020_rwdhe.gpx"
 length: 38
+nodetype: "vlaams"
+nodes: "6"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 72 
+Knooppunt 72
+
+## Signage
+
+Fietsnetwerkbordjes Fietsnetwerk Leiestreek
 
 ## En Route
 

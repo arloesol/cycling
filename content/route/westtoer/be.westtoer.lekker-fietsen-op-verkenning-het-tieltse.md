@@ -3,7 +3,7 @@ title: "Lekker fietsen: Op verkenning in het Tieltse"
 subtitle: "Verken het zuiden van de regio met Tielt en Ruiselede
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Verken het zuiden van de regio met Tielt en Ruiselede
 
 Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-op-verkenning-het-tieltse"
 gpx: "westtoer/route-12-op-verkenning-in-het-tieltse.gpx"
 length: 32
+nodetype: "vlaams"
+nodes: "42"
 ---
 
 ## Let's Go !
@@ -32,7 +34,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 42 in Schuiferskapelle. Parkeren kan aan de kerk (De Breuckplein). 
+Starten kan bij knooppunt 42 in Schuiferskapelle. Parkeren kan aan de kerk (De Breuckplein).
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 42 - 82 - 89 - 84 - 70 - 30 - 49 - 69 - 67 - 53 - 62 - 1 - 57 - 50 - 9 - 52 - 32 - 48 - 46 - 56 - 42
 
 ## En Route
 

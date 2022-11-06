@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: De Zwinstreek smaakt"
 subtitle: "Ontdek langs deze route de talrijke toprestaurantjes en bistro's die de Zwinstreek herbergt"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Ontdek langs deze route de talrijke toprestaurantjes en bistro's die de Zwinstreek herbergt" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-de-zwinstreek-smaakt"
 gpx: "westtoer/route-4-de-zwinstreek-smaakt.gpx"
 length: 38
+nodetype: "vlaams"
+nodes: "26"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 26 in Oostkerke (kruispunt Hoekestraat met Eienbroekstraat) 
+Starten kan bij knooppunt 26 in Oostkerke (kruispunt Hoekestraat met Eienbroekstraat)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 26 - 44 - 47 - 74 - 24 - 57 - 54 - 94 - 98 - 93 - 53 - 50 - 59 - 49 - 73 - 33 - 62 - 39 - 70 - 65 - 32 - 23 - 47 - 75 - 26
 
 ## En Route
 

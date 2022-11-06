@@ -1,7 +1,7 @@
 ---
 title: "Kindvriendelijke fietstocht in Bredene"
 subtitle: "Bredene staat niet alleen bekend als kampeergemeente bij uitstek, maar ook liefhebbers van natuur komen ruimschoots aan hun trekken"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Bredene staat niet alleen bekend als kampeergemeente bij uitstek, maar ook liefhebbers van natuur komen ruimschoots aan hun trekken" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kindvriendelijke-fietstocht-bredene"
 gpx: "westtoer/fietsen_bredene.gpx"
 length: 16
+nodetype: "vlaams"
+nodes: "30"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan aan de Zeelaan, ter hoogte van knooppunt 92. 
+Starten kan aan de Zeelaan, ter hoogte van knooppunt 92.
+
+## Signage
+
+92 – 56 – 96 – 12 – 26 – 95 – 10 – 99 – 8 - 92
 
 ## En Route
 

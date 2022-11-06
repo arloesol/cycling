@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in het Lekkere Westen - De Leiestreek 2"
 subtitle: "Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-de-leiestreek-2"
 gpx: "westtoer/het_lekkere_westen_leiestreek_roeselare.gpx"
 length: 50
+nodetype: "vlaams"
+nodes: "22"
 ---
 
 ## Let's Go !
@@ -30,7 +32,13 @@ Start aan het Huis van de Voeding, naast brouwerij Rodenbach (Tussen knooppunt 2
 
 
 
-Naast de variant van 50 km is er ook een kortere versie voorzien van 34 km.  Hieronder vind je beide routes via de knooppunten 
+Naast de variant van 50 km is er ook een kortere versie voorzien van 34 km.  Hieronder vind je beide routes via de knooppunten
+
+## Signage
+
+Lange route (50 km) : 22-26-78-24-53-27-64-74-68-57-83-55-21-20-50-95-98-44-39-76-6-93-3-32-22 
+
+Korte route (34 km) : 22-26-78-24-53-27-57-83-55-21-20-50-95--98-44-39-76-6-93-3-32-22
 
 ## En Route
 

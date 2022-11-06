@@ -1,7 +1,7 @@
 ---
 title: "IJzerbroekenfietsroute"
 subtitle: "De route loopt door het waterrijke landschap van de IJzerbroeken, op de grens van de polders en de zandleemstreek"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De route loopt door het waterrijke landschap van de IJzerbroeken, op de grens van de polders en de zandleemstreek" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/ijzerbroekenfietsroute"
 gpx: "westtoer/ijzerbroeken_fietsroute_0.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "93"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Bezoekerscentrum Lauka, Markt 17A, 8647 Lo 
+Bezoekerscentrum Lauka, Markt 17A, 8647 Lo
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

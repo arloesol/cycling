@@ -5,7 +5,7 @@ subtitle: "Werken Beaufort 21
 Metamorphosis - Oliver Laric
 
 Strand, Flandrialaan, Westende - 51"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Werken Beaufort 21
 
 Metamorphosis - Oliver Laric
@@ -22,6 +22,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/beaufort-middenkustfietsroute"
 gpx: "westtoer/beaufort-21-middenkust.gpx"
 length: 49
+nodetype: "vlaams"
+nodes: "81"
 ---
 
 ## Let's Go !
@@ -104,6 +106,8 @@ Ontdek meer
 
 ## Start 
 
-Calidris, Strandlaan 1, 8434 Westende 
+Calidris, Strandlaan 1, 8434 Westende
 
+## Signage
 
+Je fietst op het fietsnetwerk van De Kust aan de hand van knooppunten. Volg deze knooppunten: 81 - 60 - 80 - 52 - 57 - 74 - 45 - 8 - 92 - 56 - 96 - 5 - 67 - 95 - 10 - 4 - 15 - 97 - 47 - 77 - 75 - 16 - 59 - 44 - 2 - 12 - 81

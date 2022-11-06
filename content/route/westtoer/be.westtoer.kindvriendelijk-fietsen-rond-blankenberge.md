@@ -1,7 +1,7 @@
 ---
 title: "Kindvriendelijk fietsen rond Blankenberge"
 subtitle: "Blankenberge is een familiale kustgemeente met een boeiend verleden"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Blankenberge is een familiale kustgemeente met een boeiend verleden" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kindvriendelijk-fietsen-rond-blankenberge"
 gpx: "westtoer/fietsen_blankenberge.gpx"
 length: 17
+nodetype: "vlaams"
+nodes: "48"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan je ter hoogte van knooppunt 76, nabij het station van Blankenberge en de kruising met de J. Van Puttelaan. 
+Starten kan je ter hoogte van knooppunt 76, nabij het station van Blankenberge en de kruising met de J. Van Puttelaan.
+
+## Signage
+
+76 – 26 – 29 – 89 – 2 – 83 – 34 – 31 – 16 – 80 – 76
 
 ## En Route
 

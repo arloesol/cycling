@@ -1,7 +1,7 @@
 ---
 title: "Polderrandfietsroute"
 subtitle: "Welkom aan de rand van de kustpolders"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom aan de rand van de kustpolders" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/polderrandfietsroute"
 gpx: "westtoer/polderrand_fietsroute_gistel_1.gpx"
 length: 47
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -22,6 +24,8 @@ Welkom aan de rand van de kustpolders. Langs veilige fietswegen verkennen we twe
 
 ## Start 
 
-Oostmolensite, Warandestraat 29, 8470 Gistel - RAM Oudenburg, Marktstraat 25, 8460 Oudenburg - Permeke Museum, Gistelsteenweg 341, 8490 Jabbeke - Stationsput Eernegem, Spoorwegstraat z.n., 8480 Ichtegem 
+Oostmolensite, Warandestraat 29, 8470 Gistel - RAM Oudenburg, Marktstraat 25, 8460 Oudenburg - Permeke Museum, Gistelsteenweg 341, 8490 Jabbeke - Stationsput Eernegem, Spoorwegstraat z.n., 8480 Ichtegem
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

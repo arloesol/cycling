@@ -1,7 +1,7 @@
 ---
 title: "Westkustfietsroute"
 subtitle: "De Westkustfietsroute laat je kennismaken met de grote verscheidenheid die de Westkust te bieden heeft"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Westkustfietsroute laat je kennismaken met de grote verscheidenheid die de Westkust te bieden heeft" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/westkustfietsroute"
 gpx: "westtoer/westkust_fietsroute_veurne_1_0.gpx"
 length: 48
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -22,7 +24,11 @@ De Westkustfietsroute laat je kennismaken met de grote verscheidenheid die de We
 
 ## Start 
 
-Parking Canadezenplein, Canadezenplein zn, 8660 De Panne - Toerisme Koksijde, Zeelaan 303, 8670 Koksijde - Vismijn Nieuwpoort, parking Kaai, Kaai zn, 8620 Nieuwpoort - Belevingscentrum Vrij Vaderland, Grote Markt 29, 8630 Veurne - Bezoekerscentrum Duinpanne, Olmendreef 2, 8660 De Panne 
+Parking Canadezenplein, Canadezenplein zn, 8660 De Panne - Toerisme Koksijde, Zeelaan 303, 8670 Koksijde - Vismijn Nieuwpoort, parking Kaai, Kaai zn, 8620 Nieuwpoort - Belevingscentrum Vrij Vaderland, Grote Markt 29, 8630 Veurne - Bezoekerscentrum Duinpanne, Olmendreef 2, 8660 De Panne
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 

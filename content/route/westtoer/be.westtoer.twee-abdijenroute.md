@@ -1,7 +1,7 @@
 ---
 title: "Twee abdijenroute"
 subtitle: "Bij de Twee Abdijenroute staan we even stil bij twee belangrijke sites in Gistel en Oudenburg: abdij Ten Putte en het Romeins Archeologisch Museum met overblijfselen van de Sint-Pietersabdij"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Bij de Twee Abdijenroute staan we even stil bij twee belangrijke sites in Gistel en Oudenburg: abdij Ten Putte en het Romeins Archeologisch Museum met overblijfselen van de Sint-Pietersabdij" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/twee-abdijenroute"
 gpx: "westtoer/fietsen_oudenburg.gpx"
 length: 39
+nodetype: "vlaams"
+nodes: "62"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan knooppunt 62 in Oudenburg, op het kruispunt van de Abdijlaan en de Stationstraat. 
+Je start aan knooppunt 62 in Oudenburg, op het kruispunt van de Abdijlaan en de Stationstraat.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 62 - 60 - 94 - 58 - 13 - 63 - 89 - 76 - 24 - 36 - 49 - 34 - 30 - 64 - 32 - 35 - 45 - 38 - 2 - 62
 
 ## En Route
 

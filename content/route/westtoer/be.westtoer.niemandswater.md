@@ -3,7 +3,7 @@ title: "Niemandswater"
 subtitle: "Fietsroute 14-18
 
 Niemandswater vertelt het verhaal van de medische evacuatie vanaf het front (Noordschote-Steenstraete) tot aan de veldhospitalen (Hoogstade-Beveren) maar ook over de hygiëne (Eversam) en de geestelijke verzorging van de soldaat aan het front"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Fietsroute 14-18
 
 Niemandswater vertelt het verhaal van de medische evacuatie vanaf het front (Noordschote-Steenstraete) tot aan de veldhospitalen (Hoogstade-Beveren) maar ook over de hygiëne (Eversam) en de geestelijke verzorging van de soldaat aan het front" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/niemandswater"
 gpx: "westtoer/niemandswater_14-18_fietsroute_lo_1.gpx"
 length: 45
+nodetype: "vlaams"
+nodes: "69"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ Niemandswater vertelt het verhaal van de medische evacuatie vanaf het front (Noo
 
 ## Start 
 
-Toeristische Dienst, Markt 17a, 8647 Lo-Reninge - Toeristische Dienst, Veurnestraat 4, 8640 Oostvleteren 
+Toeristische Dienst, Markt 17a, 8647 Lo-Reninge - Toeristische Dienst, Veurnestraat 4, 8640 Oostvleteren
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

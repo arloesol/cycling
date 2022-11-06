@@ -1,7 +1,7 @@
 ---
 title: "Recreatieve lus Diksmuide"
 subtitle: "Met deze route fiets je richting Koekelare, waar je o"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Met deze route fiets je richting Koekelare, waar je o" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/recreatieve-lus-diksmuide"
 gpx: "westtoer/fietsen_diksmuide_0.gpx"
 length: 48
+nodetype: "vlaams"
+nodes: "1"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Grote Markt, 8600 Diksmuide 
+Grote Markt, 8600 Diksmuide
+
+## Signage
+
+Start: 1 - 69 - 57 - 28 - 12 - 62 - 72 - 26 - 36 - 49 - 9 - 3 - 61 - 65 - 93 - 92 - 32 - 97 - 83 - 82 - 40 - 39 - 84 - 94 - 16 - 99 - 15 - 9 - 18 - 59 - 1
 
 ## En Route
 

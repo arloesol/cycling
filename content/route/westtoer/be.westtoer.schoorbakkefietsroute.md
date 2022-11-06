@@ -1,7 +1,7 @@
 ---
 title: "Schoorbakkefietsroute"
 subtitle: "De fietsroute verkent de kustpolders tussen Middelkerke en Diksmuide"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De fietsroute verkent de kustpolders tussen Middelkerke en Diksmuide" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/schoorbakkefietsroute"
 gpx: "westtoer/schoorbakke_fietsroute_0.gpx"
 length: 44
+nodetype: "vlaams"
+nodes: "81"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Westtoer werkt aan het vernieuwen van het fietsaanbod in West-Vlaanderen. De bew
 
 ## Start 
 
-Zeedijk, ter hoogte van Epernayplein, 8430 Middelkerke 
+Zeedijk, ter hoogte van Epernayplein, 8430 Middelkerke
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 

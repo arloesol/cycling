@@ -1,7 +1,7 @@
 ---
 title: "Fietsen op de rand van de kustpolders"
 subtitle: "De nieuwe [Polderrandfietsroute](https://www"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De nieuwe [Polderrandfietsroute](https://www" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-op-de-rand-van-de-kustpolders"
 gpx: "westtoer/gpx_polderrandroute.gpx"
 length: 47
+nodetype: "vlaams"
+nodes: "6"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Wij startten de route in Eernegem, maar er zijn nog andere startplaatsen voorzie
 
 ## Start 
 
-We parkeren in de Spoorwegstraat in Eernegem, naast de Stationsput (1). Het water uit deze put werd gebruikt om de locomotieven in Oostende onder stoom te houden. We gaan de Groene 62 op en fietsen naar rechts in de richting van de Kust. Hier en daar zijn perrons zichtbaar. Het station van Moere is nu een stijlvolle B&B. 
+We parkeren in de Spoorwegstraat in Eernegem, naast de Stationsput (1). Het water uit deze put werd gebruikt om de locomotieven in Oostende onder stoom te houden. We gaan de Groene 62 op en fietsen naar rechts in de richting van de Kust. Hier en daar zijn perrons zichtbaar. Het station van Moere is nu een stijlvolle B&B.
+
+## Signage
+
+Bewegwijzerd met zeshoekige borden
 
 ## En Route
 

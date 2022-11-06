@@ -1,7 +1,7 @@
 ---
 title: "Fietsen tussen Jabbeke en Loppem"
 subtitle: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Jabbeke via de knooppunten van dit voor jou uitgestippelde lusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Jabbeke via de knooppunten van dit voor jou uitgestippelde lusje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-tussen-jabbeke-en-loppem"
 gpx: "westtoer/fietsen_jabbeke.gpx"
 length: 27
+nodetype: "vlaams"
+nodes: "50"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start op de kruising van de Legeweg en de Elfhoekstraat, aan knooppunt 50. 
+Je start op de kruising van de Legeweg en de Elfhoekstraat, aan knooppunt 50.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 50 - 68 - 90 - 61 - 94 - 59 - 99 - 97 - 67 - 10 - 74 - 14 - 77 - 16 - 6 - 54 - 71 - 81 - 50
 
 ## En Route
 

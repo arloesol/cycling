@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in het Lekkere Westen - Oostkust"
 subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes," 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-oostkust"
 gpx: "westtoer/fietsen_in_het_lekkere_westen.gpx"
 length: 45
+nodetype: "vlaams"
+nodes: "6"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 68 (je kan evtl. parkeren aan het station van Knokke-Heist in de nabijheid) 
+Knooppunt 68 (je kan evtl. parkeren aan het station van Knokke-Heist in de nabijheid)
+
+## Signage
+
+68-45-49-59-50-53-93-98-94-54-40-68-58-82-15-21-61-42-28-6-34-92-22-17-47-44-26-20-95-85-46-9-38-70-39-62-68
 
 ## En Route
 

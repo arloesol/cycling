@@ -1,7 +1,7 @@
 ---
 title: "Gentelefietsroute"
 subtitle: "Vanuit Blankenberge kan je naar de polders fietsen via de Gentelefietsroute"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Vanuit Blankenberge kan je naar de polders fietsen via de Gentelefietsroute" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/gentelefietsroute"
 gpx: "westtoer/gentele_fietsroute_0.gpx"
 length: 33
+nodetype: "vlaams"
+nodes: "5"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Koning Leopold III-plein, 8370 Blankenberge 
+Koning Leopold III-plein, 8370 Blankenberge
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 

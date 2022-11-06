@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in de buurt van Ardooie"
 subtitle: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ardooie via de knooppunten van dit voor jou uitgestippelde lusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ardooie via de knooppunten van dit voor jou uitgestippelde lusje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-buurt-van-ardooie"
 gpx: "westtoer/fietsen_ardooie.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "44"
 ---
 
 ## Let's Go !
@@ -26,6 +28,8 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan knooppunt 44 op het kruispunt van de Veldstraat en de Meulebeeksestraat. 
+Je start aan knooppunt 44 op het kruispunt van de Veldstraat en de Meulebeeksestraat.
 
+## Signage
 
+Je kan de route volgen via het fietsnetwerk, volg hiervoor volgende knooppunten: 44 - 34 - 38 - 58 - 36 - 23 - 75 - 15 - 14 - 16 - 18 - 44

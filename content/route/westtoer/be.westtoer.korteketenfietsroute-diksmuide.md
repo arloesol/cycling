@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Diksmuide"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de stad Diksmuide met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de stad Diksmuide met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-diksmuide"
 gpx: "westtoer/fietsen-langs-de-korte-keten-diksmuide.gpx"
 length: 25
+nodetype: "vlaams"
+nodes: "12"
 ---
 
 ## Let's Go !
@@ -32,7 +34,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan knooppunt 12 t.h.v het Duits kerkhof in de Houtlandstraat 4  in Vladslo. Van hieruit fiets je naar knooppunt 14. 
+Je start aan knooppunt 12 t.h.v het Duits kerkhof in de Houtlandstraat 4  in Vladslo. Van hieruit fiets je naar knooppunt 14.
+
+## Signage
+
+Je fietst op het fietsnetwerk van de Westhoek aan de hand van knooppunten. Volg deze knooppunten: 12 - 14 - 57 - 28 - 7 - 27 - 78 - 25 - 53 - 26 - 72 - 62 -12
 
 ## En Route
 

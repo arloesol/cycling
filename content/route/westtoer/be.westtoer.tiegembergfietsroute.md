@@ -1,7 +1,7 @@
 ---
 title: "Tiegembergfietsroute"
 subtitle: "Tussen de Leie en de Schelde glooit het landschap"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Tussen de Leie en de Schelde glooit het landschap" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/tiegembergfietsroute"
 gpx: "westtoer/tiegembergfietsroute.gpx"
 length: 48
+nodetype: "vlaams"
+nodes: ""
 ---
 
 ## Let's Go !
@@ -40,7 +42,11 @@ Parking Sint-Arnolduspark, Vital Moreelsplein z.n., 8573 Anzegem -
 
 
 
-Parking Kapelstraat/Kerkstraat, Kapelstraat z.n., 8540 Deerlijk 
+Parking Kapelstraat/Kerkstraat, Kapelstraat z.n., 8540 Deerlijk
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 

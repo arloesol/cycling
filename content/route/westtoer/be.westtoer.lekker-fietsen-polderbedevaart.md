@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Polderbedevaart"
 subtitle: "Onderweg fiets je langs vroegere bedevaartsoorden Lissewege en Meetkerke"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Onderweg fiets je langs vroegere bedevaartsoorden Lissewege en Meetkerke" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-polderbedevaart"
 gpx: "westtoer/route-3-polderbedevaart.gpx"
 length: 38
+nodetype: "vlaams"
+nodes: "40"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan aan het station in Lissewege (knooppunt 40) 
+Starten kan aan het station in Lissewege (knooppunt 40)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 40 - 5 - 45 - 99 - 69 - 78 - 11 - 81 - 86 - 77 - 32 - 58 - 52 - 72 - 22 - 95 - 15 - 2 - 89 - 29 - 26 - 30 - 88 - 40
 
 ## En Route
 

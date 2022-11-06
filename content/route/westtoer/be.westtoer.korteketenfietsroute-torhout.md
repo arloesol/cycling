@@ -3,7 +3,7 @@ title: "Fietsen langs de Korte Keten - Torhout"
 subtitle: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de stad Torhout met behulp van dit voor jou uitgestippeld fietslusje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Welkom op het lekkerste fietsnetwerk
 
 Verken de lekkerste korteketenadresjes in en rond de stad Torhout met behulp van dit voor jou uitgestippeld fietslusje" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-torhout"
 gpx: "westtoer/fietsen-langs-de-korte-keten-torhout.gpx"
 length: 39
+nodetype: "vlaams"
+nodes: "85"
 ---
 
 ## Let's Go !
@@ -32,7 +34,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start bij het Kasteel van Wijnendale (Oostendestraat 390, Torhout) daan knooppunt 85. Van hieruit fiets je naar knooppunt 75. 
+Je start bij het Kasteel van Wijnendale (Oostendestraat 390, Torhout) daan knooppunt 85. Van hieruit fiets je naar knooppunt 75.
+
+## Signage
+
+Je fietst op het fietsnetwerk van het Brugse Ommeland aan de hand van knooppunten. Volg deze knooppunten: 85 - 75 - 32 - 92 - 31 - 73 - 3 - 9 - 49 - 34 - 30 - 74 - 70 - 81 - 5 - 80 - 4 - 71 - 85
 
 ## En Route
 

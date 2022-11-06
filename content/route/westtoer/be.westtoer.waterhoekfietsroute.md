@@ -1,7 +1,7 @@
 ---
 title: "Waterhoekfietsroute"
 subtitle: "De Waterhoekfietsroute brengt je naar de Bovenschelde tussen Avelgem en Anzegem"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Waterhoekfietsroute brengt je naar de Bovenschelde tussen Avelgem en Anzegem" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/waterhoekfietsroute"
 gpx: "westtoer/waterhoek_fietsroute_0.gpx"
 length: 51
+nodetype: "vlaams"
+nodes: "74,75,6,69,57,28,7,27,78,12,14,58,18,59,92,81,45,21,28,58,50,96,49,74"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Pompgebouw Bossuit, Doorniksesteenweg 402, 8583 Bossuit 
+Pompgebouw Bossuit, Doorniksesteenweg 402, 8583 Bossuit
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs hemelse nectar en gouden koekjes"
 subtitle: "Deze 'de grote goesting' fietsroute verbindt het epicentrum van de streekbieren met het beroemde Jules Destrooper koekje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze 'de grote goesting' fietsroute verbindt het epicentrum van de streekbieren met het beroemde Jules Destrooper koekje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-hemelse-nectar-en-gouden-koekjes"
 gpx: "westtoer/fietsen_langs_hemelse_nectar_en_gouden_koekjes.gpx"
 length: 36
+nodetype: "vlaams"
+nodes: "85"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Ontdek nog meer bierbeleving in de Westhoek via deze link.
 
 ## Start 
 
-Deze route kan je starten aan In de Vrede, Donkerstraat 13 in Vleteren of op de Markt van Lo-Reninge. 
+Deze route kan je starten aan In de Vrede, Donkerstraat 13 in Vleteren of op de Markt van Lo-Reninge.
+
+## Signage
+
+De route is uitgetekend op het fietsnetwerk Westhoek. Volg de knooppunten 98 – 92 – 70 – 69 – 4 – 60 -59 -55 – 30 – 22 – 13 – 89 – 95 – 91 – 73 – 74 – 80 – 31 – 98
 
 ## En Route
 

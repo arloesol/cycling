@@ -1,7 +1,7 @@
 ---
 title: "Flirten met en langs de Franse grens in De Panne"
 subtitle: "Deze mooie route rond De Panne voert je via het Delvauxmuseum, langs de Kust en door verschillende mooie groene zones die onze Westkust rijk is"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze mooie route rond De Panne voert je via het Delvauxmuseum, langs de Kust en door verschillende mooie groene zones die onze Westkust rijk is" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/flirten-met-en-langs-de-franse-grens-de-panne"
 gpx: "westtoer/de_panne_atf_-_blauw.gpx"
 length: 33
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 1, dicht bij het station van Adinkerke, aan het kruispunt van de Dorpsstraat en de Stationsstraat. 
+Knooppunt 1, dicht bij het station van Adinkerke, aan het kruispunt van de Dorpsstraat en de Stationsstraat.
+
+## Signage
+
+1 - 84 - 59 - 76 - 50 - 39 - 71 - 21 - 34 - 85 - 12 - 10 - 1
 
 ## En Route
 

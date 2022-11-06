@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs de Korte Keten - Omgeving Poperinge"
 subtitle: "Met deze fietslus verken je de mooie omgeving van Poperinge op het Fietsnetwerk Westhoek"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Met deze fietslus verken je de mooie omgeving van Poperinge op het Fietsnetwerk Westhoek" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-omgeving-poperinge"
 gpx: "westtoer/fietsroute_4_6_2020_q3d4s.gpx"
 length: 46
+nodetype: "vlaams"
+nodes: "89"
 ---
 
 ## Let's Go !
@@ -30,7 +32,11 @@ Markt Poperinge.
 
 
 
-Je kan gratis parkeren op Parking Oudstrijdersplein. 
+Je kan gratis parkeren op Parking Oudstrijdersplein.
+
+## Signage
+
+40-90-80-74-73-91-95-89-13-22-30-55-59-60-4-69-70-92-98-68-67-66-26-42-46-40
 
 ## En Route
 

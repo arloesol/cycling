@@ -1,7 +1,7 @@
 ---
 title: "Fietsen langs Brouwerij Deca"
 subtitle: "Een fietstocht langs en door het mooie Woesten in Vleteren is helemaal de moeite waard wanneer je even halt houdt aan Brouwerij Deca"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Een fietstocht langs en door het mooie Woesten in Vleteren is helemaal de moeite waard wanneer je even halt houdt aan Brouwerij Deca" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-brouwerij-deca"
 gpx: "westtoer/fietsroute_29_5_2020_pfilt.gpx"
 length: 32
+nodetype: "vlaams"
+nodes: "20"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-knooppunt 31, Poperingestraat / Elzendammestraat in Woesten 
+knooppunt 31, Poperingestraat / Elzendammestraat in Woesten
+
+## Signage
+
+Knooppuntenbordjes van het Fietsnetwerk Westhoek
 
 ## En Route
 

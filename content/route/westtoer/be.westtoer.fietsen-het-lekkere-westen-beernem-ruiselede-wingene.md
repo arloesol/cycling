@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in Het Lekkere Westen - Beernem, Ruiselede, Wingene, ..."
 subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes," 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-beernem-ruiselede-wingene"
 gpx: "westtoer/fietsnet160425_0.gpx"
 length: 39
+nodetype: "vlaams"
+nodes: "9"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-starten aan knooppunt 29 (parking Aanwijs van Bulskampveld op kruising Reigerlostraaat/Heirweg te Beernem) 
+starten aan knooppunt 29 (parking Aanwijs van Bulskampveld op kruising Reigerlostraaat/Heirweg te Beernem)
+
+## Signage
+
+29-31-18-14-80-35-15-34-25-50-22-11-17-52-85-68-60-47-49-28-29
 
 ## En Route
 

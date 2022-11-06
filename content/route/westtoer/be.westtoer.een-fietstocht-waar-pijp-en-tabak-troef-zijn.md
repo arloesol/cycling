@@ -1,7 +1,7 @@
 ---
 title: "Een fietstocht waar pijp en tabak troef zijn"
 subtitle: "De streek rond Wervik is gekend voor zijn tabak"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De streek rond Wervik is gekend voor zijn tabak" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/een-fietstocht-waar-pijp-en-tabak-troef-zijn"
 gpx: "westtoer/tabaks_fietsroute_1.gpx"
 length: 50
+nodetype: "vlaams"
+nodes: "48"
 ---
 
 ## Let's Go !
@@ -24,7 +26,11 @@ De streek rond Wervik is gekend voor zijn tabak. De tabaksindustrie was er vroeg
 
 ## Start 
 
-Nationaal Tabaksmuseum - Koestraat 63 in Wervik 
+Nationaal Tabaksmuseum - Koestraat 63 in Wervik
+
+## Signage
+
+Zeshoekige bordjes - Tabaksroute
 
 ## En Route
 

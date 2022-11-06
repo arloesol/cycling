@@ -1,7 +1,7 @@
 ---
 title: "Literaire Lus met start in Ingooigem"
 subtitle: "Deze toeristisch-literaire fietsroute vormt een lus die het Lijsternest van Stijn Streuvels (Anzegem), het André Demedtshuis (Wielsbeke), en het René De Clercqmuseum (Deerlijk) met elkaar verbindt"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze toeristisch-literaire fietsroute vormt een lus die het Lijsternest van Stijn Streuvels (Anzegem), het André Demedtshuis (Wielsbeke), en het René De Clercqmuseum (Deerlijk) met elkaar verbindt" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/literaire-lus-met-start-ingooigem"
 gpx: "westtoer/literaire_lus.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "86"
 ---
 
 ## Let's Go !
@@ -26,6 +28,8 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 25 - Het Lijsternest, Stijn Streuvelstraat 25, 8570 Ingooigem 
+Knooppunt 25 - Het Lijsternest, Stijn Streuvelstraat 25, 8570 Ingooigem
 
+## Signage
 
+25 - 96 - 14 - 65 - 52 - 55 - 82 - 62 - 84 - 54 - 59 - 71 - 16 - 76 - 70 - 80 - 88 - 89 - 67 - 47 - 92 - 36 - 27 - 20 - 25

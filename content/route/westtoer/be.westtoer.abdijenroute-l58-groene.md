@@ -1,7 +1,7 @@
 ---
 title: "Abdijenroute L58 - Groene as"
 subtitle: "De Abdijenroute is het West-Vlaamse deel van de vroegere spoorweg van Brugge naar Eeklo"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Abdijenroute is het West-Vlaamse deel van de vroegere spoorweg van Brugge naar Eeklo" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/abdijenroute-l58-groene"
 gpx: "westtoer/fietsen_assebroek.gpx"
 length: 13
+nodetype: "vlaams"
+nodes: "69"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Baron Ruzettelaan 445, 8310 Steenbrugge 
+Baron Ruzettelaan 445, 8310 Steenbrugge
+
+## Signage
+
+De route is niet apart bewegwijzerd. Je kan wel de knooppunten van het fietsnetwerk volgen: 69 - 24 - 54 - 75 - 38 - 78.
 
 ## En Route
 

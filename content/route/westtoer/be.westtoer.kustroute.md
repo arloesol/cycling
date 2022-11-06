@@ -1,7 +1,7 @@
 ---
 title: "Kustroute"
 subtitle: "De Kustroute laat je fietsen naast het strand met zicht op zee, door unieke duinen en duinbossen, of langs polders en uitgestrekte slikken en schorren"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Kustroute laat je fietsen naast het strand met zicht op zee, door unieke duinen en duinbossen, of langs polders en uitgestrekte slikken en schorren" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/kustroute"
 gpx: "westtoer/kustroute_3.gpx"
 length: 85
+nodetype: "vlaams"
+nodes: "75,74,82,88,4,3,53,40,78,23,46,70,93,33,17,18,73,60,69,75,4,83,9,68,86,62,58,88,96,64,82,67,8,70,10,46,95,55,36,30,37,77,6,69,1,75"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ De Kustroute is een initiatief van Westtoer, de Vlaamse Provincies en Toerisme V
 
 ## Start 
 
-Meerdere startpunten. 
+Meerdere startpunten.
+
+## Signage
+
+Het traject is bewegwijzerd met rechthoekige bordjes in twee richtingen.
 
 ## En Route
 

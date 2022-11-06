@@ -1,7 +1,7 @@
 ---
 title: "Bulskampveldfietsroute"
 subtitle: "Deze fietsroute verkent de ruimere omgeving van het Bulskampveld, een parklandschap ten zuidoosten van Brugge, dat gedomineerd wordt door bossen en landgoederen"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze fietsroute verkent de ruimere omgeving van het Bulskampveld, een parklandschap ten zuidoosten van Brugge, dat gedomineerd wordt door bossen en landgoederen" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/bulskampveldfietsroute"
 gpx: "westtoer/bulskampveld_fietsroute_0.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
 ## Start 
 
-Parking Aanwijs, Reigerlostraat/Wingenesteenweg, 8730 Beernem 
+Parking Aanwijs, Reigerlostraat/Wingenesteenweg, 8730 Beernem
+
+## Signage
+
+De route is bewegwijzerd met zeshoekige bordjes.
 
 ## En Route
 

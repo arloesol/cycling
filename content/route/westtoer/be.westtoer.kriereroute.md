@@ -1,7 +1,7 @@
 ---
 title: "Kriereroute"
 subtitle: "De Kriereroute is een mountainbikeroute die je door Avelgem en Zwevegem brengt"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Kriereroute is een mountainbikeroute die je door Avelgem en Zwevegem brengt" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/kriereroute"
 gpx: "westtoer/kriere_atf_-_groen.gpx"
 length: 45
+nodetype: "vlaams"
+nodes: "96"
 ---
 
 ## Let's Go !
@@ -22,6 +24,4 @@ De Kriereroute is een mountainbikeroute die je door Avelgem en Zwevegem brengt. 
 
 ## Start 
 
-Sportcentrum Ter Muncken, Doorniksesteenweg 226, 8580 Avelgem 
-
-
+Sportcentrum Ter Muncken, Doorniksesteenweg 226, 8580 Avelgem

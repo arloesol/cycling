@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in het Lekkere Westen - De Leiestreek 3"
 subtitle: "Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-de-leiestreek-3"
 gpx: "westtoer/het_lekkere_westen_leiestreek_waregem.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "89"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Start aan de achterkant van het station van Waregem (Boulezlaan).  Fiets vervolgens 300 meter naar het zuidwesten tot aan knooppunt 67 
+Start aan de achterkant van het station van Waregem (Boulezlaan).  Fiets vervolgens 300 meter naar het zuidwesten tot aan knooppunt 67
+
+## Signage
+
+67-47-21-24-4-34-35-6-13-53-8-28-89-98-25-20-27-94-72-92-47-67
 
 ## En Route
 

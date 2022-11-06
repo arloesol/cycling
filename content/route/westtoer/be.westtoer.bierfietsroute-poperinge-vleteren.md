@@ -1,7 +1,7 @@
 ---
 title: "Bierfietsroute Poperinge - Vleteren"
 subtitle: "Via deze route kom je langs drie brouwerijen, maar vergeet ook niet halt te houden in een van de gezellige kroegen waar je de Westhoekbieren kan proeven"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Via deze route kom je langs drie brouwerijen, maar vergeet ook niet halt te houden in een van de gezellige kroegen waar je de Westhoekbieren kan proeven" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/bierfietsroute-poperinge-vleteren"
 gpx: "westtoer/fietsen_poperinge.gpx"
 length: 33
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Hopmuseum, Gasthuisstraat 71, 8970 Poperinge 
+Hopmuseum, Gasthuisstraat 71, 8970 Poperinge
+
+## Signage
+
+46-16-86-85-39-83-99-77-76-78-65-2-6-96-92-98-68-67-66-26-42-46
 
 ## En Route
 

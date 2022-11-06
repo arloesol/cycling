@@ -1,7 +1,7 @@
 ---
 title: "Fietsen in het Lekkere Westen - Oostkust en Hinterland"
 subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes," 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-oostkust-en-hinterland"
 gpx: "westtoer/fietsen_in_het_lekkere_westen_oostkust_2_nieuw_.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "14"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Aan knooppunt 80 (nabij station van Blankenberge) 
+Aan knooppunt 80 (nabij station van Blankenberge)
+
+## Signage
+
+80 - 76 - 26 - 30 - 96 - 40 - 88 - 78 - 11 - 81 - 86 - 77 - 32 - 58 - 52 - 39 - 20 - 22 - 95 - 34 - 31 - 16 - 80
 
 ## En Route
 

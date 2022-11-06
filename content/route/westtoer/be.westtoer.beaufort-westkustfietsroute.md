@@ -5,7 +5,7 @@ subtitle: "Werken Beaufort 21
 Touching To Sea You Through Our Extremities - Laure Prouvost
 
 Strand, Leopold I Esplanade, De Panne - 51"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Werken Beaufort 21
 
 Touching To Sea You Through Our Extremities - Laure Prouvost
@@ -22,6 +22,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/beaufort-westkustfietsroute"
 gpx: "westtoer/beaufort-21-westkust_0.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "50"
 ---
 
 ## Let's Go !
@@ -104,6 +106,8 @@ Ontdek meer
 
 ## Start 
 
-Bezoekerscentrum Duinpanne, Olmendreef 2, 8660 De Panne 
+Bezoekerscentrum Duinpanne, Olmendreef 2, 8660 De Panne
 
+## Signage
 
+Je fietst op het fietsnetwerk van De Kust aan de hand van knooppunten. Volg deze knooppunten: 50 - 76 - 74 - 88 - 96 - 64 - 82 - 67 - 8 - 7 - 98 - 66 - 58 - 62 - 65 - 59 - 84 - 1 - 50

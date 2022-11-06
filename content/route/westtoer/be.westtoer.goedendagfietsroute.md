@@ -1,7 +1,7 @@
 ---
 title: "Goedendagfietsroute"
 subtitle: "De Goedendagfietsroute in de omgeving van Kortrijk verrast op verschillende momenten"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "De Goedendagfietsroute in de omgeving van Kortrijk verrast op verschillende momenten" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/goedendagfietsroute"
 gpx: "westtoer/goedendag_fietsroute_0.gpx"
 length: 45
+nodetype: "vlaams"
+nodes: "75,1,69,57,28,12,62,29,65,61,31,92,32,97,35,36,43,23,86,63,39,84,94,16,99,47,13,10,68,61,9,18,59,1,75"
 ---
 
 ## Let's Go !
@@ -22,6 +24,8 @@ De Goedendagfietsroute in de omgeving van Kortrijk verrast op verschillende mome
 
 ## Start 
 
-Museum Kortrijk 1302, Begijnhofpark, 8500 Kortrijk 
+Museum Kortrijk 1302, Begijnhofpark, 8500 Kortrijk
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

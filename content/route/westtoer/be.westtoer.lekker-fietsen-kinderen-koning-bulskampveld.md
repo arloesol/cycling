@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Kinderen koning in Bulskampveld"
 subtitle: "Kidsproof op weg met volop speelplezier onderweg"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Kidsproof op weg met volop speelplezier onderweg" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-kinderen-koning-bulskampveld"
 gpx: "westtoer/kidsroute-1-kinderen-koning-in-bulskampveld.gpx"
 length: 22
+nodetype: "vlaams"
+nodes: "86"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan aan gemeentepark Disveld (Brandstraat), daarna doorfietsen tot knooppunt 86. 
+Starten kan aan gemeentepark Disveld (Brandstraat), daarna doorfietsen tot knooppunt 86.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 86 - 40 - 27 - 34 - 25 - 50 - 5 - 57 - 18 - 14 - 54 - 86
 
 ## En Route
 

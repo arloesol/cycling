@@ -1,7 +1,7 @@
 ---
 title: "Verrassende plekjes in de omgeving van Roeselare"
 subtitle: "Dit fietslusje verkent de gemeenten Roeselare, Izegem, Lendelede, Ledegem en Moorslede"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Dit fietslusje verkent de gemeenten Roeselare, Izegem, Lendelede, Ledegem en Moorslede" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/verrassende-plekjes-de-omgeving-van-roeselare"
 gpx: "westtoer/fietsen_roeselare.gpx"
 length: 49
+nodetype: "vlaams"
+nodes: "76"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Je start aan knooppunt 76, op het kruispunt van de Sterrebosdreef en de Moorseelsesteenweg, nabij het Provinciedomein Sterrebos. Je kan parkeren in de Sterrebosdreef. 
+Je start aan knooppunt 76, op het kruispunt van de Sterrebosdreef en de Moorseelsesteenweg, nabij het Provinciedomein Sterrebos. Je kan parkeren in de Sterrebosdreef.
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 76 - 40 - 95 - 50 - 20 - 14 - 42 - 64 - 60 - 30 - 44 - 96 - 45 - 75 - 5 - 61 - 63 - 69 - 39 - 76
 
 ## En Route
 

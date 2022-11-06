@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Kastelen en mosterd"
 subtitle: "Onderweg geniet je van de vele natuurplekjes, kastelen en de befaamde Mostaard Wostyn"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Onderweg geniet je van de vele natuurplekjes, kastelen en de befaamde Mostaard Wostyn" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-kastelen-en-mosterd"
 gpx: "westtoer/route-10-kastelen-en-mosterd.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "85"
 ---
 
 ## Let's Go !
@@ -28,7 +30,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan aan knooppunt 85 aan Kasteel Wijnendale (Oostendestraat 390, Torhout) 
+Starten kan aan knooppunt 85 aan Kasteel Wijnendale (Oostendestraat 390, Torhout)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 85 - 75 - 13 - 73 - 3 - 9 - 49 - 34 - 30 - 74 - 70 - 63 - 88 - 72 - 8 - 81 - 4 - 71 - 85
 
 ## En Route
 

@@ -1,7 +1,7 @@
 ---
 title: "Lekker fietsen: Dwars door Bulskampveld"
 subtitle: "Geniet van het groene decor van het Landschapspark Bulskampveld"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Geniet van het groene decor van het Landschapspark Bulskampveld" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-dwars-door-bulskampveld"
 gpx: "westtoer/route-8-dwars-door-bulskampveld.gpx"
 length: 50
+nodetype: "vlaams"
+nodes: "29"
 ---
 
 ## Let's Go !
@@ -28,7 +30,13 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Starten kan bij knooppunt 29 (Kruispunt Reigerlostraat met Heirweg in Beernem) 
+Starten kan bij knooppunt 29 (Kruispunt Reigerlostraat met Heirweg in Beernem)
+
+## Signage
+
+Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten: 29 - 31 - 55 - 39 - 54 - 14 - 80 - 35 - 15 - 34 - 25 - 50 - 22 - 11 - 60 - 47 - 32 - 28 - 49  - 47 - 60 - 68 - 64 - 53 - 76 - 88 - 59 - 63 - 44 - 23 - 20 - 29
+
+(deze route kan ook opgesplitst worden in 2 kleinere lussen)
 
 ## En Route
 

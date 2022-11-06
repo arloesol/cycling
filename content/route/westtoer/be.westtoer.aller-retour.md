@@ -3,7 +3,7 @@ title: "Aller-Retour"
 subtitle: "Fietsroute 14-18
 
 De fietsroute volgt de moeizame tocht van de soldaten van het grote legerkantonnement Alveringem naar de Dodengang in de sector Diksmuide, heen en terug"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Fietsroute 14-18
 
 De fietsroute volgt de moeizame tocht van de soldaten van het grote legerkantonnement Alveringem naar de Dodengang in de sector Diksmuide, heen en terug" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/aller-retour"
 gpx: "westtoer/aller-retourfietsroute.gpx"
 length: 37
+nodetype: "vlaams"
+nodes: "69"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ De fietsroute volgt de moeizame tocht van de soldaten van het grote legerkantonn
 
 ## Start 
 
-Hof van Wyckhuize, Sint-Rijkersstraat 19, 8690 Alveringem - Museum aan de IJzer, IJzerdijk 49, 8600 Diksmuide - Toeristische Dienst, Markt 17a, 8647 Lo-Reninge 
+Hof van Wyckhuize, Sint-Rijkersstraat 19, 8690 Alveringem - Museum aan de IJzer, IJzerdijk 49, 8600 Diksmuide - Toeristische Dienst, Markt 17a, 8647 Lo-Reninge
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.

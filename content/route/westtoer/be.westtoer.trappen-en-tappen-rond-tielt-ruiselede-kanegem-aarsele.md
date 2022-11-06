@@ -1,7 +1,7 @@
 ---
 title: "Trappen en Tappen rond Tielt-Ruiselede-Kanegem-Aarsele"
 subtitle: "Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/trappen-en-tappen-rond-tielt-ruiselede-kanegem-aarsele"
 gpx: "westtoer/fietsen_tielt.gpx"
 length: 24
+nodetype: "vlaams"
+nodes: "48"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplann
 
 ## Start 
 
-Knooppunt 48 (Markt Tielt) 
+Knooppunt 48 (Markt Tielt)
+
+## Signage
+
+Volg deze knooppunten: 48-45-77-64-44-70-30-49-69-62-53-55-72-32-48
 
 ## En Route
 

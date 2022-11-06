@@ -1,7 +1,7 @@
 ---
 title: "Trappen rond Kortrijk, de fietshoofdstad van de provincie"
 subtitle: "Kortrijk werkt de laatste jaren aan een groen gordijn rond zijn grenzen"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Kortrijk werkt de laatste jaren aan een groen gordijn rond zijn grenzen" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/trappen-rond-kortrijk-de-fietshoofdstad-van-de-provincie"
 gpx: "westtoer/gpx_fietslus_rond_kortrijk.gpx"
 length: 35
+nodetype: "vlaams"
+nodes: "46"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ TIP: Op en vlakbij deze fietslus vind je verschillende creatieve ondernemers. On
 
 ## Start 
 
-Knooppunt 95 - thv Transfo Zwevegem 
+Knooppunt 95 - thv Transfo Zwevegem
+
+## Signage
+
+Fietsnetwerkbordjes
 
 ## En Route
 

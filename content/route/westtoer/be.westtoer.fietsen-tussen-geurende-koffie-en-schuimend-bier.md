@@ -1,7 +1,7 @@
 ---
 title: "Fietsen tussen geurende koffie en schuimend bier"
 subtitle: "Koffie, fietsen en eindigen met een biertje"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Koffie, fietsen en eindigen met een biertje" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsen-tussen-geurende-koffie-en-schuimend-bier"
 gpx: "westtoer/fietsen_tussen_geurende_koffie_en_schuimend_bier_langemark-poelkapelle_houthulst.gpx"
 length: 43
+nodetype: "vlaams"
+nodes: "69"
 ---
 
 ## Let's Go !
@@ -26,7 +28,11 @@ Ontdek nog meer 'de grote goesting' fietsroutes via deze [link](https://www.west
 
 ## Start 
 
-Deze route start aan Bistro De Koornbloem, Markt 30, Langemark 
+Deze route start aan Bistro De Koornbloem, Markt 30, Langemark
+
+## Signage
+
+De route is uitgetekend op het fietsnetwerk Westhoek. Volg de knooppunten 27 – 28 – 62 – 83 – 50 – 60 – 53 – 54 – 63 – 5 – 8 – 75 – 20 – 42 – 22 - 27
 
 ## En Route
 

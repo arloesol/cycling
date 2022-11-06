@@ -1,7 +1,7 @@
 ---
 title: "Flirten met de Nederlandse grens in Knokke-Heist"
 subtitle: "Een fietstocht naar het volgende niveau tillen"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Een fietstocht naar het volgende niveau tillen" 
 tags:
   - flanders
@@ -14,6 +14,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/flirten-met-de-nederlandse-grens-knokke-heist"
 gpx: "westtoer/fietsen_heist.gpx"
 length: 27
+nodetype: "vlaams"
+nodes: "46"
 ---
 
 ## Let's Go !
@@ -30,7 +32,11 @@ Het WK Tijdrijden gaat door van 18 tem 22 september in zowel Brugge, Damme als K
 
 ## Start 
 
-Starten kan je ter hoogte van knooppunt 13 (Anemos Beachclub ter hoogte van Anemonenlaan en Zeedijk) of knooppunt 86 aan de ingang van het Zwin Natuur Park. 
+Starten kan je ter hoogte van knooppunt 13 (Anemos Beachclub ter hoogte van Anemonenlaan en Zeedijk) of knooppunt 86 aan de ingang van het Zwin Natuur Park.
+
+## Signage
+
+13 – 68 – 45 – 4 – 18 – 86 – 29 – 30 – 50- - 59 – 52 – 73 – 33 – 62 – 39 – 13
 
 ## En Route
 

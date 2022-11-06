@@ -3,7 +3,7 @@ title: "Gifgas"
 subtitle: "Fietsroute 14-18
 
 Op 22 april 1915 openen Duitse troepen ongeveer 6000 gasflessen gevuld met chloorgas over een 6 km lange frontlijn tussen de Stampkothoeve en ‘t Halfweghe huys"
-date: "2022-11-05"
+date: "2022-11-06"
 description: "Fietsroute 14-18
 
 Op 22 april 1915 openen Duitse troepen ongeveer 6000 gasflessen gevuld met chloorgas over een 6 km lange frontlijn tussen de Stampkothoeve en ‘t Halfweghe huys" 
@@ -18,6 +18,8 @@ source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/gifgas"
 gpx: "westtoer/gifgas_14-18_fietsroute.gpx"
 length: 41
+nodetype: "vlaams"
+nodes: "9"
 ---
 
 ## Let's Go !
@@ -28,6 +30,8 @@ Op 22 april 1915 openen Duitse troepen ongeveer 6000 gasflessen gevuld met chloo
 
 ## Start 
 
-Gemeentehuis, Kasteelstraat 1, 8920 Langemark-Poelkapelle 
+Gemeentehuis, Kasteelstraat 1, 8920 Langemark-Poelkapelle
 
+## Signage
 
+De route is bewegwijzerd met zeshoekige bordjes.
