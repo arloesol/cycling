@@ -86,7 +86,7 @@ func imgname(url string, route *Route, side string) string {
 }
 
 func imgattr2imgname(url string, attr string) string {
-	// using attr for filename and url for extension
+	// using attr for base of filename and url for extension
 	ext := FileExt(url)
 	base := URLend(attr)
 	base = strings.Split(base, "?")[0]

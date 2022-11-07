@@ -19,7 +19,7 @@ type Route struct {
 	Subtitle    string      // Other short info
 	Description string      // Description of route page
 	Gpxfile     string      // gpx filename
-	Nodes       []string    // list of nodes
+	Nodes       []string    // list of nodes - nodestring is like "32,44,71,33"
 	Startpunt   string      // text describing startpoint
 	Content     string      // general page content
 	ContLinks   [][2]string // Anchorlinks related to Content : 0:txt and 1:url
