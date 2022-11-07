@@ -21,8 +21,8 @@ var (
 	gpxfile          = ""
 	content          = ""
 	routeurl         = ""
-	spaceStartLineRE = regexp.MustCompile("\\n[ \\t]*")
-	NewLineRE        = regexp.MustCompile("\\n+")
+	spaceStartLineRE = regexp.MustCompile(`\n[ \t]*`)
+	NewLineRE        = regexp.MustCompile(`\n+`)
 	poititle         = ""
 	poisubtitle      = ""
 	poidesc          = ""

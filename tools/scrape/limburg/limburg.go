@@ -8,8 +8,6 @@ import (
 	"time"
 
 	"github.com/gocolly/colly"
-	"golang.org/x/text/cases"
-	"golang.org/x/text/language"
 )
 
 var (
@@ -21,15 +19,12 @@ var (
 	longdescription  = ""
 	length           = ""
 	gpxfile          = ""
-	nodes            = []string{}
 	startpunt        = ""
 	content          = ""
 	routeurl         = ""
-	sideimages       = 0
-	spaceStartLineRE = regexp.MustCompile("\\n[ \\t]*")
-	NewLineRE        = regexp.MustCompile("\\n+")
-	NodesRE          = regexp.MustCompile(" |\\.")
-	caser            = cases.Title(language.English)
+	spaceStartLineRE = regexp.MustCompile(`\n[ \t]*`)
+	NewLineRE        = regexp.MustCompile(`\n+`)
+	NodesRE          = regexp.MustCompile(` |\.`)
 	poiurl           = ""
 	poialt           = ""
 	poiimgurl        = ""
@@ -130,12 +125,12 @@ func main() {
 		// fmt.Println(poititle, poidesc, poialt, poiimgurl, poiurl)
 		contentfmt := `### %s
 
-{{%% imgandtxt url="%s" extlink="%s" %%}}
+{{%% imgandtxt url="%s" extlink="%s" alt="%s" %%}}
 %s
 {{%% /imgandtxt %%}}
 
 `
-		content += fmt.Sprintf(contentfmt, poititle, poiimgurl, poiurl, poidesc)
+		content += fmt.Sprintf(contentfmt, poititle, poiimgurl, poiurl, poialt, poidesc)
 	})
 
 	// save gpx or image files

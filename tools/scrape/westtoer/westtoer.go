@@ -30,9 +30,9 @@ var (
 	startpunt        = ""
 	bewegwijzering   = ""
 	content          = ""
-	spaceStartLineRE = regexp.MustCompile("\\n[ \\t]*")
-	NewLineRE        = regexp.MustCompile("\\n+")
-	NodesRE          = regexp.MustCompile(" |\\.")
+	spaceStartLineRE = regexp.MustCompile(`\n[ \t]*`)
+	NewLineRE        = regexp.MustCompile(`\n+`)
+	NodesRE          = regexp.MustCompile(` |\.`)
 	NodeTxtRE        = regexp.MustCompile(": [ 1023456789–]+")
 	caser            = cases.Title(language.English)
 	poiimgurl        = ""
