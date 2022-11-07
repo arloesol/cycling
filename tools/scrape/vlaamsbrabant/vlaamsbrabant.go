@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"math"
 	"regexp"
 	"strings"
 
@@ -35,10 +36,15 @@ type RouteList struct {
 var (
 	cfg = lib.Cfg{
 		Pagetoparse: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/diepensteyn-fietsroute/index.html",
-		Savegpx:     true,
-		Saveimg:     true,
-		Source:      "vlaamsbrabant",
-		Srcpfx:      "be.vlaamsbrabant.",
+		//	Pagetoparse: "",
+		Savegpx:    false,
+		Saveimg:    false,
+		Source:     "vlaamsbrabant",
+		Srcpfx:     "be.vlaamsbrabant.",
+		Tags:       []string{"flanders"},
+		Categories: []string{"official"},
+		Region:     "flanders",
+		NodeType:   "flanders",
 	}
 	route lib.Route
 
@@ -58,14 +64,9 @@ func main() {
 			route.Content += txtfragment + "\n\n"
 			nodeprefix := "Volg de knooppunten:"
 			if strings.HasPrefix(txtfragment, nodeprefix) {
-				// vb: Volg de knooppunten: 61 - 25 - 62 - 84 - 85 - 88 - 24 - 23 - 64 - 15 - 21 - 18 - 58 - 69 - 61.
-				nodetxt := txtfragment[len(nodeprefix):]
-				nodetxt = NodesRE.ReplaceAllString(nodetxt, "") // remove " " and "."
-				route.Nodes = strings.Split(nodetxt, "-")
-				// fmt.Println("nodes: ", nodes)
+				lib.TxttoNodes(txtfragment[len(nodeprefix):], &route)
 			}
 		})
-		// fmt.Println(content)
 	})
 
 	// get gpx file details
@@ -87,11 +88,10 @@ func main() {
 
 	// get side images
 	c.OnHTML("div.pdintro__details > ul.pdintro__medialist > li.pdintro__media > img", func(e *colly.HTMLElement) {
-		// fmt.Println("got a side image", e.Attr("src"))
-		lib.SaveIMGanchor(c, e, cfg, &route, '1')
+		lib.SaveIMGanchor(c, e, cfg, &route, "src", "1")
 	})
 
-	c.OnResponse(lib.SaveOnResponse)
+	c.OnResponse(lib.SaveOnResponse(cfg))
 
 	getFietsRoutes()
 
@@ -100,9 +100,9 @@ func main() {
 		route = lib.Emptyroute
 		route.Routeurl = "https://www.toerismevlaamsbrabant.be" + info.URL
 		if cfg.Pagetoparse == "" || cfg.Pagetoparse == route.Routeurl {
-			route.Title = strings.ReplaceAll(info.Title, " ", "_")
-			route.Name = cfg.Srcpfx + route.Title
-			route.Length = fmt.Sprintf("%.f", info.Distances[0])
+			route.Title = info.Title
+			lib.Routename(cfg, &route, strings.ReplaceAll(info.Title, " ", "_"))
+			route.Length = int(math.Round(info.Distances[0]))
 			route.Description = info.Summary
 			lib.Mkdirs(cfg, route)
 			c.Visit(route.Routeurl)
@@ -113,7 +113,7 @@ func main() {
 }
 
 func getMainImage(url string, c *colly.Collector) {
-	lib.SaveIMG(c, "https://www.toerismevlaamsbrabant.be"+url, cfg, &route, '0')
+	lib.SaveIMG(c, "https://www.toerismevlaamsbrabant.be"+url, cfg, &route, "0")
 }
 
 func getFietsRoutes() {

@@ -6,4 +6,8 @@ type Cfg struct {
 	Saveimg     bool
 	Source      string
 	Srcpfx      string
+	Tags        []string
+	Categories  []string
+	Region      string
+	NodeType    string
 }
