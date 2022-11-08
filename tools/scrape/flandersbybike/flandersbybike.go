@@ -9,15 +9,15 @@ import (
 
 var (
 	cfg = lib.Cfg{
-		//Pagetoparse: "",
-		Pagetoparse: "https://www.flandersbybike.com/coastal-route",
-		Savegpx:     true,
-		Saveimg:     true,
-		Source:      "flandersbybike",
-		Srcpfx:      "com.flandersbybike.",
-		Tags:        []string{"flanders"},
-		Categories:  []string{"official"},
-		Region:      "flanders",
+		Pagetoparse: "",
+		//Pagetoparse: "https://www.flandersbybike.com/coastal-route",
+		Savegpx:    true,
+		Saveimg:    true,
+		Source:     "flandersbybike",
+		Srcpfx:     "com.flandersbybike.",
+		Tags:       []string{"flanders"},
+		Categories: []string{"official"},
+		Region:     "flanders",
 	}
 	route lib.Route
 )

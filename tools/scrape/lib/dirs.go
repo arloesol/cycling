@@ -9,6 +9,7 @@ var (
 	imgdir        string
 	imggallerydir string
 	routedir      string
+	logdir        string
 )
 
 func Mkalldirs(cfg Cfg) {

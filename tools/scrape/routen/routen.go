@@ -10,16 +10,16 @@ import (
 
 var (
 	cfg = lib.Cfg{
-		//Pagetoparse: "",
-		Pagetoparse: "https://www.routen.be/langs-gentse-wateren-fietsroute",
-		Savegpx:     true,
-		Saveimg:     true,
-		Source:      "routen",
-		Srcpfx:      "be.routen.",
-		Tags:        []string{"flanders"},
-		Categories:  []string{"official"},
-		Region:      "flanders",
-		NodeType:    "flanders",
+		Pagetoparse: "",
+		//Pagetoparse: "https://www.routen.be/langs-gentse-wateren-fietsroute",
+		Savegpx:    true,
+		Saveimg:    true,
+		Source:     "routen",
+		Srcpfx:     "be.routen.",
+		Tags:       []string{"flanders"},
+		Categories: []string{"official"},
+		Region:     "flanders",
+		NodeType:   "flanders",
 	}
 	route lib.Route
 
@@ -52,7 +52,7 @@ func main() {
 		if cfg.Pagetoparse == "" || route.Routeurl == cfg.Pagetoparse {
 			lib.Mkdirs(cfg, route)
 			lib.LogInfo.Println("Visiting", route.Routeurl)
-			c.Request("GET", route.Routeurl, nil, nil, nil)
+			e.Request.Visit(route.Routeurl)
 		}
 	})
 
@@ -96,7 +96,9 @@ func main() {
 
 	// route page scrape -> create route .md page
 	c.OnScraped(func(r *colly.Response) {
-		lib.Routepage(cfg, route)
+		if r.Request.Depth == 2 {
+			lib.Routepage(cfg, route)
+		}
 	})
 
 	// visit all route ovv pages until there are no more (routes)

@@ -9,16 +9,16 @@ import (
 
 var (
 	cfg = lib.Cfg{
-		//Pagetoparse: "",
-		Pagetoparse: "https://www.westtoer.be/nl/vivelevelo-rood",
-		Savegpx:     true,
-		Saveimg:     true,
-		Source:      "westtoer",
-		Srcpfx:      "be.westtoer.",
-		Tags:        []string{"flanders"},
-		Categories:  []string{"official"},
-		Region:      "flanders",
-		NodeType:    "flanders",
+		Pagetoparse: "",
+		//Pagetoparse: "https://www.westtoer.be/nl/vivelevelo-rood",
+		Savegpx:    true,
+		Saveimg:    true,
+		Source:     "westtoer",
+		Srcpfx:     "be.westtoer.",
+		Tags:       []string{"flanders"},
+		Categories: []string{"official"},
+		Region:     "flanders",
+		NodeType:   "flanders",
 	}
 	route lib.Route
 )
@@ -36,6 +36,7 @@ func main() {
 			route.Routeurl = e.Request.AbsoluteURL(e.Attr("href"))
 			lib.Routename(cfg, &route, lib.URLend(route.Routeurl))
 			if cfg.Pagetoparse == "" || cfg.Pagetoparse == route.Routeurl {
+				lib.LogInfo.Println("Visiting", route.Routeurl)
 				lib.Mkdirs(cfg, route)
 				e.Request.Visit(route.Routeurl)
 			}

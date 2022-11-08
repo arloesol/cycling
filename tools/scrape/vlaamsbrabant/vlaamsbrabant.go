@@ -34,16 +34,16 @@ type RouteList struct {
 
 var (
 	cfg = lib.Cfg{
-		Pagetoparse: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/diepensteyn-fietsroute/index.html",
-		//	Pagetoparse: "",
-		Savegpx:    false,
-		Saveimg:    false,
-		Source:     "vlaamsbrabant",
-		Srcpfx:     "be.vlaamsbrabant.",
-		Tags:       []string{"flanders"},
-		Categories: []string{"official"},
-		Region:     "flanders",
-		NodeType:   "flanders",
+		//Pagetoparse: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/zoete-velproute/index.html",
+		Pagetoparse: "",
+		Savegpx:     true,
+		Saveimg:     true,
+		Source:      "vlaamsbrabant",
+		Srcpfx:      "be.vlaamsbrabant.",
+		Tags:        []string{"flanders"},
+		Categories:  []string{"official"},
+		Region:      "flanders",
+		NodeType:    "flanders",
 	}
 	route lib.Route
 
@@ -100,7 +100,11 @@ func main() {
 		if cfg.Pagetoparse == "" || cfg.Pagetoparse == route.Routeurl {
 			route.Title = info.Title
 			lib.Routename(cfg, &route, strings.ReplaceAll(info.Title, " ", "_"))
-			route.Length = int(math.Round(info.Distances[0]))
+			if len(info.Distances) > 0 {
+				route.Length = int(math.Round(info.Distances[0]))
+			} else {
+				route.Length = 0
+			}
 			route.Description = info.Summary
 			lib.Mkdirs(cfg, route)
 			lib.LogInfo.Println("Visiting", route.Routeurl)

@@ -10,16 +10,16 @@ import (
 
 var (
 	cfg = lib.Cfg{
-		//Pagetoparse: "",
-		Pagetoparse: "https://www.visitlimburg.be/en/route/cross-border-cycling-along-meuse-river",
-		Savegpx:     true,
-		Saveimg:     true,
-		Source:      "limburg",
-		Srcpfx:      "be.visitlimburg.",
-		Tags:        []string{"flanders"},
-		Categories:  []string{"official"},
-		Region:      "flanders",
-		NodeType:    "flanders",
+		Pagetoparse: "",
+		//Pagetoparse: "https://www.visitlimburg.be/en/route/cross-border-cycling-along-meuse-river",
+		Savegpx:    true,
+		Saveimg:    true,
+		Source:     "limburg",
+		Srcpfx:     "be.visitlimburg.",
+		Tags:       []string{"flanders"},
+		Categories: []string{"official"},
+		Region:     "flanders",
+		NodeType:   "flanders",
 	}
 	route lib.Route
 
@@ -42,7 +42,7 @@ func main() {
 				if cfg.Pagetoparse == "" || cfg.Pagetoparse == route.Routeurl {
 					lib.Mkdirs(cfg, route)
 					lib.LogInfo.Println("Visiting", route.Routeurl)
-					c.Request("GET", route.Routeurl, nil, nil, nil)
+					e.Request.Visit(route.Routeurl)
 				}
 			}
 		})

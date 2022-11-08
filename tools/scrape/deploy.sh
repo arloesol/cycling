@@ -1,18 +1,18 @@
-echo "moving gpx files"
-cd gpx || exit 1
-find . -type d -empty -delete
-mv * $GITDIR/static/gpxfiles/
-cd ..
-echo "moving img files"
-cd img || exit 2
-find . -type d -empty -delete
-mv gallery/* $GITDIR/assets/routes/gallery/
-mkdir $GITDIR/assets/signage
-mv signage/* $GITDIR/assets/signage/
-cd ..
-echo "moving route pages"
-cd route
-find . -type f -empty -delete
-mv * $GITDIR/content/route/
-cd ..
-echo "done"
+#!/usr/bin/env bash
+cd $GITDIR/data
+
+declare -A prefixes
+prefixes[flandersbybike]="com.flandersbybike"
+prefixes[limburg]="be.visitlimburg"
+prefixes[routen]="be.routen"
+prefixes[vlaamsbrabant]="be.vlaamsbrabant"
+prefixes[westtoer]="be.westtoer"
+
+for dir in *; do
+  prefix=${prefixes[$dir]} 
+  printf "making a backup of $dir - $prefix\n"
+  routedir=$GITDIR/content/route/$dir
+  imgpfx=$GITDIR/assets/routes/gallery/$prefix.
+  gpxdir=$GITDIR/static/gpxfiles/$dir
+  tar cvfz $GITDIR/bak/$dir.$(date +%s).tgz $routedir $gpxdir $imgpfx*
+done

@@ -76,10 +76,11 @@ func poicontent(route Route) string {
 
 func Routepage(cfg Cfg, route Route) {
 	if route.Gpxfile == "" { // no gpx file - no route page on our site
+		LogWarning.Println("no gpx - skipping route", route.Name)
 		Rmdirs(cfg, route)
 	} else {
 
-		f, _ := os.Create("route/" + cfg.Source + "/" + route.Name + ".md")
+		f, _ := os.Create(routedir + "/" + route.Name + ".md")
 		defer f.Close()
 		mdContent := `---
 title: "%s"
@@ -110,6 +111,7 @@ length: %d%s
 		if route.POIs != nil {
 			route.Content += poicontent(route)
 		}
+		LogInfo.Println("Create route page", route.Name)
 		f.WriteString(fmt.Sprintf(mdContent,
 			route.Title, route.Subtitle, route.Date, route.Description,
 			cfg.Region, cfg.Srcpfx[:len(cfg.Srcpfx)-1],
