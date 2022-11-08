@@ -45,7 +45,7 @@ func main() {
 
 		if e.Request.Depth == 2 {
 			if strings.Contains(e.Text, "GPX") {
-				lib.SaveGPX(c, e, cfg, &route)
+				lib.SaveGPX(c, e, cfg, &route, "Attr-href")
 			}
 		}
 	})

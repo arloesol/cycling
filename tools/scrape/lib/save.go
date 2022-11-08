@@ -12,12 +12,16 @@ func Routename(cfg Cfg, route *Route, name string) {
 	route.Name = cfg.Srcpfx + name
 }
 
-func SaveGPX(c *colly.Collector, e *colly.HTMLElement, cfg Cfg, route *Route) {
+func SaveGPX(c *colly.Collector, e *colly.HTMLElement, cfg Cfg, route *Route, url string) {
 	route.Gpxfile = route.Shortname + ".gpx"
 	if cfg.Savegpx {
 		ctx := colly.NewContext()
 		ctx.Put("filename", "gpx/"+cfg.Source+"/"+route.Gpxfile)
-		c.Request("GET", e.Request.AbsoluteURL(e.Attr("href")), nil, ctx, nil)
+		if strings.HasPrefix(url, "Attr-") {
+			url = e.Request.AbsoluteURL(e.Attr(url[5:]))
+		}
+		c.Request("GET", url, nil, ctx, nil)
+
 	}
 }
 

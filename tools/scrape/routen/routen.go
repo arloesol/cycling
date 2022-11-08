@@ -2,138 +2,102 @@ package main
 
 import (
 	"fmt"
-	"os"
-	"regexp"
 	"strings"
-	"time"
 
+	"cycling.io/m/v2/lib"
 	"github.com/gocolly/colly"
 )
 
 var (
-	routenbr         = 0
-	date             = ""
-	name             = ""
-	title            = ""
-	description      = ""
-	longdescription  = ""
-	length           = ""
-	gpxfile          = ""
-	content          = ""
-	routeurl         = ""
-	spaceStartLineRE = regexp.MustCompile(`\n[ \t]*`)
-	NewLineRE        = regexp.MustCompile(`\n+`)
-	poititle         = ""
-	poisubtitle      = ""
-	poidesc          = ""
-	poiimgurl        = ""
+	cfg = lib.Cfg{
+		//Pagetoparse: "",
+		Pagetoparse: "https://www.routen.be/langs-gentse-wateren-fietsroute",
+		Savegpx:     true,
+		Saveimg:     true,
+		Source:      "routen",
+		Srcpfx:      "be.routen.",
+		Tags:        []string{"flanders"},
+		Categories:  []string{"official"},
+		Region:      "flanders",
+		NodeType:    "flanders",
+	}
+	route lib.Route
+
+	routenbr = 0
 )
 
 func main() {
 	c := colly.NewCollector()
 
-	date = time.Now().UTC().Format("2006-01-02")
-
-	os.Mkdir("gpx", 0750)
-	os.Mkdir("gpx/routen", 0750)
-	os.Mkdir("route", 0750)
-	os.Mkdir("route/routen", 0750)
-	os.Mkdir("img", 0750)
+	lib.Mkalldirs(cfg)
 
 	// route page urls from overview page
 	c.OnHTML("div.view-content > div > div > article > div", func(e *colly.HTMLElement) {
+		route = lib.Emptyroute
 		// short description - Title
 		e.ForEach("div.carousel__title > h3", func(nbr int, e *colly.HTMLElement) {
-			description = cleanupTxt(e.Text)
+			route.Description = lib.CleanTxt(e.Text)
 		})
 		// length
 		e.ForEach("div.carousel__property.fas.fa-ruler > span.route-lengt", func(nbr int, e *colly.HTMLElement) {
-			length = strings.TrimSpace(strings.Split(e.Text, ",")[0])
+			route.Length = lib.TxttoInt(e.Text)
 		})
 		// route page url
 		e.ForEach("div.carousel__link > a", func(nbr int, e *colly.HTMLElement) {
-			routeurl = e.Request.AbsoluteURL(e.Attr("href"))
-			title = e.Attr("href")[1:]
+			route.Routeurl = e.Request.AbsoluteURL(e.Attr("href"))
+			lib.Routename(cfg, &route, e.Attr("href")[1:])
+			route.Title = lib.NametoTitle(e.Attr("href")[1:])
 		})
-		fmt.Println("route:", title, description, length, "km", routeurl)
-		name = "be.routen." + title
 		routenbr += 1
-		content = ""
-		gpxfile = ""
-		os.Mkdir("img/gallery/"+name, 0750)
-		c.Request("GET", routeurl, nil, nil, nil)
+		if cfg.Pagetoparse == "" || route.Routeurl == cfg.Pagetoparse {
+			fmt.Println("route:", route.Routeurl)
+			lib.Mkdirs(cfg, route)
+			c.Request("GET", route.Routeurl, nil, nil, nil)
+		}
 	})
 
-	//longdescription
+	// main content
 	c.OnHTML("#route-content > div > div > div > p", func(e *colly.HTMLElement) {
-		longdescription = cleanupTxt(e.Text)
-		longdescription = strings.ReplaceAll(longdescription, "\"", "")
-		fmt.Println(longdescription)
+		route.Content = strings.ReplaceAll(lib.CleanTxt(e.Text), "\"", "")
+		route.Description = lib.Firstline((route.Content))
 	})
 
 	// gpx file
 	c.OnHTML("#main-content > div.node.node--type-route.node--view-mode-full.ds-1col.clearfix > div.field.field--name-route-header.field--type-ds.field--label-hidden.field__item > div > div > div.full-map__left > div.full-map__header > div > div > div.field.field--name-route-actions.field--type-ds.field--label-hidden.field__item > a", func(e *colly.HTMLElement) {
 		downloadsdir := e.Attr("href")
 		downloadsdir = downloadsdir[:len(downloadsdir)-1]
-		gpxurl := e.Request.AbsoluteURL(downloadsdir + "/gpx")
-		gpxfile = title + ".gpx"
-		ctx := colly.NewContext()
-		ctx.Put("filename", "gpx/routen/"+gpxfile)
-		fmt.Println("got gpx download dir", gpxurl)
-		c.Request("GET", e.Request.AbsoluteURL(gpxurl), nil, ctx, nil)
+		lib.SaveGPX(c, e, cfg, &route, e.Request.AbsoluteURL(downloadsdir+"/gpx"))
 	})
 
 	// route segments/POI
 	c.OnHTML("#main-content > div.node.node--type-route.node--view-mode-full.ds-1col.clearfix > div.container.route-description > div > div > article", func(e *colly.HTMLElement) {
-		poititle = ""
-		poisubtitle = ""
-		poidesc = ""
-		poiimgurl = ""
+		poi := lib.RoutePOI{}
 		// main title
 		e.ForEach("h3", func(nbr int, e *colly.HTMLElement) {
-			poititle = e.Text
+			poi.Title = e.Text
 		})
 		// subtitle
 		e.ForEach("em", func(nbr int, e *colly.HTMLElement) {
-			poisubtitle = strings.TrimSpace(e.Text) + "\n\n"
+			poi.Content = strings.TrimSpace(e.Text) + "\n\n"
 		})
 		// POI/segment description
 		e.ForEach("section > div.route-segment__description > p", func(nbr int, e *colly.HTMLElement) {
-			poidesc = strings.TrimSpace(e.Text)
+			poi.Content += strings.TrimSpace(e.Text)
 		})
 		// image
 		e.ForEach("section > div.route-segment__media > div > div", func(nbr int, e *colly.HTMLElement) {
-			poiimgurl = strings.Split(e.Attr("data-flickity-bg-lazyload"), "?")[0]
+			poi.Imgurl = strings.Split(e.Attr("data-flickity-bg-lazyload"), "?")[0]
 		})
-		contentfmt := `### %s
-
-{{%% imgandtxt url="%s" %%}}
-%s%s
-{{%% /imgandtxt %%}}
-
-`
-		if poidesc != "" {
-			if poiimgurl != "" {
-				content += fmt.Sprintf(contentfmt, poititle, poiimgurl, poisubtitle, poidesc)
-			} else {
-				content += fmt.Sprintf("### %s\n\n%s%s\n\n", poititle, poisubtitle, poidesc)
-			}
-		}
+		route.POIs = append(route.POIs, poi)
 	})
 
 	// save gpx file
-	c.OnResponse(func(r *colly.Response) {
-		filename := r.Ctx.Get("filename")
-		if filename != "" {
-			fmt.Println("saving file", filename)
-			r.Save(filename)
-		}
-	})
+	c.OnResponse(lib.SaveOnResponse(cfg))
 
 	// route page scrape -> create route .md page
 	c.OnScraped(func(r *colly.Response) {
-		if gpxfile != "" {
-			createRoutePage()
+		if route.Gpxfile != "" {
+			lib.Routepage(cfg, route)
 		}
 	})
 
@@ -146,50 +110,4 @@ func main() {
 		c.Visit(ovvurl)
 	}
 
-}
-
-func createRoutePage() {
-	f, _ := os.Create("route/routen/" + name + ".md")
-	defer f.Close()
-	mdContent := `---
-title: "%s"
-subtitle: "%s"
-date: "%s"
-description: "%s"
-tags:
-- flanders
-- medium
-categories:
-- route
-- official
-region: "flanders"
-source: "be.routen"
-ext_url: "%s"
-gpx: "routen/%s"
-length: %s
----
-
-## Let's Go!
-
-%s
-
-## On Route
-
-%s
-`
-	f.WriteString(fmt.Sprintf(mdContent, description, firstline(longdescription), date, description, routeurl, gpxfile, length, longdescription, content))
-}
-
-func cleanupTxt(s string) string {
-	s = strings.ReplaceAll(s, "\n", "\n\n")
-	s = strings.ReplaceAll(s, " ", " ")
-	s = spaceStartLineRE.ReplaceAllString(s, "\n")
-	s = NewLineRE.ReplaceAllString(s, "\n\n")
-	s = strings.TrimSpace(s)
-
-	return s
-}
-
-func firstline(s string) string {
-	return strings.Split(strings.Split(s, ".")[0], ":")[0]
 }

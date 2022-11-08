@@ -16,6 +16,7 @@ var (
 	newLineRE        = regexp.MustCompile(`\n+`)
 	intRE            = regexp.MustCompile(`[\d]+`)
 	NodeTxtRE        = regexp.MustCompile("[ 1023456789–-]{6,}")
+	NameToTitleRE    = regexp.MustCompile("[-_]")
 	CamelCase        = cases.Title(language.English)
 )
 
@@ -82,4 +83,8 @@ func TxttoNodes(s string, route *Route) {
 			route.Nodes = append(route.Nodes, nodestr)
 		}
 	}
+}
+
+func NametoTitle(name string) string {
+	return CamelCase.String(NameToTitleRE.ReplaceAllString(name, " "))
 }

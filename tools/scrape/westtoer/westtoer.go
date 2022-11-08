@@ -117,7 +117,7 @@ func main() {
 	c.OnHTML("div.field--name-field-gpx", func(e *colly.HTMLElement) {
 		e.ForEach("div.field__item", func(nbr int, e *colly.HTMLElement) {
 			e.ForEach("a", func(nbr int, e *colly.HTMLElement) {
-				lib.SaveGPX(c, e, cfg, &route)
+				lib.SaveGPX(c, e, cfg, &route, "Attr-href")
 			})
 		})
 	})

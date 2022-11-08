@@ -72,7 +72,7 @@ func main() {
 	// get gpx file details
 	c.OnHTML("div.btnfield > a.matomo_download", func(e *colly.HTMLElement) {
 		if e.Text == "Download de route als GPX" {
-			lib.SaveGPX(c, e, cfg, &route)
+			lib.SaveGPX(c, e, cfg, &route, "Attr-href")
 		}
 	})
 
