@@ -7,6 +7,7 @@ import (
 type RoutePOI struct {
 	Title     string
 	Imgurl    string      // The image related to the POI - only 1 image - should be external url - no download
+	ImgALt    string      // Alt attribute for the image
 	Content   string      // Content in pure txt
 	ContLinks [][2]string // Anchorlinks related to Content : 0:txt and 1:url
 	Extlink   string      // External weblink with more info about POI
@@ -25,11 +26,11 @@ type Route struct {
 	ContLinks   [][2]string // Anchorlinks related to Content : 0:txt and 1:url
 	Length      int         // length in km
 	Routeurl    string      // full url of original page
-	Sideimages  int         // nbr of side images
 	Tags        []string    // extra tags
 	Categories  []string    // extra categories
 	POIs        []RoutePOI  // Points Of Interest on route
 	Signage     string      // Signage of the route
+	sideimages  int         // nbr of side images
 }
 
 var Emptyroute = Route{

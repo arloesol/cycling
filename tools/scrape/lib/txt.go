@@ -1,7 +1,6 @@
 package lib
 
 import (
-	"fmt"
 	"regexp"
 	"strconv"
 	"strings"
@@ -67,7 +66,7 @@ func TxttoInt(s string) int {
 		if err == nil {
 			return i
 		} else {
-			fmt.Println("atoi error for length", err)
+			LogError.Println("atoi error for length", err)
 		}
 	}
 	return -1

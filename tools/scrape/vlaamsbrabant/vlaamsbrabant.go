@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"math"
 	"regexp"
 	"strings"
@@ -96,7 +95,6 @@ func main() {
 	getFietsRoutes()
 
 	for _, info := range routelist.Results.Results {
-		fmt.Println("visiting webpage for ", info.Title, " at ", info.URL)
 		route = lib.Emptyroute
 		route.Routeurl = "https://www.toerismevlaamsbrabant.be" + info.URL
 		if cfg.Pagetoparse == "" || cfg.Pagetoparse == route.Routeurl {
@@ -105,6 +103,7 @@ func main() {
 			route.Length = int(math.Round(info.Distances[0]))
 			route.Description = info.Summary
 			lib.Mkdirs(cfg, route)
+			lib.LogInfo.Println("Visiting", route.Routeurl)
 			c.Visit(route.Routeurl)
 			getMainImage(info.Image, c)
 			lib.Routepage(cfg, route)
@@ -123,6 +122,6 @@ func getFietsRoutes() {
 
 	err := lib.Restpost(url, payload, &routelist)
 	if err != nil {
-		panic(err)
+		lib.LogError.Println(err)
 	}
 }

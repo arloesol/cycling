@@ -50,8 +50,8 @@ func main() {
 		})
 		routenbr += 1
 		if cfg.Pagetoparse == "" || route.Routeurl == cfg.Pagetoparse {
-			fmt.Println("route:", route.Routeurl)
 			lib.Mkdirs(cfg, route)
+			lib.LogInfo.Println("Visiting", route.Routeurl)
 			c.Request("GET", route.Routeurl, nil, nil, nil)
 		}
 	})
@@ -96,9 +96,7 @@ func main() {
 
 	// route page scrape -> create route .md page
 	c.OnScraped(func(r *colly.Response) {
-		if route.Gpxfile != "" {
-			lib.Routepage(cfg, route)
-		}
+		lib.Routepage(cfg, route)
 	})
 
 	// visit all route ovv pages until there are no more (routes)
@@ -106,7 +104,6 @@ func main() {
 	for page := 0; routenbr > oldnbrroutes; page++ {
 		oldnbrroutes = routenbr
 		ovvurl := "https://www.routen.be/fietsroutes?page=" + fmt.Sprintf("%d", page)
-		fmt.Println(ovvurl)
 		c.Visit(ovvurl)
 	}
 

@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"strings"
 
 	"cycling.io/m/v2/lib"
@@ -38,7 +37,7 @@ func main() {
 			route.Title = lib.CamelCase.String(strings.ReplaceAll(route.Shortname, "-", " "))
 			if cfg.Pagetoparse == "" || cfg.Pagetoparse == link {
 				lib.Mkdirs(cfg, route)
-				fmt.Println("route", route.Name, route.Routeurl)
+				lib.LogInfo.Println("Visiting", route.Routeurl)
 				e.Request.Visit(link) // check the route page
 			}
 		}

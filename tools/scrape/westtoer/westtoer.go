@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"strings"
 
 	"cycling.io/m/v2/lib"
@@ -127,13 +126,8 @@ func main() {
 	// OnScraped is called after all OnHTMLs for a webpage have been processed - if level = 2 -> create a md file with our collected info
 	c.OnScraped(func(r *colly.Response) {
 		if r.Request.Depth == 2 {
-			if route.Gpxfile == "" {
-				fmt.Println("no gpxfile - no route page - cleaning up")
-				lib.Rmdirs(cfg, route)
-			} else {
-				route.Description = lib.Firstline(route.Content)
-				lib.Routepage(cfg, route)
-			}
+			route.Description = lib.Firstline(route.Content)
+			lib.Routepage(cfg, route)
 		}
 	})
 

@@ -1,5 +1,5 @@
 ---
-title: "Limburg Tuorism"
+title: "Limburg Tourism"
 subtitle: "Limburg tourism website"
 date: "2022-11-04"
 description: "The https://www.visitlimburg.be/en website is managed by the Limburg region authorities"

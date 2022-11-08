@@ -56,12 +56,20 @@ func poicontent(route Route) string {
 			if poi.Extlink != "" {
 				content += " extlink=\"" + poi.Extlink + "\""
 			}
+			if poi.ImgALt != "" {
+				content += " alt=\"" + poi.ImgALt + "\""
+			} else {
+				content += " alt=\"" + poi.Title + "\""
+			}
 			content += " %}}\n"
 			content += strings.TrimSpace(poimd) + "\n"
-			content += "{{% /imgandtxt %}}\n"
+			content += "{{% /imgandtxt %}}\n\n"
 		} else { // Todo: use the external link even if no poi image
 			content += poimd
 		}
+	}
+	if content != "" {
+		content = "\n\n## On route\n\n" + content
 	}
 	return content
 }
@@ -69,11 +77,11 @@ func poicontent(route Route) string {
 func Routepage(cfg Cfg, route Route) {
 	if route.Gpxfile == "" { // no gpx file - no route page on our site
 		Rmdirs(cfg, route)
-	}
+	} else {
 
-	f, _ := os.Create("route/" + cfg.Source + "/" + route.Name + ".md")
-	defer f.Close()
-	mdContent := `---
+		f, _ := os.Create("route/" + cfg.Source + "/" + route.Name + ".md")
+		defer f.Close()
+		mdContent := `---
 title: "%s"
 subtitle: "%s"
 date: "%s"
@@ -89,22 +97,23 @@ length: %d%s
 
 %s
 `
-	if route.Subtitle == "" {
-		route.Subtitle = Firstline(route.Description)
+		if route.Subtitle == "" {
+			route.Subtitle = Firstline(route.Description)
+		}
+		route.Content = strings.TrimSpace(route.Content)
+		if route.Startpunt != "" {
+			route.Content += "\n\n## Start\n\n" + route.Startpunt
+		}
+		if route.Signage != "" {
+			route.Content += "\n\n## Signage\n\n" + route.Signage
+		}
+		if route.POIs != nil {
+			route.Content += poicontent(route)
+		}
+		f.WriteString(fmt.Sprintf(mdContent,
+			route.Title, route.Subtitle, route.Date, route.Description,
+			cfg.Region, cfg.Srcpfx[:len(cfg.Srcpfx)-1],
+			route.Routeurl, cfg.Source+"/"+route.Gpxfile, route.Length,
+			extraYaml(cfg, route), route.Content))
 	}
-	route.Content = strings.TrimSpace(route.Content)
-	if route.Startpunt != "" {
-		route.Content += "\n\n## Start\n\n" + route.Startpunt
-	}
-	if route.Signage != "" {
-		route.Content += "\n\n## Signage\n\n" + route.Signage
-	}
-	if route.POIs != nil {
-		route.Content += poicontent(route)
-	}
-	f.WriteString(fmt.Sprintf(mdContent,
-		route.Title, route.Subtitle, route.Date, route.Description,
-		cfg.Region, cfg.Srcpfx[:len(cfg.Srcpfx)-1],
-		route.Routeurl, cfg.Source+"/"+route.Gpxfile, route.Length,
-		extraYaml(cfg, route), route.Content))
 }
