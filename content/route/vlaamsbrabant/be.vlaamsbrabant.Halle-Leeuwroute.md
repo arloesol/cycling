@@ -1,21 +1,22 @@
 ---
 title: "Halle-Leeuwroute"
-subtitle: "Deze toegankelijke route combineert het centrum van Halle met de befaamde rozentuin van het Domein Coloma in Sint-Pieters-Leeuw en het provinciedomein van Huizingen. Beide locaties zijn een stop of wandeling waard."
-date: "2022-11-04"
-description: "Deze toegankelijke route combineert het centrum van Halle met de befaamde rozentuin van het Domein Coloma in Sint-Pieters-Leeuw en het provinciedomein van Huizingen. Beide locaties zijn een stop of wandeling waard." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+subtitle: "Deze toegankelijke route combineert het centrum van Halle met de befaamde rozentuin van het Domein Coloma in Sint-Pieters-Leeuw en het provinciedomein van Huizingen"
+date: "2022-11-09"
+description: "Deze toegankelijke route combineert het centrum van Halle met de befaamde rozentuin van het Domein Coloma in Sint-Pieters-Leeuw en het provinciedomein van Huizingen. Beide locaties zijn een stop of wandeling waard."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/vaantjesroute/index.html"
 gpx: "vlaamsbrabant/Halle-Leeuwroute.gpx"
 length: 21
-nodetype: "vlaams"
-nodes: "64,91,66,70,66,67,extra,65,64"
+tags:
+ - "flanders"
+ - "vshort"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "64,91,66,70,66,67,"
 ---
 
 ## Let's Go ! 
@@ -33,8 +34,6 @@ De bijnaam van de Hallenaren staat voor de verkopers van bedevaartsvaantjes. Bed
 Wil je graag een aangepaste fiets huren? [Hier](https://www.toerismevlaamsbrabant.be/thema/iedereen-toerist/aangepaste-fiets-huren) vind je de fietsverhuurpunten waar je terecht kan.
 
 Ontdek hier meer over het aanbod van [“Iedereen toerist”](https://www.toerismevlaamsbrabant.be/thema/iedereen-toerist/).
-
-
 
 ## Start
 

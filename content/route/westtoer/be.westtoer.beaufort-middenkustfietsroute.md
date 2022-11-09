@@ -5,28 +5,29 @@ subtitle: "Werken Beaufort 21
 Metamorphosis - Oliver Laric
 
 Strand, Flandrialaan, Westende - 51"
-date: "2022-11-06"
+date: "2022-11-09"
 description: "Werken Beaufort 21
 
 Metamorphosis - Oliver Laric
 
-Strand, Flandrialaan, Westende - 51" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+Strand, Flandrialaan, Westende - 51"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/beaufort-middenkustfietsroute"
-gpx: "westtoer/beaufort-21-middenkust.gpx"
+gpx: "westtoer/beaufort-middenkustfietsroute.gpx"
 length: 49
-nodetype: "vlaams"
-nodes: "81"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "81,60,80,52,57,74,45,8,92,56,96,5,67,95,10,4,15,97,47,77,75,16,59,44,2,12,81"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 Werken Beaufort 21
 
@@ -54,7 +55,7 @@ Stranded - Rossella Biscotti
 
 Strandpost 6, Bredene - 51.2588010 - 2.9818445
 
-[[Ontdek meer](https://www.beaufortbeeldenpark.be)](https://www.beaufort21.be)
+Ontdek meer
 
 Werken Beaufort Beeldenpark
 
@@ -104,7 +105,7 @@ Koninklijke Baan, Koerslaan, Bredene - 51.2564890 - 2.9800960
 
 Ontdek meer
 
-## Start 
+## Start
 
 Calidris, Strandlaan 1, 8434 Westende
 

@@ -29,7 +29,7 @@ func tags(cfg Cfg, route Route) string { // tags : cfg and route tags + tag depe
 
 func categories(cfg Cfg, route Route) string { // categories : cfg and route categories + "route"
 	allcategories := append(append(cfg.Categories, "route"), route.Categories...)
-	return "\ntags:\n - \"" + strings.Join(allcategories, "\"\n - \"") + "\""
+	return "\ncategories:\n - \"" + strings.Join(allcategories, "\"\n - \"") + "\""
 }
 
 func nodes(cfg Cfg, route Route) string {
@@ -56,10 +56,10 @@ func poicontent(route Route) string {
 			if poi.Extlink != "" {
 				content += " extlink=\"" + poi.Extlink + "\""
 			}
-			if poi.ImgALt != "" {
-				content += " alt=\"" + poi.ImgALt + "\""
+			if poi.ImgAlt != "" {
+				content += " alt=\"" + cleanAttr(poi.ImgAlt) + "\""
 			} else {
-				content += " alt=\"" + poi.Title + "\""
+				content += " alt=\"" + cleanAttr(poi.Title) + "\""
 			}
 			content += " %}}\n"
 			content += strings.TrimSpace(poimd) + "\n"
@@ -118,4 +118,8 @@ length: %d%s
 			route.Routeurl, cfg.Source+"/"+route.Gpxfile, route.Length,
 			extraYaml(cfg, route), route.Content))
 	}
+}
+
+func cleanAttr(s string) string {
+	return strings.ReplaceAll(strings.ReplaceAll(s, "\n", ""), "\"", "")
 }

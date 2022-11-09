@@ -1,19 +1,19 @@
 ---
-title: "Eddy_Merckx_Cycling_Route"
-subtitle: "De Eddy Merckx Cycling route vertrekt in wielercafé Boerenhof aan de kerk van Meensel. Maak kennis met de wegen waar de jonge Eddy zijn eerste fietservaring opdeed. Geniet onderweg van de vele bezienswaardigheden die het Hageland te bieden heeft."
-date: "2022-11-04"
-description: "De Eddy Merckx Cycling route vertrekt in wielercafé Boerenhof aan de kerk van Meensel. Maak kennis met de wegen waar de jonge Eddy zijn eerste fietservaring opdeed. Geniet onderweg van de vele bezienswaardigheden die het Hageland te bieden heeft." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "Eddy Merckx Cycling Route"
+subtitle: "De Eddy Merckx Cycling route vertrekt in wielercafé Boerenhof aan de kerk van Meensel"
+date: "2022-11-09"
+description: "De Eddy Merckx Cycling route vertrekt in wielercafé Boerenhof aan de kerk van Meensel. Maak kennis met de wegen waar de jonge Eddy zijn eerste fietservaring opdeed. Geniet onderweg van de vele bezienswaardigheden die het Hageland te bieden heeft."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/hagelandse-eddy-merckxroute/index.html"
 gpx: "vlaamsbrabant/Eddy_Merckx_Cycling_Route.gpx"
 length: 70
+tags:
+ - "flanders"
+ - "medium"
+categories:
+ - "official"
+ - "route"
 ---
 
 ## Let's Go ! 
@@ -30,9 +30,7 @@ Deze sportieve fietsroute brengt je in een lus over dezelfde wegen waar de jonge
 
 Fiets langs het standbeeld van Eddy Merckx aan zijn geboortehuis in de Tieltsestraat.
 
-Ontdek onderweg een van de bezienswaardigheden zoals het [kasteel van Horst](https://www.toerismevlaamsbrabant.be//producten/fietsen/fietsproducten/hagelandse-eddy-merckxroute/index.html) en de vele fruit- en wijngaarden van de streek.
-
-
+Ontdek onderweg een van de bezienswaardigheden zoals het [kasteel van Horst](https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/hagelandse-eddy-merckxroute/index.html) en de vele fruit- en wijngaarden van de streek.
 
 ## Start
 

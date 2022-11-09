@@ -1,21 +1,22 @@
 ---
-title: "Vinneronde_route"
-subtitle: "Deze route leidt je langs valleien en boomgaarden die kenmerkend zijn voor de streek. De kers op de taart is het centrum van Zoutleeuw, het kunstschrijn van Vlaams-Brabant."
-date: "2022-11-04"
-description: "Deze route leidt je langs valleien en boomgaarden die kenmerkend zijn voor de streek. De kers op de taart is het centrum van Zoutleeuw, het kunstschrijn van Vlaams-Brabant." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "Vinneronde route"
+subtitle: "Deze route leidt je langs valleien en boomgaarden die kenmerkend zijn voor de streek"
+date: "2022-11-09"
+description: "Deze route leidt je langs valleien en boomgaarden die kenmerkend zijn voor de streek. De kers op de taart is het centrum van Zoutleeuw, het kunstschrijn van Vlaams-Brabant."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/vinneronde-fietsroute/index.html"
 gpx: "vlaamsbrabant/Vinneronde_route.gpx"
 length: 20
-nodetype: "vlaams"
-nodes: "48,23,51,52,358,187,188,32,191,48"
+tags:
+ - "flanders"
+ - "vshort"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "48,23,51,52,358,187,188,32,191,48"
 ---
 
 ## Let's Go ! 
@@ -33,8 +34,6 @@ Laat je op deze route leiden langs valleien en boomgaarden die kenmerkend zijn v
 Houd even halt in het eeuwenoude centrum van Zoutleeuw.
 
 Wil je graag een aangepaste fiets huren? [Hier](https://www.toerismevlaamsbrabant.be/thema/iedereen-toerist/aangepaste-fiets-huren) vind je de fietsverhuurpunten waar je terecht kan.
-
-
 
 ## Start
 

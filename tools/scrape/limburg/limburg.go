@@ -12,8 +12,8 @@ var (
 	cfg = lib.Cfg{
 		Pagetoparse: "",
 		//Pagetoparse: "https://www.visitlimburg.be/en/route/cross-border-cycling-along-meuse-river",
-		Savegpx:    true,
-		Saveimg:    true,
+		Savegpx:    false,
+		Saveimg:    false,
 		Source:     "limburg",
 		Srcpfx:     "be.visitlimburg.",
 		Tags:       []string{"flanders"},
@@ -70,7 +70,7 @@ func main() {
 
 	// gpx file
 	c.OnHTML("#block-sassy-content > article > div > div > div.right > div.route--info > div.route--info-download > ul > li:nth-child(1) > a", func(e *colly.HTMLElement) {
-		lib.SaveGPX(c, e, cfg, &route, "Attr:href")
+		lib.SaveGPX(c, e, cfg, &route, "Attr-href")
 	})
 
 	// main image
@@ -83,7 +83,7 @@ func main() {
 		poi := lib.RoutePOI{}
 		poi.Extlink = e.Request.AbsoluteURL(e.Attr("href"))
 		e.ForEach("div.accomodation-image > div > img", func(nbr int, e *colly.HTMLElement) {
-			poi.ImgALt = e.Attr("alt")
+			poi.ImgAlt = e.Attr("alt")
 			poi.Imgurl = strings.Split(e.Attr("data-src"), "?")[0]
 		})
 		e.ForEach("div.accomodation-title", func(nbr int, e *colly.HTMLElement) {

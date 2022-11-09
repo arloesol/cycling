@@ -7,7 +7,7 @@ import (
 type RoutePOI struct {
 	Title     string
 	Imgurl    string      // The image related to the POI - only 1 image - should be external url - no download
-	ImgALt    string      // Alt attribute for the image
+	ImgAlt    string      // Alt attribute for the image
 	Content   string      // Content in pure txt
 	ContLinks [][2]string // Anchorlinks related to Content : 0:txt and 1:url
 	Extlink   string      // External weblink with more info about POI

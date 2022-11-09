@@ -1,21 +1,22 @@
 ---
 title: "Boomgaardenroute"
-subtitle: "Een Hagelandse ontdekkingstocht over heuvels, een uitkijktrap, wijnhellingen en vooral langs veel fruitboomgaarden. Dit is de geboortestreek van Eddy Merckx die hier als peuter op zijn driewielertje de hellingen bedwong. De 4 bloesemkunstwerken vertellen het fascinerende verhaal achter de fruitteelt."
-date: "2022-11-04"
-description: "Een Hagelandse ontdekkingstocht over heuvels, een uitkijktrap, wijnhellingen en vooral langs veel fruitboomgaarden. Dit is de geboortestreek van Eddy Merckx die hier als peuter op zijn driewielertje de hellingen bedwong. De 4 bloesemkunstwerken vertellen het fascinerende verhaal achter de fruitteelt." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+subtitle: "Een Hagelandse ontdekkingstocht over heuvels, een uitkijktrap, wijnhellingen en vooral langs veel fruitboomgaarden"
+date: "2022-11-09"
+description: "Een Hagelandse ontdekkingstocht over heuvels, een uitkijktrap, wijnhellingen en vooral langs veel fruitboomgaarden. Dit is de geboortestreek van Eddy Merckx die hier als peuter op zijn driewielertje de hellingen bedwong. De 4 bloesemkunstwerken vertellen het fascinerende verhaal achter de fruitteelt."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/boomgaardenroute/index.html"
 gpx: "vlaamsbrabant/Boomgaardenroute.gpx"
 length: 28
-nodetype: "vlaams"
-nodes: "78–71–32–31,18–23–77–76–28–27–95–47–79–78"
+tags:
+ - "flanders"
+ - "vshort"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "78,71,32,31,18,23,77,76,28,27,95,47,79,78"
 ---
 
 ## Let's Go ! 
@@ -37,8 +38,6 @@ Wie de route wil inkorten tot 19 km, kan dat door te fietsen van knooppunt 77 na
 Ontdek ook één van de andere fruitbeeldige fietsroutes, [bestel](https://www.toerismevlaamsbrabant.be/publicaties/bloeiend-hageland-fietsen) of [download](https://www.toerismevlaamsbrabant.be/Images/fruitbeeldige-fietskaart-2021_tcm251-143863.pdf) de Fruitbeeldige Fietskaart.
 
 De wijnstokken van de [Petrushoeve](https://www.toerismevlaamsbrabant.be/producten/bezoeken/bezienswaardigheden/wijndomein-petrushoeve/) sieren de hellingen bij knooppunt 47.
-
-
 
 ## Start
 

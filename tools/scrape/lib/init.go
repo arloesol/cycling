@@ -11,7 +11,7 @@ func init() {
 	if basedir == "" {
 		LogError.Panicln("GITDIR env variable not set")
 	}
-	datadir = basedir + "/data"
+	datadir = basedir + "/scrapedata"
 
 	// logging system
 	logdir = basedir + "/log"

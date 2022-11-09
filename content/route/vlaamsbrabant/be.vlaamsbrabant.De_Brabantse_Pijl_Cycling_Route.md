@@ -1,19 +1,19 @@
 ---
-title: "De_Brabantse_Pijl_Cycling_Route"
-subtitle: "Rij jouw eigen klassieker in ware Flandrien stijl over de wegen van de Brabantse Pijl. Smeer je kuiten in voor een tocht vol variatie waar alleen de echte grote wielerhelden floreren."
-date: "2022-11-04"
-description: "Rij jouw eigen klassieker in ware Flandrien stijl over de wegen van de Brabantse Pijl. Smeer je kuiten in voor een tocht vol variatie waar alleen de echte grote wielerhelden floreren." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "De Brabantse Pijl Cycling Route"
+subtitle: "Rij jouw eigen klassieker in ware Flandrien stijl over de wegen van de Brabantse Pijl"
+date: "2022-11-09"
+description: "Rij jouw eigen klassieker in ware Flandrien stijl over de wegen van de Brabantse Pijl. Smeer je kuiten in voor een tocht vol variatie waar alleen de echte grote wielerhelden floreren."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/brabantse-pijl-cycling-route/index.html"
 gpx: "vlaamsbrabant/De_Brabantse_Pijl_Cycling_Route.gpx"
 length: 98
+tags:
+ - "flanders"
+ - "medium"
+categories:
+ - "official"
+ - "route"
 ---
 
 ## Let's Go ! 
@@ -41,8 +41,6 @@ Vecht tegen de wind in de open velden en rij dan met een vaart naar beneden om a
 Kom op adem in een van de vele sfeervolle wielercafés.
 
 Deze route komt tot stand in samenwerking met Flanders Classics en Rode Sportief.
-
-
 
 ## Start
 

@@ -1,44 +1,36 @@
 ---
 title: "Fietsroute Verdwenen Zwinhavens 44 km"
 subtitle: "De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (dit is de lus van 44 km, of kies voor de volledige lust van 60 km of inkorting van 31 km)"
-date: "2022-11-06"
-description: "De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (dit is de lus van 44 km, of kies voor de volledige lust van 60 km of inkorting van 31 km)" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+date: "2022-11-09"
+description: "De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (dit is de lus van 44 km, of kies voor de volledige lust van 60 km of inkorting van 31 km)"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/fietsroute-verdwenen-zwinhavens-44-km"
-gpx: "westtoer/verdwenen-zwinhavens-44km.gpx"
+gpx: "westtoer/fietsroute-verdwenen-zwinhavens-44-km.gpx"
 length: 44
-nodetype: "vlaams"
-nodes: "75,1,69,57,28,12,62,29,65,61,31,92,32,97,35,36,43,23,86,63,39,84,94,16,99,47,13,10,68,61,9,18,59,1,75"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (dit is de lus van 44 km, of kies voor de volledige lust van 60 km of inkorting van 31 km). In de middeleeuwen lag hier de brede Zwingeul. Langs de geul lagen dé tophavens van Europa. Op de route vind je outdoor virtual reality kijkers. Wie door een kijker loert, komt virtueel terecht in de bruisende middeleeuwse havenstadjes. Je kan 360° om je heen kijken. 
 
 Tip: via app.verdwenen-zwinhavens.be krijg je onderweg meldingen op je smartphone over archeologische vondsten. Alles wat je te zien krijgt, is gebaseerd op onderzoek van de Universiteit Gent.
 
-Alle info via [www.verdwenen-zwinhavens.be](http://www.verdwenen-zwinhavens.be)
+Alle info via www.verdwenen-zwinhavens.be
 
-## Start 
+## Start
 
 Zwin Natuur Park: Graaf Leon Lippensdreef 8, Knokke-Heist
 
-
-
 Alternatieve startpunten: 
 
-
-
 Damme: Kerkstraat (nabij Parking-Oost)
-
-
 
 Sluis: Sint-Annastraat (ter hoogte van de parking)
 

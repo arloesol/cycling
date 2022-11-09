@@ -1,19 +1,19 @@
 ---
 title: "Flandrienlus"
-subtitle: "Een wereldkampioen moet kunnen zwoegen. En klimmen, trappen, vechten, tactisch rijden, gaan en blijven gaan. Als een rasechte flandrien! Het ene moment sta je recht op de trappers om de helling te bedwingen en het andere moment maak je snelheid door regen, wind of – kan ook natuurlijk – onder een deugddoend zonnetje."
-date: "2022-11-04"
-description: "Een wereldkampioen moet kunnen zwoegen. En klimmen, trappen, vechten, tactisch rijden, gaan en blijven gaan. Als een rasechte flandrien! Het ene moment sta je recht op de trappers om de helling te bedwingen en het andere moment maak je snelheid door regen, wind of – kan ook natuurlijk – onder een deugddoend zonnetje." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+subtitle: "Een wereldkampioen moet kunnen zwoegen"
+date: "2022-11-09"
+description: "Een wereldkampioen moet kunnen zwoegen. En klimmen, trappen, vechten, tactisch rijden, gaan en blijven gaan. Als een rasechte flandrien! Het ene moment sta je recht op de trappers om de helling te bedwingen en het andere moment maak je snelheid door regen, wind of – kan ook natuurlijk – onder een deugddoend zonnetje."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/flandrienlus/index.html"
 gpx: "vlaamsbrabant/Flandrienlus.gpx"
 length: 65
+tags:
+ - "flanders"
+ - "medium"
+categories:
+ - "official"
+ - "route"
 ---
 
 ## Let's Go ! 
@@ -35,8 +35,6 @@ Rij jouw eigen wereldkampioenschap op de Flandrienlus van het 100ste WK wielrenn
 Met deze gpx kan je het finaletraject van het wereldkampioenschap zelf (op een verkeersveilige manier) ontdekken.
 
 Voorbij Leuven trap je een landschap in dat geen medelijden toont. Je komt jezelf tegen op heroïsche hellingen als de Moskesstraat in Terlanen, de Smeysberg in Huldenberg, de Bekestraat in Eizer en de S-bocht in hartje Overijse. Een circuit waar je je eigen wielergeschiedenis schrijft.
-
-
 
 ## Start
 

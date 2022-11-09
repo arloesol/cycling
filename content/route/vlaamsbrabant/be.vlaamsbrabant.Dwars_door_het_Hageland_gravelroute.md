@@ -1,19 +1,19 @@
 ---
-title: "Dwars_door_het_Hageland_gravelroute"
-subtitle: "Dwars door het Hageland is niet voor niets de Strade Bianche van het Noorden. Op deze gravelroute ontdek je de meest uitdagende gravelpassages uit de wedstrijd doorheen de mooiste landschappen van Hageland. Een must voor elke gravelfan."
-date: "2022-11-04"
-description: "Dwars door het Hageland is niet voor niets de Strade Bianche van het Noorden. Op deze gravelroute ontdek je de meest uitdagende gravelpassages uit de wedstrijd doorheen de mooiste landschappen van Hageland. Een must voor elke gravelfan." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "Dwars door het Hageland gravelroute"
+subtitle: "Dwars door het Hageland is niet voor niets de Strade Bianche van het Noorden"
+date: "2022-11-09"
+description: "Dwars door het Hageland is niet voor niets de Strade Bianche van het Noorden. Op deze gravelroute ontdek je de meest uitdagende gravelpassages uit de wedstrijd doorheen de mooiste landschappen van Hageland. Een must voor elke gravelfan."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/dwars-door-het-hageland-gravelroute/index.html"
 gpx: "vlaamsbrabant/Dwars_door_het_Hageland_gravelroute.gpx"
 length: 75
+tags:
+ - "flanders"
+ - "medium"
+categories:
+ - "official"
+ - "route"
 ---
 
 ## Let's Go ! 
@@ -35,8 +35,6 @@ Verderop wachten je de hellingen van het Grasbos, ook wel de Poggio van Diest ge
 Daarna is het de beurt aan de citadel van Diest en de Vlooyberg met de bekende Vlooybergtoren op de top.
 
 Je passeert  nog  de wijnflanken van Houwaart, waarna je bij aankomst in het Sven Nys Cycling Center kan genieten van een glas op het terras van Eetcafé Velo én een douche voor jezelf en je fiets kan voorzien.
-
-
 
 ## Start
 

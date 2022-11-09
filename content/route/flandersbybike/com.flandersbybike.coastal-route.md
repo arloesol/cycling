@@ -1,7 +1,7 @@
 ---
 title: "Coastal Route"
 subtitle: "Are you looking for the perfect combination of nature, maritime history and culture?"
-date: "2022-11-07"
+date: "2022-11-09"
 description: "Are you looking for the perfect combination of nature, maritime history and culture?"
 region: "flanders"
 source: "com.flandersbybike"
@@ -9,11 +9,11 @@ ext_url: "https://www.flandersbybike.com/coastal-route"
 gpx: "flandersbybike/coastal-route.gpx"
 length: 85
 tags:
- - flanders
- - medium
-tags:
- - official
- - route
+ - "flanders"
+ - "medium"
+categories:
+ - "official"
+ - "route"
 ---
 
 ## Let's Go ! 

@@ -1,24 +1,22 @@
 ---
 title: "Bakelandtfietsroute"
 subtitle: "Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield"
-date: "2022-11-06"
-description: "Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+date: "2022-11-09"
+description: "Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/bakelandtfietsroute"
-gpx: "westtoer/bakelandtfietsroute_1.gpx"
+gpx: "westtoer/bakelandtfietsroute.gpx"
 length: 48
-nodetype: "vlaams"
-nodes: "93"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield. Je doet de gemeenten Langemark-Poelkapelle en Houthulst aan. Je passeert verschillende landschapstypes: de heuvelrug van Klerken, de uitlopers van de zandleemstreek in de IJzerpolders, de vallei van de Ieperlee. De fietstocht start aan het gemeentehuis van Langemark dat is ondergebracht in het voormalige kasteel. Via de oude spoorwegbedding en het Ieperleekanaal rij je richting Merkem. Op de terugweg fiets je langs Klerken, Houthulst, het Vrijbos en de wijk Madonna.
 
@@ -28,7 +26,7 @@ Westtoer werkt aan het vernieuwen van het fietsaanbod in West-Vlaanderen. De bew
 
 MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
-## Start 
+## Start
 
 Gemeentehuis, Kasteelstraat 1, 8920 Langemark
 

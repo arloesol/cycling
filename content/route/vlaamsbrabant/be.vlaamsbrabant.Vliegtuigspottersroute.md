@@ -1,21 +1,22 @@
 ---
 title: "Vliegtuigspottersroute"
-subtitle: "Vertrek aan het mooie pleintje aan de kerk van Humelgem voor een tocht rond de luchthaven. Waar je het verlengde van de landingsbanen kruist, sta je net als de vliegtuigspotters vlak onder het indrukwekkend gebulder van de toestellen die bijna rakelings over je hoofd scheuren."
-date: "2022-11-04"
-description: "Vertrek aan het mooie pleintje aan de kerk van Humelgem voor een tocht rond de luchthaven. Waar je het verlengde van de landingsbanen kruist, sta je net als de vliegtuigspotters vlak onder het indrukwekkend gebulder van de toestellen die bijna rakelings over je hoofd scheuren." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+subtitle: "Vertrek aan het mooie pleintje aan de kerk van Humelgem voor een tocht rond de luchthaven"
+date: "2022-11-09"
+description: "Vertrek aan het mooie pleintje aan de kerk van Humelgem voor een tocht rond de luchthaven. Waar je het verlengde van de landingsbanen kruist, sta je net als de vliegtuigspotters vlak onder het indrukwekkend gebulder van de toestellen die bijna rakelings over je hoofd scheuren."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/fietsroute-vliegtuigen-spotten/index.html"
 gpx: "vlaamsbrabant/Vliegtuigspottersroute.gpx"
 length: 32
-nodetype: "vlaams"
-nodes: "start,12,55,54,53,99,93,64,65,92,90,91,47,24,48,12"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - ",12,55,54,53,99,93,64,65,92,90,91,47,24,48,12"
 ---
 
 ## Let's Go ! 
@@ -35,8 +36,6 @@ Kom in het gehucht Lemmeke op de plek waar in 1961 de zwaarste vliegtuigcrash ui
 Ontdek Woluweveld, een verrassend stukje groen binnen de Brusselse Ring.
 
 In Diegem kan je de kerktoren bewonderen omwille van de drie kronen die een tiara imiteren, en het statige Margapaviljoen.
-
-
 
 ## Start
 

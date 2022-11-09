@@ -1,19 +1,19 @@
 ---
-title: "Dijleland_gravelroute"
-subtitle: "Een route vol afwisseling en hoogtemeters voor de geoefende gravelrijder. Singletracks door het bos, smal betonwegjes, kasseistroken en tientallen grindpaden doorspekt met de belangrijkste beklimmingen uit het parcours van het wereldkampioenschap? Deze gravelroute biedt het jou allemaal!"
-date: "2022-11-04"
-description: "Een route vol afwisseling en hoogtemeters voor de geoefende gravelrijder. Singletracks door het bos, smal betonwegjes, kasseistroken en tientallen grindpaden doorspekt met de belangrijkste beklimmingen uit het parcours van het wereldkampioenschap? Deze gravelroute biedt het jou allemaal!" 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "Dijleland gravelroute"
+subtitle: "Een route vol afwisseling en hoogtemeters voor de geoefende gravelrijder"
+date: "2022-11-09"
+description: "Een route vol afwisseling en hoogtemeters voor de geoefende gravelrijder. Singletracks door het bos, smal betonwegjes, kasseistroken en tientallen grindpaden doorspekt met de belangrijkste beklimmingen uit het parcours van het wereldkampioenschap? Deze gravelroute biedt het jou allemaal!"
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/dijleland-gravelroute/index.html"
 gpx: "vlaamsbrabant/Dijleland_gravelroute.gpx"
 length: 100
+tags:
+ - "flanders"
+ - "long"
+categories:
+ - "official"
+ - "route"
 ---
 
 ## Let's Go ! 
@@ -37,8 +37,6 @@ Er is een verkorte versie beschikbaar op GPX (52 km) vanuit Oud-Heverlee richtin
 Er is een verkorte versie beschikbaar op GPX (67 km) vanuit Oud-Heverlee richting [Overijse](https://www.toerismevlaamsbrabant.be/Images/dijleland-gravel-lus-overijse_tcm251-150512.gpx) en terug.
 
 Deze route kwam tot stand in samenwerking met [666gravel](https://666gravel.bike/).
-
-
 
 ## Start
 

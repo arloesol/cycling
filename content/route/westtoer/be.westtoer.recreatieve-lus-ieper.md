@@ -1,32 +1,33 @@
 ---
 title: "Recreatieve lus Ieper"
 subtitle: "Met deze route fiets je richting Wervik, waar je even kan uitblazen in recratiedomein De Balokken of een bezoekje kan brengen aan het Nationaal Tabaksmuseum"
-date: "2022-11-06"
-description: "Met deze route fiets je richting Wervik, waar je even kan uitblazen in recratiedomein De Balokken of een bezoekje kan brengen aan het Nationaal Tabaksmuseum" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+date: "2022-11-09"
+description: "Met deze route fiets je richting Wervik, waar je even kan uitblazen in recratiedomein De Balokken of een bezoekje kan brengen aan het Nationaal Tabaksmuseum"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/recreatieve-lus-ieper"
-gpx: "westtoer/fietsen_ieper_2.gpx"
+gpx: "westtoer/recreatieve-lus-ieper.gpx"
 length: 46
-nodetype: "vlaams"
-nodes: "89"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "89,69,66,17,98,48,53,59,46,44,14,45,31,6,9,12,54,58,10,21,42,85,65,33,63,40,38,93,89"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 Met deze route fiets je richting Wervik, waar je even kan uitblazen in recratiedomein De Balokken of een bezoekje kan brengen aan het Nationaal Tabaksmuseum. Nadien fiets je langs de Palingbeek terug naar het centrum van Ieper.
 
-Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplanner](http://www.westtoer.be/nl/fietsrouteplanner).
+Zelf je fietsroute uitstippelen op de knooppunten? Gebruik onze Fietsrouteplanner.
 
-[Lees meer over het Fietsnetwerk en de Knooppunten](http://www.westtoer.be/nl/inspiratie/fietsnetwerk).
+Lees meer over het Fietsnetwerk en de Knooppunten.
 
-## Start 
+## Start
 
 Lakenhalle, Grote Markt 34, 8900 Ieper
 
@@ -34,34 +35,27 @@ Lakenhalle, Grote Markt 34, 8900 Ieper
 
 Start: 89 - 69 - 66 - 17 - 98 - 48 - 53 - 59 - 46 - 44 - 14 - 45 - 31 - 6 - 9 - 12 - 54 - 58 - 10 - 21 - 42 - 85 - 65 - 33 - 63 - 40 - 38 - 93 - 89
 
-## En Route
+## On route
 
 ### In Flanders Fields Museum
 
-{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/in_flanders_fields_museum.jpg" extlink="/nl/doen/flanders-fields-museum" %}}
-
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/in_flanders_fields_museum.jpg" alt="In Flanders Fields Museum" %}}
 De museumindeling geeft je aan hand van nieuwe invalshoeken en persoonlijke verhalen een inleiding op het verhaal van de Eerste Wereldoorlog.
-
-[Meer info](https://www.westtoer.be/nl/doen/flanders-fields-museum)
-
+	[Meer info](/nl/doen/flanders-fields-museum)
 {{% /imgandtxt %}}
 
 ### Recreatie-Eiland De Balokken
 
-{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_balokken.jpg" extlink="/nl/doen/de-balokken" %}}
-
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/westhoek/doen/de_balokken.jpg" alt="Recreatie-Eiland De Balokken" %}}
 De ideale plaats om te genieten van een heerlijk drankje op een terras in de weide natuur.
-
-[Meer info](https://www.westtoer.be/nl/doen/de-balokken)
-
+	[Meer info](/nl/doen/de-balokken)
 {{% /imgandtxt %}}
 
 ### The Bluff
 
-{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/flanders_fields/doen/instappunt_zuid.jpg" extlink="http://www.flandersfields.be/nl/doen/bluff" %}}
-
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/flanders_fields/doen/instappunt_zuid.jpg" alt="The Bluff" %}}
 Dit instappunt vormt de toegangspoort tot het unieke oorlogslandschap 'The Bluff', het Molenbos, de beroemde site Hill 60, de kratersite Caterpillar en omgeving.
-
-[Meer info](http://www.flandersfields.be/nl/doen/bluff)
-
+	[Meer info](http://www.flandersfields.be/nl/doen/bluff)
 {{% /imgandtxt %}}
+
+

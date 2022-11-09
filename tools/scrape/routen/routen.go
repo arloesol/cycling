@@ -12,8 +12,8 @@ var (
 	cfg = lib.Cfg{
 		Pagetoparse: "",
 		//Pagetoparse: "https://www.routen.be/langs-gentse-wateren-fietsroute",
-		Savegpx:    true,
-		Saveimg:    true,
+		Savegpx:    false,
+		Saveimg:    false,
 		Source:     "routen",
 		Srcpfx:     "be.routen.",
 		Tags:       []string{"flanders"},

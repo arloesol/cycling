@@ -1,19 +1,19 @@
 ---
-title: "Cornet_Gravelroute"
-subtitle: "Laat je verrassen door knisperende grindwegen en fietswegeltjes door de Brabantse Kouters en finish in ware Roubaixstijl op de wielerpiste van Affligem."
-date: "2022-11-04"
-description: "Laat je verrassen door knisperende grindwegen en fietswegeltjes door de Brabantse Kouters en finish in ware Roubaixstijl op de wielerpiste van Affligem." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "Cornet Gravelroute"
+subtitle: "Laat je verrassen door knisperende grindwegen en fietswegeltjes door de Brabantse Kouters en finish in ware Roubaixstijl op de wielerpiste van Affligem"
+date: "2022-11-09"
+description: "Laat je verrassen door knisperende grindwegen en fietswegeltjes door de Brabantse Kouters en finish in ware Roubaixstijl op de wielerpiste van Affligem."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/cornet-gravelroute/index.html"
 gpx: "vlaamsbrabant/Cornet_Gravelroute.gpx"
 length: 117
+tags:
+ - "flanders"
+ - "long"
+categories:
+ - "official"
+ - "route"
 ---
 
 ## Let's Go ! 
@@ -35,8 +35,6 @@ De hopvelden waar je voorbij fietst, zijn op hun mooist aan het einde van de zom
 Je fietst langs de statige Plantentuin in Meise, slingert door het Kravaalbos in Asse en kronkelt langs de Zenne en de Sluistoren in Weerde.
 
 Is een glooiend landschap met weidse vergezichten iets voor jou? Spreken goede grindwegen en een kasseistrook hier en daar je aan? Twijfel niet en ga op ontdekking door de Brabantse Kouters.
-
-
 
 ## Start
 

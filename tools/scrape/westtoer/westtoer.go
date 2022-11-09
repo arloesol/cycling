@@ -11,8 +11,8 @@ var (
 	cfg = lib.Cfg{
 		Pagetoparse: "",
 		//Pagetoparse: "https://www.westtoer.be/nl/vivelevelo-rood",
-		Savegpx:    true,
-		Saveimg:    true,
+		Savegpx:    false,
+		Saveimg:    false,
 		Source:     "westtoer",
 		Srcpfx:     "be.westtoer.",
 		Tags:       []string{"flanders"},

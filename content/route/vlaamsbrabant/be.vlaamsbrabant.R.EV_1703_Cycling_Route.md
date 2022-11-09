@@ -1,19 +1,19 @@
 ---
-title: "R.EV_1703_Cycling_Route"
-subtitle: "Met de R.EV 1703 Cycling Route doorklief je het Pajottenland over de favoriete wegen en hellingen van Remco Evenepoel. Het prachtige landschap van Bruegel, geuze en het Brabantse trekpaard is een heerlijk fietsland. Met korte hellingen, soepel bochtenwerk en open vergezichten. Een must voor elke flandrien, op een zucht van de Vlaamse Ardennen."
-date: "2022-11-04"
-description: "Met de R.EV 1703 Cycling Route doorklief je het Pajottenland over de favoriete wegen en hellingen van Remco Evenepoel. Het prachtige landschap van Bruegel, geuze en het Brabantse trekpaard is een heerlijk fietsland. Met korte hellingen, soepel bochtenwerk en open vergezichten. Een must voor elke flandrien, op een zucht van de Vlaamse Ardennen." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "R.EV 1703 Cycling Route"
+subtitle: "Met de R"
+date: "2022-11-09"
+description: "Met de R.EV 1703 Cycling Route doorklief je het Pajottenland over de favoriete wegen en hellingen van Remco Evenepoel. Het prachtige landschap van Bruegel, geuze en het Brabantse trekpaard is een heerlijk fietsland. Met korte hellingen, soepel bochtenwerk en open vergezichten. Een must voor elke flandrien, op een zucht van de Vlaamse Ardennen."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/r.ev-1703-cycling-route/index.html"
 gpx: "vlaamsbrabant/R.EV_1703_Cycling_Route.gpx"
 length: 94
+tags:
+ - "flanders"
+ - "medium"
+categories:
+ - "official"
+ - "route"
 ---
 
 ## Let's Go ! 
@@ -33,8 +33,6 @@ Met de R.EV 1703 Cycling Route doorklief je het Pajottenland over de favoriete w
 Het prachtige landschap van Bruegel, geuze en het Brabantse trekpaard is een heerlijk fietsland. Met korte hellingen, soepel bochtenwerk en open vergezichten.
 
 Een must voor elke flandrien, op een zucht van de Vlaamse Ardennen.
-
-
 
 ## Start
 

@@ -1,21 +1,22 @@
 ---
-title: "Witte_goudroute_West"
-subtitle: "Uitgestrekte velden en kleine dorpskernen typeren deze route. Maar ook de witloofboeren liggen op je weg; zij promoten het witte goud, een stukje erfgoed van deze streek. Je komt onder meer langs het Sportimonium, het Recreatiedomein Sport Vlaanderen in Hofstade en het kanaal Leuven-Mechelen."
-date: "2022-11-04"
-description: "Uitgestrekte velden en kleine dorpskernen typeren deze route. Maar ook de witloofboeren liggen op je weg; zij promoten het witte goud, een stukje erfgoed van deze streek. Je komt onder meer langs het Sportimonium, het Recreatiedomein Sport Vlaanderen in Hofstade en het kanaal Leuven-Mechelen." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "Witte goudroute West"
+subtitle: "Uitgestrekte velden en kleine dorpskernen typeren deze route"
+date: "2022-11-09"
+description: "Uitgestrekte velden en kleine dorpskernen typeren deze route. Maar ook de witloofboeren liggen op je weg; zij promoten het witte goud, een stukje erfgoed van deze streek. Je komt onder meer langs het Sportimonium, het Recreatiedomein Sport Vlaanderen in Hofstade en het kanaal Leuven-Mechelen."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/witte-goudroute-west/index.html"
 gpx: "vlaamsbrabant/Witte_goudroute_West.gpx"
 length: 46
-nodetype: "vlaams"
-nodes: "6,5,39,84,35,34,55,12,48,56,23,22,49,15,18,16,75,63,62,61,19,44,7,6"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "6,5,39,84,35,34,55,12,48,56,23,22,49,15,18,16,75,63,62,61,19,44,7,6"
 ---
 
 ## Let's Go ! 
@@ -35,8 +36,6 @@ Neem je zwembroek mee voor een duik in de vijver aan de strandzone van het [Recr
 Meet je met echte topsporters in het Sportimonium.
 
 Wil je graag het 'Witte Goud' kopen onderweg? Hier vind je [een lijst](https://www.toerismevlaamsbrabant.be/Images/witte-goudroute-west-2021_tcm251-132458.pdf) met de boeren waar je terecht kan.
-
-
 
 ## Start
 

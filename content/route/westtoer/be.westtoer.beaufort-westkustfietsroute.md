@@ -5,28 +5,29 @@ subtitle: "Werken Beaufort 21
 Touching To Sea You Through Our Extremities - Laure Prouvost
 
 Strand, Leopold I Esplanade, De Panne - 51"
-date: "2022-11-06"
+date: "2022-11-09"
 description: "Werken Beaufort 21
 
 Touching To Sea You Through Our Extremities - Laure Prouvost
 
-Strand, Leopold I Esplanade, De Panne - 51" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+Strand, Leopold I Esplanade, De Panne - 51"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/beaufort-westkustfietsroute"
-gpx: "westtoer/beaufort-21-westkust_0.gpx"
+gpx: "westtoer/beaufort-westkustfietsroute.gpx"
 length: 41
-nodetype: "vlaams"
-nodes: "50"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "50,76,74,88,96,64,82,67,8,7,98,66,58,62,65,59,84,1,50"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 Werken Beaufort 21
 
@@ -54,7 +55,7 @@ Pinpointing Progress - Maarten Vanden Eynde
 
 Marktplein 8, Nieuwpoort - 51.1294018 - 2.7510744
 
-[[Ontdek meer](https://www.beaufortbeeldenpark.be)](https://www.beaufort21.be)
+Ontdek meer
 
 Werken Beaufort Beeldenpark
 
@@ -104,7 +105,7 @@ Promenade, Kromme Hoek, Nieuwpoort - 51.1431720 - 2.7397510
 
 Ontdek meer
 
-## Start 
+## Start
 
 Bezoekerscentrum Duinpanne, Olmendreef 2, 8660 De Panne
 
