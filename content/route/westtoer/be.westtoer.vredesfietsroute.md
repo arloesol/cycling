@@ -1,24 +1,22 @@
 ---
 title: "Vredesfietsroute"
 subtitle: "De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog"
-date: "2022-11-06"
-description: "De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+date: "2022-11-09"
+description: "De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/vredesfietsroute"
-gpx: "westtoer/vredesfietsroute_0.gpx"
+gpx: "westtoer/vredesfietsroute.gpx"
 length: 45
-nodetype: "vlaams"
-nodes: ""
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog. Tientallen militaire begraafplaatsen langsheen het traject zijn stille getuigen van de dramatische tol die de "Grooten Oorlog" eiste. De route vertrekt in Ieper, gaat naar het provinciedomein De Palingbeek en de sites van Hill 60 en Hill 62. Je fietst er langs Zonnebeke, het Britse Tyne Cot Cemetery en Langemark. Op de terugweg rij je langs een oude spoorwegberm, het Ieperleekanaal en het Essex Farm Cemetery.
 
@@ -28,7 +26,7 @@ Westtoer werkt aan het vernieuwen van het fietsaanbod in West-Vlaanderen. De bew
 
 MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
-## Start 
+## Start
 
 Grote Markt, 8900 Ieper
 

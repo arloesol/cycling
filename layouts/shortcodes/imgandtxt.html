@@ -2,7 +2,8 @@
 {{- $imageurl := cond .IsNamedParams (.Get "url") (.Get 0) | default "" -}}
 {{- $width := cond .IsNamedParams (.Get "width") (.Get 1) | default "400" -}}
 {{- $height := cond .IsNamedParams (.Get "height") (.Get 2) | default "300" -}}
-{{- $extlink := cond .IsNamedParams (.Get "extlink") (.Get 2) | default "" -}}
+{{- $extlink := cond .IsNamedParams (.Get "extlink") (.Get 3) | default "" -}}
+{{- $alt := cond .IsNamedParams (.Get "alt") (.Get 4) | default "image" -}}
 
 <style>
   div.imgandtxtcon {
@@ -37,7 +38,7 @@
   {{- if $extlink -}}
   <a href="{{ $extlink }}">
   {{- end -}}
-    <img class="imgandtxt" src="{{ $imageurl }}" width="400px" height="300px" alt="alt" />
+    <img class="imgandtxt" src="{{ $imageurl }}" width="400px" height="300px" alt="{{ $alt }}" />
   {{- if $extlink -}}
   </a>
   {{- end -}}  

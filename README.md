@@ -1,22 +1,20 @@
-Website with resources for cycling
+# Cycling Resources
+
+## Website
+
+Website with resources for cycling - https://cycling.arloesol.com
 
 - recommended cycling tours
-  - select by criteria (location, length, type ...)
-  - view on map
-- lists of official cycling websites
-  - select by type and criteria
+- lists of interesting cycling websites
 
-Allow users to 
+Allow users to (phase 2)
 
- - add websites and cycling tours
- - vote on them
- - collect favorites
+- add websites and cycling tours
+- vote on them
+- collect favorites
 
-remarks
+## Github repository
 
- - voting will require some kind of DB -> version 2
- - version 1 will just be a static website updated once every x
+The GIT and deployment flow used is described [here](GIT.md)
 
-Site url: https://cycling.arloesol.com
-
-render.com checks commits on prod and preprod branches and starts a deploy automatically
+Some [tools](TOOLS.md) are part of this repo

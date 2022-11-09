@@ -5,28 +5,29 @@ subtitle: "Werken Beaufort 21
 Benjamin - Maen Florin
 
 Bos, Park Leopold II, De Wenduine - 51"
-date: "2022-11-06"
+date: "2022-11-09"
 description: "Werken Beaufort 21
 
 Benjamin - Maen Florin
 
-Bos, Park Leopold II, De Wenduine - 51" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+Bos, Park Leopold II, De Wenduine - 51"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/beaufort-oostkustfietsroute"
-gpx: "westtoer/beaufort-21-oostkust.gpx"
+gpx: "westtoer/beaufort-oostkustfietsroute.gpx"
 length: 56
-nodetype: "vlaams"
-nodes: "6"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "6,31,16,80,76,33,36,13,68,62,39,70,38,36,33,30,26,29,89,2,83,34,31"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 Werken Beaufort 21
 
@@ -62,7 +63,7 @@ Ask the Animals, and They Will Teach You - Jeremy Deller
 
 Van Bunnenplein, Knokke-Heist - 51.3528804 - 3.2894949
 
-[[Ontdek meer](https://www.beaufortbeeldenpark.be)](https://www.beaufort21.be)
+Ontdek meer
 
 Werken Beaufort Beeldenpark
 
@@ -100,7 +101,7 @@ IJzerpark, Knokke-Heist - 51.3514821 - 3.2944018
 
 Ontdek meer
 
-## Start 
+## Start
 
 Tramstation, Tramlijn Oost, 8420 De Haan
 

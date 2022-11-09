@@ -1,34 +1,35 @@
 ---
 title: "Lekker fietsen: Dwars door Bulskampveld"
 subtitle: "Geniet van het groene decor van het Landschapspark Bulskampveld"
-date: "2022-11-06"
-description: "Geniet van het groene decor van het Landschapspark Bulskampveld" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+date: "2022-11-09"
+description: "Geniet van het groene decor van het Landschapspark Bulskampveld"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-dwars-door-bulskampveld"
-gpx: "westtoer/route-8-dwars-door-bulskampveld.gpx"
+gpx: "westtoer/lekker-fietsen-dwars-door-bulskampveld.gpx"
 length: 50
-nodetype: "vlaams"
-nodes: "29"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "29,31,55,39,54,14,80,35,15,34,25,50,22,11,60,47,32,28,49,47,60,68,64,53,76,88,59,63,44,23,20,29"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 Geniet van het groene decor van het Landschapspark Bulskampveld.
 
-Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland. Via [deze pagina](https://www.westtoer.be/nl/dwars-door-bulskampveld) kan je de route gratis aanvragen met nog extra veel lekkere adresjes en tips onderweg! Zin in meer lekkere routes? Neem een kijkje op www.brugseommeland.be/lekker-fietsen 
+Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland. Via deze pagina kan je de route gratis aanvragen met nog extra veel lekkere adresjes en tips onderweg! Zin in meer lekkere routes? Neem een kijkje op www.brugseommeland.be/lekker-fietsen 
 
-Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplanner.](https://www.westtoer.be/nl/fietsrouteplanner)
+Zelf je fietsroute uitstippelen op de knooppunten? Gebruik onze Fietsrouteplanner.
 
-[Lees meer over het Fietsnetwerk en de Knooppunten.](https://www.westtoer.be/nl/inspiratie/fietsnetwerk)
+Lees meer over het Fietsnetwerk en de Knooppunten.
 
-## Start 
+## Start
 
 Starten kan bij knooppunt 29 (Kruispunt Reigerlostraat met Heirweg in Beernem)
 
@@ -38,64 +39,47 @@ Je fietst op het fietsnetwerk aan de hand van knooppunten. Volg deze knooppunten
 
 (deze route kan ook opgesplitst worden in 2 kleinere lussen)
 
-## En Route
+## On route
 
 ### De Radio
 
-{{% imgandtxt url="https://www.westtoer.be/" extlink="/nl/eten-drinken/de-radio" %}}
-
+{{% imgandtxt url="https://www.westtoer.be/" alt="De Radio" %}}
 Bij 14
-
 Stemmige eetkroeg in de schaduw van de imposante zendmasten die ooit de eerste radioverbinding met Congo maakten. Hier drink je een fris schuimende Urthel.
-
-[Meer info](https://www.westtoer.be/nl/eten-drinken/de-radio)
-
+[Meer info](/nl/eten-drinken/de-radio)
 {{% /imgandtxt %}}
 
 ### Den Haze
 
-{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/den_haze.jpg" extlink="/nl/eten-drinken/den-haze" %}}
-
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/den_haze.jpg" alt="Den Haze" %}}
 Tussen 15 en 34
-
 Stijlvol terras met weids uitzicht, speeltuin en reuze trampoline. Hier wordt volop ingezet op seizoensgerechten met lokale ingrediënten. In één woord: zalig!
-
-[Meer info](https://www.westtoer.be/nl/eten-drinken/den-haze)
-
+[Meer info](/nl/eten-drinken/den-haze)
 {{% /imgandtxt %}}
 
 ### Smart-Ijs
 
-{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/smart-ijs4_1.jpg" extlink="/nl/eten-drinken/smart-ijs" %}}
-
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/smart-ijs4_1.jpg" alt="Smart-Ijs" %}}
 Tussen 25 en 50
-
 Modern ijssalon met zonneterras. Met smaken als cookies en crème brûlée hou je het moeilijk bij één bolletje.
-
-[Meer info](https://www.westtoer.be/nl/eten-drinken/smart-ijs)
-
+	 
+	[Meer info](/nl/eten-drinken/smart-ijs)
 {{% /imgandtxt %}}
 
 ### Urbancafé Lippensgoed
 
-{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/104452603_137059177960970_4608872448805581931_n_0.jpg" extlink="/nl/eten-drinken/urbancaf%C3%A9-lippensgoed" %}}
-
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/eten_drinken/104452603_137059177960970_4608872448805581931_n_0.jpg" alt="Urbancafé Lippensgoed" %}}
 Nabij 49
-
 Hippe urban foodbar/restaurant met stedelijke allures. En dit gekoppeld aan een prachtig terras met uitzicht over het (speel)park Bulskampveld.
-
-[Meer info](https://www.westtoer.be/nl/eten-drinken/urbancaf%C3%A9-lippensgoed)
-
+[Meer info](/nl/eten-drinken/urbancaf%C3%A9-lippensgoed)
 {{% /imgandtxt %}}
 
 ### Apéro Chateau
 
-{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/apero_chateau.jpg" extlink="/nl/eten-drinken/ap%C3%A9ro-ch%C3%A2teau" %}}
-
+{{% imgandtxt url="https://www.westtoer.be/sites/westtoer_2015/files/brugse_ommeland/doen/apero_chateau.jpg" alt="Apéro Chateau" %}}
 Tussen 63 en 44
-
 Een hippe pop-up bar in de schaduw van het prachtige kasteel Di Coylde! Je geniet er van lekkere cocktails en overheerlijke smallbites en tapas.
-
-[Meer info](https://www.westtoer.be/nl/eten-drinken/ap%C3%A9ro-ch%C3%A2teau)
-
+[Meer info](/nl/eten-drinken/ap%C3%A9ro-ch%C3%A2teau)
 {{% /imgandtxt %}}
+
+

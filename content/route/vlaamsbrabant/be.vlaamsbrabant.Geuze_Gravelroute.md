@@ -1,19 +1,19 @@
 ---
-title: "Geuze_Gravelroute"
-subtitle: "Trap door de mooiste Bruegellandschappen langs gravelwegen en autoluwe betonbaantjes en beloon de inspanning met een lekkere geuze in een sympathiek dorpscafé."
-date: "2022-11-04"
-description: "Trap door de mooiste Bruegellandschappen langs gravelwegen en autoluwe betonbaantjes en beloon de inspanning met een lekkere geuze in een sympathiek dorpscafé." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "Geuze Gravelroute"
+subtitle: "Trap door de mooiste Bruegellandschappen langs gravelwegen en autoluwe betonbaantjes en beloon de inspanning met een lekkere geuze in een sympathiek dorpscafé"
+date: "2022-11-09"
+description: "Trap door de mooiste Bruegellandschappen langs gravelwegen en autoluwe betonbaantjes en beloon de inspanning met een lekkere geuze in een sympathiek dorpscafé."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/geuze-gravelroute/index.html"
 gpx: "vlaamsbrabant/Geuze_Gravelroute.gpx"
 length: 97
+tags:
+ - "flanders"
+ - "medium"
+categories:
+ - "official"
+ - "route"
 ---
 
 ## Let's Go ! 
@@ -35,8 +35,6 @@ Snuif de geur op van het Hallerbos en het elegante Park ter Rijst en geniet van 
 Beloon je inspanning met een lekkere geuze in een sympathiek dorpscafé langs de route.
 
 Meer tijd? Plan een boeiende rondleiding in de brouwerijen van [Lindemans](https://www.toerismevlaamsbrabant.be/producten/bezoeken/bezienswaardigheden/brouwerij-lindemans/), [Boon](https://www.toerismevlaamsbrabant.be/producten/bezoeken/bezienswaardigheden/brouwerij-boon/), 3 Fonteinen of [Oud-Beersel](https://www.toerismevlaamsbrabant.be/producten/bezoeken/bezienswaardigheden/brouwerij-oudbeersel/).
-
-
 
 ## Start
 

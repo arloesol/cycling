@@ -1,5 +1,5 @@
 ---
-title: "Vlaanderen met de fiets"
+title: "Flanders by Bike"
 subtitle: "Icoonroutes"
 date: "2022-11-04"
 description: "Official Flemish tourism bikeroutes"
@@ -13,9 +13,9 @@ regional: true
 country: belgium
 region: flanders
 ---
-The https://www.vlaanderenmetdefiets.be website is an initiative of several flemish tourism authorities
+The https://www.flandersbybike.com website is an initiative of several flemish tourism authorities
 
 You can find amongst others following info
-- 9 [icon-bikeroutes](https://www.vlaanderenmetdefiets.be/#routes) in flanders
+- 9 [icon-bikeroutes](https://www.flandersbybike.com/#routes) in flanders
 - [routeplanner](https://beta.nodemapp.com/nl/cycling/iconroutes) using the icon-routes
-- weblinks to different flemish tourism sites in the [about page](https://www.vlaanderenmetdefiets.be/over-ons)
+- weblinks to different flemish tourism sites in the [about page](https://www.flandersbybike.com/about-us)

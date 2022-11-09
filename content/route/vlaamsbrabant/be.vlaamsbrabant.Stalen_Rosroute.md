@@ -1,21 +1,22 @@
 ---
-title: "Stalen_Rosroute"
-subtitle: "De ijzeren weg, de oude spoorweg tussen Tienen en Diest, is nu de bedding voor een prachtige fietstocht. Van 1878 tot 1957 konden treinreizigers dit landschap bewonderen, nu is het de beurt aan de fietsers en wandelaars om hun ogen de kost te geven."
-date: "2022-11-04"
-description: "De ijzeren weg, de oude spoorweg tussen Tienen en Diest, is nu de bedding voor een prachtige fietstocht. Van 1878 tot 1957 konden treinreizigers dit landschap bewonderen, nu is het de beurt aan de fietsers en wandelaars om hun ogen de kost te geven." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "Stalen Rosroute"
+subtitle: "De ijzeren weg, de oude spoorweg tussen Tienen en Diest, is nu de bedding voor een prachtige fietstocht"
+date: "2022-11-09"
+description: "De ijzeren weg, de oude spoorweg tussen Tienen en Diest, is nu de bedding voor een prachtige fietstocht. Van 1878 tot 1957 konden treinreizigers dit landschap bewonderen, nu is het de beurt aan de fietsers en wandelaars om hun ogen de kost te geven."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/stalen-ros-fietsroute/index.html"
 gpx: "vlaamsbrabant/Stalen_Rosroute.gpx"
 length: 23
-nodetype: "vlaams"
-nodes: "48,23,51,21,1,192,25,24,22,356,49,31,48,191"
+tags:
+ - "flanders"
+ - "vshort"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "48,23,51,21,1,192,25,24,22,356,49,31,48,191"
 ---
 
 ## Let's Go ! 
@@ -35,8 +36,6 @@ Laat je verleiden om in Bistro Het Vinne van seizoensgebonden streekgerechten te
 Wil je graag een aangepaste fiets huren? [Hier](https://www.toerismevlaamsbrabant.be/thema/iedereen-toerist/aangepaste-fiets-huren) vind je de fietsverhuurpunten waar je terecht kan.
 
 Dit is een toegankelijke route. Ontdek hier meer over het aanbod van [“Iedereen toerist”](https://www.toerismevlaamsbrabant.be/thema/iedereen-toerist/).
-
-
 
 ## Start
 

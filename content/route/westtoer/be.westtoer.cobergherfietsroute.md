@@ -1,24 +1,22 @@
 ---
 title: "Cobergherfietsroute"
 subtitle: "De Cobergherfietsroute flirt met de Franse grens"
-date: "2022-11-06"
-description: "De Cobergherfietsroute flirt met de Franse grens" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+date: "2022-11-09"
+description: "De Cobergherfietsroute flirt met de Franse grens"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/cobergherfietsroute"
-gpx: "westtoer/cobergher_fietsroute_0.gpx"
+gpx: "westtoer/cobergherfietsroute.gpx"
 length: 47
-nodetype: "vlaams"
-nodes: "76"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 De Cobergherfietsroute flirt met de Franse grens. Je vertrekt wel vanuit Adinkerke,  maar je fietst meteen door naar het Franse Hondschoote. Op dit fietstraject staan de Moeren centraal. Dat is een 3.000 ha groot landbouwgebied met rechthoekige kavels en loodrechte grachten. Vroeger was hier een groot binnenmeer,  maar dat werd in de 17de eeuw drooggelegd door Wenzel Cobergher. Je fietst terug naar je startpunt langs het Frans-Vlaamse Houtland en de binnenduinen van Ghyvelde en Cabour.
 
@@ -28,7 +26,7 @@ Westtoer werkt aan het vernieuwen van het fietsaanbod in West-Vlaanderen. De bew
 
 MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
-## Start 
+## Start
 
 Station, Stationsplein 9, 8660 De Panne
 

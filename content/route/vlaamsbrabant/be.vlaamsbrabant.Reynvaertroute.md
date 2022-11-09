@@ -1,21 +1,22 @@
 ---
 title: "Reynvaertroute"
-subtitle: "Een route voor zoetebekken. Door de 'Lekdreef' naar de Abdij van Averbode en zo verder naar de Pepernoten onder de toren van de Basiliek van Scherpenheuvel. Terug in Diest wacht je nog meer lekkers: Stroobants koffie, Loterbol bier, koekjes van Stuckens, patatjesvlaai van Kozak, Begijnenkoek van Xaverius..."
-date: "2022-11-04"
-description: "Een route voor zoetebekken. Door de 'Lekdreef' naar de Abdij van Averbode en zo verder naar de Pepernoten onder de toren van de Basiliek van Scherpenheuvel. Terug in Diest wacht je nog meer lekkers: Stroobants koffie, Loterbol bier, koekjes van Stuckens, patatjesvlaai van Kozak, Begijnenkoek van Xaverius..." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+subtitle: "Een route voor zoetebekken"
+date: "2022-11-09"
+description: "Een route voor zoetebekken. Door de 'Lekdreef' naar de Abdij van Averbode en zo verder naar de Pepernoten onder de toren van de Basiliek van Scherpenheuvel. Terug in Diest wacht je nog meer lekkers: Stroobants koffie, Loterbol bier, koekjes van Stuckens, patatjesvlaai van Kozak, Begijnenkoek van Xaverius..."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/reynvaert-fietsroute/index.html"
 gpx: "vlaamsbrabant/Reynvaertroute.gpx"
 length: 42
-nodetype: "vlaams"
-nodes: "88,34,38,91,92,93,59,57,81,56,18,25,83,58,86,87,89,88"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "88,34,38,91,92,93,59,57,81,56,18,25,83,58,86,87,89,88"
 ---
 
 ## Let's Go ! 
@@ -33,8 +34,6 @@ Fiets langs de Norbertijnenabdij van Averbode en stop in de 'Lekdreef' aan de ij
 Rij via Zichem naar Scherpenheuvel, gekend voor haar basiliek, maar ook voor de vele snoepkraampjes met Pepernoten en Noppen.
 
 Breng zeker een bezoekje aan het Vlaams Centrum voor eet- en tafelcultuur Xaverius in het [Begijnhof van Diest](https://www.toerismevlaamsbrabant.be/producten/bezoeken/bezienswaardigheden/begijnhof-diest/).
-
-
 
 ## Start
 

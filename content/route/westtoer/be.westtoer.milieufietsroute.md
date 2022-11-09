@@ -1,24 +1,22 @@
 ---
 title: "Milieufietsroute"
 subtitle: "'Reizen om te leren’ is het motto van deze fietsroute"
-date: "2022-11-06"
-description: "'Reizen om te leren’ is het motto van deze fietsroute" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+date: "2022-11-09"
+description: "'Reizen om te leren’ is het motto van deze fietsroute"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/milieufietsroute"
-gpx: "westtoer/milieu_fietsroute.gpx"
+gpx: "westtoer/milieufietsroute.gpx"
 length: 50
-nodetype: "vlaams"
-nodes: "14"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 'Reizen om te leren’ is het motto van deze fietsroute. Er is veel aandacht voor onze relatie met het leefmilieu voorbij een waterzuiveringsstation en het natuur-educatief centrum De Kaaihoeve. De route slingert zich langs mooie stukjes natuur.
 
@@ -26,7 +24,7 @@ Westtoer werkt aan het vernieuwen van het fietsaanbod in West-Vlaanderen. De bew
 
 MEER INFO OVER DE VERNIEUWING VAN HET FIETSAANBOD
 
-## Start 
+## Start
 
 Provinciedomein De Brielmeersen, Lucien Matthyslaan, 9800 Deinze
 

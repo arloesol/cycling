@@ -1,21 +1,22 @@
 ---
 title: "Vierkantshoevenroute"
-subtitle: "Statige vierkantshoeves vormen je leidraad langs prachtige natuur, religieus erfgoed en mooie parken zoals het kasteelpark Kwabeek in Boutersem. Je komt ook door het kunstenaarsdorp Tourinnes-la-Grosse met zijn romaanse kerk en de keramiekkunst van Max van der Linden."
-date: "2022-11-04"
-description: "Statige vierkantshoeves vormen je leidraad langs prachtige natuur, religieus erfgoed en mooie parken zoals het kasteelpark Kwabeek in Boutersem. Je komt ook door het kunstenaarsdorp Tourinnes-la-Grosse met zijn romaanse kerk en de keramiekkunst van Max van der Linden." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+subtitle: "Statige vierkantshoeves vormen je leidraad langs prachtige natuur, religieus erfgoed en mooie parken zoals het kasteelpark Kwabeek in Boutersem"
+date: "2022-11-09"
+description: "Statige vierkantshoeves vormen je leidraad langs prachtige natuur, religieus erfgoed en mooie parken zoals het kasteelpark Kwabeek in Boutersem. Je komt ook door het kunstenaarsdorp Tourinnes-la-Grosse met zijn romaanse kerk en de keramiekkunst van Max van der Linden."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/vierkantshoeveroute/index.html"
 gpx: "vlaamsbrabant/Vierkantshoevenroute.gpx"
 length: 47
-nodetype: "vlaams"
-nodes: "37,36,12,13,35,45,14,17,18,29,31,28,26,25,21,20,77,81,90,96,89,88,97,92,98,91,37"
+tags:
+ - "flanders"
+ - "short"
+categories:
+ - "official"
+ - "route"
+nodetype: "flanders"
+nodes:
+ - "37,36,12,13,35,45,14,17,18,29,31,28,26,25,21,20,77,81,90,96,89,88,97,92,98,91,37"
 ---
 
 ## Let's Go ! 
@@ -31,8 +32,6 @@ Deze statige parels vormen je leidraad langs prachtige natuur, religieus erfgoed
 Kom ook door het kunstenaarsdorp Tourinnes-la-Grosse met zijn romaanse kerk en de keramiekkunst van Max van der Linden.
 
 Deze fietslus kwam tot stand in samenwerking met [Destination Brabant wallon](https://www.destinationbw.be/nl/).
-
-
 
 ## Start
 

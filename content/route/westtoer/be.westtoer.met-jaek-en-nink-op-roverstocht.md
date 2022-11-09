@@ -1,32 +1,30 @@
 ---
 title: "Met Jaek en Nink op roverstocht"
 subtitle: "De route is in totaal 28 km lang en is bewegwijzerd met 6-hoekige bordjes met de figuurtjes van Jaek en Nink"
-date: "2022-11-06"
-description: "De route is in totaal 28 km lang en is bewegwijzerd met 6-hoekige bordjes met de figuurtjes van Jaek en Nink" 
-tags:
-  - flanders
-  - medium
-categories: 
-  - route
-  - official
+date: "2022-11-09"
+description: "De route is in totaal 28 km lang en is bewegwijzerd met 6-hoekige bordjes met de figuurtjes van Jaek en Nink"
 region: "flanders"
 source: "be.westtoer"
 ext_url: "https://www.westtoer.be/nl/doen/met-jaek-en-nink-op-roverstocht"
-gpx: "westtoer/kd_op_roverstocht_fietsroute_houthulst_1_0.gpx"
+gpx: "westtoer/met-jaek-en-nink-op-roverstocht.gpx"
 length: 28
-nodetype: "vlaams"
-nodes: "48"
+tags:
+ - "flanders"
+ - "vshort"
+categories:
+ - "official"
+ - "route"
 ---
 
-## Let's Go !
+## Let's Go ! 
 
 De route is in totaal 28 km lang en is bewegwijzerd met 6-hoekige bordjes met de figuurtjes van Jaek en Nink. De route heeft twee startpunten: aan de Dienst voor Toerisme van Houthulst en aan het Guynemerpaviljoen van Langemark-Poelkapelle. Tijdens de route kom je heel wat plaatsen tegen waar je kan genieten van een ijsje of waar de kinderen kunnen ravotten op speelpleintjes. Bovendien ontdek je tijdens de route het ‘rovershol’ waar Bakelandt zich schuil hield.
 
-Zelf je fietsroute uitstippelen op de knooppunten? [Gebruik onze Fietsrouteplanner](http://www.westtoer.be/nl/fietsrouteplanner).
+Zelf je fietsroute uitstippelen op de knooppunten? Gebruik onze Fietsrouteplanner.
 
-[Lees meer over het Fietsnetwerk en de Knooppunten.](http://www.westtoer.be/nl/inspiratie/fietsnetwerk)
+Lees meer over het Fietsnetwerk en de Knooppunten.
 
-## Start 
+## Start
 
 Toerisme Houthulst, Markt 17, 8650 Houthulst of aan het Guynemerpaviljoen, Brugseweg 126-128, 8920 Langemark-Poelkapelle
 

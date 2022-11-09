@@ -1,19 +1,19 @@
 ---
-title: "Sven_Nys_Cycling_Route"
-subtitle: "Deze sportieve route van 93 km werd uitgetekend door Sven Nys. Het traject is pittig en bevat enkele kuitenbijters. Starten doe je aan het Sven Nys Cycling Center, het belevingscentrum waar je alles te weten komt over off-road fietsen."
-date: "2022-11-04"
-description: "Deze sportieve route van 93 km werd uitgetekend door Sven Nys. Het traject is pittig en bevat enkele kuitenbijters. Starten doe je aan het Sven Nys Cycling Center, het belevingscentrum waar je alles te weten komt over off-road fietsen." 
-tags:
-- flanders
-- medium
-categories: 
-- route
-- official
+title: "Sven Nys Cycling Route"
+subtitle: "Deze sportieve route van 93 km werd uitgetekend door Sven Nys"
+date: "2022-11-09"
+description: "Deze sportieve route van 93 km werd uitgetekend door Sven Nys. Het traject is pittig en bevat enkele kuitenbijters. Starten doe je aan het Sven Nys Cycling Center, het belevingscentrum waar je alles te weten komt over off-road fietsen."
 region: "flanders"
 source: "be.vlaamsbrabant"
 ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/sven-nys-cycling-route/index.html"
 gpx: "vlaamsbrabant/Sven_Nys_Cycling_Route.gpx"
 length: 93
+tags:
+ - "flanders"
+ - "medium"
+categories:
+ - "official"
+ - "route"
 ---
 
 ## Let's Go ! 
@@ -33,8 +33,6 @@ Bereid je voor op een pittig traject met enkele flinke kuitenbijters.
 Je rijdt door de mooiste landschappen van het Hageland.
 
 Onderweg kom je tal van bezienswaardigheden tegen zoals het Kasteel van Horst, het standbeeld van Eddy Merckx, het Bezoekerscentrum van de Hagelandse Wijn en vele fruit- en wijngaarden.
-
-
 
 ## Start
 
