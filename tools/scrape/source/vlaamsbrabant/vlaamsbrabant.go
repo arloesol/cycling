@@ -36,8 +36,8 @@ var (
 	cfg = lib.Cfg{
 		//Pagetoparse: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/zoete-velproute/index.html",
 		Pagetoparse: "",
-		Savegpx:     false,
-		Saveimg:     false,
+		Savegpx:     true,
+		Saveimg:     true,
 		Source:      "vlaamsbrabant",
 		Srcpfx:      "be.vlaamsbrabant.",
 		Tags:        []string{"flanders"},

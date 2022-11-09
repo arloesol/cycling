@@ -9,8 +9,8 @@ This content is scraped by using go code in /tools/scrape
 for example the www.visitlimburg.be website can be scraped by running the code found in /tools/scrape/limburg
 
 ```shell
-cd tools/scrape/limburg
-go run limburg.go
+cd $GITDIR/tools/scrape
+go run source/limburg/limburg.go
 ```
 
 The resulting content, gpx files and images will be in the route, gpx and img directories

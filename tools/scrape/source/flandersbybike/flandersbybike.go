@@ -11,8 +11,8 @@ var (
 	cfg = lib.Cfg{
 		Pagetoparse: "",
 		//Pagetoparse: "https://www.flandersbybike.com/coastal-route",
-		Savegpx:    false,
-		Saveimg:    false,
+		Savegpx:    true,
+		Saveimg:    true,
 		Source:     "flandersbybike",
 		Srcpfx:     "com.flandersbybike.",
 		Tags:       []string{"flanders"},

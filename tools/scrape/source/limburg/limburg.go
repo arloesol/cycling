@@ -12,8 +12,8 @@ var (
 	cfg = lib.Cfg{
 		Pagetoparse: "",
 		//Pagetoparse: "https://www.visitlimburg.be/en/route/cross-border-cycling-along-meuse-river",
-		Savegpx:    false,
-		Saveimg:    false,
+		Savegpx:    true,
+		Saveimg:    true,
 		Source:     "limburg",
 		Srcpfx:     "be.visitlimburg.",
 		Tags:       []string{"flanders"},
