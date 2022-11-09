@@ -1,27 +1,55 @@
-<style>
-    .image-gallery {overflow: auto; margin-left: -5%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
-    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: 100%; display: block;}
-</style>
+<!-- jquery start -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- debug links 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.js" integrity="sha512-CX7sDOp7UTAq+i1FYIlf9Uo27x4os+kGeoT7rgwvY+4dmjqV0IuE/Bl5hVsjnQPQiTOhAX1O2r2j5bjsFBvv/A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+-->
+<!-- jquery end -->
+
+<!-- splide js start -->
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js" integrity="sha256-FZsW7H2V5X9TGinSjjwYJ419Xka27I8XPDmWryGlWtw=" crossorigin="anonymous"></script>
+<!-- debug links 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js" integrity="sha512-gY25nC63ddE0LcLPhxUJGFxa2GoIyA5FLym4UJqHDEMHjp8RET6Zn/SHo1sltt3WuVtqfyxECP38/daUc/WVEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+-->
+<!-- splide js end -->
 
 {{ $dir := string .gallery_dir }}
-{{ $fulldir := print "/assets" $dir }}
+{{ $fulldir := print "/static" $dir }}
 {{ if os.FileExists $fulldir }}
-    <ul class="image-gallery">
-    {{ range (readDir $fulldir) }}
-      {{- $image := resources.Get (printf "%s/%s" $dir .Name) -}}
-      {{- /* warnf $fulldir .Name */ -}} 
-      {{- $imageurl := printf "%s/%s" $dir .Name -}}
-      {{- $imagetitle := replaceRE "[-_]" " " (index (split .Name ".") 0) -}}
-        <li>
-        <a href="{{ ($image.Fit "1600x1600 q50").Permalink }}" title="{{ $imagetitle }}" class="lightbox-image">
-            <img src="{{ ($image.Fill "300x300 q50").Permalink }}" alt="{{ $imagetitle }}" title="{{ $imagetitle }}">
-            <span>{{ $imagetitle }}</span>
-            {{- /* warnf .Name */ -}}
-        </a>
-        </li>
-    {{ end }}
-    </ul>
+    <section class="splide" aria-label="Splide Basic HTML Example">
+      <div class="splide__track">
+        <ul class="splide__list">
+      {{ range (readDir $fulldir) }}
+        {{- $imageurl := printf "%s/%s" $dir .Name -}}
+        {{- $imagetitle := replaceRE "[-_]" " " (index (split .Name ".") 0) -}}
+          <li class="splide__slide">
+            <a href="{{ $imageurl}}">
+              <img src="{{ $imageurl }}" alt="{{ $imagetitle }}" title="{{ $imagetitle }}">
+            </a>
+          </li>
+      {{ end }}
+        </ul>
+      </div>
+    </section>
 {{ end }}
+
+<script>
+  document.addEventListener( 'DOMContentLoaded', function() {
+    var splide = new Splide( '.splide' , {
+      perPage : 4,
+      perMove : 3,
+      gap: '1em',
+      pagination: true,
+      drag: true,
+      height  : '10rem',
+      lazyLoad: 'nearby',
+      preloadPages: number = 1,
+      breakpoints: {640: {
+        height: '6rem',
+        perPage : 3,
+        perMove : 2,
+      }
+      },
+    } );
+    splide.mount();
+  } );
+</script>
