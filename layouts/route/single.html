@@ -225,9 +225,9 @@
         {{- /* Expiration Reminder */ -}}
         {{- partial "single/expiration-reminder.html" . -}}
 
-        {{ if (os.FileExists (printf "%s/%s" "/assets/routes/gallery" .File.BaseFileName )) }}
+        {{ if (os.FileExists (printf "%s/%s" "/static/images/routes/gallery" .File.BaseFileName )) }}
           <h2 id="Route-Images">Route Images</h2>
-          {{ $gallerydir := .File.BaseFileName | printf "%s/%s" "/routes/gallery" }}
+          {{ $gallerydir := .File.BaseFileName | printf "%s/%s" "/images/routes/gallery" }}
           {{ partial "image-gallery" (dict "context" . "gallery_dir" $gallerydir) }}
         {{ end }}   
       
