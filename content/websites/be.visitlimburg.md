@@ -16,6 +16,6 @@ region: limburg
 
 The https://www.visitlimburg.be/en website is managed by the Limburg region authorities
 
-The website contains general tourism info related to Limburg
+The website contains general tourism info related to Limburg and [bike routes](/source/be.visitlimburg)
 
-Concerning biking, the website contains a section of the website dedicated to cycling https://www.visitlimburg.be/en/cycling
+Concerning biking, the website contains a [section of the website dedicated to cycling](https://www.visitlimburg.be/en/cycling)
