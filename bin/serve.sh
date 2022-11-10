@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 cd $GITDIR
-hugo server --disableFastRender
+hugo server --disableFastRender -e production
