@@ -5,6 +5,11 @@ defaultContentLanguage = "en"
 languageCode = "en"
 theme = "FixIt"
 
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  source = 'sources'
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
@@ -31,11 +36,11 @@ theme = "FixIt"
       # set menu item type, optional value: ["mobile", "desktop"]
       type = ""
   [[menu.main]]
-    identifier = "sources"
+    identifier = "websites"
     pre = ""
     post = ""
-    name = "Sources"
-    url = "/source/"
+    name = "Websites"
+    url = "/websites/"
     title = ""
     weight = 2
     [menu.main.params]
@@ -46,7 +51,7 @@ theme = "FixIt"
     pre = ""
     post = ""
     name = "Routes"
-    url = "/route/"
+    url = "/routes/"
     title = ""
     weight = 3
     [menu.main.params]
