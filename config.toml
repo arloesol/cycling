@@ -86,8 +86,7 @@ theme = "FixIt"
   keywords = ["cycling", "bike"]
   dateFormat = "2006-01-02"
   disableThemeInject = true
-  autoBookmark = true
-
+  
   [params.app]
     title="Cycling"
   
@@ -137,9 +136,7 @@ theme = "FixIt"
     title = "View source on GitHub"
     position = "right" # ["left", "right"]
 
-
 # Markup related configuration in Hugo
-
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
   [markup.highlight]
