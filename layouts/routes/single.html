@@ -140,7 +140,7 @@
       {{- /* Cycling route info BEGIN */ -}}
       <div class="post-meta-line">
         {{- with $params.source -}}
-          {{- $srcurl := . | printf "%s/%s" "/source" -}}
+          {{- $srcurl := . | printf "%s/%s" "/websites" -}}
           <span> <a href="{{ $srcurl }}"> {{- dict "Class" "fa-solid fa-circle-info" | partial "plugin/icon.html" -}} &nbsp; {{ . }}</a> </span>&nbsp;
         {{- end -}}        
         {{- with $params.ext_url -}}
