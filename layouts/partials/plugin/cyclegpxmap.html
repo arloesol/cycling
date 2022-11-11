@@ -1,16 +1,17 @@
 {{- /* create an cyclosm openstreetmap cycling map and show the gpx route in red on map zoomed */ -}}
 
-<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
-        integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
-        crossorigin="">
-</script>
+<!-- leaflet-ui -->
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<!-- <script src="https://unpkg.com/leaflet-ui@0.5.9/dist/leaflet-ui.js"></script> -->
 <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
-<script src="/js/GPXParser.js"></script>
+<!-- <script src="/js/GPXParser.js"></script> -->
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
-      integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
-      crossorigin=""/>
-<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/><link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
+
+<!-- leaflet-elevation -->
+<style> html, body, #map, #elevation-div { height: 100%; width: 100%; padding: 0; margin: 0; } #map { height: 75%; } #elevation-div {	height: 20%; font: 10px/1.5 "Helvetica New", Arial, Helvetica, sans-serif; } </style>
+<link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
+<script src="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.js"></script>
 
 {{ with .AltRoutes }}
     <button onclick="getGPX('{{ $.GPX }}')">main</button>
@@ -21,32 +22,85 @@
 
 <div style="height: 50vh;" id="map"></div>
 <script>
-  var polylines = [];
+  var elevation_options = {
+    // Default chart colors: theme lime-theme, magenta-theme, ...
+    theme: "steelblue-theme",
+    // Chart container outside/inside map container
+    detached: false,
+    // if (detached), the elevation chart container
+    elevationDiv: "#elevation-div",
+    // if (!detached) autohide chart profile on chart mouseleave
+    autohide: false,
+    // if (!detached) initial state of chart profile control
+    collapsed: true,
+    // if (!detached) control position on one of map corners
+    position: "bottomright",
+    // Toggle close icon visibility
+    closeBtn: true,
+    // Autoupdate map center on chart mouseover.
+    followMarker: true,
+    // Autoupdate map bounds on chart update.
+    autofitBounds: true,
+    // Chart distance/elevation units.
+    imperial: false,
+    // [Lat, Long] vs [Long, Lat] points. (leaflet default: [Lat, Long])
+    reverseCoords: false,
+    // Acceleration chart profile: true || "summary" || "disabled" || false
+    acceleration: false,
+    // Slope chart profile: true || "summary" || "disabled" || false
+    slope: true,
+    // Speed chart profile: true || "summary" || "disabled" || false
+    speed: false,
+    // Altitude chart profile: true || "summary" || "disabled" || false
+    altitude: true,
+    // Display time info: true || "summary" || false
+    time: false,
+    // Display distance info: true || "summary" || false
+    distance: false,
+    // Summary track info style: "inline" || "multiline" || false
+    summary: 'inline',
+    // Download link: "link" || false || "modal"
+    downloadLink: false,
+    // Toggle chart ruler filter
+    ruler: true,
+    // Toggle chart legend filter
+    legend: true,
+    // Toggle "leaflet-almostover" integration
+    almostOver: true,
+    // Toggle "leaflet-distance-markers" integration
+    distanceMarkers: true,
+    // Toggle "leaflet-hotline" integration
+    hotline: true,
+    // Display track datetimes: true || false
+    timestamps: false,
+    // Display track waypoints: true || "markers" || "dots" || false
+    waypoints: true,
+    // Toggle custom waypoint icons: true || { associative array of <sym> tags } || false
+    wptIcons: {
+      '': L.divIcon({
+        className: 'elevation-waypoint-marker',
+        html: '<i class="elevation-waypoint-icon"></i>',
+        iconSize: [30, 30],
+        iconAnchor: [8, 30],
+      }),
+    },
+    // Toggle waypoint labels: true || "markers" || "dots" || false
+    wptLabels: true,
+    // Render chart profiles as Canvas or SVG Paths
+    preferCanvas: true,
+    };
 
   let mymap = L.map('map', { fullscreenControl: true }).setView([51.505, -0.09], 13);
+
+  var controlElevation = L.control.elevation(elevation_options).addTo(mymap);
 
   L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">openstreetmap/cyclosm</a> contributors - <a href="https://www.cyclosm.org/legend.html"> map legend</a>',
       maxZoom: 20
   }).addTo(mymap);
-  function drawTrack(track) {
-    polylines.forEach(function (item) {
-      mymap.removeLayer(item)
-    });
-    let coordinates = track.points.map(p => [p.lat.toFixed(5), p.lon.toFixed(5)]);
-    var polyline = L.polyline(coordinates, { weight: 6, color: 'darkred' }).addTo(mymap);
-    polylines.push(polyline);
-    mymap.fitBounds(polyline.getBounds());
-  }
+
   function getGPX(gpxurl) {
-    fetch(window.location.origin + "/gpxfiles/" + gpxurl)
-      .then(function (response) {
-          return response.text();
-      }).then(function (gpxData) {
-        let gpx = new gpxParser();
-        gpx.parse(gpxData);
-        drawTrack(gpx.tracks[0]);
-      });
+    controlElevation.load(window.location.origin + "/gpxfiles/" + gpxurl);
   }
   getGPX('{{ .GPX }}')
 </script>
