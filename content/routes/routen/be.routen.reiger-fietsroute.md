@@ -1,19 +1,39 @@
 ---
-title: "Reiger Fietsroute"
-subtitle: "Het is heerlijk fietsen in het vlakke Meetjesland met onderweg voldoende plekjes om uit te rusten"
 date: "2022-11-09"
-description: "Het is heerlijk fietsen in het vlakke Meetjesland met onderweg voldoende plekjes om uit te rusten"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/reiger-fietsroute"
-gpx: "routen/reiger-fietsroute.gpx"
-length: 53
-tags:
- - "flanders"
- - "short"
+title: Reiger Fietsroute
+subtitle: Het is heerlijk fietsen in het vlakke Meetjesland met onderweg voldoende plekjes om uit te rusten
+description: Het is heerlijk fietsen in het vlakke Meetjesland met onderweg voldoende plekjes om uit te rusten
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/reiger-fietsroute
+routes:
+    - name: Main
+      gpx: routen/reiger-fietsroute.gpx
+      length: 53757
+      up: 101
+      down: 101
+      minheight: 2
+      maxheight: 25
+      minslope: -4
+      maxslope: 4.7
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 4180
+        - 115
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.894
+      minlat: 51.09314
+      minlon: 3.54232
+      maxlat: 51.16818
+      maxlon: 3.69516
 ---
 
 ## Let's Go ! 

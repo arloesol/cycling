@@ -1,22 +1,42 @@
 ---
-title: "Fietsen in het Lekkere Westen - Oostkust en Hinterland"
-subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
 date: "2022-11-09"
-description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-oostkust-en-hinterland"
-gpx: "westtoer/fietsen-het-lekkere-westen-oostkust-en-hinterland.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Fietsen in het Lekkere Westen - Oostkust en Hinterland
+subtitle: Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,
+description: Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "80,76,26,30,96,40,88,78,11,81,86,77,32,58,52,39,20,22,95,34,31,16,80"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-oostkust-en-hinterland
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 80,76,26,30,96,40,88,78,11,81,86,77,32,58,52,39,20,22,95,34,31,16,80
+      gpx: westtoer/fietsen-het-lekkere-westen-oostkust-en-hinterland.gpx
+      length: 41001
+      up: 0
+      down: 0
+      minheight: 123
+      maxheight: 123
+      minslope: 0
+      maxslope: 0
+      avgposslope: .nan
+      avgnegslope: .nan
+      slopehisto:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.367
+      minlat: 51.229983
+      minlon: 3.067368
+      maxlat: 51.313263
+      maxlon: 3.195418
 ---
 
 ## Let's Go ! 

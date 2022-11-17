@@ -1,19 +1,39 @@
 ---
-title: "Cheeses and glass-blowing"
-subtitle: "A flat route in the most northerly corner of Limburg"
 date: "2022-11-09"
-description: "A flat route in the most northerly corner of Limburg"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/cheeses-and-glass-blowing"
-gpx: "limburg/cheeses-and-glass-blowing.gpx"
-length: 61
-tags:
- - "flanders"
- - "medium"
+title: Cheeses and glass-blowing
+subtitle: A flat route in the most northerly corner of Limburg
+description: A flat route in the most northerly corner of Limburg
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/cheeses-and-glass-blowing
+routes:
+    - name: Main
+      gpx: limburg/cheeses-and-glass-blowing.gpx
+      length: 60706
+      up: 188
+      down: 188
+      minheight: 29
+      maxheight: 58
+      minslope: -8.4
+      maxslope: 12.9
+      avgposslope: 1.1
+      avgnegslope: -1.5
+      slopehisto:
+        - 6570
+        - 366
+        - 239
+        - 168
+        - 59
+      effortlevel: 2.315
+      minlat: 51.20274
+      minlon: 5.30256
+      maxlat: 51.30228
+      maxlon: 5.55589
 ---
 
 ## Let's Go ! 

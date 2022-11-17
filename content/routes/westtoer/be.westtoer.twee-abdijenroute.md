@@ -1,22 +1,42 @@
 ---
-title: "Twee abdijenroute"
-subtitle: "Bij de Twee Abdijenroute staan we even stil bij twee belangrijke sites in Gistel en Oudenburg"
 date: "2022-11-09"
-description: "Bij de Twee Abdijenroute staan we even stil bij twee belangrijke sites in Gistel en Oudenburg"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/twee-abdijenroute"
-gpx: "westtoer/twee-abdijenroute.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Twee abdijenroute
+subtitle: Bij de Twee Abdijenroute staan we even stil bij twee belangrijke sites in Gistel en Oudenburg
+description: Bij de Twee Abdijenroute staan we even stil bij twee belangrijke sites in Gistel en Oudenburg
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "62,60,94,58,13,63,89,76,24,36,49,34,30,64,32,35,45,38,2,62"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/twee-abdijenroute
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 62,60,94,58,13,63,89,76,24,36,49,34,30,64,32,35,45,38,2,62
+      gpx: westtoer/twee-abdijenroute.gpx
+      length: 38629
+      up: 33
+      down: 33
+      minheight: 2
+      maxheight: 16
+      minslope: -1.9
+      maxslope: 1.7
+      avgposslope: 0.9
+      avgnegslope: -0.6
+      slopehisto:
+        - 672
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.302
+      minlat: 51.118511
+      minlon: 2.920816
+      maxlat: 51.187762
+      maxlon: 3.070122
 ---
 
 ## Let's Go ! 

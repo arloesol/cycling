@@ -1,19 +1,39 @@
 ---
-title: "Vermoedeleyck Daar Fietsroute"
-subtitle: "De twee gestolen panelen van het Lam Gods zijn nog steeds zoek"
 date: "2022-11-09"
-description: "De twee gestolen panelen van het Lam Gods zijn nog steeds zoek"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/vermoedeleyck-daar-fietsroute"
-gpx: "routen/vermoedeleyck-daar-fietsroute.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: Vermoedeleyck Daar Fietsroute
+subtitle: De twee gestolen panelen van het Lam Gods zijn nog steeds zoek
+description: De twee gestolen panelen van het Lam Gods zijn nog steeds zoek
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/vermoedeleyck-daar-fietsroute
+routes:
+    - name: Main
+      gpx: routen/vermoedeleyck-daar-fietsroute.gpx
+      length: 46357
+      up: 126
+      down: 126
+      minheight: 2
+      maxheight: 20
+      minslope: -10.9
+      maxslope: 10.9
+      avgposslope: 0.8
+      avgnegslope: -0.7
+      slopehisto:
+        - 4468
+        - 447
+        - 184
+        - 60
+        - 67
+      effortlevel: 1.772
+      minlat: 50.9934
+      minlon: 3.74209
+      maxlat: 51.04986
+      maxlon: 3.89977
 ---
 
 ## Let's Go ! 

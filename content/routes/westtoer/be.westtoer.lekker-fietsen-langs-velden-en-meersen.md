@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Langs Velden en Meersen"
-subtitle: "Fiets langs historische landschappen en fraaie dorpjes"
 date: "2022-11-09"
-description: "Fiets langs historische landschappen en fraaie dorpjes"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-langs-velden-en-meersen"
-gpx: "westtoer/lekker-fietsen-langs-velden-en-meersen.gpx"
-length: 36
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: Langs Velden en Meersen'
+subtitle: Fiets langs historische landschappen en fraaie dorpjes
+description: Fiets langs historische landschappen en fraaie dorpjes
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "84,24,69,5,98,54,75,38,78,77,39,73,80,30,81,74,89,45,72,84"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-langs-velden-en-meersen
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 84,24,69,5,98,54,75,38,78,77,39,73,80,30,81,74,89,45,72,84
+      gpx: westtoer/lekker-fietsen-langs-velden-en-meersen.gpx
+      length: 36156
+      up: 64
+      down: 64
+      minheight: 4
+      maxheight: 21
+      minslope: -3.8
+      maxslope: 4.8
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 1219
+        - 256
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.244
+      minlat: 51.150114
+      minlon: 3.228253
+      maxlat: 51.20571
+      maxlon: 3.365881
 ---
 
 ## Let's Go ! 

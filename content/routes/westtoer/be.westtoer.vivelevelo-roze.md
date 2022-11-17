@@ -1,22 +1,42 @@
 ---
-title: "Vive le Vélo fietsroute - Roze"
-subtitle: "Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)"
 date: "2022-11-09"
-description: "Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/vivelevelo-roze"
-gpx: "westtoer/vivelevelo-roze.gpx"
-length: 63
-tags:
- - "flanders"
- - "medium"
+title: Vive le Vélo fietsroute - Roze
+subtitle: Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)
+description: Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "75,74,82,88,4,3,53,40,78,23,46,70,93,33,17,18,73,60,69,75,4,83,9,68,86,62,58,88,96,64,82,67,8,70,10,46,95,55,36,30,37,77,6,69,1,75"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/vivelevelo-roze
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 75,74,82,88,4,3,53,40,78,23,46,70,93,33,17,18,73,60,69,75,4,83,9,68,86,62,58,88,96,64,82,67,8,70,10,46,95,55,36,30,37,77,6,69,1,75
+      gpx: westtoer/vivelevelo-roze.gpx
+      length: 61640
+      up: 139
+      down: 139
+      minheight: 1
+      maxheight: 26
+      minslope: -7.5
+      maxslope: 10.9
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 2729
+        - 387
+        - 226
+        - 51
+        - 58
+      effortlevel: 2.223
+      minlat: 51.032538
+      minlon: 2.643679
+      maxlat: 51.152518
+      maxlon: 2.864949
 ---
 
 ## Let's Go ! 

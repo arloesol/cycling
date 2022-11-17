@@ -1,22 +1,42 @@
 ---
-title: "Radio 2-fietstocht in De Haan-Wenduine"
-subtitle: "Het mooie pittoreske De Haan en het gezellige Wenduine zijn het decor van deze fietstocht"
 date: "2022-11-09"
-description: "Het mooie pittoreske De Haan en het gezellige Wenduine zijn het decor van deze fietstocht"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietstocht-de-haan-wenduine"
-gpx: "westtoer/radio-2-fietstocht-de-haan-wenduine.gpx"
-length: 28
-tags:
- - "flanders"
- - "vshort"
+title: Radio 2-fietstocht in De Haan-Wenduine
+subtitle: Het mooie pittoreske De Haan en het gezellige Wenduine zijn het decor van deze fietstocht
+description: Het mooie pittoreske De Haan en het gezellige Wenduine zijn het decor van deze fietstocht
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "6,31,16,83,34,95,22,20,28,98,78,6"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/radio-2-fietstocht-de-haan-wenduine
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 6,31,16,83,34,95,22,20,28,98,78,6
+      gpx: westtoer/radio-2-fietstocht-de-haan-wenduine.gpx
+      length: 28137
+      up: 14
+      down: 14
+      minheight: 1
+      maxheight: 7
+      minslope: -2.2
+      maxslope: 1.2
+      avgposslope: 0.5
+      avgnegslope: -0.4
+      slopehisto:
+        - 144
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.944
+      minlat: 51.222887
+      minlon: 3.033756
+      maxlat: 51.307299
+      maxlon: 3.117712
 ---
 
 ## Let's Go ! 

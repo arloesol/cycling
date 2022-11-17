@@ -1,19 +1,39 @@
 ---
-title: "Kuitenbijters Fietsroute"
-subtitle: "Deze sportieve fietsroute neemt je mee langs het parcours van de Vlaamse klassiekers in de Vlaamse Ardennen"
 date: "2022-11-09"
-description: "Deze sportieve fietsroute neemt je mee langs het parcours van de Vlaamse klassiekers in de Vlaamse Ardennen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/kuitenbijters-fietsroute"
-gpx: "routen/kuitenbijters-fietsroute.gpx"
-length: 51
-tags:
- - "flanders"
- - "short"
+title: Kuitenbijters Fietsroute
+subtitle: Deze sportieve fietsroute neemt je mee langs het parcours van de Vlaamse klassiekers in de Vlaamse Ardennen
+description: Deze sportieve fietsroute neemt je mee langs het parcours van de Vlaamse klassiekers in de Vlaamse Ardennen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/kuitenbijters-fietsroute
+routes:
+    - name: Main
+      gpx: routen/kuitenbijters-fietsroute.gpx
+      length: 50946
+      up: 681
+      down: 681
+      minheight: 6
+      maxheight: 160
+      minslope: -16.4
+      maxslope: 21.8
+      avgposslope: 2.1
+      avgnegslope: -2.4
+      slopehisto:
+        - 10290
+        - 5252
+        - 795
+        - 641
+        - 1066
+      effortlevel: 3.38
+      minlat: 50.74695
+      minlon: 3.56894
+      maxlat: 50.86953
+      maxlon: 3.68687
 ---
 
 ## Let's Go ! 

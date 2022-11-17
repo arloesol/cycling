@@ -1,23 +1,43 @@
 ---
-title: "Vive le Vélo fietsroute - Rood"
-subtitle: "Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)"
 date: "2022-11-09"
-description: "Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/vivelevelo-rood"
-gpx: "westtoer/vivelevelo-rood.gpx"
-length: 53
-tags:
- - "flanders"
- - "short"
+title: Vive le Vélo fietsroute - Rood
+subtitle: Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)
+description: Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "75,1,69,57,28,12,62,29,65,61,31,92,32,97,35,36,43,23,86,63,39,84,94,16,99,47,13,10,68,61,9,18,59,1,75"
- - "75,1,69,57,28,12,62,29,65,61,31,92,32,97,35,36,43,23,86,63,39,84,94,16,99,47,13,10,68,61,92,59,1,75"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/vivelevelo-rood
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 75,1,69,57,28,12,62,29,65,61,31,92,32,97,35,36,43,23,86,63,39,84,94,16,99,47,13,10,68,61,9,18,59,1,75
+        - 75,1,69,57,28,12,62,29,65,61,31,92,32,97,35,36,43,23,86,63,39,84,94,16,99,47,13,10,68,61,92,59,1,75
+      gpx: westtoer/vivelevelo-rood.gpx
+      length: 53287
+      up: 257
+      down: 257
+      minheight: 2
+      maxheight: 47
+      minslope: -6.3
+      maxslope: 6.2
+      avgposslope: 0.5
+      avgnegslope: -0.7
+      slopehisto:
+        - 8160
+        - 103
+        - 186
+        - 0
+        - 0
+      effortlevel: 2.018
+      minlat: 50.988067
+      minlon: 2.855201
+      maxlat: 51.090291
+      maxlon: 3.042371
 ---
 
 ## Let's Go ! 

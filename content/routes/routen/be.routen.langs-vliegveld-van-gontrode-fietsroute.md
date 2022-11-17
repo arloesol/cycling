@@ -1,19 +1,39 @@
 ---
-title: "Langs Vliegveld Van Gontrode Fietsroute"
-subtitle: "Deze rustige fietsroute laat je kennismaken met de groene rand van Gent en de vernieuwde fiets- en jaagpaden langs de Schelde"
 date: "2022-11-09"
-description: "Deze rustige fietsroute laat je kennismaken met de groene rand van Gent en de vernieuwde fiets- en jaagpaden langs de Schelde"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/langs-vliegveld-van-gontrode-fietsroute"
-gpx: "routen/langs-vliegveld-van-gontrode-fietsroute.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: Langs Vliegveld Van Gontrode Fietsroute
+subtitle: Deze rustige fietsroute laat je kennismaken met de groene rand van Gent en de vernieuwde fiets- en jaagpaden langs de Schelde
+description: Deze rustige fietsroute laat je kennismaken met de groene rand van Gent en de vernieuwde fiets- en jaagpaden langs de Schelde
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/langs-vliegveld-van-gontrode-fietsroute
+routes:
+    - name: Main
+      gpx: routen/langs-vliegveld-van-gontrode-fietsroute.gpx
+      length: 32272
+      up: 152
+      down: 152
+      minheight: 2
+      maxheight: 27
+      minslope: -12.1
+      maxslope: 14.5
+      avgposslope: 1
+      avgnegslope: -1.1
+      slopehisto:
+        - 5476
+        - 771
+        - 136
+        - 119
+        - 78
+      effortlevel: 1.4
+      minlat: 50.97898
+      minlon: 3.72086
+      maxlat: 51.04986
+      maxlon: 3.81648
 ---
 
 ## Let's Go ! 

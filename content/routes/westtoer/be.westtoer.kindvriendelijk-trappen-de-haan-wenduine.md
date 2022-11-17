@@ -1,22 +1,42 @@
 ---
-title: "Kindvriendelijk trappen in De Haan-Wenduine"
-subtitle: "De Haan ademt authenticiteit uit"
 date: "2022-11-09"
-description: "De Haan ademt authenticiteit uit"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kindvriendelijk-trappen-de-haan-wenduine"
-gpx: "westtoer/kindvriendelijk-trappen-de-haan-wenduine.gpx"
-length: 15
-tags:
- - "flanders"
- - "vshort"
+title: Kindvriendelijk trappen in De Haan-Wenduine
+subtitle: De Haan ademt authenticiteit uit
+description: De Haan ademt authenticiteit uit
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "6,78,98,12,96,56,6"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kindvriendelijk-trappen-de-haan-wenduine
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 6,78,98,12,96,56,6
+      gpx: westtoer/kindvriendelijk-trappen-de-haan-wenduine.gpx
+      length: 14722
+      up: 9
+      down: 9
+      minheight: 2
+      maxheight: 8
+      minslope: -1
+      maxslope: 1.3
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 74
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.491
+      minlat: 51.231593
+      minlon: 2.984229
+      maxlat: 51.272409
+      maxlon: 3.046578
 ---
 
 ## Let's Go ! 

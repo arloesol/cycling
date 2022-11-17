@@ -1,26 +1,46 @@
 ---
-title: "Fietsen langs de Korte Keten - Torhout"
-subtitle: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de stad Torhout met behulp van dit voor jou uitgestippeld fietslusje"
 date: "2022-11-09"
-description: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de stad Torhout met behulp van dit voor jou uitgestippeld fietslusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-torhout"
-gpx: "westtoer/korteketenfietsroute-torhout.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Torhout
+subtitle: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de stad Torhout met behulp van dit voor jou uitgestippeld fietslusje
+description: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de stad Torhout met behulp van dit voor jou uitgestippeld fietslusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "85,75,32,92,31,73,3,9,49,34,30,74,70,81,5,80,4,71,85"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/korteketenfietsroute-torhout
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 85,75,32,92,31,73,3,9,49,34,30,74,70,81,5,80,4,71,85
+      gpx: westtoer/korteketenfietsroute-torhout.gpx
+      length: 39045
+      up: 117
+      down: 117
+      minheight: 4
+      maxheight: 51
+      minslope: -3.9
+      maxslope: 5
+      avgposslope: 0.6
+      avgnegslope: -0.4
+      slopehisto:
+        - 3279
+        - 238
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.396
+      minlat: 51.034632
+      minlon: 2.976898
+      maxlat: 51.13539
+      maxlon: 3.118539
 ---
 
 ## Let's Go ! 

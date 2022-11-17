@@ -1,22 +1,40 @@
 ---
-title: "Out and about in Brussels-South"
-subtitle: "Waterloo, Ter Kamerenbos ..."
 date: "2022-10-17"
-description: "Napoleon ..."
+title: Out and about in Brussels-South
+subtitle: Waterloo, Ter Kamerenbos ...
+description: Napoleon ...
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-ext_url: "https://www.bike.brussels/en/blog/out-and-about-in-brussels-south"
-gpx: "brussels/Bike-for-Brussels-Eropuit-in-Brussel-Zuid.gpx"     
-length: 50
-gmaps: "https://www.google.com/maps/d/u/0/viewer?mid=1TC3G5GymV0bCg1K-Ah_7rLVsFeuAPqX0&ll=50.7427960948398%2C4.3977399999999855&z=12"
-# mapimg: "brussels/Routes-1-Center.jpg"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/out-and-about-in-brussels-south
+routes:
+    - name: Main
+      gpx: brussels/Bike-for-Brussels-Eropuit-in-Brussel-Zuid.gpx
+      length: 50109
+      up: 686
+      down: 684
+      minheight: 36
+      maxheight: 147
+      minslope: -12
+      maxslope: 14.8
+      avgposslope: 1.3
+      avgnegslope: -1.3
+      slopehisto:
+        - 10705
+        - 5015
+        - 1582
+        - 553
+        - 462
+      effortlevel: 3.213
+      minlat: 50.67966
+      minlon: 4.32689
+      maxlat: 50.80694
+      maxlon: 4.46859
 ---
 ## Let's go !
 

@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Charme op het platteland"
-subtitle: "Verken het zuiden van de regio met Pittem, Ardooie, Lichtervelde en Zwevezele"
 date: "2022-11-09"
-description: "Verken het zuiden van de regio met Pittem, Ardooie, Lichtervelde en Zwevezele"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-charme-op-het-platteland"
-gpx: "westtoer/lekker-fietsen-charme-op-het-platteland.gpx"
-length: 49
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: Charme op het platteland'
+subtitle: Verken het zuiden van de regio met Pittem, Ardooie, Lichtervelde en Zwevezele
+description: Verken het zuiden van de regio met Pittem, Ardooie, Lichtervelde en Zwevezele
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "58,38,34,44,18,16,14,15,89,12,82,6,21,23,36,58"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-charme-op-het-platteland
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 58,38,34,44,18,16,14,15,89,12,82,6,21,23,36,58
+      gpx: westtoer/lekker-fietsen-charme-op-het-platteland.gpx
+      length: 48723
+      up: 179
+      down: 179
+      minheight: 18
+      maxheight: 49
+      minslope: -9.5
+      maxslope: 5.9
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 6511
+        - 395
+        - 50
+        - 0
+        - 0
+      effortlevel: 1.797
+      minlat: 50.964987
+      minlon: 3.138143
+      maxlat: 51.064455
+      maxlon: 3.28794
 ---
 
 ## Let's Go ! 

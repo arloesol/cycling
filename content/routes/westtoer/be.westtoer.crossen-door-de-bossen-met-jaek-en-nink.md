@@ -1,22 +1,42 @@
 ---
-title: "Crossen door de bossen met Jaek en Nink"
-subtitle: "Voor deze route kan je vertrekken aan de Dienst voor Toerisme in Ieper (Grote Markt) of aan de Dienst voor Toerisme in Zonnebeke (Berten Pilstraat 5A)"
 date: "2022-11-09"
-description: "Voor deze route kan je vertrekken aan de Dienst voor Toerisme in Ieper (Grote Markt) of aan de Dienst voor Toerisme in Zonnebeke (Berten Pilstraat 5A)"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/crossen-door-de-bossen-met-jaek-en-nink"
-gpx: "westtoer/crossen-door-de-bossen-met-jaek-en-nink.gpx"
-length: 29
-tags:
- - "flanders"
- - "vshort"
+title: Crossen door de bossen met Jaek en Nink
+subtitle: Voor deze route kan je vertrekken aan de Dienst voor Toerisme in Ieper (Grote Markt) of aan de Dienst voor Toerisme in Zonnebeke (Berten Pilstraat 5A)
+description: Voor deze route kan je vertrekken aan de Dienst voor Toerisme in Ieper (Grote Markt) of aan de Dienst voor Toerisme in Zonnebeke (Berten Pilstraat 5A)
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "89,93,32,56,80,81,80,18,72,42,85,65,33,63,40,38,93"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/crossen-door-de-bossen-met-jaek-en-nink
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 89,93,32,56,80,81,80,18,72,42,85,65,33,63,40,38,93
+      gpx: westtoer/crossen-door-de-bossen-met-jaek-en-nink.gpx
+      length: 28919
+      up: 222
+      down: 222
+      minheight: 21
+      maxheight: 60
+      minslope: -6.6
+      maxslope: 7.2
+      avgposslope: 0.9
+      avgnegslope: -1.2
+      slopehisto:
+        - 5762
+        - 1081
+        - 383
+        - 0
+        - 0
+      effortlevel: 1.296
+      minlat: 50.813844
+      minlon: 2.890624
+      maxlat: 50.871034
+      maxlon: 2.995579
 ---
 
 ## Let's Go ! 

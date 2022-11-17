@@ -1,19 +1,39 @@
 ---
-title: "Schipdonk Fietsroute"
-subtitle: "Het Schipdonkkanaal leidt je de weg op deze fietsroute"
 date: "2022-11-09"
-description: "Het Schipdonkkanaal leidt je de weg op deze fietsroute"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/schipdonk-fietsroute"
-gpx: "routen/schipdonk-fietsroute.gpx"
-length: 57
-tags:
- - "flanders"
- - "short"
+title: Schipdonk Fietsroute
+subtitle: Het Schipdonkkanaal leidt je de weg op deze fietsroute
+description: Het Schipdonkkanaal leidt je de weg op deze fietsroute
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/schipdonk-fietsroute
+routes:
+    - name: Main
+      gpx: routen/schipdonk-fietsroute.gpx
+      length: 57058
+      up: 127
+      down: 127
+      minheight: -1
+      maxheight: 17
+      minslope: -12.3
+      maxslope: 6.9
+      avgposslope: 0.9
+      avgnegslope: -0.8
+      slopehisto:
+        - 6370
+        - 120
+        - 293
+        - 0
+        - 0
+      effortlevel: 2.118
+      minlat: 51.14827
+      minlon: 3.44137
+      maxlat: 51.2404
+      maxlon: 3.60424
 ---
 
 ## Let's Go ! 

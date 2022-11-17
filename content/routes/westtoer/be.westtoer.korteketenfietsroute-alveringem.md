@@ -1,26 +1,46 @@
 ---
-title: "Fietsen langs de Korte Keten - Alveringem"
-subtitle: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de gemeente Alveringem met behulp van dit voor jou uitgestippeld fietslusje"
 date: "2022-11-09"
-description: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de gemeente Alveringem met behulp van dit voor jou uitgestippeld fietslusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-alveringem"
-gpx: "westtoer/korteketenfietsroute-alveringem.gpx"
-length: 34
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Alveringem
+subtitle: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de gemeente Alveringem met behulp van dit voor jou uitgestippeld fietslusje
+description: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de gemeente Alveringem met behulp van dit voor jou uitgestippeld fietslusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "42,53,75,35,77,62,61,60,59,55,76,99,65,44,67,43,63,97,27,26,41,92,42"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/korteketenfietsroute-alveringem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 42,53,75,35,77,62,61,60,59,55,76,99,65,44,67,43,63,97,27,26,41,92,42
+      gpx: westtoer/korteketenfietsroute-alveringem.gpx
+      length: 34479
+      up: 88
+      down: 88
+      minheight: 0
+      maxheight: 15
+      minslope: -6.7
+      maxslope: 11.6
+      avgposslope: 0.2
+      avgnegslope: -0.3
+      slopehisto:
+        - 2806
+        - 0
+        - 0
+        - 0
+        - 54
+      effortlevel: 1.211
+      minlat: 50.936562
+      minlon: 2.644179
+      maxlat: 51.028208
+      maxlon: 2.738869
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Deinze Bierfietsroute"
-subtitle: "Op deze rustige fietsroute maak je kennis met de Leiestreek over de Oost-Vlaamse grens heen"
 date: "2022-11-09"
-description: "Op deze rustige fietsroute maak je kennis met de Leiestreek over de Oost-Vlaamse grens heen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/deinze-bierfietsroute"
-gpx: "routen/deinze-bierfietsroute.gpx"
-length: 48
-tags:
- - "flanders"
- - "short"
+title: Deinze Bierfietsroute
+subtitle: Op deze rustige fietsroute maak je kennis met de Leiestreek over de Oost-Vlaamse grens heen
+description: Op deze rustige fietsroute maak je kennis met de Leiestreek over de Oost-Vlaamse grens heen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/deinze-bierfietsroute
+routes:
+    - name: Main
+      gpx: routen/deinze-bierfietsroute.gpx
+      length: 48399
+      up: 158
+      down: 158
+      minheight: 5
+      maxheight: 34
+      minslope: -9
+      maxslope: 4.4
+      avgposslope: 0.7
+      avgnegslope: -0.6
+      slopehisto:
+        - 6897
+        - 560
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.827
+      minlat: 50.89573
+      minlon: 3.28096
+      maxlat: 50.97158
+      maxlon: 3.486
 ---
 
 ## Let's Go ! 

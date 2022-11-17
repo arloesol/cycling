@@ -1,19 +1,39 @@
 ---
-title: "Scheldevallei Fietsroute 3"
-subtitle: "Op de derde van de drie Scheldevallei fietsroutes volg je grotendeels het jaagpad langs de Schelde"
 date: "2022-11-09"
-description: "Op de derde van de drie Scheldevallei fietsroutes volg je grotendeels het jaagpad langs de Schelde"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/scheldevallei-fietsroute-3"
-gpx: "routen/scheldevallei-fietsroute-3.gpx"
-length: 30
-tags:
- - "flanders"
- - "short"
+title: Scheldevallei Fietsroute 3
+subtitle: Op de derde van de drie Scheldevallei fietsroutes volg je grotendeels het jaagpad langs de Schelde
+description: Op de derde van de drie Scheldevallei fietsroutes volg je grotendeels het jaagpad langs de Schelde
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/scheldevallei-fietsroute-3
+routes:
+    - name: Main
+      gpx: routen/scheldevallei-fietsroute-3.gpx
+      length: 26507
+      up: 94
+      down: 94
+      minheight: 6
+      maxheight: 18
+      minslope: -7.4
+      maxslope: 4.4
+      avgposslope: 0.5
+      avgnegslope: -0.6
+      slopehisto:
+        - 4327
+        - 108
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.04
+      minlat: 50.79028
+      minlon: 3.50299
+      maxlat: 50.84995
+      maxlon: 3.61074
 ---
 
 ## Let's Go ! 

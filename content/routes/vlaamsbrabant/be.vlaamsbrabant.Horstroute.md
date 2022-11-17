@@ -1,22 +1,42 @@
 ---
-title: "Horstroute"
-subtitle: "Met Leuven als uitvalsbasis fiets je het land van de Hagelandse wijnen in"
 date: "2022-11-09"
-description: "Met Leuven als uitvalsbasis fiets je het land van de Hagelandse wijnen in. Rij langs het provinciedomein van Kessel-Lo, de abdij van Vlierbeek, het kasteel van Horst, de Wijngaardberg in Wezemaal en de Kesselberg."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/horstroute/index.html"
-gpx: "vlaamsbrabant/Horstroute.gpx"
-length: 38
-tags:
- - "flanders"
- - "short"
+title: Horstroute
+subtitle: Met Leuven als uitvalsbasis fiets je het land van de Hagelandse wijnen in
+description: Met Leuven als uitvalsbasis fiets je het land van de Hagelandse wijnen in. Rij langs het provinciedomein van Kessel-Lo, de abdij van Vlierbeek, het kasteel van Horst, de Wijngaardberg in Wezemaal en de Kesselberg.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "65,43,44,63,64,82,81,4,80,33,12,7,10,11,33,80,5,83,29,99,98,65"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/horstroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 65,43,44,63,64,82,81,4,80,33,12,7,10,11,33,80,5,83,29,99,98,65
+      gpx: vlaamsbrabant/Horstroute.gpx
+      length: 38390
+      up: 267
+      down: 267
+      minheight: 12
+      maxheight: 78
+      minslope: -12.6
+      maxslope: 10.9
+      avgposslope: 2.2
+      avgnegslope: -2.7
+      slopehisto:
+        - 7273
+        - 1122
+        - 595
+        - 204
+        - 271
+      effortlevel: 1.819
+      minlat: 50.87907
+      minlon: 4.69712
+      maxlat: 50.95368
+      maxlon: 4.83548
 ---
 
 ## Let's Go ! 

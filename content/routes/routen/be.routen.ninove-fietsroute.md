@@ -1,19 +1,39 @@
 ---
-title: "Ninove Fietsroute"
-subtitle: "Tussen Ninove en Aalst flirt de Dender met de provinciegrens"
 date: "2022-11-09"
-description: "Tussen Ninove en Aalst flirt de Dender met de provinciegrens"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/ninove-fietsroute"
-gpx: "routen/ninove-fietsroute.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Ninove Fietsroute
+subtitle: Tussen Ninove en Aalst flirt de Dender met de provinciegrens
+description: Tussen Ninove en Aalst flirt de Dender met de provinciegrens
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/ninove-fietsroute
+routes:
+    - name: Main
+      gpx: routen/ninove-fietsroute.gpx
+      length: 41673
+      up: 244
+      down: 244
+      minheight: 5
+      maxheight: 70
+      minslope: -9.8
+      maxslope: 6.4
+      avgposslope: 1.3
+      avgnegslope: -1.3
+      slopehisto:
+        - 8505
+        - 878
+        - 439
+        - 0
+        - 0
+      effortlevel: 1.892
+      minlat: 50.83088
+      minlon: 3.95928
+      maxlat: 50.94103
+      maxlon: 4.08986
 ---
 
 ## Let's Go ! 

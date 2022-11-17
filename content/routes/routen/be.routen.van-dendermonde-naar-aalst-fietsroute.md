@@ -1,19 +1,39 @@
 ---
-title: "Van Dendermonde Naar Aalst Fietsroute"
-subtitle: "Spring op je fiets in de Ros Beiaardstad Dendermonde voor een rit richting Aalst, die al even trotse Denderstad"
 date: "2022-11-09"
-description: "Spring op je fiets in de Ros Beiaardstad Dendermonde voor een rit richting Aalst, die al even trotse Denderstad"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/van-dendermonde-naar-aalst-fietsroute"
-gpx: "routen/van-dendermonde-naar-aalst-fietsroute.gpx"
-length: 37
-tags:
- - "flanders"
- - "short"
+title: Van Dendermonde Naar Aalst Fietsroute
+subtitle: Spring op je fiets in de Ros Beiaardstad Dendermonde voor een rit richting Aalst, die al even trotse Denderstad
+description: Spring op je fiets in de Ros Beiaardstad Dendermonde voor een rit richting Aalst, die al even trotse Denderstad
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/van-dendermonde-naar-aalst-fietsroute
+routes:
+    - name: Main
+      gpx: routen/van-dendermonde-naar-aalst-fietsroute.gpx
+      length: 37657
+      up: 101
+      down: 101
+      minheight: 1
+      maxheight: 41
+      minslope: -4.1
+      maxslope: 6
+      avgposslope: 0.9
+      avgnegslope: -1.2
+      slopehisto:
+        - 5127
+        - 182
+        - 117
+        - 0
+        - 0
+      effortlevel: 1.397
+      minlat: 50.9368
+      minlon: 4.03644
+      maxlat: 51.04424
+      maxlon: 4.13165
 ---
 
 ## Let's Go ! 

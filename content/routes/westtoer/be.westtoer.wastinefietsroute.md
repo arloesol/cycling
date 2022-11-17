@@ -1,19 +1,39 @@
 ---
-title: "Wastinefietsroute"
-subtitle: "De Wastinefietsroute laat je kennismaken met het lichtglooiende landschap in de buurt van Tielt"
 date: "2022-11-09"
-description: "De Wastinefietsroute laat je kennismaken met het lichtglooiende landschap in de buurt van Tielt"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/wastinefietsroute"
-gpx: "westtoer/wastinefietsroute.gpx"
-length: 50
-tags:
- - "flanders"
- - "short"
+title: Wastinefietsroute
+subtitle: De Wastinefietsroute laat je kennismaken met het lichtglooiende landschap in de buurt van Tielt
+description: De Wastinefietsroute laat je kennismaken met het lichtglooiende landschap in de buurt van Tielt
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/wastinefietsroute
+routes:
+    - name: Main
+      gpx: westtoer/wastinefietsroute.gpx
+      length: 51227
+      up: 220
+      down: 220
+      minheight: 18
+      maxheight: 49
+      minslope: -3.4
+      maxslope: 4.6
+      avgposslope: 0.8
+      avgnegslope: -0.6
+      slopehisto:
+        - 6750
+        - 220
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.874
+      minlat: 50.985175
+      minlon: 3.153479
+      maxlat: 51.069384
+      maxlon: 3.336649
 ---
 
 ## Let's Go ! 

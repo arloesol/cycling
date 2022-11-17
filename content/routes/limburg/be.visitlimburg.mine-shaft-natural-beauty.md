@@ -1,19 +1,39 @@
 ---
-title: "From mine shaft to the natural beauty"
-subtitle: "A relatively level cycle loop that combines nature and heritage"
 date: "2022-11-09"
-description: "A relatively level cycle loop that combines nature and heritage"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/mine-shaft-natural-beauty"
-gpx: "limburg/mine-shaft-natural-beauty.gpx"
-length: 61
-tags:
- - "flanders"
- - "medium"
+title: From mine shaft to the natural beauty
+subtitle: A relatively level cycle loop that combines nature and heritage
+description: A relatively level cycle loop that combines nature and heritage
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/mine-shaft-natural-beauty
+routes:
+    - name: Main
+      gpx: limburg/mine-shaft-natural-beauty.gpx
+      length: 61878
+      up: 452
+      down: 452
+      minheight: 19
+      maxheight: 67
+      minslope: -17.7
+      maxslope: 27.6
+      avgposslope: 1.9
+      avgnegslope: -2.4
+      slopehisto:
+        - 10119
+        - 1727
+        - 1369
+        - 821
+        - 683
+      effortlevel: 3.246
+      minlat: 51.03014
+      minlon: 5.02541
+      maxlat: 51.12794
+      maxlon: 5.26575
 ---
 
 ## Let's Go ! 

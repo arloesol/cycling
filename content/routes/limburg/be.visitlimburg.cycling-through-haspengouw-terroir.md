@@ -1,19 +1,39 @@
 ---
-title: "Cycling through Haspengouw Terroir"
-subtitle: "Cycle through the undulating fruit landscape of Haspengouw while enjoying impressive panoramas, square farms, quiet church villages, and magnificent castles"
 date: "2022-11-09"
-description: "Cycle through the undulating fruit landscape of Haspengouw while enjoying impressive panoramas, square farms, quiet church villages, and magnificent castles"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/cycling-through-haspengouw-terroir"
-gpx: "limburg/cycling-through-haspengouw-terroir.gpx"
-length: 53
-tags:
- - "flanders"
- - "short"
+title: Cycling through Haspengouw Terroir
+subtitle: Cycle through the undulating fruit landscape of Haspengouw while enjoying impressive panoramas, square farms, quiet church villages, and magnificent castles
+description: Cycle through the undulating fruit landscape of Haspengouw while enjoying impressive panoramas, square farms, quiet church villages, and magnificent castles
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/cycling-through-haspengouw-terroir
+routes:
+    - name: Main
+      gpx: limburg/cycling-through-haspengouw-terroir.gpx
+      length: 52845
+      up: 502
+      down: 502
+      minheight: 44
+      maxheight: 119
+      minslope: -17.3
+      maxslope: 12
+      avgposslope: 1.6
+      avgnegslope: -2
+      slopehisto:
+        - 12326
+        - 3557
+        - 906
+        - 304
+        - 195
+      effortlevel: 2.85
+      minlat: 50.76124
+      minlon: 5.25532
+      maxlat: 50.83519
+      maxlon: 5.43439
 ---
 
 ## Let's Go ! 

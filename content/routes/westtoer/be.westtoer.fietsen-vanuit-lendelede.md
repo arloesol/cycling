@@ -1,22 +1,42 @@
 ---
-title: "Fietsen vanuit Lendelede"
-subtitle: "Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Lendelede langs Kuurne, Kortrijk en Moorsele"
 date: "2022-11-09"
-description: "Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Lendelede langs Kuurne, Kortrijk en Moorsele"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-vanuit-lendelede"
-gpx: "westtoer/fietsen-vanuit-lendelede.gpx"
-length: 38
-tags:
- - "flanders"
- - "short"
+title: Fietsen vanuit Lendelede
+subtitle: Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Lendelede langs Kuurne, Kortrijk en Moorsele
+description: Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Lendelede langs Kuurne, Kortrijk en Moorsele
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "5,47,14,42,64,94,90,11,31,36,16,48,18,10,93,83,53,73,27,88,28,35,67,86,34,61,1,5"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-vanuit-lendelede
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 5,47,14,42,64,94,90,11,31,36,16,48,18,10,93,83,53,73,27,88,28,35,67,86,34,61,1,5
+      gpx: westtoer/fietsen-vanuit-lendelede.gpx
+      length: 38624
+      up: 89
+      down: 89
+      minheight: 10
+      maxheight: 42
+      minslope: -4.1
+      maxslope: 3.7
+      avgposslope: 1.4
+      avgnegslope: -2
+      slopehisto:
+        - 4926
+        - 141
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.432
+      minlat: 50.82088
+      minlon: 3.164642
+      maxlat: 50.893599
+      maxlon: 3.293142
 ---
 
 ## Let's Go ! 

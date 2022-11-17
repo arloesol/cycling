@@ -1,19 +1,39 @@
 ---
-title: "Boterlandfietsroute"
-subtitle: "De polders rond Diksmuide worden ook wel het Boterland genoemd"
 date: "2022-11-09"
-description: "De polders rond Diksmuide worden ook wel het Boterland genoemd"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/boterlandfietsroute"
-gpx: "westtoer/boterlandfietsroute.gpx"
-length: 44
-tags:
- - "flanders"
- - "short"
+title: Boterlandfietsroute
+subtitle: De polders rond Diksmuide worden ook wel het Boterland genoemd
+description: De polders rond Diksmuide worden ook wel het Boterland genoemd
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/boterlandfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/boterlandfietsroute.gpx
+      length: 44579
+      up: 133
+      down: 133
+      minheight: 2
+      maxheight: 9
+      minslope: -3.1
+      maxslope: 2.9
+      avgposslope: 0.2
+      avgnegslope: -0.2
+      slopehisto:
+        - 2370
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.535
+      minlat: 50.98176
+      minlon: 2.733173
+      maxlat: 51.082853
+      maxlon: 2.864937
 ---
 
 ## Let's Go ! 

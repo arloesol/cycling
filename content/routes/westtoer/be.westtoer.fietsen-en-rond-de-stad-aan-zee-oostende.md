@@ -1,22 +1,42 @@
 ---
-title: "Fietsen in en rond de Stad aan Zee Oostende"
-subtitle: "De Stad aan Zee herbergt allerlei mooie bezienswaardigheden en ook de groene omgeving rond Oostende is een topper voor fietsliefhebbers"
 date: "2022-11-09"
-description: "De Stad aan Zee herbergt allerlei mooie bezienswaardigheden en ook de groene omgeving rond Oostende is een topper voor fietsliefhebbers"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-en-rond-de-stad-aan-zee-oostende"
-gpx: "westtoer/fietsen-en-rond-de-stad-aan-zee-oostende.gpx"
-length: 24
-tags:
- - "flanders"
- - "vshort"
+title: Fietsen in en rond de Stad aan Zee Oostende
+subtitle: De Stad aan Zee herbergt allerlei mooie bezienswaardigheden en ook de groene omgeving rond Oostende is een topper voor fietsliefhebbers
+description: De Stad aan Zee herbergt allerlei mooie bezienswaardigheden en ook de groene omgeving rond Oostende is een topper voor fietsliefhebbers
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "85,74,45,8,39,67,95,10,4,15,11,,20,46,97,15,4,85"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-en-rond-de-stad-aan-zee-oostende
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 85,74,45,8,39,67,95,10,4,15,11,,20,46,97,15,4,85
+      gpx: westtoer/fietsen-en-rond-de-stad-aan-zee-oostende.gpx
+      length: 23793
+      up: 30
+      down: 30
+      minheight: 3
+      maxheight: 12
+      minslope: -5.2
+      maxslope: 5
+      avgposslope: 0.8
+      avgnegslope: -1.3
+      slopehisto:
+        - 1476
+        - 155
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.844
+      minlat: 51.183512
+      minlon: 2.904454
+      maxlat: 51.238695
+      maxlon: 2.961846
 ---
 
 ## Let's Go ! 

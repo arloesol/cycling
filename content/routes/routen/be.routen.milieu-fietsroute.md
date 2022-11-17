@@ -1,19 +1,39 @@
 ---
-title: "Milieu Fietsroute"
-subtitle: "Deze rustige fietsroute tussen de Leie en de Schelde neemt je mee over rustige jaagpaden langs de Schelde en de Leie , tussen open velden in Nazareth en Kruisem en door pittoreske dorpjes zoals Mullem"
 date: "2022-11-09"
-description: "Deze rustige fietsroute tussen de Leie en de Schelde neemt je mee over rustige jaagpaden langs de Schelde en de Leie , tussen open velden in Nazareth en Kruisem en door pittoreske dorpjes zoals Mullem"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/milieu-fietsroute"
-gpx: "routen/milieu-fietsroute.gpx"
-length: 50
-tags:
- - "flanders"
- - "short"
+title: Milieu Fietsroute
+subtitle: Deze rustige fietsroute tussen de Leie en de Schelde neemt je mee over rustige jaagpaden langs de Schelde en de Leie , tussen open velden in Nazareth en Kruisem en door pittoreske dorpjes zoals Mullem
+description: Deze rustige fietsroute tussen de Leie en de Schelde neemt je mee over rustige jaagpaden langs de Schelde en de Leie , tussen open velden in Nazareth en Kruisem en door pittoreske dorpjes zoals Mullem
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/milieu-fietsroute
+routes:
+    - name: Main
+      gpx: routen/milieu-fietsroute.gpx
+      length: 50960
+      up: 219
+      down: 219
+      minheight: 2
+      maxheight: 45
+      minslope: -14.4
+      maxslope: 9
+      avgposslope: 0.8
+      avgnegslope: -0.8
+      slopehisto:
+        - 8655
+        - 1055
+        - 348
+        - 227
+        - 0
+      effortlevel: 2.184
+      minlat: 50.89178
+      minlon: 3.52297
+      maxlat: 51.00049
+      maxlon: 3.69052
 ---
 
 ## Let's Go ! 

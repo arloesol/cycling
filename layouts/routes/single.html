@@ -74,6 +74,16 @@
         <span>
           {{- dict "Class" "fa-regular fa-clock fa-fw" | partial "plugin/icon.html" }} {{ T "readingTime" .ReadingTime -}}
         </span>&nbsp;
+
+        {{- /* Cycling Page info start*/ -}}
+        {{- with $params.website -}}
+        {{- $srcurl := . | printf "%s/%s" "/websites" -}}
+        <span> <a href="{{ $srcurl }}"> {{- dict "Class" "fa-solid fa-circle-info" | partial "plugin/icon.html" -}} &thinsp; src </a> </span>&nbsp;&nbsp;
+        {{- end -}}        
+        {{- with $params.ext_url -}}
+          <span> <a href="{{ . }}"> {{- dict "Class" "fa-solid fa-book" | partial "plugin/icon.html" -}} &thinsp; ext </a> </span>&nbsp;
+        {{- end -}}
+        {{- /* Cycling Page info end */ -}}
       
         {{- /* If the article expires, close the comment or not */ -}}
         {{- $expirationReminder := $params.expirationReminder | default dict -}}
@@ -138,70 +148,52 @@
       </div>
       
       {{- /* Cycling route info BEGIN */ -}}
-      <div class="post-meta-line">
-        {{- with $params.source -}}
-          {{- $srcurl := . | printf "%s/%s" "/websites" -}}
-          <span> <a href="{{ $srcurl }}"> {{- dict "Class" "fa-solid fa-circle-info" | partial "plugin/icon.html" -}} &nbsp; {{ . }}</a> </span>&nbsp;
-        {{- end -}}        
-        {{- with $params.ext_url -}}
-          <span> <a href="{{ . }}"> {{- dict "Class" "fa-solid fa-book" | partial "plugin/icon.html" -}} &nbsp; page</a> </span>&nbsp;
+        {{- range $params.routes -}}
+        <div class="post-meta-line">
+          <span> <b> {{ .name }}: </b></span>
+          <span> {{- dict "Class" "fa-solid fa-route" | partial "plugin/icon.html" }} {{ div .length 1000 -}} km </span>&nbsp;
+          {{- $gpxurl := .gpx | printf "%s/%s" "/gpxfiles" -}}
+          <span> <a href="{{ $gpxurl }}" download="{{ .gpx }}"> {{- dict "Class" "fa-solid fa-download" | partial "plugin/icon.html" -}} gpx</a> </span>&nbsp;
+          <span> {{- dict "Class" "fa-solid fa-bicycle" | partial "plugin/icon.html" }} {{ .effortlevel | lang.FormatNumber 1 -}} </span>&nbsp;
+          {{- if lt .minheight 1000000 -}}
+          <span> {{- dict "Class" "fa-solid fa-arrow-up" | partial "plugin/icon.html" }} {{ .up -}} </span>&nbsp;
+          <span> {{- dict "Class" "fa-solid fa-arrow-down" | partial "plugin/icon.html" }} {{ .down -}} </span>&nbsp;
+          <span> {{- dict "Class" "fa-solid fa-angle-double-up" | partial "plugin/icon.html" }} {{ .maxslope | lang.FormatNumber 1 -}} </span>&nbsp;
+          <span> {{- dict "Class" "fa-solid fa-angle-double-down" | partial "plugin/icon.html" }} {{ .minslope | lang.FormatNumber 1 -}} </span>
+          {{- end -}}
+        </div>
         {{- end -}}
-        {{- with $params.length -}}
-          <span> {{- dict "Class" "fa-solid fa-route" | partial "plugin/icon.html" }} {{ . -}} &nbsp; km </span>&nbsp;
-        {{- end -}}
-        {{- with $params.gpx -}}
-          {{- $gpxurl := . | printf "%s/%s" "/gpxfiles" -}}
-          <span> <a href="{{ $gpxurl }}" download="{{ . }}"> {{- dict "Class" "fa-solid fa-download" | partial "plugin/icon.html" -}} &nbsp; gpx</a> </span>&nbsp;
-        {{- end -}}
-        {{- with $params.gmaps -}}
-          <span> <a href="{{ . }}"> {{- dict "Class" "fa-solid fa-map-marker" | partial "plugin/icon.html" -}} &nbsp; gmaps</a> </span>&nbsp;
-        {{- end -}}
-      </div>
-      {{- /* Alt route info */ -}}
-      {{ with $params.altroutes }}
-        {{ range . }}
-          <div class="post-meta-line">
-	    <span> <b> {{ .name }}: </b></span> &nbsp;
-            <span> {{- dict "Class" "fa-solid fa-route" | partial "plugin/icon.html" }} {{ .length -}} &nbsp; km </span>&nbsp;
-            {{- $gpxurl := .gpx | printf "%s/%s" "/gpxfiles" -}}
-            <span> <a href="{{ $gpxurl }}" download="{{ . }}"> {{- dict "Class" "fa-solid fa-download" | partial "plugin/icon.html" -}} &nbsp; gpx</a> </span>&nbsp;
-            <span> <a href="{{ .gmaps }}"> {{- dict "Class" "fa-solid fa-map-marker" | partial "plugin/icon.html" -}} &nbsp; gmaps</a> </span>&nbsp;
-          </div>
-	{{ end }}
-      {{ end }}
-      </div>
-
       {{- /* Cycling route info END */ -}}
 
-    {{- /* Static TOC */ -}}
-    {{- if (ne $toc.enable false) | and (ne $tocEmpty true) -}}
-      <div class="details toc{{ with $params.password }} d-none{{ end }}" id="toc-static" data-kept="{{ if $toc.keepStatic }}true{{ else }}false{{ end }}">
-        <div class="details-summary toc-title">
-          <span>{{ T "contents" }}</span>
-          <span>{{ dict "Class" "details-icon fa-solid fa-angle-right" | partial "plugin/icon.html" }}</span>
-        </div>
-        <div class="details-content toc-content" id="toc-content-static">
-          {{ $myTOC := replaceRE "</ul>\\s*</nav>" "" .TableOfContents }}
-          {{ $myTOC := replaceRE "<nav id=\"TableOfContents\">\\s*<ul>" "" $myTOC }}
-          {{ $data := newScratch }}
-          {{ if (isset $params "gpx") }}
-            {{ $data.Add "TOCEND" "  <li><a href=\"#GPX-Route\">GPX Route</a></li>\n" }}
-          {{ end }}
-          {{ if (isset $params "mapimg") }}
-            {{ $data.Add "TOCEND" "  <li><a href=\"#Route-Map\">Route Map</a></li>\n" }}
-          {{ end }} 
-          {{ if (os.FileExists (printf "%s/%s" "/assets/routes/gallery" .File.BaseFileName )) }}
-            {{ $data.Add "TOCSTART" "  <li><a href=\"#Route-Images\">Route Images</a></li>\n" }}
-          {{ end }}          
 
-          {{ $myTOC := print ($data.Get "TOCSTART") $myTOC }}
-          {{ $myTOC := print "<nav id=\"TableOfContents\">\n  <ul>" $myTOC }}
-          {{ $myTOC := $data.Get "TOCEND" | printf "%s%s" $myTOC}}
-          {{ $myTOC := "  </ul>\n</nav>" | printf "%s%s" $myTOC}}
-          {{- dict "Content" $myTOC "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+      {{- /* Static TOC */ -}}
+      {{- if (ne $toc.enable false) | and (ne $tocEmpty true) -}}
+        <div class="details toc{{ with $params.password }} d-none{{ end }}" id="toc-static" data-kept="{{ if $toc.keepStatic }}true{{ else }}false{{ end }}">
+          <div class="details-summary toc-title">
+            <span>{{ T "contents" }}</span>
+            <span>{{ dict "Class" "details-icon fa-solid fa-angle-right" | partial "plugin/icon.html" }}</span>
+          </div>
+          <div class="details-content toc-content" id="toc-content-static">
+            {{- /* Cycling TOC changes start */ -}}
+            {{ $myTOC := replaceRE "</ul>\\s*</nav>" "" .TableOfContents }}
+            {{ $myTOC := replaceRE "<nav id=\"TableOfContents\">\\s*<ul>" "" $myTOC }}
+            {{ $data := newScratch }}
+            {{ $data.Add "TOCEND" "  <li><a href=\"#GPX-Route\">GPX Route</a></li>\n" }}
+            {{ if (isset $params "mapimg") }}
+              {{ $data.Add "TOCEND" "  <li><a href=\"#Route-Map\">Route Map</a></li>\n" }}
+            {{ end }} 
+            {{ if (os.FileExists (printf "%s/%s" "/static/images/routes/gallery" .File.BaseFileName )) }}
+              {{ $data.Add "TOCSTART" "  <li><a href=\"#Route-Images\">Route Images</a></li>\n" }}
+            {{ end }}          
+            {{ $myTOC := print ($data.Get "TOCSTART") $myTOC }}
+            {{ $myTOC := print "<nav id=\"TableOfContents\">\n  <ul>" $myTOC }}
+            {{ $myTOC := $data.Get "TOCEND" | printf "%s%s" $myTOC}}
+            {{ $myTOC := "  </ul>\n</nav>" | printf "%s%s" $myTOC}} -}}
+            {{- dict "Content" $myTOC "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+            {{- /* Cycling TOC changes start */ -}}      
+          </div>
         </div>
-      </div>
-    {{- end -}}
+      {{- end -}}    
 
     {{- /* Content */ -}}
     {{- $content := dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
@@ -234,22 +226,16 @@
         {{- $content -}}
 
         {{- /* CYCLING START */ -}}    
-
-        {{- if (isset $params "gpx") -}}
-          <h2 id="GPX-Route">GPX Route</h2>
-          {{- dict "GPX" $params.gpx "AltRoutes" $params.altroutes | partial "plugin/cyclegpxmap.html" -}}
-        {{- end -}}
+        <h2 id="GPX-Route">GPX Route</h2>
+        {{- $mainroute := index $params.routes 0 -}}
+        {{- dict "Routes" $params.routes "Gpx" $mainroute.gpx | partial "plugin/cyclegpxmap.html" -}}
 
         {{- /* map image -- cycling */ -}}
         {{- if (isset $params "mapimg") -}}
           <h2 id="Route-Map">Route Map</h2>
           <div class="featured-image">
             {{- $imgurl := $params.mapimg | printf "%s/%s" "/images/routes/map" -}}
-            {{ if (isset $params "gmaps") }}
-              {{- dict "Src" $imgurl "Title" $.Description "Resources" $.Resources "Linked" true "SrcLarge" $params.gmaps | partial "plugin/image.html" -}}
-            {{ else }}
-              {{- dict "Src" $imgurl "Title" $.Description "Resources" $.Resources | partial "plugin/image.html" -}}
-            {{ end }}
+            {{- dict "Src" $imgurl "Title" $.Description "Resources" $.Resources | partial "plugin/image.html" -}}
           </div>
         {{- else -}}  
             {{- /* openstreetmap -- cycling */ -}}

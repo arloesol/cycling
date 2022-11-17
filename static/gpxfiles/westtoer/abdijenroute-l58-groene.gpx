@@ -1,67 +1,111 @@
-<?xml version="1.0"?>
-<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="fietsnet GPX generator" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata>
-    <author>
-      <name>fietsnet</name>
-      <link href="http://www.fietsnet.be" />
-    </author>
-  </metadata>
-  <wpt lat="51.1808986" lon="3.2348357">
-    <name>69</name>
-    <sym>Flag, Green</sym>
-    <type>fietsknooppunt</type>
-  </wpt>
-  <wpt lat="51.1912760" lon="3.2625053">
-    <name>24</name>
-    <sym>Circle, Red</sym>
-    <type>fietsknooppunt</type>
-  </wpt>
-  <wpt lat="51.1950825" lon="3.2684697">
-    <name>54</name>
-    <sym>Circle, Red</sym>
-    <type>fietsknooppunt</type>
-  </wpt>
-  <wpt lat="51.2019713" lon="3.2933651">
-    <name>75</name>
-    <sym>Circle, Red</sym>
-    <type>fietsknooppunt</type>
-  </wpt>
-  <wpt lat="51.2043590" lon="3.3044791">
-    <name>38</name>
-    <sym>Circle, Red</sym>
-    <type>fietsknooppunt</type>
-  </wpt>
-  <wpt lat="51.2051371" lon="3.3647863">
-    <name>78</name>
-    <sym>Circle, Red</sym>
-    <type>fietsknooppunt</type>
-  </wpt>
-  <trk>
-    <name>Fietsen_Assebroek</name>
-    <type>fietsknooppuntentraject</type>
-    <trkseg>
-      <trkpt lat="51.1808986" lon="3.2348357" />
-      <trkpt lat="51.1812100" lon="3.2348357" />
-      <trkpt lat="51.1812371" lon="3.2352893" />
-      <trkpt lat="51.1809866" lon="3.2354081" />
-      <trkpt lat="51.1808512" lon="3.2365421" />
-      <trkpt lat="51.1810814" lon="3.2388749" />
-      <trkpt lat="51.1813996" lon="3.2391341" />
-      <trkpt lat="51.1811356" lon="3.2446097" />
-      <trkpt lat="51.1817042" lon="3.2470073" />
-      <trkpt lat="51.1826656" lon="3.2489729" />
-      <trkpt lat="51.1912760" lon="3.2625053" />
-      <trkpt lat="51.1950825" lon="3.2684697" />
-      <trkpt lat="51.1966927" lon="3.2710955" />
-      <trkpt lat="51.1976267" lon="3.2731799" />
-      <trkpt lat="51.1986486" lon="3.2772947" />
-      <trkpt lat="51.2019713" lon="3.2933651" />
-      <trkpt lat="51.2043590" lon="3.3044791" />
-      <trkpt lat="51.2045687" lon="3.3062827" />
-      <trkpt lat="51.2044266" lon="3.3069631" />
-      <trkpt lat="51.2045958" lon="3.3070603" />
-      <trkpt lat="51.2054349" lon="3.3318247" />
-      <trkpt lat="51.2051371" lon="3.3647863" />
-    </trkseg>
-  </trk>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="fietsnet GPX generator">
+	<metadata>
+		<author>
+			<name>fietsnet</name>
+			<link href="http://www.fietsnet.be"></link>
+		</author>
+	</metadata>
+	<wpt lat="51.1808986" lon="3.2348357">
+		<name>69</name>
+		<sym>Flag, Green</sym>
+		<type>fietsknooppunt</type>
+	</wpt>
+	<wpt lat="51.191276" lon="3.2625053">
+		<name>24</name>
+		<sym>Circle, Red</sym>
+		<type>fietsknooppunt</type>
+	</wpt>
+	<wpt lat="51.1950825" lon="3.2684697">
+		<name>54</name>
+		<sym>Circle, Red</sym>
+		<type>fietsknooppunt</type>
+	</wpt>
+	<wpt lat="51.2019713" lon="3.2933651">
+		<name>75</name>
+		<sym>Circle, Red</sym>
+		<type>fietsknooppunt</type>
+	</wpt>
+	<wpt lat="51.204359" lon="3.3044791">
+		<name>38</name>
+		<sym>Circle, Red</sym>
+		<type>fietsknooppunt</type>
+	</wpt>
+	<wpt lat="51.2051371" lon="3.3647863">
+		<name>78</name>
+		<sym>Circle, Red</sym>
+		<type>fietsknooppunt</type>
+	</wpt>
+	<trk>
+		<name>Fietsen_Assebroek</name>
+		<type>fietsknooppuntentraject</type>
+		<trkseg>
+			<trkpt lat="51.1808986" lon="3.2348357">
+				<ele>6.73</ele>
+			</trkpt>
+			<trkpt lat="51.18121" lon="3.2348357">
+				<ele>6.8</ele>
+			</trkpt>
+			<trkpt lat="51.1812371" lon="3.2352893">
+				<ele>7.01</ele>
+			</trkpt>
+			<trkpt lat="51.1809866" lon="3.2354081">
+				<ele>6.76</ele>
+			</trkpt>
+			<trkpt lat="51.1808512" lon="3.2365421">
+				<ele>6.94</ele>
+			</trkpt>
+			<trkpt lat="51.1810814" lon="3.2388749">
+				<ele>6.69</ele>
+			</trkpt>
+			<trkpt lat="51.1813996" lon="3.2391341">
+				<ele>6.51</ele>
+			</trkpt>
+			<trkpt lat="51.1811356" lon="3.2446097">
+				<ele>6</ele>
+			</trkpt>
+			<trkpt lat="51.1817042" lon="3.2470073">
+				<ele>5.4</ele>
+			</trkpt>
+			<trkpt lat="51.1826656" lon="3.2489729">
+				<ele>5.3</ele>
+			</trkpt>
+			<trkpt lat="51.191276" lon="3.2625053">
+				<ele>8.68</ele>
+			</trkpt>
+			<trkpt lat="51.1950825" lon="3.2684697">
+				<ele>8.82</ele>
+			</trkpt>
+			<trkpt lat="51.1966927" lon="3.2710955">
+				<ele>8.69</ele>
+			</trkpt>
+			<trkpt lat="51.1976267" lon="3.2731799">
+				<ele>8.13</ele>
+			</trkpt>
+			<trkpt lat="51.1986486" lon="3.2772947">
+				<ele>8.36</ele>
+			</trkpt>
+			<trkpt lat="51.2019713" lon="3.2933651">
+				<ele>9.53</ele>
+			</trkpt>
+			<trkpt lat="51.204359" lon="3.3044791">
+				<ele>9.85</ele>
+			</trkpt>
+			<trkpt lat="51.2045687" lon="3.3062827">
+				<ele>9.67</ele>
+			</trkpt>
+			<trkpt lat="51.2044266" lon="3.3069631">
+				<ele>9.47</ele>
+			</trkpt>
+			<trkpt lat="51.2045958" lon="3.3070603">
+				<ele>9.36</ele>
+			</trkpt>
+			<trkpt lat="51.2054349" lon="3.3318247">
+				<ele>9.1</ele>
+			</trkpt>
+			<trkpt lat="51.2051371" lon="3.3647863">
+				<ele>13.4</ele>
+			</trkpt>
+		</trkseg>
+	</trk>
 </gpx>

@@ -1,19 +1,39 @@
 ---
-title: "Tussen Gent En Het Meetjesland Fietsroute"
-subtitle: "Deze fietsroute verbindt de Gentse binnenstad met het Meetjesland"
 date: "2022-11-09"
-description: "Deze fietsroute verbindt de Gentse binnenstad met het Meetjesland"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/tussen-gent-en-het-meetjesland-fietsroute"
-gpx: "routen/tussen-gent-en-het-meetjesland-fietsroute.gpx"
-length: 76
-tags:
- - "flanders"
- - "medium"
+title: Tussen Gent En Het Meetjesland Fietsroute
+subtitle: Deze fietsroute verbindt de Gentse binnenstad met het Meetjesland
+description: Deze fietsroute verbindt de Gentse binnenstad met het Meetjesland
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/tussen-gent-en-het-meetjesland-fietsroute
+routes:
+    - name: Main
+      gpx: routen/tussen-gent-en-het-meetjesland-fietsroute.gpx
+      length: 77061
+      up: 247
+      down: 247
+      minheight: 3
+      maxheight: 48
+      minslope: -13.8
+      maxslope: 12.9
+      avgposslope: 0.8
+      avgnegslope: -0.8
+      slopehisto:
+        - 8780
+        - 698
+        - 301
+        - 164
+        - 133
+      effortlevel: 2.966
+      minlat: 51.02723
+      minlon: 3.44041
+      maxlat: 51.15914
+      maxlon: 3.73378
 ---
 
 ## Let's Go ! 

@@ -1,23 +1,43 @@
 ---
-title: "POP"
-subtitle: "Fietsroute 14-18
-
-De fietstocht gaat terug naar de sporen van de Eerste Wereldoorlog achter het front"
 date: "2022-11-09"
-description: "Fietsroute 14-18
-
-De fietstocht gaat terug naar de sporen van de Eerste Wereldoorlog achter het front"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/pop"
-gpx: "westtoer/pop.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: POP
+subtitle: |-
+    Fietsroute 14-18
+    De fietstocht gaat terug naar de sporen van de Eerste Wereldoorlog achter het front
+description: |-
+    Fietsroute 14-18
+    De fietstocht gaat terug naar de sporen van de Eerste Wereldoorlog achter het front
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/pop
+routes:
+    - name: Main
+      gpx: westtoer/pop.gpx
+      length: 40936
+      up: 231
+      down: 231
+      minheight: 18
+      maxheight: 59
+      minslope: -4.1
+      maxslope: 4.6
+      avgposslope: 0.6
+      avgnegslope: -0.8
+      slopehisto:
+        - 9603
+        - 602
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.623
+      minlat: 50.813414
+      minlon: 2.659521
+      maxlat: 50.891616
+      maxlon: 2.788563
 ---
 
 ## Let's Go ! 

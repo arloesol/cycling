@@ -1,22 +1,42 @@
 ---
-title: "Vinneronde route"
-subtitle: "Deze route leidt je langs valleien en boomgaarden die kenmerkend zijn voor de streek"
 date: "2022-11-09"
-description: "Deze route leidt je langs valleien en boomgaarden die kenmerkend zijn voor de streek. De kers op de taart is het centrum van Zoutleeuw, het kunstschrijn van Vlaams-Brabant."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/vinneronde-fietsroute/index.html"
-gpx: "vlaamsbrabant/Vinneronde_route.gpx"
-length: 20
-tags:
- - "flanders"
- - "vshort"
+title: Vinneronde route
+subtitle: Deze route leidt je langs valleien en boomgaarden die kenmerkend zijn voor de streek
+description: Deze route leidt je langs valleien en boomgaarden die kenmerkend zijn voor de streek. De kers op de taart is het centrum van Zoutleeuw, het kunstschrijn van Vlaams-Brabant.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "48,23,51,52,358,187,188,32,191,48"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/vinneronde-fietsroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 48,23,51,52,358,187,188,32,191,48
+      gpx: vlaamsbrabant/Vinneronde_route.gpx
+      length: 20524
+      up: 101
+      down: 101
+      minheight: 25
+      maxheight: 76
+      minslope: -5.4
+      maxslope: 6.7
+      avgposslope: 1
+      avgnegslope: -1.2
+      slopehisto:
+        - 4044
+        - 307
+        - 61
+        - 0
+        - 0
+      effortlevel: 0.824
+      minlat: 50.7922
+      minlon: 5.09956
+      maxlat: 50.84685
+      maxlon: 5.14992
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Rodeland Fietsroute 2"
-subtitle: "Oosterzele en Sint-Lievens-Houtem zijn twee rustige gemeentes in de Vlaamse Ardennen op de grens met Scheldeland"
 date: "2022-11-09"
-description: "Oosterzele en Sint-Lievens-Houtem zijn twee rustige gemeentes in de Vlaamse Ardennen op de grens met Scheldeland"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/rodeland-fietsroute-2"
-gpx: "routen/rodeland-fietsroute-2.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Rodeland Fietsroute 2
+subtitle: Oosterzele en Sint-Lievens-Houtem zijn twee rustige gemeentes in de Vlaamse Ardennen op de grens met Scheldeland
+description: Oosterzele en Sint-Lievens-Houtem zijn twee rustige gemeentes in de Vlaamse Ardennen op de grens met Scheldeland
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/rodeland-fietsroute-2
+routes:
+    - name: Main
+      gpx: routen/rodeland-fietsroute-2.gpx
+      length: 47169
+      up: 309
+      down: 309
+      minheight: 19
+      maxheight: 80
+      minslope: -13
+      maxslope: 11.8
+      avgposslope: 1.1
+      avgnegslope: -1.1
+      slopehisto:
+        - 11401
+        - 1493
+        - 271
+        - 130
+        - 127
+      effortlevel: 2.202
+      minlat: 50.90245
+      minlon: 3.7443
+      maxlat: 50.95871
+      maxlon: 3.89421
 ---
 
 ## Let's Go ! 

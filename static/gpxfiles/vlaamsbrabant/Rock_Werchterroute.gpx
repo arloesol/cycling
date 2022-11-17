@@ -1,6 +1,0 @@
-System.ArgumentNullException: String reference not set to an instance of a String.
-Parameter name: s
-   at System.Text.Encoding.GetBytes(String s)
-   at RoutingCloudService.Helper.RemoveAccent(String txt) in C:\Users\Nijss\Source\Repos\Web.NodeMapp.Tools.Old\RoutingCloudService\Classes\Helper.cs:line 343
-   at RoutingCloudService.Helper.GenerateSlug(String phrase) in C:\Users\Nijss\Source\Repos\Web.NodeMapp.Tools.Old\RoutingCloudService\Classes\Helper.cs:line 330
-   at RoutingCloudService.Webservices.downloadGpx.ProcessRequest(HttpContext context) in C:\Users\Nijss\Source\Repos\Web.NodeMapp.Tools.Old\RoutingCloudService\Webservices\downloadGpx.ashx.cs:line 28

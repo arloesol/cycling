@@ -1,19 +1,39 @@
 ---
-title: "Van Het Drongengoed Naar Het Leen Fietsroute"
-subtitle: "Het mooiste van het Meetjesland in één route, dat combineert deze heerlijke lus tussen het Landschapspark Drongengoed en Provinciaal Domein Het Leen"
 date: "2022-11-09"
-description: "Het mooiste van het Meetjesland in één route, dat combineert deze heerlijke lus tussen het Landschapspark Drongengoed en Provinciaal Domein Het Leen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/van-het-drongengoed-naar-het-leen-fietsroute"
-gpx: "routen/van-het-drongengoed-naar-het-leen-fietsroute.gpx"
-length: 48
-tags:
- - "flanders"
- - "short"
+title: Van Het Drongengoed Naar Het Leen Fietsroute
+subtitle: Het mooiste van het Meetjesland in één route, dat combineert deze heerlijke lus tussen het Landschapspark Drongengoed en Provinciaal Domein Het Leen
+description: Het mooiste van het Meetjesland in één route, dat combineert deze heerlijke lus tussen het Landschapspark Drongengoed en Provinciaal Domein Het Leen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/van-het-drongengoed-naar-het-leen-fietsroute
+routes:
+    - name: Main
+      gpx: routen/van-het-drongengoed-naar-het-leen-fietsroute.gpx
+      length: 48852
+      up: 206
+      down: 206
+      minheight: 3
+      maxheight: 48
+      minslope: -13.8
+      maxslope: 12.9
+      avgposslope: 1.2
+      avgnegslope: -1
+      slopehisto:
+        - 7318
+        - 489
+        - 246
+        - 50
+        - 134
+      effortlevel: 1.997
+      minlat: 51.10663
+      minlon: 3.39999
+      maxlat: 51.19038
+      maxlon: 3.57359
 ---
 
 ## Let's Go ! 

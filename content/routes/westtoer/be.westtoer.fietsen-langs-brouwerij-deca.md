@@ -1,19 +1,39 @@
 ---
-title: "Fietsen langs Brouwerij Deca"
-subtitle: "Een fietstocht langs en door het mooie Woesten in Vleteren is helemaal de moeite waard wanneer je even halt houdt aan Brouwerij Deca"
 date: "2022-11-09"
-description: "Een fietstocht langs en door het mooie Woesten in Vleteren is helemaal de moeite waard wanneer je even halt houdt aan Brouwerij Deca"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-brouwerij-deca"
-gpx: "westtoer/fietsen-langs-brouwerij-deca.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs Brouwerij Deca
+subtitle: Een fietstocht langs en door het mooie Woesten in Vleteren is helemaal de moeite waard wanneer je even halt houdt aan Brouwerij Deca
+description: Een fietstocht langs en door het mooie Woesten in Vleteren is helemaal de moeite waard wanneer je even halt houdt aan Brouwerij Deca
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-langs-brouwerij-deca
+routes:
+    - name: Main
+      gpx: westtoer/fietsen-langs-brouwerij-deca.gpx
+      length: 38247
+      up: 124
+      down: 124
+      minheight: 3
+      maxheight: 23
+      minslope: -3.2
+      maxslope: 5.4
+      avgposslope: 0.5
+      avgnegslope: -0.4
+      slopehisto:
+        - 4838
+        - 227
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.395
+      minlat: 50.83791
+      minlon: 2.73037
+      maxlat: 50.9446
+      maxlon: 2.88233
 ---
 
 ## Let's Go ! 

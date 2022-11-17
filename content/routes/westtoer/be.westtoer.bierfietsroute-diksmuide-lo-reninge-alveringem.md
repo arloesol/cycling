@@ -1,22 +1,42 @@
 ---
-title: "Bierfietsroute Diksmuide - Lo-Reninge - Alveringem"
-subtitle: "Diksmuide heeft 2 brouwerijen"
 date: "2022-11-09"
-description: "Diksmuide heeft 2 brouwerijen"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/bierfietsroute-diksmuide-lo-reninge-alveringem"
-gpx: "westtoer/bierfietsroute-diksmuide-lo-reninge-alveringem.gpx"
-length: 44
-tags:
- - "flanders"
- - "short"
+title: Bierfietsroute Diksmuide - Lo-Reninge - Alveringem
+subtitle: Diksmuide heeft 2 brouwerijen
+description: Diksmuide heeft 2 brouwerijen
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "1,69,57,14,58,18,59,92,81,45,21,28,58,11,13,22,30,65,44,94,31,46,23,78,47,54,51,71,96,49,74,75,1"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/bierfietsroute-diksmuide-lo-reninge-alveringem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 1,69,57,14,58,18,59,92,81,45,21,28,58,11,13,22,30,65,44,94,31,46,23,78,47,54,51,71,96,49,74,75,1
+      gpx: westtoer/bierfietsroute-diksmuide-lo-reninge-alveringem.gpx
+      length: 45417
+      up: 54
+      down: 54
+      minheight: 2
+      maxheight: 33
+      minslope: -2.8
+      maxslope: 4.8
+      avgposslope: 0.9
+      avgnegslope: -0.8
+      slopehisto:
+        - 2322
+        - 50
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.547
+      minlat: 50.973167
+      minlon: 2.720429
+      maxlat: 51.055343
+      maxlon: 2.930698
 ---
 
 ## Let's Go ! 

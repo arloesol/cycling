@@ -1,19 +1,39 @@
 ---
-title: "Frontroute 14-18"
-subtitle: "De Frontroute 14-18 neemt je als fietser 100 km lang mee doorheen het frontzonelandschap van de ‘Groote Oorlog’"
 date: "2022-11-09"
-description: "De Frontroute 14-18 neemt je als fietser 100 km lang mee doorheen het frontzonelandschap van de ‘Groote Oorlog’"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/frontroute14-18"
-gpx: "westtoer/frontroute14-18.gpx"
-length: 100
-tags:
- - "flanders"
- - "long"
+title: Frontroute 14-18
+subtitle: De Frontroute 14-18 neemt je als fietser 100 km lang mee doorheen het frontzonelandschap van de ‘Groote Oorlog’
+description: De Frontroute 14-18 neemt je als fietser 100 km lang mee doorheen het frontzonelandschap van de ‘Groote Oorlog’
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/frontroute14-18
+routes:
+    - name: Main
+      gpx: westtoer/frontroute14-18.gpx
+      length: 100185
+      up: 448
+      down: 392
+      minheight: 1
+      maxheight: 85
+      minslope: -7
+      maxslope: 9.4
+      avgposslope: 0.7
+      avgnegslope: -0.7
+      slopehisto:
+        - 13608
+        - 1756
+        - 294
+        - 207
+        - 0
+      effortlevel: 4.116
+      minlat: 50.755814
+      minlon: 2.722769
+      maxlat: 51.152533
+      maxlon: 3.00165
 ---
 
 ## Let's Go ! 

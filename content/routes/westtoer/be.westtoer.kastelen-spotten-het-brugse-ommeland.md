@@ -1,19 +1,39 @@
 ---
-title: "Kastelen spotten in het Brugse Ommeland"
-subtitle: "Een kasteel is uiteindelijk maar een verzameling stenen"
 date: "2022-11-09"
-description: "Een kasteel is uiteindelijk maar een verzameling stenen"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kastelen-spotten-het-brugse-ommeland"
-gpx: "westtoer/kastelen-spotten-het-brugse-ommeland.gpx"
-length: 52
-tags:
- - "flanders"
- - "short"
+title: Kastelen spotten in het Brugse Ommeland
+subtitle: Een kasteel is uiteindelijk maar een verzameling stenen
+description: Een kasteel is uiteindelijk maar een verzameling stenen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kastelen-spotten-het-brugse-ommeland
+routes:
+    - name: Main
+      gpx: westtoer/kastelen-spotten-het-brugse-ommeland.gpx
+      length: 50052
+      up: 147
+      down: 147
+      minheight: 6
+      maxheight: 35
+      minslope: -7.4
+      maxslope: 5.5
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 3285
+        - 294
+        - 78
+        - 0
+        - 0
+      effortlevel: 1.759
+      minlat: 51.057617
+      minlon: 3.110174
+      maxlat: 51.186978
+      maxlon: 3.218724
 ---
 
 ## Let's Go ! 

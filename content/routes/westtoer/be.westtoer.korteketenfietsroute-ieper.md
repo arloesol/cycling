@@ -1,22 +1,42 @@
 ---
-title: "Fietsen langs de Korte Keten - Ieper"
-subtitle: "Verken de lekkerste korteketenadresjes in en rond de stad Ieper met behulp van dit voor jou uitgestippeld fietslusje"
 date: "2022-11-09"
-description: "Verken de lekkerste korteketenadresjes in en rond de stad Ieper met behulp van dit voor jou uitgestippeld fietslusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-ieper"
-gpx: "westtoer/korteketenfietsroute-ieper.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Ieper
+subtitle: Verken de lekkerste korteketenadresjes in en rond de stad Ieper met behulp van dit voor jou uitgestippeld fietslusje
+description: Verken de lekkerste korteketenadresjes in en rond de stad Ieper met behulp van dit voor jou uitgestippeld fietslusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "93,38,40,55,85,42,44,14,45,51,59,46,47,48,53,49,61,98,17,66,35,39,26,32,93"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/korteketenfietsroute-ieper
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 93,38,40,55,85,42,44,14,45,51,59,46,47,48,53,49,61,98,17,66,35,39,26,32,93
+      gpx: westtoer/korteketenfietsroute-ieper.gpx
+      length: 41414
+      up: 248
+      down: 248
+      minheight: 12
+      maxheight: 62
+      minslope: -21.3
+      maxslope: 8.6
+      avgposslope: 0.6
+      avgnegslope: -0.6
+      slopehisto:
+        - 8971
+        - 1203
+        - 0
+        - 124
+        - 0
+      effortlevel: 1.771
+      minlat: 50.798914
+      minlon: 2.853832
+      maxlat: 50.882607
+      maxlon: 2.957489
 ---
 
 ## Let's Go ! 

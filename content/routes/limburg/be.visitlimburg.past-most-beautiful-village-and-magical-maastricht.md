@@ -1,19 +1,39 @@
 ---
-title: "Past the most beautiful village and magical Maastricht"
-subtitle: "This cross-border cycling loop with a few moderate climbs takes you past historical highlights"
 date: "2022-11-09"
-description: "This cross-border cycling loop with a few moderate climbs takes you past historical highlights"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/past-most-beautiful-village-and-magical-maastricht"
-gpx: "limburg/past-most-beautiful-village-and-magical-maastricht.gpx"
-length: 64
-tags:
- - "flanders"
- - "medium"
+title: Past the most beautiful village and magical Maastricht
+subtitle: This cross-border cycling loop with a few moderate climbs takes you past historical highlights
+description: This cross-border cycling loop with a few moderate climbs takes you past historical highlights
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/past-most-beautiful-village-and-magical-maastricht
+routes:
+    - name: Main
+      gpx: limburg/past-most-beautiful-village-and-magical-maastricht.gpx
+      length: 65310
+      up: 333
+      down: 333
+      minheight: 30
+      maxheight: 109
+      minslope: -12.9
+      maxslope: 13.8
+      avgposslope: 1.3
+      avgnegslope: -1.2
+      slopehisto:
+        - 9255
+        - 1526
+        - 595
+        - 199
+        - 177
+      effortlevel: 2.81
+      minlat: 50.81426
+      minlon: 5.62964
+      maxlat: 51.0063
+      maxlon: 5.7703
 ---
 
 ## Let's Go ! 

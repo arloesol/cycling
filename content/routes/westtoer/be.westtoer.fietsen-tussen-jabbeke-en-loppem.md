@@ -1,22 +1,42 @@
 ---
-title: "Fietsen tussen Jabbeke en Loppem"
-subtitle: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Jabbeke via de knooppunten van dit voor jou uitgestippelde lusje"
 date: "2022-11-09"
-description: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Jabbeke via de knooppunten van dit voor jou uitgestippelde lusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-tussen-jabbeke-en-loppem"
-gpx: "westtoer/fietsen-tussen-jabbeke-en-loppem.gpx"
-length: 27
-tags:
- - "flanders"
- - "vshort"
+title: Fietsen tussen Jabbeke en Loppem
+subtitle: Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Jabbeke via de knooppunten van dit voor jou uitgestippelde lusje
+description: Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Jabbeke via de knooppunten van dit voor jou uitgestippelde lusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "50,68,90,61,94,59,99,97,67,10,74,14,77,16,6,54,71,81,50"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-tussen-jabbeke-en-loppem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 50,68,90,61,94,59,99,97,67,10,74,14,77,16,6,54,71,81,50
+      gpx: westtoer/fietsen-tussen-jabbeke-en-loppem.gpx
+      length: 27006
+      up: 36
+      down: 36
+      minheight: 5
+      maxheight: 21
+      minslope: -3.3
+      maxslope: 4
+      avgposslope: 1
+      avgnegslope: -0.8
+      slopehisto:
+        - 242
+        - 65
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.911
+      minlat: 51.127256
+      minlon: 3.097055
+      maxlat: 51.190189
+      maxlon: 3.189293
 ---
 
 ## Let's Go ! 

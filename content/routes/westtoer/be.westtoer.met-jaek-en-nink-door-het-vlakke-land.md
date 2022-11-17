@@ -1,22 +1,42 @@
 ---
-title: "Met Jaek en Nink door het vlakke land"
-subtitle: "Voor deze route kan je vertrekken aan Mout- & Brouwhuis De Snoek (Alveringem) voor een gezellig namiddagje uit door het vlakke land"
 date: "2022-11-09"
-description: "Voor deze route kan je vertrekken aan Mout- & Brouwhuis De Snoek (Alveringem) voor een gezellig namiddagje uit door het vlakke land"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/met-jaek-en-nink-door-het-vlakke-land"
-gpx: "westtoer/met-jaek-en-nink-door-het-vlakke-land.gpx"
-length: 25
-tags:
- - "flanders"
- - "vshort"
+title: Met Jaek en Nink door het vlakke land
+subtitle: Voor deze route kan je vertrekken aan Mout- & Brouwhuis De Snoek (Alveringem) voor een gezellig namiddagje uit door het vlakke land
+description: Voor deze route kan je vertrekken aan Mout- & Brouwhuis De Snoek (Alveringem) voor een gezellig namiddagje uit door het vlakke land
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "44,94,31,46,70,40,78,47,54,64,34,24,22,30,65,44"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/met-jaek-en-nink-door-het-vlakke-land
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 44,94,31,46,70,40,78,47,54,64,34,24,22,30,65,44
+      gpx: westtoer/met-jaek-en-nink-door-het-vlakke-land.gpx
+      length: 25450
+      up: 90
+      down: 90
+      minheight: 2
+      maxheight: 6
+      minslope: -3.2
+      maxslope: 4.2
+      avgposslope: 0.2
+      avgnegslope: -0.3
+      slopehisto:
+        - 1239
+        - 111
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.882
+      minlat: 50.980166
+      minlon: 2.720452
+      maxlat: 51.039635
+      maxlon: 2.810115
 ---
 
 ## Let's Go ! 

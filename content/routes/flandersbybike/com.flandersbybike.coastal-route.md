@@ -1,19 +1,39 @@
 ---
-title: "Coastal Route"
-subtitle: "Are you looking for the perfect combination of nature, maritime history and culture?"
-date: "2022-11-09"
-description: "Are you looking for the perfect combination of nature, maritime history and culture?"
-region: "flanders"
-source: "com.flandersbybike"
-ext_url: "https://www.flandersbybike.com/coastal-route"
-gpx: "flandersbybike/coastal-route.gpx"
-length: 85
-tags:
- - "flanders"
- - "medium"
+date: "2022-11-17"
+title: Coastal Route
+subtitle: Are you looking for the perfect combination of nature, maritime history and culture?
+description: Are you looking for the perfect combination of nature, maritime history and culture?
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: com.flandersbybike
+ext_url: https://www.flandersbybike.com/coastal-route
+routes:
+    - name: Main
+      gpx: flandersbybike/coastal-route.gpx
+      length: 87028
+      up: 175
+      down: 177
+      minheight: 0
+      maxheight: 26
+      minslope: -7.7
+      maxslope: 11.7
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 3257
+        - 384
+        - 54
+        - 0
+        - 130
+      effortlevel: 3.095
+      minlat: 51.070361
+      minlon: 2.555467
+      maxlat: 51.361968
+      maxlon: 3.378277
 ---
 
 ## Let's Go ! 

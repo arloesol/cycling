@@ -1,19 +1,39 @@
 ---
-title: "Door Natuur Landbouw En Haven Fietsroute"
-subtitle: "Deze fietsroute brengt je van de ene polder naar de andere"
 date: "2022-11-09"
-description: "Deze fietsroute brengt je van de ene polder naar de andere"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/door-natuur-landbouw-en-haven-fietsroute"
-gpx: "routen/door-natuur-landbouw-en-haven-fietsroute.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: Door Natuur Landbouw En Haven Fietsroute
+subtitle: Deze fietsroute brengt je van de ene polder naar de andere
+description: Deze fietsroute brengt je van de ene polder naar de andere
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/door-natuur-landbouw-en-haven-fietsroute
+routes:
+    - name: Main
+      gpx: routen/door-natuur-landbouw-en-haven-fietsroute.gpx
+      length: 30349
+      up: 48
+      down: 48
+      minheight: 1
+      maxheight: 13
+      minslope: -6.2
+      maxslope: 5.5
+      avgposslope: 0.5
+      avgnegslope: -0.4
+      slopehisto:
+        - 518
+        - 461
+        - 50
+        - 0
+        - 0
+      effortlevel: 1.092
+      minlat: 51.29191
+      minlon: 4.14031
+      maxlat: 51.3367
+      maxlon: 4.26569
 ---
 
 ## Let's Go ! 

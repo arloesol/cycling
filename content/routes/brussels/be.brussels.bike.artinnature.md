@@ -1,27 +1,62 @@
 ---
-title: "Art In Nature"
-subtitle: "Tervuren park, Solvay park, Hoeilaert Castle ..."
 date: "2022-10-17"
-description: "Lush nature to the southeast of Brussels"
+title: Art In Nature
+subtitle: Tervuren park, Solvay park, Hoeilaert Castle ...
+description: Lush nature to the southeast of Brussels
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-ext_url: "https://www.bike.brussels/en/blog/art-in-nature"
-gpx: "brussels/Bike-for-Brussels-Kunst-in-het-groen.gpx"
-length: 53
-gmaps: "https://www.google.com/maps/d/u/0/edit?mid=1zYJA9-2PQgrJKvKzG0fHRjyZ459CrgYb&usp=sharing"
-altroutes:
-  - name: "short"
-    gpx: "brussels/Bike-for-Brussels-Kunst-in-het-groen-short.gpx"
-    length: 35
-    gmaps: "https://www.google.com/maps/d/u/0/edit?mid=1zYJA9-2PQgrJKvKzG0fHRjyZ459CrgYb&usp=sharing"
-# mapimg: "brussels/Routes-1-Center.jpg"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/art-in-nature
+routes:
+    - name: Main
+      gpx: brussels/Bike-for-Brussels-Kunst-in-het-groen.gpx
+      length: 52653
+      up: 772
+      down: 772
+      minheight: 42
+      maxheight: 142
+      minslope: -13.1
+      maxslope: 13.2
+      avgposslope: 1.2
+      avgnegslope: -1.3
+      slopehisto:
+        - 12644
+        - 4305
+        - 2449
+        - 1126
+        - 262
+      effortlevel: 3.554
+      minlat: 50.72653
+      minlon: 4.40543
+      maxlat: 50.82627
+      maxlon: 4.56828
+    - name: short
+      gpx: brussels/Bike-for-Brussels-Kunst-in-het-groen-short.gpx
+      length: 35212
+      up: 451
+      down: 451
+      minheight: 55
+      maxheight: 138
+      minslope: -12
+      maxslope: 13.2
+      avgposslope: 1.1
+      avgnegslope: -1.1
+      slopehisto:
+        - 8464
+        - 2543
+        - 1295
+        - 452
+        - 123
+      effortlevel: 2.147
+      minlat: 50.76515
+      minlon: 4.40543
+      maxlat: 50.82627
+      maxlon: 4.539164
 ---
 ## Let's go !
 

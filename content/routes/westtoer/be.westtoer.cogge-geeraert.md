@@ -1,23 +1,43 @@
 ---
-title: "Cogge-Geeraert"
-subtitle: "Fietsroute 14-18
-
-De fietsroute belicht de onderwaterzetting van de IJzervlakte tijdens de Eerste Wereldoorlog en de rol die de historische figuren Karel Cogge en Hendrik Geeraert daarbij speelden"
 date: "2022-11-09"
-description: "Fietsroute 14-18
-
-De fietsroute belicht de onderwaterzetting van de IJzervlakte tijdens de Eerste Wereldoorlog en de rol die de historische figuren Karel Cogge en Hendrik Geeraert daarbij speelden"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/cogge-geeraert"
-gpx: "westtoer/cogge-geeraert.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Cogge-Geeraert
+subtitle: |-
+    Fietsroute 14-18
+    De fietsroute belicht de onderwaterzetting van de IJzervlakte tijdens de Eerste Wereldoorlog en de rol die de historische figuren Karel Cogge en Hendrik Geeraert daarbij speelden
+description: |-
+    Fietsroute 14-18
+    De fietsroute belicht de onderwaterzetting van de IJzervlakte tijdens de Eerste Wereldoorlog en de rol die de historische figuren Karel Cogge en Hendrik Geeraert daarbij speelden
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/cogge-geeraert
+routes:
+    - name: Main
+      gpx: westtoer/cogge-geeraert.gpx
+      length: 42686
+      up: 120
+      down: 120
+      minheight: 1
+      maxheight: 9
+      minslope: -5.7
+      maxslope: 10
+      avgposslope: 0.2
+      avgnegslope: -0.3
+      slopehisto:
+        - 1024
+        - 0
+        - 52
+        - 51
+        - 57
+      effortlevel: 1.488
+      minlat: 51.044481
+      minlon: 2.661999
+      maxlat: 51.146336
+      maxlon: 2.797457
 ---
 
 ## Let's Go ! 

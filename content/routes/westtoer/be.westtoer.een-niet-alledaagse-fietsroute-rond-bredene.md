@@ -1,22 +1,42 @@
 ---
-title: "Een niet-alledaagse fietsroute rond Bredene"
-subtitle: "Deze fietslus van 32,2 km heeft heel wat in petto"
 date: "2022-11-09"
-description: "Deze fietslus van 32,2 km heeft heel wat in petto"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/een-niet-alledaagse-fietsroute-rond-bredene"
-gpx: "westtoer/een-niet-alledaagse-fietsroute-rond-bredene.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: Een niet-alledaagse fietsroute rond Bredene
+subtitle: Deze fietslus van 32,2 km heeft heel wat in petto
+description: Deze fietslus van 32,2 km heeft heel wat in petto
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "8,92,56,6,78,98,28,23,33,59,26,95,67,39,8"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/een-niet-alledaagse-fietsroute-rond-bredene
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 8,92,56,6,78,98,28,23,33,59,26,95,67,39,8
+      gpx: westtoer/een-niet-alledaagse-fietsroute-rond-bredene.gpx
+      length: 32254
+      up: 89
+      down: 89
+      minheight: 0
+      maxheight: 16
+      minslope: -12.9
+      maxslope: 6.1
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 3332
+        - 68
+        - 78
+        - 0
+        - 0
+      effortlevel: 1.156
+      minlat: 51.20829
+      minlon: 2.92876
+      maxlat: 51.27241
+      maxlon: 3.07989
 ---
 
 ## Let's Go ! 

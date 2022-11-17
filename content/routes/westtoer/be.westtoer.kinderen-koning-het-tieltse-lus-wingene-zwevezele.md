@@ -1,22 +1,42 @@
 ---
-title: "Kinderen koning in het Tieltse - lus Wingene - Zwevezele"
-subtitle: "Kinderen zijn koning in het Tieltse"
 date: "2022-11-09"
-description: "Kinderen zijn koning in het Tieltse"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-wingene-zwevezele"
-gpx: "westtoer/kinderen-koning-het-tieltse-lus-wingene-zwevezele.gpx"
-length: 23
-tags:
- - "flanders"
- - "vshort"
+title: Kinderen koning in het Tieltse - lus Wingene - Zwevezele
+subtitle: Kinderen zijn koning in het Tieltse
+description: Kinderen zijn koning in het Tieltse
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "25,50,22,6,21,23,25"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-wingene-zwevezele
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 25,50,22,6,21,23,25
+      gpx: westtoer/kinderen-koning-het-tieltse-lus-wingene-zwevezele.gpx
+      length: 22568
+      up: 43
+      down: 43
+      minheight: 16
+      maxheight: 44
+      minslope: -2.8
+      maxslope: 2.7
+      avgposslope: 1.6
+      avgnegslope: -1.1
+      slopehisto:
+        - 1081
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.772
+      minlat: 51.023562
+      minlon: 3.206564
+      maxlat: 51.085826
+      maxlon: 3.283514
 ---
 
 ## Let's Go ! 

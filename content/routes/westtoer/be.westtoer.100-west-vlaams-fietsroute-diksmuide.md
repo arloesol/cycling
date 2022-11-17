@@ -1,22 +1,42 @@
 ---
-title: "100% West-Vlaams fietsroute Diksmuide"
-subtitle: "Welkom in de blote polders rond Diksmuide"
 date: "2022-11-09"
-description: "Welkom in de blote polders rond Diksmuide"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/100-west-vlaams-fietsroute-diksmuide"
-gpx: "westtoer/100-west-vlaams-fietsroute-diksmuide.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: 100% West-Vlaams fietsroute Diksmuide
+subtitle: Welkom in de blote polders rond Diksmuide
+description: Welkom in de blote polders rond Diksmuide
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "74,75,6,69,57,28,7,27,78,12,14,58,18,59,92,81,45,21,28,58,50,96,49,74"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/100-west-vlaams-fietsroute-diksmuide
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 74,75,6,69,57,28,7,27,78,12,14,58,18,59,92,81,45,21,28,58,50,96,49,74
+      gpx: westtoer/100-west-vlaams-fietsroute-diksmuide.gpx
+      length: 39417
+      up: 114
+      down: 114
+      minheight: 2
+      maxheight: 33
+      minslope: -3.2
+      maxslope: 4
+      avgposslope: 0.2
+      avgnegslope: -0.3
+      slopehisto:
+        - 3812
+        - 124
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.396
+      minlat: 50.981387
+      minlon: 2.805761
+      maxlat: 51.083219
+      maxlon: 2.937495
 ---
 
 ## Let's Go ! 

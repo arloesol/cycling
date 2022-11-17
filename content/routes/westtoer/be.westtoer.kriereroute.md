@@ -1,19 +1,39 @@
 ---
-title: "Kriereroute"
-subtitle: "De Kriereroute is een mountainbikeroute die je door Avelgem en Zwevegem brengt"
 date: "2022-11-09"
-description: "De Kriereroute is een mountainbikeroute die je door Avelgem en Zwevegem brengt"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kriereroute"
-gpx: "westtoer/kriereroute.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Kriereroute
+subtitle: De Kriereroute is een mountainbikeroute die je door Avelgem en Zwevegem brengt
+description: De Kriereroute is een mountainbikeroute die je door Avelgem en Zwevegem brengt
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kriereroute
+routes:
+    - name: Main
+      gpx: westtoer/kriereroute.gpx
+      length: 45070
+      up: 194
+      down: 194
+      minheight: 11
+      maxheight: 37
+      minslope: -8.9
+      maxslope: 11.1
+      avgposslope: 0.5
+      avgnegslope: -0.6
+      slopehisto:
+        - 5150
+        - 269
+        - 220
+        - 0
+        - 66
+      effortlevel: 1.692
+      minlat: 50.738343
+      minlon: 3.371502
+      maxlat: 50.805972
+      maxlon: 3.476367
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Fietsen Langs Kastelen Fietsroute"
-subtitle: "De kastelen van Heusden en Destelbergen zijn imposante getuigen van de rijke geschiedenis van beide gemeenten"
 date: "2022-11-09"
-description: "De kastelen van Heusden en Destelbergen zijn imposante getuigen van de rijke geschiedenis van beide gemeenten"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/fietsen-langs-kastelen-fietsroute"
-gpx: "routen/fietsen-langs-kastelen-fietsroute.gpx"
-length: 49
-tags:
- - "flanders"
- - "short"
+title: Fietsen Langs Kastelen Fietsroute
+subtitle: De kastelen van Heusden en Destelbergen zijn imposante getuigen van de rijke geschiedenis van beide gemeenten
+description: De kastelen van Heusden en Destelbergen zijn imposante getuigen van de rijke geschiedenis van beide gemeenten
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/fietsen-langs-kastelen-fietsroute
+routes:
+    - name: Main
+      gpx: routen/fietsen-langs-kastelen-fietsroute.gpx
+      length: 49570
+      up: 112
+      down: 112
+      minheight: 1
+      maxheight: 20
+      minslope: -9.8
+      maxslope: 10.2
+      avgposslope: 0.8
+      avgnegslope: -0.7
+      slopehisto:
+        - 4687
+        - 346
+        - 184
+        - 0
+        - 68
+      effortlevel: 1.874
+      minlat: 51.01195
+      minlon: 3.7814
+      maxlat: 51.08836
+      maxlon: 3.90371
 ---
 
 ## Let's Go ! 

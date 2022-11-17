@@ -1,22 +1,42 @@
 ---
-title: "Verrassende plekjes in de omgeving van Waregem"
-subtitle: "Dit fietslusje verkent de gemeenten Anzegem, Deerlijk, Harelbeke en Waregem"
 date: "2022-11-09"
-description: "Dit fietslusje verkent de gemeenten Anzegem, Deerlijk, Harelbeke en Waregem"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/verrassende-plekjes-de-omgeving-van-waregem"
-gpx: "westtoer/verrassende-plekjes-de-omgeving-van-waregem.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Verrassende plekjes in de omgeving van Waregem
+subtitle: Dit fietslusje verkent de gemeenten Anzegem, Deerlijk, Harelbeke en Waregem
+description: Dit fietslusje verkent de gemeenten Anzegem, Deerlijk, Harelbeke en Waregem
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "67,47,21,4,34,35,6,36,27,94,14,65,52,56,44,40,60,54,84,62,67"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/verrassende-plekjes-de-omgeving-van-waregem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 67,47,21,4,34,35,6,36,27,94,14,65,52,56,44,40,60,54,84,62,67
+      gpx: westtoer/verrassende-plekjes-de-omgeving-van-waregem.gpx
+      length: 40847
+      up: 89
+      down: 89
+      minheight: 10
+      maxheight: 57
+      minslope: -5.9
+      maxslope: 3.8
+      avgposslope: 1.1
+      avgnegslope: -1.4
+      slopehisto:
+        - 3579
+        - 56
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.471
+      minlat: 50.832363
+      minlon: 3.310849
+      maxlat: 50.895708
+      maxlon: 3.478407
 ---
 
 ## Let's Go ! 

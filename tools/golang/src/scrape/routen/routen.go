@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"cycling.io/m/v2/lib"
+	"cycling.io/tools/v2/lib"
 	"github.com/gocolly/colly"
 )
 

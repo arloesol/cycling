@@ -1,19 +1,39 @@
 ---
-title: "Comparing apples and pears"
-subtitle: "Cycle through the undulating fruit landscape of Haspengouw while enjoying impressive panoramas, square farms, quiet church villages, and magnificent castles"
 date: "2022-11-09"
-description: "Cycle through the undulating fruit landscape of Haspengouw while enjoying impressive panoramas, square farms, quiet church villages, and magnificent castles"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/comparing-apples-and-pears"
-gpx: "limburg/comparing-apples-and-pears.gpx"
-length: 49
-tags:
- - "flanders"
- - "short"
+title: Comparing apples and pears
+subtitle: Cycle through the undulating fruit landscape of Haspengouw while enjoying impressive panoramas, square farms, quiet church villages, and magnificent castles
+description: Cycle through the undulating fruit landscape of Haspengouw while enjoying impressive panoramas, square farms, quiet church villages, and magnificent castles
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/comparing-apples-and-pears
+routes:
+    - name: Main
+      gpx: limburg/comparing-apples-and-pears.gpx
+      length: 48744
+      up: 338
+      down: 338
+      minheight: 38
+      maxheight: 101
+      minslope: -12.2
+      maxslope: 12.4
+      avgposslope: 1.5
+      avgnegslope: -1.9
+      slopehisto:
+        - 11500
+        - 1677
+        - 208
+        - 0
+        - 134
+      effortlevel: 2.33
+      minlat: 50.7675
+      minlon: 5.12842
+      maxlat: 50.82905
+      maxlon: 5.29326
 ---
 
 ## Let's Go ! 

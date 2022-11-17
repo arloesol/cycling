@@ -1,19 +1,39 @@
 ---
-title: "Op roverstocht rond het Vrijbos met Jaek en Nink"
-subtitle: "Deze kindvriendelijke fietsroute neemt je mee door het Vrijbos, de schuilplaats van Bakelandt"
 date: "2022-11-09"
-description: "Deze kindvriendelijke fietsroute neemt je mee door het Vrijbos, de schuilplaats van Bakelandt"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/op-roverstocht-rond-het-vrijbos-met-jaek-en-nink"
-gpx: "westtoer/op-roverstocht-rond-het-vrijbos-met-jaek-en-nink.gpx"
-length: 30
-tags:
- - "flanders"
- - "short"
+title: Op roverstocht rond het Vrijbos met Jaek en Nink
+subtitle: Deze kindvriendelijke fietsroute neemt je mee door het Vrijbos, de schuilplaats van Bakelandt
+description: Deze kindvriendelijke fietsroute neemt je mee door het Vrijbos, de schuilplaats van Bakelandt
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/op-roverstocht-rond-het-vrijbos-met-jaek-en-nink
+routes:
+    - name: Main
+      gpx: westtoer/op-roverstocht-rond-het-vrijbos-met-jaek-en-nink.gpx
+      length: 29849
+      up: 113
+      down: 113
+      minheight: 7
+      maxheight: 30
+      minslope: -5.5
+      maxslope: 5.3
+      avgposslope: 2
+      avgnegslope: -1.8
+      slopehisto:
+        - 5445
+        - 141
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.108
+      minlat: 50.90451
+      minlon: 2.9112
+      maxlat: 50.9784
+      maxlon: 2.9947
 ---
 
 ## Let's Go ! 

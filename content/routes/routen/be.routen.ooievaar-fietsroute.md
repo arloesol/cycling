@@ -1,19 +1,39 @@
 ---
-title: "Ooievaar Fietsroute"
-subtitle: "Waar in Lokeren de Zuidlede en Moervaart samenvloeien, ontstaat de Durme"
 date: "2022-11-09"
-description: "Waar in Lokeren de Zuidlede en Moervaart samenvloeien, ontstaat de Durme"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/ooievaar-fietsroute"
-gpx: "routen/ooievaar-fietsroute.gpx"
-length: 42
-tags:
- - "flanders"
- - "short"
+title: Ooievaar Fietsroute
+subtitle: Waar in Lokeren de Zuidlede en Moervaart samenvloeien, ontstaat de Durme
+description: Waar in Lokeren de Zuidlede en Moervaart samenvloeien, ontstaat de Durme
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/ooievaar-fietsroute
+routes:
+    - name: Main
+      gpx: routen/ooievaar-fietsroute.gpx
+      length: 42320
+      up: 165
+      down: 165
+      minheight: 2
+      maxheight: 43
+      minslope: -9.6
+      maxslope: 8.7
+      avgposslope: 0.7
+      avgnegslope: -0.7
+      slopehisto:
+        - 6623
+        - 520
+        - 191
+        - 143
+        - 0
+      effortlevel: 1.678
+      minlat: 51.08784
+      minlon: 3.99424
+      maxlat: 51.12708
+      maxlon: 4.17447
 ---
 
 ## Let's Go ! 

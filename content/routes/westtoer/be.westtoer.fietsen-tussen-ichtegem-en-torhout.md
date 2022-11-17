@@ -1,22 +1,42 @@
 ---
-title: "Fietsen tussen Ichtegem en Torhout"
-subtitle: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ichtegem via de knooppunten van dit voor jou uitgestippelde lusje"
 date: "2022-11-09"
-description: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ichtegem via de knooppunten van dit voor jou uitgestippelde lusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-tussen-ichtegem-en-torhout"
-gpx: "westtoer/fietsen-tussen-ichtegem-en-torhout.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: Fietsen tussen Ichtegem en Torhout
+subtitle: Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ichtegem via de knooppunten van dit voor jou uitgestippelde lusje
+description: Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Ichtegem via de knooppunten van dit voor jou uitgestippelde lusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "13,74,70,63,88,72,8,81,4,71,85,75,13"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-tussen-ichtegem-en-torhout
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 13,74,70,63,88,72,8,81,4,71,85,75,13
+      gpx: westtoer/fietsen-tussen-ichtegem-en-torhout.gpx
+      length: 32021
+      up: 78
+      down: 78
+      minheight: 16
+      maxheight: 47
+      minslope: -3.9
+      maxslope: 2.2
+      avgposslope: 4
+      avgnegslope: -2.1
+      slopehisto:
+        - 2140
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.138
+      minlat: 51.044457
+      minlon: 3.019032
+      maxlat: 51.107358
+      maxlon: 3.155461
 ---
 
 ## Let's Go ! 

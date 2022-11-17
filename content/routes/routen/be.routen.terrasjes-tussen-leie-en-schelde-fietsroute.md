@@ -1,19 +1,39 @@
 ---
-title: "Terrasjes Tussen Leie En Schelde Fietsroute"
-subtitle: "In het gebied tussen Leie en Schelde lonken niet alleen de jaagpaden langs beide rivieren, maar ook de gezellige terrasjes"
 date: "2022-11-09"
-description: "In het gebied tussen Leie en Schelde lonken niet alleen de jaagpaden langs beide rivieren, maar ook de gezellige terrasjes"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/terrasjes-tussen-leie-en-schelde-fietsroute"
-gpx: "routen/terrasjes-tussen-leie-en-schelde-fietsroute.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: Terrasjes Tussen Leie En Schelde Fietsroute
+subtitle: In het gebied tussen Leie en Schelde lonken niet alleen de jaagpaden langs beide rivieren, maar ook de gezellige terrasjes
+description: In het gebied tussen Leie en Schelde lonken niet alleen de jaagpaden langs beide rivieren, maar ook de gezellige terrasjes
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/terrasjes-tussen-leie-en-schelde-fietsroute
+routes:
+    - name: Main
+      gpx: routen/terrasjes-tussen-leie-en-schelde-fietsroute.gpx
+      length: 47762
+      up: 151
+      down: 151
+      minheight: 4
+      maxheight: 27
+      minslope: -12.1
+      maxslope: 14.5
+      avgposslope: 0.7
+      avgnegslope: -0.8
+      slopehisto:
+        - 5542
+        - 681
+        - 0
+        - 59
+        - 78
+      effortlevel: 1.846
+      minlat: 50.95407
+      minlon: 3.62788
+      maxlat: 51.05393
+      maxlon: 3.74618
 ---
 
 ## Let's Go ! 

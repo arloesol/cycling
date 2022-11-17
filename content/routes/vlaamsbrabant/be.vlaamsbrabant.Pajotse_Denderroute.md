@@ -1,22 +1,42 @@
 ---
-title: "Pajotse Denderroute"
-subtitle: "Achter de startplaats van deze route bevindt zich het waterkasteel Kruikenburg, een beschermd monument maar wel vrij toegankelijk"
 date: "2022-11-09"
-description: "Achter de startplaats van deze route bevindt zich het waterkasteel Kruikenburg, een beschermd monument maar wel vrij toegankelijk. Vanuit Ternat volg je de hellingen tot het wereldberoemde volkscafé ‘In de Verzekering tegen de Grote Dorst’ in Eizeringen."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/pajotse-denderroute/index.html"
-gpx: "vlaamsbrabant/Pajotse_Denderroute.gpx"
-length: 37
-tags:
- - "flanders"
- - "short"
+title: Pajotse Denderroute
+subtitle: Achter de startplaats van deze route bevindt zich het waterkasteel Kruikenburg, een beschermd monument maar wel vrij toegankelijk
+description: Achter de startplaats van deze route bevindt zich het waterkasteel Kruikenburg, een beschermd monument maar wel vrij toegankelijk. Vanuit Ternat volg je de hellingen tot het wereldberoemde volkscafé ‘In de Verzekering tegen de Grote Dorst’ in Eizeringen.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "59,8,7,6,16,52,89,4,86,85,10,80,79,99,97,96,95,59"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/pajotse-denderroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 59,8,7,6,16,52,89,4,86,85,10,80,79,99,97,96,95,59
+      gpx: vlaamsbrabant/Pajotse_Denderroute.gpx
+      length: 37192
+      up: 324
+      down: 324
+      minheight: 7
+      maxheight: 96
+      minslope: -15.9
+      maxslope: 8.9
+      avgposslope: 1.6
+      avgnegslope: -2.1
+      slopehisto:
+        - 10349
+        - 1759
+        - 537
+        - 235
+        - 0
+      effortlevel: 1.955
+      minlat: 50.81208
+      minlon: 4.05786
+      maxlat: 50.9025
+      maxlon: 4.17838
 ---
 
 ## Let's Go ! 

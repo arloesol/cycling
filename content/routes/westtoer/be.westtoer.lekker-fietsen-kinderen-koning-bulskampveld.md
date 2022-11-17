@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Kinderen koning in Bulskampveld"
-subtitle: "Kidsproof op weg met volop speelplezier onderweg"
 date: "2022-11-09"
-description: "Kidsproof op weg met volop speelplezier onderweg"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-kinderen-koning-bulskampveld"
-gpx: "westtoer/lekker-fietsen-kinderen-koning-bulskampveld.gpx"
-length: 22
-tags:
- - "flanders"
- - "vshort"
+title: 'Lekker fietsen: Kinderen koning in Bulskampveld'
+subtitle: Kidsproof op weg met volop speelplezier onderweg
+description: Kidsproof op weg met volop speelplezier onderweg
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "86,40,27,34,25,50,5,57,18,14,54,86"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-kinderen-koning-bulskampveld
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 86,40,27,34,25,50,5,57,18,14,54,86
+      gpx: westtoer/lekker-fietsen-kinderen-koning-bulskampveld.gpx
+      length: 22272
+      up: 45
+      down: 45
+      minheight: 16
+      maxheight: 28
+      minslope: -2
+      maxslope: 1.9
+      avgposslope: 0.7
+      avgnegslope: -0.5
+      slopehisto:
+        - 1777
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.75
+      minlat: 51.048576
+      minlon: 3.266769
+      maxlat: 51.089828
+      maxlon: 3.360865
 ---
 
 ## Let's Go ! 

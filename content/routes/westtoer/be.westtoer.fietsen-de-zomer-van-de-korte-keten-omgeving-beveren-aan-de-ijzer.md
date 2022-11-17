@@ -1,19 +1,39 @@
 ---
-title: "Fietsen langs de Korte Keten - Omgeving Beveren aan de IJzer"
-subtitle: "Verken de wijde omgeving van Alveringem via de knooppunten van dit voor jou uitgestippelde lusje"
 date: "2022-11-09"
-description: "Verken de wijde omgeving van Alveringem via de knooppunten van dit voor jou uitgestippelde lusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-omgeving-beveren-aan-de-ijzer"
-gpx: "westtoer/fietsen-de-zomer-van-de-korte-keten-omgeving-beveren-aan-de-ijzer.gpx"
-length: 31
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Omgeving Beveren aan de IJzer
+subtitle: Verken de wijde omgeving van Alveringem via de knooppunten van dit voor jou uitgestippelde lusje
+description: Verken de wijde omgeving van Alveringem via de knooppunten van dit voor jou uitgestippelde lusje
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-omgeving-beveren-aan-de-ijzer
+routes:
+    - name: Main
+      gpx: westtoer/fietsen-de-zomer-van-de-korte-keten-omgeving-beveren-aan-de-ijzer.gpx
+      length: 35569
+      up: 144
+      down: 144
+      minheight: 1
+      maxheight: 30
+      minslope: -3.9
+      maxslope: 4.5
+      avgposslope: 0.5
+      avgnegslope: -0.6
+      slopehisto:
+        - 5581
+        - 496
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.341
+      minlat: 50.87976
+      minlon: 2.6127
+      maxlat: 50.9472
+      maxlon: 2.73032
 ---
 
 ## Let's Go ! 

@@ -1,26 +1,46 @@
 ---
-title: "Fietsen langs de Korte Keten - Diksmuide"
-subtitle: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de stad Diksmuide met behulp van dit voor jou uitgestippeld fietslusje"
 date: "2022-11-09"
-description: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de stad Diksmuide met behulp van dit voor jou uitgestippeld fietslusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-diksmuide"
-gpx: "westtoer/korteketenfietsroute-diksmuide.gpx"
-length: 25
-tags:
- - "flanders"
- - "vshort"
+title: Fietsen langs de Korte Keten - Diksmuide
+subtitle: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de stad Diksmuide met behulp van dit voor jou uitgestippeld fietslusje
+description: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de stad Diksmuide met behulp van dit voor jou uitgestippeld fietslusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "12,14,57,28,7,27,78,25,53,26,72,62,12"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/korteketenfietsroute-diksmuide
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 12,14,57,28,7,27,78,25,53,26,72,62,12
+      gpx: westtoer/korteketenfietsroute-diksmuide.gpx
+      length: 25440
+      up: 50
+      down: 50
+      minheight: 2
+      maxheight: 21
+      minslope: -2.2
+      maxslope: 2.9
+      avgposslope: 0.3
+      avgnegslope: -0.2
+      slopehisto:
+        - 823
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.865
+      minlat: 51.047972
+      minlon: 2.879334
+      maxlat: 51.111712
+      maxlon: 2.947272
 ---
 
 ## Let's Go ! 

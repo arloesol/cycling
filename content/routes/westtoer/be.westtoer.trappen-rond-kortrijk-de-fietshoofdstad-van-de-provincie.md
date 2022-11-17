@@ -1,19 +1,39 @@
 ---
-title: "Trappen rond Kortrijk, de fietshoofdstad van de provincie"
-subtitle: "Kortrijk werkt de laatste jaren aan een groen gordijn rond zijn grenzen"
 date: "2022-11-09"
-description: "Kortrijk werkt de laatste jaren aan een groen gordijn rond zijn grenzen"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/trappen-rond-kortrijk-de-fietshoofdstad-van-de-provincie"
-gpx: "westtoer/trappen-rond-kortrijk-de-fietshoofdstad-van-de-provincie.gpx"
-length: 35
-tags:
- - "flanders"
- - "short"
+title: Trappen rond Kortrijk, de fietshoofdstad van de provincie
+subtitle: Kortrijk werkt de laatste jaren aan een groen gordijn rond zijn grenzen
+description: Kortrijk werkt de laatste jaren aan een groen gordijn rond zijn grenzen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/trappen-rond-kortrijk-de-fietshoofdstad-van-de-provincie
+routes:
+    - name: Main
+      gpx: westtoer/trappen-rond-kortrijk-de-fietshoofdstad-van-de-provincie.gpx
+      length: 35207
+      up: 106
+      down: 106
+      minheight: 11
+      maxheight: 53
+      minslope: -7
+      maxslope: 4.7
+      avgposslope: 1.5
+      avgnegslope: -1.5
+      slopehisto:
+        - 5051
+        - 331
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.424
+      minlat: 50.790457
+      minlon: 3.188212
+      maxlat: 50.834737
+      maxlon: 3.353976
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Retourtje Antwerpen Gent Fietsroute"
-subtitle: "Van Antwerpen naar Gent (of omgekeerd) fiets je uiteraard niet over drukke steenwegen"
 date: "2022-11-09"
-description: "Van Antwerpen naar Gent (of omgekeerd) fiets je uiteraard niet over drukke steenwegen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/retourtje-antwerpen-gent-fietsroute"
-gpx: "routen/retourtje-antwerpen-gent-fietsroute.gpx"
-length: 77
-tags:
- - "flanders"
- - "medium"
+title: Retourtje Antwerpen Gent Fietsroute
+subtitle: Van Antwerpen naar Gent (of omgekeerd) fiets je uiteraard niet over drukke steenwegen
+description: Van Antwerpen naar Gent (of omgekeerd) fiets je uiteraard niet over drukke steenwegen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/retourtje-antwerpen-gent-fietsroute
+routes:
+    - name: Main
+      gpx: routen/retourtje-antwerpen-gent-fietsroute.gpx
+      length: 77706
+      up: 184
+      down: 184
+      minheight: 1
+      maxheight: 13
+      minslope: -7.7
+      maxslope: 10.8
+      avgposslope: 0.4
+      avgnegslope: -0.5
+      slopehisto:
+        - 5994
+        - 489
+        - 230
+        - 108
+        - 54
+      effortlevel: 2.857
+      minlat: 50.9934
+      minlon: 3.71966
+      maxlat: 51.17519
+      maxlon: 4.31894
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Gitsbergfietsroute"
-subtitle: "Deze route beschrijft een rondrit door een landelijk gebied"
 date: "2022-11-09"
-description: "Deze route beschrijft een rondrit door een landelijk gebied"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/gitsbergfietsroute"
-gpx: "westtoer/gitsbergfietsroute.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Gitsbergfietsroute
+subtitle: Deze route beschrijft een rondrit door een landelijk gebied
+description: Deze route beschrijft een rondrit door een landelijk gebied
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/gitsbergfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/gitsbergfietsroute.gpx
+      length: 42166
+      up: 227
+      down: 227
+      minheight: 10
+      maxheight: 49
+      minslope: -5.9
+      maxslope: 4.6
+      avgposslope: 0.8
+      avgnegslope: -0.6
+      slopehisto:
+        - 7229
+        - 401
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.626
+      minlat: 50.919303
+      minlon: 2.993512
+      maxlat: 51.018179
+      maxlon: 3.113283
 ---
 
 ## Let's Go ! 

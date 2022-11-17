@@ -1,19 +1,39 @@
 ---
-title: "Flandrienlus"
-subtitle: "Een wereldkampioen moet kunnen zwoegen"
 date: "2022-11-09"
-description: "Een wereldkampioen moet kunnen zwoegen. En klimmen, trappen, vechten, tactisch rijden, gaan en blijven gaan. Als een rasechte flandrien! Het ene moment sta je recht op de trappers om de helling te bedwingen en het andere moment maak je snelheid door regen, wind of – kan ook natuurlijk – onder een deugddoend zonnetje."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/flandrienlus/index.html"
-gpx: "vlaamsbrabant/Flandrienlus.gpx"
-length: 65
-tags:
- - "flanders"
- - "medium"
+title: Flandrienlus
+subtitle: Een wereldkampioen moet kunnen zwoegen
+description: Een wereldkampioen moet kunnen zwoegen. En klimmen, trappen, vechten, tactisch rijden, gaan en blijven gaan. Als een rasechte flandrien! Het ene moment sta je recht op de trappers om de helling te bedwingen en het andere moment maak je snelheid door regen, wind of – kan ook natuurlijk – onder een deugddoend zonnetje.
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/flandrienlus/index.html
+routes:
+    - name: Main
+      gpx: vlaamsbrabant/Flandrienlus.gpx
+      length: 65743
+      up: 836
+      down: 836
+      minheight: 16
+      maxheight: 110
+      minslope: -24.8
+      maxslope: 22.5
+      avgposslope: 2.2
+      avgnegslope: -2.2
+      slopehisto:
+        - 13227
+        - 3177
+        - 2089
+        - 1403
+        - 1461
+      effortlevel: 4.161
+      minlat: 50.7651
+      minlon: 4.53518
+      maxlat: 50.90136
+      maxlon: 4.71657
 ---
 
 ## Let's Go ! 

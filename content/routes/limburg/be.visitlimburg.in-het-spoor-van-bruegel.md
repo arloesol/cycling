@@ -1,19 +1,39 @@
 ---
-title: "In Bruegel's footsteps"
-subtitle: "This mainly flat cycle route takes you along canals, past sandy soils, rural villages, and shady forests"
 date: "2022-11-09"
-description: "This mainly flat cycle route takes you along canals, past sandy soils, rural villages, and shady forests"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/in-het-spoor-van-bruegel"
-gpx: "limburg/in-het-spoor-van-bruegel.gpx"
-length: 54
-tags:
- - "flanders"
- - "short"
+title: In Bruegel's footsteps
+subtitle: This mainly flat cycle route takes you along canals, past sandy soils, rural villages, and shady forests
+description: This mainly flat cycle route takes you along canals, past sandy soils, rural villages, and shady forests
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/in-het-spoor-van-bruegel
+routes:
+    - name: Main
+      gpx: limburg/in-het-spoor-van-bruegel.gpx
+      length: 54230
+      up: 252
+      down: 252
+      minheight: 40
+      maxheight: 77
+      minslope: -22.6
+      maxslope: 16.3
+      avgposslope: 1.7
+      avgnegslope: -1.8
+      slopehisto:
+        - 8266
+        - 780
+        - 420
+        - 263
+        - 351
+      effortlevel: 2.475
+      minlat: 51.10539
+      minlon: 5.4298
+      maxlat: 51.21528
+      maxlon: 5.62248
 ---
 
 ## Let's Go ! 

@@ -1,22 +1,40 @@
 ---
-title: "The Brussels port route"
-subtitle: "Tour & Taxis, Park L28, Place Bockstael, Monument to Labour ..."
 date: "2022-10-17"
-description: "A tour around the port of Brussels"
+title: The Brussels port route
+subtitle: Tour & Taxis, Park L28, Place Bockstael, Monument to Labour ...
+description: A tour around the port of Brussels
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-length: 6
-ext_url: "https://www.bike.brussels/en/blog/the-port-route"
-gpx: "brussels/Bike-routes-1-Havenwijk.gpx"
-#mapimg: "brussels/Route-9_Havenwijk.jpg"
-gmaps: "https://www.google.com/maps/d/embed?mid=1AYX_elEE_Oczo1X9et9zPhSgXn4IjpY&ehbc=2E312F"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/the-port-route
+routes:
+    - name: Main
+      gpx: brussels/Bike-routes-1-Havenwijk.gpx
+      length: 6090
+      up: 20
+      down: 28
+      minheight: 16
+      maxheight: 41
+      minslope: -2.1
+      maxslope: 2.1
+      avgposslope: 0.8
+      avgnegslope: -1.3
+      slopehisto:
+        - 803
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.208
+      minlat: 50.859436
+      minlon: 4.334121
+      maxlat: 50.87759
+      maxlon: 4.359568
 ---
 ## Practical
 

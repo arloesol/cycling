@@ -1,19 +1,39 @@
 ---
-title: "Bulskampveldfietsroute"
-subtitle: "Deze fietsroute verkent de ruimere omgeving van het Bulskampveld, een parklandschap ten zuidoosten van Brugge, dat gedomineerd wordt door bossen en landgoederen"
 date: "2022-11-09"
-description: "Deze fietsroute verkent de ruimere omgeving van het Bulskampveld, een parklandschap ten zuidoosten van Brugge, dat gedomineerd wordt door bossen en landgoederen"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/bulskampveldfietsroute"
-gpx: "westtoer/bulskampveldfietsroute.gpx"
-length: 43
-tags:
- - "flanders"
- - "short"
+title: Bulskampveldfietsroute
+subtitle: Deze fietsroute verkent de ruimere omgeving van het Bulskampveld, een parklandschap ten zuidoosten van Brugge, dat gedomineerd wordt door bossen en landgoederen
+description: Deze fietsroute verkent de ruimere omgeving van het Bulskampveld, een parklandschap ten zuidoosten van Brugge, dat gedomineerd wordt door bossen en landgoederen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/bulskampveldfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/bulskampveldfietsroute.gpx
+      length: 43868
+      up: 126
+      down: 126
+      minheight: 6
+      maxheight: 28
+      minslope: -3.4
+      maxslope: 3.5
+      avgposslope: 0.5
+      avgnegslope: -0.6
+      slopehisto:
+        - 3612
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.52
+      minlat: 51.081871
+      minlon: 3.234268
+      maxlat: 51.158882
+      maxlon: 3.389874
 ---
 
 ## Let's Go ! 

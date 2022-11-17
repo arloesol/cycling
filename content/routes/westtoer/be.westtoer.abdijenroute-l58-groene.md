@@ -1,22 +1,42 @@
 ---
-title: "Abdijenroute L58 - Groene as"
-subtitle: "De Abdijenroute is het West-Vlaamse deel van de vroegere spoorweg van Brugge naar Eeklo"
 date: "2022-11-09"
-description: "De Abdijenroute is het West-Vlaamse deel van de vroegere spoorweg van Brugge naar Eeklo"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/abdijenroute-l58-groene"
-gpx: "westtoer/abdijenroute-l58-groene.gpx"
-length: 13
-tags:
- - "flanders"
- - "vshort"
+title: Abdijenroute L58 - Groene as
+subtitle: De Abdijenroute is het West-Vlaamse deel van de vroegere spoorweg van Brugge naar Eeklo
+description: De Abdijenroute is het West-Vlaamse deel van de vroegere spoorweg van Brugge naar Eeklo
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "69,24,54,75,38,78"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/abdijenroute-l58-groene
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 69,24,54,75,38,78
+      gpx: westtoer/abdijenroute-l58-groene.gpx
+      length: 10009
+      up: 9
+      down: 2
+      minheight: 5
+      maxheight: 13
+      minslope: -0.4
+      maxslope: 0.4
+      avgposslope: 2.5
+      avgnegslope: -0.3
+      slopehisto:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.356
+      minlat: 51.180851
+      minlon: 3.234836
+      maxlat: 51.205435
+      maxlon: 3.364786
 ---
 
 ## Let's Go ! 

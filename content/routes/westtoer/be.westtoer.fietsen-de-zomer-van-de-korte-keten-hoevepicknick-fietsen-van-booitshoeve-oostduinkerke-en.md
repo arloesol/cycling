@@ -1,19 +1,39 @@
 ---
-title: "Fietsen langs de Korte Keten - Hoevepicknick - Fietsen van Booitshoeve via Oostduinkerke en Nieuwpoort"
-subtitle: "Een lusje dat je laat genieten van de het mooie achterland van de Kust, maar je ook een blik op zee laat werpen"
 date: "2022-11-09"
-description: "Een lusje dat je laat genieten van de het mooie achterland van de Kust, maar je ook een blik op zee laat werpen"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-hoevepicknick-fietsen-van-booitshoeve-oostduinkerke-en"
-gpx: "westtoer/fietsen-de-zomer-van-de-korte-keten-hoevepicknick-fietsen-van-booitshoeve-oostduinkerke-en.gpx"
-length: 34
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Hoevepicknick - Fietsen van Booitshoeve via Oostduinkerke en Nieuwpoort
+subtitle: Een lusje dat je laat genieten van de het mooie achterland van de Kust, maar je ook een blik op zee laat werpen
+description: Een lusje dat je laat genieten van de het mooie achterland van de Kust, maar je ook een blik op zee laat werpen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-hoevepicknick-fietsen-van-booitshoeve-oostduinkerke-en
+routes:
+    - name: Main
+      gpx: westtoer/fietsen-de-zomer-van-de-korte-keten-hoevepicknick-fietsen-van-booitshoeve-oostduinkerke-en.gpx
+      length: 34659
+      up: 116
+      down: 116
+      minheight: -1
+      maxheight: 12
+      minslope: -7.3
+      maxslope: 6.6
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 3748
+        - 361
+        - 106
+        - 0
+        - 0
+      effortlevel: 1.3
+      minlat: 51.08625
+      minlon: 2.65746
+      maxlat: 51.15252
+      maxlon: 2.82521
 ---
 
 ## Let's Go ! 

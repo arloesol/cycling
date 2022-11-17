@@ -1,19 +1,39 @@
 ---
-title: "Rodeland Fietsroute 1"
-subtitle: "Flaneer via autovrije paden naar de mooiste plekjes van de Gentse buitenrand en een licht heuvelend gebied dat de Vlaamse Ardennen aankondigt"
 date: "2022-11-09"
-description: "Flaneer via autovrije paden naar de mooiste plekjes van de Gentse buitenrand en een licht heuvelend gebied dat de Vlaamse Ardennen aankondigt"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/rodeland-fietsroute-1"
-gpx: "routen/rodeland-fietsroute-1.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: Rodeland Fietsroute 1
+subtitle: Flaneer via autovrije paden naar de mooiste plekjes van de Gentse buitenrand en een licht heuvelend gebied dat de Vlaamse Ardennen aankondigt
+description: Flaneer via autovrije paden naar de mooiste plekjes van de Gentse buitenrand en een licht heuvelend gebied dat de Vlaamse Ardennen aankondigt
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/rodeland-fietsroute-1
+routes:
+    - name: Main
+      gpx: routen/rodeland-fietsroute-1.gpx
+      length: 46771
+      up: 307
+      down: 307
+      minheight: 3
+      maxheight: 49
+      minslope: -11.3
+      maxslope: 12.9
+      avgposslope: 1
+      avgnegslope: -1.1
+      slopehisto:
+        - 9751
+        - 1843
+        - 504
+        - 102
+        - 192
+      effortlevel: 2.245
+      minlat: 50.91927
+      minlon: 3.65727
+      maxlat: 51.00049
+      maxlon: 3.81194
 ---
 
 ## Let's Go ! 

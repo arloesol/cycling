@@ -1,19 +1,39 @@
 ---
-title: "Geraardsbergen Fietsroute"
-subtitle: "Tussen Ninove en Geraardsbergen is de Dender op haar mooist"
 date: "2022-11-09"
-description: "Tussen Ninove en Geraardsbergen is de Dender op haar mooist"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/geraardsbergen-fietsroute"
-gpx: "routen/geraardsbergen-fietsroute.gpx"
-length: 43
-tags:
- - "flanders"
- - "short"
+title: Geraardsbergen Fietsroute
+subtitle: Tussen Ninove en Geraardsbergen is de Dender op haar mooist
+description: Tussen Ninove en Geraardsbergen is de Dender op haar mooist
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/geraardsbergen-fietsroute
+routes:
+    - name: Main
+      gpx: routen/geraardsbergen-fietsroute.gpx
+      length: 42816
+      up: 339
+      down: 339
+      minheight: 10
+      maxheight: 75
+      minslope: -11.6
+      maxslope: 10
+      avgposslope: 1.4
+      avgnegslope: -1.2
+      slopehisto:
+        - 8607
+        - 2115
+        - 1008
+        - 285
+        - 81
+      effortlevel: 2.18
+      minlat: 50.7716
+      minlon: 3.84057
+      maxlat: 50.84914
+      maxlon: 4.02612
 ---
 
 ## Let's Go ! 

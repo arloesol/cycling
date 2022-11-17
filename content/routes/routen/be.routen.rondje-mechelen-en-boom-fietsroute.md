@@ -1,19 +1,39 @@
 ---
-title: "Rondje Mechelen En Boom Fietsroute"
-subtitle: "Deze route leidt je door het rustgevende rivierenlandschap rond de bourgondische stad Mechelen"
 date: "2022-11-09"
-description: "Deze route leidt je door het rustgevende rivierenlandschap rond de bourgondische stad Mechelen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/rondje-mechelen-en-boom-fietsroute"
-gpx: "routen/rondje-mechelen-en-boom-fietsroute.gpx"
-length: 36
-tags:
- - "flanders"
- - "short"
+title: Rondje Mechelen En Boom Fietsroute
+subtitle: Deze route leidt je door het rustgevende rivierenlandschap rond de bourgondische stad Mechelen
+description: Deze route leidt je door het rustgevende rivierenlandschap rond de bourgondische stad Mechelen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/rondje-mechelen-en-boom-fietsroute
+routes:
+    - name: Main
+      gpx: routen/rondje-mechelen-en-boom-fietsroute.gpx
+      length: 35458
+      up: 83
+      down: 83
+      minheight: -1
+      maxheight: 11
+      minslope: -6.3
+      maxslope: 7.8
+      avgposslope: 0.6
+      avgnegslope: -0.7
+      slopehisto:
+        - 2546
+        - 294
+        - 0
+        - 51
+        - 0
+      effortlevel: 1.3
+      minlat: 51.01281
+      minlon: 4.36566
+      maxlat: 51.08417
+      maxlon: 4.44897
 ---
 
 ## Let's Go ! 

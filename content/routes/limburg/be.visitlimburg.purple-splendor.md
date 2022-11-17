@@ -1,19 +1,39 @@
 ---
-title: "Purple splendor"
-subtitle: "A cycling route with flat lanes and some tough climbs through shady pine forests, purple heather landscapes, and straight through the Hoge Kempen National Park"
 date: "2022-11-09"
-description: "A cycling route with flat lanes and some tough climbs through shady pine forests, purple heather landscapes, and straight through the Hoge Kempen National Park"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/purple-splendor"
-gpx: "limburg/purple-splendor.gpx"
-length: 52
-tags:
- - "flanders"
- - "short"
+title: Purple splendor
+subtitle: A cycling route with flat lanes and some tough climbs through shady pine forests, purple heather landscapes, and straight through the Hoge Kempen National Park
+description: A cycling route with flat lanes and some tough climbs through shady pine forests, purple heather landscapes, and straight through the Hoge Kempen National Park
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/purple-splendor
+routes:
+    - name: Main
+      gpx: limburg/purple-splendor.gpx
+      length: 51725
+      up: 416
+      down: 416
+      minheight: 37
+      maxheight: 106
+      minslope: -15.3
+      maxslope: 16.1
+      avgposslope: 2.3
+      avgnegslope: -2.2
+      slopehisto:
+        - 8055
+        - 1684
+        - 1720
+        - 330
+        - 888
+      effortlevel: 2.827
+      minlat: 50.95101
+      minlon: 5.60281
+      maxlat: 51.07989
+      maxlon: 5.71922
 ---
 
 ## Let's Go ! 

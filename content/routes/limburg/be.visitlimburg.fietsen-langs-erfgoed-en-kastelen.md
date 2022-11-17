@@ -1,19 +1,39 @@
 ---
-title: "Cycling past heritage and castles"
-subtitle: "Cycle through Haspengouw's rolling countryside and discover impressive panoramas, square farms, quiet church villages, and beautiful castles"
 date: "2022-11-09"
-description: "Cycle through Haspengouw's rolling countryside and discover impressive panoramas, square farms, quiet church villages, and beautiful castles"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/fietsen-langs-erfgoed-en-kastelen"
-gpx: "limburg/fietsen-langs-erfgoed-en-kastelen.gpx"
-length: 59
-tags:
- - "flanders"
- - "short"
+title: Cycling past heritage and castles
+subtitle: Cycle through Haspengouw's rolling countryside and discover impressive panoramas, square farms, quiet church villages, and beautiful castles
+description: Cycle through Haspengouw's rolling countryside and discover impressive panoramas, square farms, quiet church villages, and beautiful castles
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/fietsen-langs-erfgoed-en-kastelen
+routes:
+    - name: Main
+      gpx: limburg/fietsen-langs-erfgoed-en-kastelen.gpx
+      length: 59132
+      up: 521
+      down: 521
+      minheight: 47
+      maxheight: 141
+      minslope: -10.7
+      maxslope: 24.6
+      avgposslope: 1.6
+      avgnegslope: -1.7
+      slopehisto:
+        - 11982
+        - 2852
+        - 1379
+        - 237
+        - 145
+      effortlevel: 3.029
+      minlat: 50.76295
+      minlon: 5.36752
+      maxlat: 50.86865
+      maxlon: 5.56172
 ---
 
 ## Let's Go ! 

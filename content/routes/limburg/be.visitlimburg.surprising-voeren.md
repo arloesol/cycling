@@ -1,19 +1,39 @@
 ---
-title: "Surprising Voeren"
-subtitle: "This cycling route takes you through the hilly, monument-rich landscape of the Voer region"
 date: "2022-11-09"
-description: "This cycling route takes you through the hilly, monument-rich landscape of the Voer region"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/surprising-voeren"
-gpx: "limburg/surprising-voeren.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Surprising Voeren
+subtitle: This cycling route takes you through the hilly, monument-rich landscape of the Voer region
+description: This cycling route takes you through the hilly, monument-rich landscape of the Voer region
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/surprising-voeren
+routes:
+    - name: Main
+      gpx: limburg/surprising-voeren.gpx
+      length: 38693
+      up: 433
+      down: 433
+      minheight: 52
+      maxheight: 293
+      minslope: -13.2
+      maxslope: 17.3
+      avgposslope: 2.9
+      avgnegslope: -2.8
+      slopehisto:
+        - 8044
+        - 2789
+        - 787
+        - 1027
+        - 219
+      effortlevel: 2.369
+      minlat: 50.72295
+      minlon: 5.69245
+      maxlat: 50.77328
+      maxlon: 5.88834
 ---
 
 ## Let's Go ! 

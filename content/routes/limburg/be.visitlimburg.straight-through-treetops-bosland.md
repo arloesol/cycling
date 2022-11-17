@@ -1,19 +1,39 @@
 ---
-title: "Straight through the treetops in Bosland"
-subtitle: "This flat cycling loop takes you along canals and sand, over the flat countryside with a variety of views, and through the many forests that provide a refreshing bit of green in the summer and beautiful colours in the autumn"
 date: "2022-11-09"
-description: "This flat cycling loop takes you along canals and sand, over the flat countryside with a variety of views, and through the many forests that provide a refreshing bit of green in the summer and beautiful colours in the autumn"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/straight-through-treetops-bosland"
-gpx: "limburg/straight-through-treetops-bosland.gpx"
-length: 61
-tags:
- - "flanders"
- - "medium"
+title: Straight through the treetops in Bosland
+subtitle: This flat cycling loop takes you along canals and sand, over the flat countryside with a variety of views, and through the many forests that provide a refreshing bit of green in the summer and beautiful colours in the autumn
+description: This flat cycling loop takes you along canals and sand, over the flat countryside with a variety of views, and through the many forests that provide a refreshing bit of green in the summer and beautiful colours in the autumn
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/straight-through-treetops-bosland
+routes:
+    - name: Main
+      gpx: limburg/straight-through-treetops-bosland.gpx
+      length: 60942
+      up: 287
+      down: 287
+      minheight: 36
+      maxheight: 77
+      minslope: -20.4
+      maxslope: 9.2
+      avgposslope: 2
+      avgnegslope: -1.8
+      slopehisto:
+        - 8438
+        - 1390
+        - 1195
+        - 360
+        - 0
+      effortlevel: 2.722
+      minlat: 51.14618
+      minlon: 5.30256
+      maxlat: 51.26194
+      maxlon: 5.46913
 ---
 
 ## Let's Go ! 

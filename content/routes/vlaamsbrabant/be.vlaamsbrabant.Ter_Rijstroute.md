@@ -1,22 +1,42 @@
 ---
-title: "Ter Rijstroute"
-subtitle: "Je vertrekt aan het prachtige Kasteel Ter Rijst in Pepingen voor een fietstocht langs het authentieke boerenleven van het Pajottenland"
 date: "2022-11-09"
-description: "Je vertrekt aan het prachtige Kasteel Ter Rijst in Pepingen voor een fietstocht langs het authentieke boerenleven van het Pajottenland. De vele hoeves lijken geplukt uit boeken van Felix Timmermans of Ernest Claes. Gejaagdheid is hier veraf."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/ter-rijstroute/index.html"
-gpx: "vlaamsbrabant/Ter_Rijstroute.gpx"
-length: 37
-tags:
- - "flanders"
- - "short"
+title: Ter Rijstroute
+subtitle: Je vertrekt aan het prachtige Kasteel Ter Rijst in Pepingen voor een fietstocht langs het authentieke boerenleven van het Pajottenland
+description: Je vertrekt aan het prachtige Kasteel Ter Rijst in Pepingen voor een fietstocht langs het authentieke boerenleven van het Pajottenland. De vele hoeves lijken geplukt uit boeken van Felix Timmermans of Ernest Claes. Gejaagdheid is hier veraf.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - ",34,35,17,47,19,18,37,36,31,33,32,30,88,57,58,26,89,25,48,87,"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/ter-rijstroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - ',34,35,17,47,19,18,37,36,31,33,32,30,88,57,58,26,89,25,48,87,'
+      gpx: vlaamsbrabant/Ter_Rijstroute.gpx
+      length: 37382
+      up: 361
+      down: 361
+      minheight: 29
+      maxheight: 82
+      minslope: -12.4
+      maxslope: 9.2
+      avgposslope: 1.4
+      avgnegslope: -1.9
+      slopehisto:
+        - 9314
+        - 2193
+        - 796
+        - 208
+        - 0
+      effortlevel: 1.985
+      minlat: 50.70756
+      minlon: 4.01459
+      maxlat: 50.75404
+      maxlon: 4.17772
 ---
 
 ## Let's Go ! 

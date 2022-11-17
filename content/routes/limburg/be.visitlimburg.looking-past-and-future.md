@@ -1,19 +1,39 @@
 ---
-title: "Looking at the past and the future"
-subtitle: "This flat route serves you with a mix of heritage, craftsmanship, and design"
 date: "2022-11-09"
-description: "This flat route serves you with a mix of heritage, craftsmanship, and design"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/looking-past-and-future"
-gpx: "limburg/looking-past-and-future.gpx"
-length: 44
-tags:
- - "flanders"
- - "short"
+title: Looking at the past and the future
+subtitle: This flat route serves you with a mix of heritage, craftsmanship, and design
+description: This flat route serves you with a mix of heritage, craftsmanship, and design
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/looking-past-and-future
+routes:
+    - name: Main
+      gpx: limburg/looking-past-and-future.gpx
+      length: 43744
+      up: 262
+      down: 262
+      minheight: 39
+      maxheight: 89
+      minslope: -22.1
+      maxslope: 15.9
+      avgposslope: 1.6
+      avgnegslope: -1.5
+      slopehisto:
+        - 6977
+        - 792
+        - 427
+        - 438
+        - 325
+      effortlevel: 2.057
+      minlat: 50.938
+      minlon: 5.39205
+      maxlat: 51.0098
+      maxlon: 5.5397
 ---
 
 ## Let's Go ! 

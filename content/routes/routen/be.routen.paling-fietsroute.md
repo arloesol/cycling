@@ -1,19 +1,39 @@
 ---
-title: "Paling Fietsroute"
-subtitle: "Voor deze route trek je best een beetje tijd uit"
 date: "2022-11-09"
-description: "Voor deze route trek je best een beetje tijd uit"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/paling-fietsroute"
-gpx: "routen/paling-fietsroute.gpx"
-length: 40
-tags:
- - "flanders"
- - "short"
+title: Paling Fietsroute
+subtitle: Voor deze route trek je best een beetje tijd uit
+description: Voor deze route trek je best een beetje tijd uit
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/paling-fietsroute
+routes:
+    - name: Main
+      gpx: routen/paling-fietsroute.gpx
+      length: 40397
+      up: 91
+      down: 91
+      minheight: -0
+      maxheight: 12
+      minslope: -10.8
+      maxslope: 9.7
+      avgposslope: 0.4
+      avgnegslope: -0.5
+      slopehisto:
+        - 2010
+        - 257
+        - 309
+        - 114
+        - 65
+      effortlevel: 1.503
+      minlat: 51.02938
+      minlon: 4.15055
+      maxlat: 51.1241
+      maxlon: 4.22152
 ---
 
 ## Let's Go ! 

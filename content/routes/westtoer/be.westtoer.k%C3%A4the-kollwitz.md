@@ -1,23 +1,43 @@
 ---
-title: "Käthe Kollwitz"
-subtitle: "Fietsroute 14-18
-
-Käthe Kollwitz (1867-1945) was een Duitse expressionistische kunstenares"
 date: "2022-11-09"
-description: "Fietsroute 14-18
-
-Käthe Kollwitz (1867-1945) was een Duitse expressionistische kunstenares"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/k%C3%A4the-kollwitz"
-gpx: "westtoer/k%C3%A4the-kollwitz.gpx"
-length: 42
-tags:
- - "flanders"
- - "short"
+title: Käthe Kollwitz
+subtitle: |-
+    Fietsroute 14-18
+    Käthe Kollwitz (1867-1945) was een Duitse expressionistische kunstenares
+description: |-
+    Fietsroute 14-18
+    Käthe Kollwitz (1867-1945) was een Duitse expressionistische kunstenares
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/k%C3%A4the-kollwitz
+routes:
+    - name: Main
+      gpx: westtoer/k%C3%A4the-kollwitz.gpx
+      length: 42366
+      up: 147
+      down: 147
+      minheight: 3
+      maxheight: 38
+      minslope: -3.3
+      maxslope: 3.3
+      avgposslope: 0.5
+      avgnegslope: -0.4
+      slopehisto:
+        - 3145
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.478
+      minlat: 51.011109
+      minlon: 2.901093
+      maxlat: 51.127238
+      maxlon: 2.995533
 ---
 
 ## Let's Go ! 

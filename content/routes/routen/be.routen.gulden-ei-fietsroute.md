@@ -1,19 +1,39 @@
 ---
-title: "Gulden Ei Fietsroute"
-subtitle: "Bol door het licht glooiende landschap rond Kruisem, met hier en daar een pittig klimmetje"
 date: "2022-11-09"
-description: "Bol door het licht glooiende landschap rond Kruisem, met hier en daar een pittig klimmetje"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/gulden-ei-fietsroute"
-gpx: "routen/gulden-ei-fietsroute.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Gulden Ei Fietsroute
+subtitle: Bol door het licht glooiende landschap rond Kruisem, met hier en daar een pittig klimmetje
+description: Bol door het licht glooiende landschap rond Kruisem, met hier en daar een pittig klimmetje
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/gulden-ei-fietsroute
+routes:
+    - name: Main
+      gpx: routen/gulden-ei-fietsroute.gpx
+      length: 46800
+      up: 320
+      down: 320
+      minheight: 10
+      maxheight: 67
+      minslope: -9.7
+      maxslope: 9.7
+      avgposslope: 1.4
+      avgnegslope: -1.3
+      slopehisto:
+        - 10441
+        - 2223
+        - 381
+        - 84
+        - 101
+      effortlevel: 2.233
+      minlat: 50.87746
+      minlon: 3.47437
+      maxlat: 50.93995
+      maxlon: 3.60685
 ---
 
 ## Let's Go ! 

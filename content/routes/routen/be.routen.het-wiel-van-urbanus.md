@@ -1,19 +1,39 @@
 ---
-title: "Het Wiel Van Urbanus"
-subtitle: "Volg op deze fietsroute Urbanus in zijn zoektocht naar de stad Lokeren"
 date: "2022-11-09"
-description: "Volg op deze fietsroute Urbanus in zijn zoektocht naar de stad Lokeren"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/het-wiel-van-urbanus"
-gpx: "routen/het-wiel-van-urbanus.gpx"
-length: 28
-tags:
- - "flanders"
- - "vshort"
+title: Het Wiel Van Urbanus
+subtitle: Volg op deze fietsroute Urbanus in zijn zoektocht naar de stad Lokeren
+description: Volg op deze fietsroute Urbanus in zijn zoektocht naar de stad Lokeren
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/het-wiel-van-urbanus
+routes:
+    - name: Main
+      gpx: routen/het-wiel-van-urbanus.gpx
+      length: 28018
+      up: 59
+      down: 59
+      minheight: 1
+      maxheight: 10
+      minslope: -4.7
+      maxslope: 5.1
+      avgposslope: 0.7
+      avgnegslope: -0.7
+      slopehisto:
+        - 1991
+        - 257
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.024
+      minlat: 51.09337
+      minlon: 3.9006
+      maxlat: 51.15185
+      maxlon: 3.99553
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Creative Minds Fietsroute"
-subtitle: "Deze fietsroute leidt je door prachtige natuur zoals het Stropersbos maar ook langs interessante hedendaagse kunst"
 date: "2022-11-09"
-description: "Deze fietsroute leidt je door prachtige natuur zoals het Stropersbos maar ook langs interessante hedendaagse kunst"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/creative-minds-fietsroute"
-gpx: "routen/creative-minds-fietsroute.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Creative Minds Fietsroute
+subtitle: Deze fietsroute leidt je door prachtige natuur zoals het Stropersbos maar ook langs interessante hedendaagse kunst
+description: Deze fietsroute leidt je door prachtige natuur zoals het Stropersbos maar ook langs interessante hedendaagse kunst
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/creative-minds-fietsroute
+routes:
+    - name: Main
+      gpx: routen/creative-minds-fietsroute.gpx
+      length: 39296
+      up: 116
+      down: 116
+      minheight: 1
+      maxheight: 20
+      minslope: -11.3
+      maxslope: 7.5
+      avgposslope: 1.1
+      avgnegslope: -1.1
+      slopehisto:
+        - 5008
+        - 366
+        - 220
+        - 63
+        - 0
+      effortlevel: 1.557
+      minlat: 51.1573
+      minlon: 4.00581
+      maxlat: 51.24269
+      maxlon: 4.13934
 ---
 
 ## Let's Go ! 

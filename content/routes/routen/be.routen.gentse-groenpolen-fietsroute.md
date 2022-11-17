@@ -1,19 +1,39 @@
 ---
-title: "Gentse Groenpolen Fietsroute"
-subtitle: "Gent, dat is citytrippen in een stad boordevol cultuur, erfgoed, trendy horeca en ‘vree wijze’ terrasjes"
 date: "2022-11-09"
-description: "Gent, dat is citytrippen in een stad boordevol cultuur, erfgoed, trendy horeca en ‘vree wijze’ terrasjes"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/gentse-groenpolen-fietsroute"
-gpx: "routen/gentse-groenpolen-fietsroute.gpx"
-length: 36
-tags:
- - "flanders"
- - "short"
+title: Gentse Groenpolen Fietsroute
+subtitle: Gent, dat is citytrippen in een stad boordevol cultuur, erfgoed, trendy horeca en ‘vree wijze’ terrasjes
+description: Gent, dat is citytrippen in een stad boordevol cultuur, erfgoed, trendy horeca en ‘vree wijze’ terrasjes
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/gentse-groenpolen-fietsroute
+routes:
+    - name: Main
+      gpx: routen/gentse-groenpolen-fietsroute.gpx
+      length: 36318
+      up: 112
+      down: 112
+      minheight: 3
+      maxheight: 19
+      minslope: -6.2
+      maxslope: 9.2
+      avgposslope: 0.8
+      avgnegslope: -1
+      slopehisto:
+        - 5186
+        - 381
+        - 106
+        - 112
+        - 0
+      effortlevel: 1.425
+      minlat: 50.99583
+      minlon: 3.68992
+      maxlat: 51.05362
+      maxlon: 3.81088
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Rolling heathlands and sandy plains"
-subtitle: "There is great variety in the heart of the De Wijers nature reserve with its 1001 ponds"
 date: "2022-11-09"
-description: "There is great variety in the heart of the De Wijers nature reserve with its 1001 ponds"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/rolling-heathlands-and-sandy-plains"
-gpx: "limburg/rolling-heathlands-and-sandy-plains.gpx"
-length: 28
-tags:
- - "flanders"
- - "vshort"
+title: Rolling heathlands and sandy plains
+subtitle: There is great variety in the heart of the De Wijers nature reserve with its 1001 ponds
+description: There is great variety in the heart of the De Wijers nature reserve with its 1001 ponds
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/rolling-heathlands-and-sandy-plains
+routes:
+    - name: Main
+      gpx: limburg/rolling-heathlands-and-sandy-plains.gpx
+      length: 28014
+      up: 217
+      down: 217
+      minheight: 43
+      maxheight: 101
+      minslope: -14.7
+      maxslope: 20.8
+      avgposslope: 2.2
+      avgnegslope: -2.9
+      slopehisto:
+        - 4466
+        - 1113
+        - 309
+        - 302
+        - 669
+      effortlevel: 1.569
+      minlat: 50.99524
+      minlon: 5.34802
+      maxlat: 51.04683
+      maxlon: 5.47261
 ---
 
 ## Let's Go ! 

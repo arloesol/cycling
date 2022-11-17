@@ -1,19 +1,39 @@
 ---
-title: "Hidden Treasures Fietsroute"
-subtitle: "Fiets langs de verborgen parels van het Waasland ontdek de pittoreske dorpjes van Daknam en Eksaarde"
 date: "2022-11-09"
-description: "Fiets langs de verborgen parels van het Waasland ontdek de pittoreske dorpjes van Daknam en Eksaarde"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/hidden-treasures-fietsroute"
-gpx: "routen/hidden-treasures-fietsroute.gpx"
-length: 54
-tags:
- - "flanders"
- - "short"
+title: Hidden Treasures Fietsroute
+subtitle: Fiets langs de verborgen parels van het Waasland ontdek de pittoreske dorpjes van Daknam en Eksaarde
+description: Fiets langs de verborgen parels van het Waasland ontdek de pittoreske dorpjes van Daknam en Eksaarde
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/hidden-treasures-fietsroute
+routes:
+    - name: Main
+      gpx: routen/hidden-treasures-fietsroute.gpx
+      length: 54064
+      up: 134
+      down: 134
+      minheight: 1
+      maxheight: 14
+      minslope: -5.1
+      maxslope: 7.5
+      avgposslope: 0.8
+      avgnegslope: -0.9
+      slopehisto:
+        - 6970
+        - 126
+        - 134
+        - 79
+        - 0
+      effortlevel: 2.003
+      minlat: 51.09708
+      minlon: 3.89208
+      maxlat: 51.19925
+      maxlon: 4.0534
 ---
 
 ## Let's Go ! 

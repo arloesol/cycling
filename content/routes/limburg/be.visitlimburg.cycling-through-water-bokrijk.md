@@ -1,19 +1,39 @@
 ---
-title: "'Cycling through Water' in Bokrijk"
-subtitle: "You start and end in Hasselt, know for its shopping fun, surprising museums, and cozy terraces"
 date: "2022-11-09"
-description: "You start and end in Hasselt, know for its shopping fun, surprising museums, and cozy terraces"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/cycling-through-water-bokrijk"
-gpx: "limburg/cycling-through-water-bokrijk.gpx"
-length: 23
-tags:
- - "flanders"
- - "vshort"
+title: '''Cycling through Water'' in Bokrijk'
+subtitle: You start and end in Hasselt, know for its shopping fun, surprising museums, and cozy terraces
+description: You start and end in Hasselt, know for its shopping fun, surprising museums, and cozy terraces
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/cycling-through-water-bokrijk
+routes:
+    - name: Main
+      gpx: limburg/cycling-through-water-bokrijk.gpx
+      length: 22723
+      up: 138
+      down: 138
+      minheight: 28
+      maxheight: 62
+      minslope: -16.7
+      maxslope: 17.5
+      avgposslope: 1.7
+      avgnegslope: -1.4
+      slopehisto:
+        - 2602
+        - 779
+        - 104
+        - 309
+        - 158
+      effortlevel: 1.101
+      minlat: 50.93232
+      minlon: 5.31137
+      maxlat: 50.96572
+      maxlon: 5.41405
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "De Zwalmstreek Fietsroute"
-subtitle: "Vertrek in het bronnendorpje Dikkelvenne voor een rit door de Zwalmvallei, een populair fiets- en wandelgebied in de Vlaamse Ardennen"
 date: "2022-11-09"
-description: "Vertrek in het bronnendorpje Dikkelvenne voor een rit door de Zwalmvallei, een populair fiets- en wandelgebied in de Vlaamse Ardennen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/de-zwalmstreek-fietsroute"
-gpx: "routen/de-zwalmstreek-fietsroute.gpx"
-length: 24
-tags:
- - "flanders"
- - "vshort"
+title: De Zwalmstreek Fietsroute
+subtitle: Vertrek in het bronnendorpje Dikkelvenne voor een rit door de Zwalmvallei, een populair fiets- en wandelgebied in de Vlaamse Ardennen
+description: Vertrek in het bronnendorpje Dikkelvenne voor een rit door de Zwalmvallei, een populair fiets- en wandelgebied in de Vlaamse Ardennen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/de-zwalmstreek-fietsroute
+routes:
+    - name: Main
+      gpx: routen/de-zwalmstreek-fietsroute.gpx
+      length: 23524
+      up: 155
+      down: 155
+      minheight: 7
+      maxheight: 61
+      minslope: -17.2
+      maxslope: 14.2
+      avgposslope: 1.1
+      avgnegslope: -1
+      slopehisto:
+        - 5606
+        - 633
+        - 194
+        - 0
+        - 68
+      effortlevel: 1.104
+      minlat: 50.87988
+      minlon: 3.68376
+      maxlat: 50.92443
+      maxlon: 3.75514
 ---
 
 ## Let's Go ! 

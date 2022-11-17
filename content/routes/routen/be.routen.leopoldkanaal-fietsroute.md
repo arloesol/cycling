@@ -1,19 +1,39 @@
 ---
-title: "Leopoldkanaal Fietsroute"
-subtitle: "Vlak bij de grens met Nederland bol je door een prachtig stukje Meetjesland, langs het Leopoldkanaal, langs kreken en door vergeten vissersdorpjes"
 date: "2022-11-09"
-description: "Vlak bij de grens met Nederland bol je door een prachtig stukje Meetjesland, langs het Leopoldkanaal, langs kreken en door vergeten vissersdorpjes"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/leopoldkanaal-fietsroute"
-gpx: "routen/leopoldkanaal-fietsroute.gpx"
-length: 60
-tags:
- - "flanders"
- - "medium"
+title: Leopoldkanaal Fietsroute
+subtitle: Vlak bij de grens met Nederland bol je door een prachtig stukje Meetjesland, langs het Leopoldkanaal, langs kreken en door vergeten vissersdorpjes
+description: Vlak bij de grens met Nederland bol je door een prachtig stukje Meetjesland, langs het Leopoldkanaal, langs kreken en door vergeten vissersdorpjes
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/leopoldkanaal-fietsroute
+routes:
+    - name: Main
+      gpx: routen/leopoldkanaal-fietsroute.gpx
+      length: 60540
+      up: 94
+      down: 94
+      minheight: -1
+      maxheight: 7
+      minslope: -4.1
+      maxslope: 6
+      avgposslope: 0.6
+      avgnegslope: -0.6
+      slopehisto:
+        - 4243
+        - 115
+        - 70
+        - 0
+        - 0
+      effortlevel: 2.118
+      minlat: 51.22306
+      minlon: 3.44674
+      maxlat: 51.27643
+      maxlon: 3.75154
 ---
 
 ## Let's Go ! 

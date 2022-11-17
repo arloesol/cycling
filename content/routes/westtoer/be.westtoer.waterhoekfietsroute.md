@@ -1,19 +1,39 @@
 ---
-title: "Waterhoekfietsroute"
-subtitle: "De Waterhoekfietsroute brengt je naar de Bovenschelde tussen Avelgem en Anzegem"
 date: "2022-11-09"
-description: "De Waterhoekfietsroute brengt je naar de Bovenschelde tussen Avelgem en Anzegem"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/waterhoekfietsroute"
-gpx: "westtoer/waterhoekfietsroute.gpx"
-length: 51
-tags:
- - "flanders"
- - "short"
+title: Waterhoekfietsroute
+subtitle: De Waterhoekfietsroute brengt je naar de Bovenschelde tussen Avelgem en Anzegem
+description: De Waterhoekfietsroute brengt je naar de Bovenschelde tussen Avelgem en Anzegem
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/waterhoekfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/waterhoekfietsroute.gpx
+      length: 51919
+      up: 343
+      down: 343
+      minheight: 11
+      maxheight: 82
+      minslope: -8.4
+      maxslope: 8.2
+      avgposslope: 0.7
+      avgnegslope: -0.6
+      slopehisto:
+        - 7843
+        - 1532
+        - 441
+        - 58
+        - 0
+      effortlevel: 2.206
+      minlat: 50.746212
+      minlon: 3.379973
+      maxlat: 50.859007
+      maxlon: 3.516558
 ---
 
 ## Let's Go ! 

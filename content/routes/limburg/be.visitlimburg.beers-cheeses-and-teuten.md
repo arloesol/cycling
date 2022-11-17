@@ -1,19 +1,39 @@
 ---
-title: "Beers, cheeses and Teuten"
-subtitle: "A flat route through forests and agricultural areas, past farms, and along the canal"
 date: "2022-11-09"
-description: "A flat route through forests and agricultural areas, past farms, and along the canal"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/beers-cheeses-and-teuten"
-gpx: "limburg/beers-cheeses-and-teuten.gpx"
-length: 54
-tags:
- - "flanders"
- - "short"
+title: Beers, cheeses and Teuten
+subtitle: A flat route through forests and agricultural areas, past farms, and along the canal
+description: A flat route through forests and agricultural areas, past farms, and along the canal
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/beers-cheeses-and-teuten
+routes:
+    - name: Main
+      gpx: limburg/beers-cheeses-and-teuten.gpx
+      length: 54327
+      up: 199
+      down: 199
+      minheight: 29
+      maxheight: 55
+      minslope: -10
+      maxslope: 10.7
+      avgposslope: 1.4
+      avgnegslope: -1.9
+      slopehisto:
+        - 8149
+        - 993
+        - 550
+        - 146
+        - 54
+      effortlevel: 2.255
+      minlat: 51.18075
+      minlon: 5.41559
+      maxlat: 51.30198
+      maxlon: 5.54803
 ---
 
 ## Let's Go ! 

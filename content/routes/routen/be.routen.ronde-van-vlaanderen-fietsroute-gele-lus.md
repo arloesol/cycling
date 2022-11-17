@@ -1,19 +1,39 @@
 ---
-title: "Ronde Van Vlaanderen Fietsroute Gele Lus"
-subtitle: "Met de Ronde van Vlaanderen route fiets je zélf over het traject van deze wielerklassieker"
 date: "2022-11-09"
-description: "Met de Ronde van Vlaanderen route fiets je zélf over het traject van deze wielerklassieker"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/ronde-van-vlaanderen-fietsroute-gele-lus"
-gpx: "routen/ronde-van-vlaanderen-fietsroute-gele-lus.gpx"
-length: 102
-tags:
- - "flanders"
- - "long"
+title: Ronde Van Vlaanderen Fietsroute Gele Lus
+subtitle: Met de Ronde van Vlaanderen route fiets je zélf over het traject van deze wielerklassieker
+description: Met de Ronde van Vlaanderen route fiets je zélf over het traject van deze wielerklassieker
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/ronde-van-vlaanderen-fietsroute-gele-lus
+routes:
+    - name: Main
+      gpx: routen/ronde-van-vlaanderen-fietsroute-gele-lus.gpx
+      length: 101877
+      up: 951
+      down: 951
+      minheight: 5
+      maxheight: 90
+      minslope: -14.1
+      maxslope: 22.8
+      avgposslope: 1.3
+      avgnegslope: -1.5
+      slopehisto:
+        - 23340
+        - 6066
+        - 1322
+        - 909
+        - 473
+      effortlevel: 5.493
+      minlat: 50.83308
+      minlon: 3.4998
+      maxlat: 50.9071
+      maxlon: 3.83219
 ---
 
 ## Let's Go ! 

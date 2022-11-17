@@ -1,19 +1,39 @@
 ---
-title: "De Gavers Fietsroute"
-subtitle: "Op deze korte lus verken je enkele deelgemeenten van Geraardsbergen, de 'poort van de Vlaamse Ardennen' én één van de oudste steden van België"
 date: "2022-11-09"
-description: "Op deze korte lus verken je enkele deelgemeenten van Geraardsbergen, de 'poort van de Vlaamse Ardennen' én één van de oudste steden van België"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/de-gavers-fietsroute"
-gpx: "routen/de-gavers-fietsroute.gpx"
-length: 13
-tags:
- - "flanders"
- - "vshort"
+title: De Gavers Fietsroute
+subtitle: Op deze korte lus verken je enkele deelgemeenten van Geraardsbergen, de 'poort van de Vlaamse Ardennen' én één van de oudste steden van België
+description: Op deze korte lus verken je enkele deelgemeenten van Geraardsbergen, de 'poort van de Vlaamse Ardennen' én één van de oudste steden van België
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/de-gavers-fietsroute
+routes:
+    - name: Main
+      gpx: routen/de-gavers-fietsroute.gpx
+      length: 13433
+      up: 66
+      down: 66
+      minheight: 10
+      maxheight: 35
+      minslope: -5.6
+      maxslope: 8.6
+      avgposslope: 0.6
+      avgnegslope: -0.6
+      slopehisto:
+        - 2266
+        - 278
+        - 0
+        - 65
+        - 0
+      effortlevel: 0.555
+      minlat: 50.79328
+      minlon: 3.89868
+      maxlat: 50.81398
+      maxlon: 3.96484
 ---
 
 ## Let's Go ! 

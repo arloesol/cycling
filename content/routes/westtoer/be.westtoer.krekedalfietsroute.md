@@ -1,19 +1,39 @@
 ---
-title: "Krekedalfietsroute"
-subtitle: "Zoals de naam van de route laat vermoeden, verken je de vallei van de Krekebeek"
 date: "2022-11-09"
-description: "Zoals de naam van de route laat vermoeden, verken je de vallei van de Krekebeek"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/krekedalfietsroute"
-gpx: "westtoer/krekedalfietsroute.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: Krekedalfietsroute
+subtitle: Zoals de naam van de route laat vermoeden, verken je de vallei van de Krekebeek
+description: Zoals de naam van de route laat vermoeden, verken je de vallei van de Krekebeek
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/krekedalfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/krekedalfietsroute.gpx
+      length: 47587
+      up: 220
+      down: 220
+      minheight: 2
+      maxheight: 47
+      minslope: -6.3
+      maxslope: 6.2
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 6490
+        - 52
+        - 186
+        - 0
+        - 0
+      effortlevel: 1.8
+      minlat: 50.988067
+      minlon: 2.863516
+      maxlat: 51.089371
+      maxlon: 3.032507
 ---
 
 ## Let's Go ! 

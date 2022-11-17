@@ -1,26 +1,46 @@
 ---
-title: "Fietsen langs de Korte Keten - Oostrozebeke"
-subtitle: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de gemeente Oostrozebeke met behulp van dit voor jou uitgestippeld fietslusje"
 date: "2022-11-09"
-description: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de gemeente Oostrozebeke met behulp van dit voor jou uitgestippeld fietslusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-oostrozebeke"
-gpx: "westtoer/korteketenfietsroute-oostrozebeke.gpx"
-length: 40
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Oostrozebeke
+subtitle: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de gemeente Oostrozebeke met behulp van dit voor jou uitgestippeld fietslusje
+description: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de gemeente Oostrozebeke met behulp van dit voor jou uitgestippeld fietslusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "14,73,66,61,38,34,53,27,64,74,77,17,13,15,85,14"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/korteketenfietsroute-oostrozebeke
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 14,73,66,61,38,34,53,27,64,74,77,17,13,15,85,14
+      gpx: westtoer/korteketenfietsroute-oostrozebeke.gpx
+      length: 40085
+      up: 129
+      down: 129
+      minheight: 12
+      maxheight: 35
+      minslope: -4.7
+      maxslope: 4.8
+      avgposslope: 0.4
+      avgnegslope: -0.5
+      slopehisto:
+        - 5365
+        - 135
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.465
+      minlat: 50.90304
+      minlon: 3.228506
+      maxlat: 50.97979
+      maxlon: 3.346041
 ---
 
 ## Let's Go ! 

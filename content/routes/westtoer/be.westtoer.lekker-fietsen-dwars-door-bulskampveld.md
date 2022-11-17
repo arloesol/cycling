@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Dwars door Bulskampveld"
-subtitle: "Geniet van het groene decor van het Landschapspark Bulskampveld"
 date: "2022-11-09"
-description: "Geniet van het groene decor van het Landschapspark Bulskampveld"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-dwars-door-bulskampveld"
-gpx: "westtoer/lekker-fietsen-dwars-door-bulskampveld.gpx"
-length: 50
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: Dwars door Bulskampveld'
+subtitle: Geniet van het groene decor van het Landschapspark Bulskampveld
+description: Geniet van het groene decor van het Landschapspark Bulskampveld
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "29,31,55,39,54,14,80,35,15,34,25,50,22,11,60,47,32,28,49,47,60,68,64,53,76,88,59,63,44,23,20,29"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-dwars-door-bulskampveld
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 29,31,55,39,54,14,80,35,15,34,25,50,22,11,60,47,32,28,49,47,60,68,64,53,76,88,59,63,44,23,20,29
+      gpx: westtoer/lekker-fietsen-dwars-door-bulskampveld.gpx
+      length: 49618
+      up: 109
+      down: 109
+      minheight: 7
+      maxheight: 28
+      minslope: -7.8
+      maxslope: 5.1
+      avgposslope: 0.6
+      avgnegslope: -0.7
+      slopehisto:
+        - 3539
+        - 85
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.73
+      minlat: 51.05574
+      minlon: 3.259649
+      maxlat: 51.142629
+      maxlon: 3.387619
 ---
 
 ## Let's Go ! 

@@ -1,30 +1,48 @@
 ---
-title: "Beaufort Westkustfietsroute"
-subtitle: "Werken Beaufort 21
-
-Touching To Sea You Through Our Extremities - Laure Prouvost
-
-Strand, Leopold I Esplanade, De Panne - 51"
 date: "2022-11-09"
-description: "Werken Beaufort 21
-
-Touching To Sea You Through Our Extremities - Laure Prouvost
-
-Strand, Leopold I Esplanade, De Panne - 51"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/beaufort-westkustfietsroute"
-gpx: "westtoer/beaufort-westkustfietsroute.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Beaufort Westkustfietsroute
+subtitle: |-
+    Werken Beaufort 21
+    Touching To Sea You Through Our Extremities - Laure Prouvost
+    Strand, Leopold I Esplanade, De Panne - 51
+description: |-
+    Werken Beaufort 21
+    Touching To Sea You Through Our Extremities - Laure Prouvost
+    Strand, Leopold I Esplanade, De Panne - 51
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "50,76,74,88,96,64,82,67,8,7,98,66,58,62,65,59,84,1,50"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/beaufort-westkustfietsroute
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 50,76,74,88,96,64,82,67,8,7,98,66,58,62,65,59,84,1,50
+      gpx: westtoer/beaufort-westkustfietsroute.gpx
+      length: 41509
+      up: 97
+      down: 97
+      minheight: 1
+      maxheight: 26
+      minslope: -8.4
+      maxslope: 10.9
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 1963
+        - 354
+        - 55
+        - 0
+        - 58
+      effortlevel: 1.509
+      minlat: 51.07145
+      minlon: 2.588655
+      maxlat: 51.152518
+      maxlon: 2.759064
 ---
 
 ## Let's Go ! 

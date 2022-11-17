@@ -1,19 +1,39 @@
 ---
-title: "Cobergherfietsroute"
-subtitle: "De Cobergherfietsroute flirt met de Franse grens"
 date: "2022-11-09"
-description: "De Cobergherfietsroute flirt met de Franse grens"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/cobergherfietsroute"
-gpx: "westtoer/cobergherfietsroute.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: Cobergherfietsroute
+subtitle: De Cobergherfietsroute flirt met de Franse grens
+description: De Cobergherfietsroute flirt met de Franse grens
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/cobergherfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/cobergherfietsroute.gpx
+      length: 47967
+      up: 0
+      down: 0
+      minheight: 1.7976931348623157e+308
+      maxheight: -1.7976931348623157e+308
+      minslope: 0
+      maxslope: 0
+      avgposslope: .nan
+      avgnegslope: .nan
+      slopehisto:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.599
+      minlat: 50.965289
+      minlon: 2.487634
+      maxlat: 51.077611
+      maxlon: 2.630694
 ---
 
 ## Let's Go ! 

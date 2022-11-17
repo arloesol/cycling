@@ -1,22 +1,42 @@
 ---
-title: "Kleurrijk erfgoed in de polders rond Brugge"
-subtitle: "Deze fietsroute tussen Damme en Lissewege rijgt talloze erfgoedplekjes als een ketting aan elkaar"
 date: "2022-11-09"
-description: "Deze fietsroute tussen Damme en Lissewege rijgt talloze erfgoedplekjes als een ketting aan elkaar"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kleurrijk-erfgoed-de-polders-rond-brugge"
-gpx: "westtoer/kleurrijk-erfgoed-de-polders-rond-brugge.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Kleurrijk erfgoed in de polders rond Brugge
+subtitle: Deze fietsroute tussen Damme en Lissewege rijgt talloze erfgoedplekjes als een ketting aan elkaar
+description: Deze fietsroute tussen Damme en Lissewege rijgt talloze erfgoedplekjes als een ketting aan elkaar
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "28,6,34,92,22,17,47,44,26,20,95,25,55,35,90,66,99,45,59,5,45,99,69,31,27,23,3,98,54,75,52,18,61,42,28"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kleurrijk-erfgoed-de-polders-rond-brugge
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 28,6,34,92,22,17,47,44,26,20,95,25,55,35,90,66,99,45,59,5,45,99,69,31,27,23,3,98,54,75,52,18,61,42,28
+      gpx: westtoer/kleurrijk-erfgoed-de-polders-rond-brugge.gpx
+      length: 46327
+      up: 30
+      down: 30
+      minheight: 2
+      maxheight: 10
+      minslope: -2.2
+      maxslope: 2.9
+      avgposslope: 0.7
+      avgnegslope: -0.5
+      slopehisto:
+        - 679
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.55
+      minlat: 51.195081
+      minlon: 3.2006
+      maxlat: 51.293899
+      maxlon: 3.303994
 ---
 
 ## Let's Go ! 

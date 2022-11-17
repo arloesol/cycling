@@ -1,19 +1,39 @@
 ---
-title: "Stage 6: Along canals and be-MINE"
-subtitle: "We crawl in the saddle for the final stage of this multi-day cycling tour and draw our starting line in the sand of the Lommel Sahara"
 date: "2022-11-09"
-description: "We crawl in the saddle for the final stage of this multi-day cycling tour and draw our starting line in the sand of the Lommel Sahara"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/stage-6-along-canals-and-be-mine"
-gpx: "limburg/stage-6-along-canals-and-be-mine.gpx"
-length: 68
-tags:
- - "flanders"
- - "medium"
+title: 'Stage 6: Along canals and be-MINE'
+subtitle: We crawl in the saddle for the final stage of this multi-day cycling tour and draw our starting line in the sand of the Lommel Sahara
+description: We crawl in the saddle for the final stage of this multi-day cycling tour and draw our starting line in the sand of the Lommel Sahara
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/stage-6-along-canals-and-be-mine
+routes:
+    - name: Main
+      gpx: limburg/stage-6-along-canals-and-be-mine.gpx
+      length: 67608
+      up: 296
+      down: 312
+      minheight: 24
+      maxheight: 62
+      minslope: -15
+      maxslope: 17.5
+      avgposslope: 1.2
+      avgnegslope: -1.3
+      slopehisto:
+        - 7499
+        - 1065
+        - 220
+        - 66
+        - 435
+      effortlevel: 2.826
+      minlat: 50.95142
+      minlon: 5.19523
+      maxlat: 51.2493
+      maxlon: 5.30417
 ---
 
 ## Let's Go ! 

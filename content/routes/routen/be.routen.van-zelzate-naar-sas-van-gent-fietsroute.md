@@ -1,19 +1,39 @@
 ---
-title: "Van Zelzate Naar Sas Van Gent Fietsroute"
-subtitle: "Van Zelzate naar Sas van Gent fietsroute"
 date: "2022-11-09"
-description: "Van Zelzate naar Sas van Gent fietsroute"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/van-zelzate-naar-sas-van-gent-fietsroute"
-gpx: "routen/van-zelzate-naar-sas-van-gent-fietsroute.gpx"
-length: 54
-tags:
- - "flanders"
- - "short"
+title: Van Zelzate Naar Sas Van Gent Fietsroute
+subtitle: Van Zelzate naar Sas van Gent fietsroute
+description: Van Zelzate naar Sas van Gent fietsroute
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/van-zelzate-naar-sas-van-gent-fietsroute
+routes:
+    - name: Main
+      gpx: routen/van-zelzate-naar-sas-van-gent-fietsroute.gpx
+      length: 54196
+      up: 123
+      down: 123
+      minheight: -0
+      maxheight: 16
+      minslope: -5.9
+      maxslope: 7.3
+      avgposslope: 0.8
+      avgnegslope: -0.8
+      slopehisto:
+        - 5292
+        - 366
+        - 186
+        - 0
+        - 0
+      effortlevel: 1.99
+      minlat: 51.15733
+      minlon: 3.68216
+      maxlat: 51.26354
+      maxlon: 3.81721
 ---
 
 ## Let's Go ! 

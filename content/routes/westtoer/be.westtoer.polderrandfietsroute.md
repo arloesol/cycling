@@ -1,19 +1,39 @@
 ---
-title: "Polderrandfietsroute"
-subtitle: "Welkom aan de rand van de kustpolders"
 date: "2022-11-09"
-description: "Welkom aan de rand van de kustpolders"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/polderrandfietsroute"
-gpx: "westtoer/polderrandfietsroute.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: Polderrandfietsroute
+subtitle: Welkom aan de rand van de kustpolders
+description: Welkom aan de rand van de kustpolders
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/polderrandfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/polderrandfietsroute.gpx
+      length: 47051
+      up: 110
+      down: 110
+      minheight: 2
+      maxheight: 19
+      minslope: -3.8
+      maxslope: 3.9
+      avgposslope: 0.3
+      avgnegslope: -0.5
+      slopehisto:
+        - 1256
+        - 180
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.606
+      minlat: 51.107341
+      minlon: 2.955878
+      maxlat: 51.209868
+      maxlon: 3.113785
 ---
 
 ## Let's Go ! 

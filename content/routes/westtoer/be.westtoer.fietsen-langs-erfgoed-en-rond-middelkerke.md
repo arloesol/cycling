@@ -1,22 +1,42 @@
 ---
-title: "Fietsen langs Erfgoed in en rond Middelkerke"
-subtitle: "Erfgoed is met andere ogen naar de wereld kijken"
 date: "2022-11-09"
-description: "Erfgoed is met andere ogen naar de wereld kijken"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-erfgoed-en-rond-middelkerke"
-gpx: "westtoer/fietsen-langs-erfgoed-en-rond-middelkerke.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs Erfgoed in en rond Middelkerke
+subtitle: Erfgoed is met andere ogen naar de wereld kijken
+description: Erfgoed is met andere ogen naar de wereld kijken
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "52,80,75,16,17,84,50,21,22,52,53,25,56,54,1,11,2,44,60,80"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-langs-erfgoed-en-rond-middelkerke
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 52,80,75,16,17,84,50,21,22,52,53,25,56,54,1,11,2,44,60,80
+      gpx: westtoer/fietsen-langs-erfgoed-en-rond-middelkerke.gpx
+      length: 45432
+      up: 34
+      down: 34
+      minheight: 2
+      maxheight: 10
+      minslope: -2.2
+      maxslope: 3.8
+      avgposslope: 0.7
+      avgnegslope: -0.6
+      slopehisto:
+        - 917
+        - 188
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.537
+      minlat: 51.097713
+      minlon: 2.800057
+      maxlat: 51.200551
+      maxlon: 2.925962
 ---
 
 ## Let's Go ! 

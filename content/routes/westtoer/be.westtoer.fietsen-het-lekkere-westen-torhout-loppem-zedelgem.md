@@ -1,22 +1,42 @@
 ---
-title: "Fietsen in Het Lekkere Westen - Torhout, Loppem, Zedelgem, ..."
-subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
 date: "2022-11-09"
-description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-torhout-loppem-zedelgem"
-gpx: "westtoer/fietsen-het-lekkere-westen-torhout-loppem-zedelgem.gpx"
-length: 50
-tags:
- - "flanders"
- - "short"
+title: Fietsen in Het Lekkere Westen - Torhout, Loppem, Zedelgem, ...
+subtitle: Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,
+description: Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "85,70,63,53,77,96,76,61,73,67,10,14,74,95,88,72,8,81,4,71,85"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-torhout-loppem-zedelgem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 85,70,63,53,77,96,76,61,73,67,10,14,74,95,88,72,8,81,4,71,85
+      gpx: westtoer/fietsen-het-lekkere-westen-torhout-loppem-zedelgem.gpx
+      length: 50632
+      up: 0
+      down: 0
+      minheight: 123
+      maxheight: 123
+      minslope: 0
+      maxslope: 0
+      avgposslope: .nan
+      avgnegslope: .nan
+      slopehisto:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.688
+      minlat: 51.044457
+      minlon: 3.060479
+      maxlat: 51.178157
+      maxlon: 3.185437
 ---
 
 ## Let's Go ! 

@@ -19,7 +19,7 @@ You can find amongst others following info:
 
 - All kinds of touristic info related to Flemish Brabant regions
 - Concerning biking:
-  - Many [routes](/source/be.vlaamsbrabant) in and around Flemish Brabant - [on their site](https://www.toerismevlaamsbrabant.be/catalogus/fietsroutes/)
+  - Many [routes](/website/be.vlaamsbrabant) in and around Flemish Brabant - [on their site](https://www.toerismevlaamsbrabant.be/catalogus/fietsroutes/)
   - a [routeplanner](https://www.toerismevlaamsbrabant.be/info/routeplanner/fietsrouteplanner) allowing to use bike-nodes (using [nodemapp](https://www.nodemapp.com/nl))
   - a list of [horeca places catering to cyclists](https://www.toerismevlaamsbrabant.be/thema/fietsers-welkom/)
   - a list of [places to rent a bike](https://www.toerismevlaamsbrabant.be/catalogus/fietsverhuur/)

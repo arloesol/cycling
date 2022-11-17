@@ -1,22 +1,42 @@
 ---
-title: "Radio 2- fietsroute in Oostende"
-subtitle: "De stad aan zee en het mooie hinterland laten je genieten van op de fiets"
 date: "2022-11-09"
-description: "De stad aan zee en het mooie hinterland laten je genieten van op de fiets"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietsroute-oostende"
-gpx: "westtoer/radio-2-fietsroute-oostende.gpx"
-length: 26
-tags:
- - "flanders"
- - "vshort"
+title: Radio 2- fietsroute in Oostende
+subtitle: De stad aan zee en het mooie hinterland laten je genieten van op de fiets
+description: De stad aan zee en het mooie hinterland laten je genieten van op de fiets
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "74,57,52,77,75,16,17,46,20,11,15,4,85,45,74"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/radio-2-fietsroute-oostende
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 74,57,52,77,75,16,17,46,20,11,15,4,85,45,74
+      gpx: westtoer/radio-2-fietsroute-oostende.gpx
+      length: 25391
+      up: 19
+      down: 19
+      minheight: 3
+      maxheight: 10
+      minslope: -5.2
+      maxslope: 5
+      avgposslope: 1.1
+      avgnegslope: -0.5
+      slopehisto:
+        - 630
+        - 206
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.879
+      minlat: 51.177109
+      minlon: 2.843621
+      maxlat: 51.235456
+      maxlon: 2.957993
 ---
 
 ## Let's Go ! 

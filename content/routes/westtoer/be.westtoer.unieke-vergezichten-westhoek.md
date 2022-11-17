@@ -1,22 +1,42 @@
 ---
-title: "Unieke vergezichten over de Westhoek"
-subtitle: "Tenzij in diep uitgesneden valleien genieten we elk fietsmoment van prachtige uitzichten"
 date: "2022-11-09"
-description: "Tenzij in diep uitgesneden valleien genieten we elk fietsmoment van prachtige uitzichten"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/unieke-vergezichten-westhoek"
-gpx: "westtoer/unieke-vergezichten-westhoek.gpx"
-length: 49
-tags:
- - "flanders"
- - "short"
+title: Unieke vergezichten over de Westhoek
+subtitle: Tenzij in diep uitgesneden valleien genieten we elk fietsmoment van prachtige uitzichten
+description: Tenzij in diep uitgesneden valleien genieten we elk fietsmoment van prachtige uitzichten
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "30,92,62,7,9,76,36,54,4,55,97,96,11,18,98,99,57,6,8,29,10,22,1,23,2,15,30"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/unieke-vergezichten-westhoek
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 30,92,62,7,9,76,36,54,4,55,97,96,11,18,98,99,57,6,8,29,10,22,1,23,2,15,30
+      gpx: westtoer/unieke-vergezichten-westhoek.gpx
+      length: 48676
+      up: 407
+      down: 407
+      minheight: 21
+      maxheight: 129
+      minslope: -11.8
+      maxslope: 11.8
+      avgposslope: 5.3
+      avgnegslope: -5.7
+      slopehisto:
+        - 13104
+        - 2663
+        - 858
+        - 334
+        - 389
+      effortlevel: 2.697
+      minlat: 50.739059
+      minlon: 2.728112
+      maxlat: 50.816765
+      maxlon: 2.927312
 ---
 
 ## Let's Go ! 

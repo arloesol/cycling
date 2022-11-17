@@ -1,22 +1,42 @@
 ---
-title: "Smuudse Smoefelfietsroute"
-subtitle: "Maak via rustige fietswegen een ommetje rond de Boterstad"
 date: "2022-11-09"
-description: "Maak via rustige fietswegen een ommetje rond de Boterstad"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/smuudse-smoefelfietsroute"
-gpx: "westtoer/smuudse-smoefelfietsroute.gpx"
-length: 50
-tags:
- - "flanders"
- - "short"
+title: Smuudse Smoefelfietsroute
+subtitle: Maak via rustige fietswegen een ommetje rond de Boterstad
+description: Maak via rustige fietswegen een ommetje rond de Boterstad
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "1,59,92,61,68,19,80,45,21,28,58,11,34,64,51,71,96,49,74,75,1,69,57,28,7,27,78,12,14,58,18,59,1"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/smuudse-smoefelfietsroute
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 1,59,92,61,68,19,80,45,21,28,58,11,34,64,51,71,96,49,74,75,1,69,57,28,7,27,78,12,14,58,18,59,1
+      gpx: westtoer/smuudse-smoefelfietsroute.gpx
+      length: 50644
+      up: 89
+      down: 89
+      minheight: 2
+      maxheight: 33
+      minslope: -2.8
+      maxslope: 4.8
+      avgposslope: 1.3
+      avgnegslope: -1.2
+      slopehisto:
+        - 3530
+        - 50
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.734
+      minlat: 50.981385
+      minlon: 2.801893
+      maxlat: 51.083222
+      maxlon: 2.937498
 ---
 
 ## Let's Go ! 

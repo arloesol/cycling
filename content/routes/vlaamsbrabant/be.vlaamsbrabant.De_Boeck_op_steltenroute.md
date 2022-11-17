@@ -1,22 +1,42 @@
 ---
-title: "De Boeck op steltenroute"
-subtitle: "Je start aan het August De Boeckhuis en fietst over de ‘Leirekensroute’, een oude spoorwegbedding, richting Steenhuffel"
 date: "2022-11-09"
-description: "Je start aan het August De Boeckhuis en fietst over de ‘Leirekensroute’, een oude spoorwegbedding, richting Steenhuffel. Pauzeren kan zeker in één van de charmante dorpjes zoals Rossem, Meuzegem of Ossel."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/de-boeck-op-steltenroute/index.html"
-gpx: "vlaamsbrabant/De_Boeck_op_steltenroute.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: De Boeck op steltenroute
+subtitle: Je start aan het August De Boeckhuis en fietst over de ‘Leirekensroute’, een oude spoorwegbedding, richting Steenhuffel
+description: Je start aan het August De Boeckhuis en fietst over de ‘Leirekensroute’, een oude spoorwegbedding, richting Steenhuffel. Pauzeren kan zeker in één van de charmante dorpjes zoals Rossem, Meuzegem of Ossel.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "17,49,21,15,61,69,58,57,54,47,51,55,19,20,17"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/de-boeck-op-steltenroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 17,49,21,15,61,69,58,57,54,47,51,55,19,20,17
+      gpx: vlaamsbrabant/De_Boeck_op_steltenroute.gpx
+      length: 32228
+      up: 212
+      down: 212
+      minheight: 10
+      maxheight: 78
+      minslope: -9.5
+      maxslope: 7.8
+      avgposslope: 1.4
+      avgnegslope: -2
+      slopehisto:
+        - 6424
+        - 1166
+        - 358
+        - 147
+        - 0
+      effortlevel: 1.466
+      minlat: 50.91645
+      minlon: 4.21286
+      maxlat: 50.99839
+      maxlon: 4.28739
 ---
 
 ## Let's Go ! 

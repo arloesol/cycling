@@ -1,19 +1,39 @@
 ---
-title: "Aalst Fietsroute"
-subtitle: "In Aalst dragen de oevers van de Dender nog steeds de sporen van een industrieel verleden"
 date: "2022-11-09"
-description: "In Aalst dragen de oevers van de Dender nog steeds de sporen van een industrieel verleden"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/aalst-fietsroute"
-gpx: "routen/aalst-fietsroute.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Aalst Fietsroute
+subtitle: In Aalst dragen de oevers van de Dender nog steeds de sporen van een industrieel verleden
+description: In Aalst dragen de oevers van de Dender nog steeds de sporen van een industrieel verleden
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/aalst-fietsroute
+routes:
+    - name: Main
+      gpx: routen/aalst-fietsroute.gpx
+      length: 39297
+      up: 160
+      down: 160
+      minheight: 3
+      maxheight: 51
+      minslope: -8.3
+      maxslope: 7.1
+      avgposslope: 1
+      avgnegslope: -1.3
+      slopehisto:
+        - 7306
+        - 605
+        - 130
+        - 0
+        - 0
+      effortlevel: 1.594
+      minlat: 50.92559
+      minlon: 4.03644
+      maxlat: 50.99655
+      maxlon: 4.1505
 ---
 
 ## Let's Go ! 

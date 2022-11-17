@@ -1,19 +1,39 @@
 ---
-title: "Cycling through Water and Cycling through Heathland"
-subtitle: "One is never enough! You’ll savour two exceptional cycling experiences in a journey through Central Limburg on this cycling tour"
 date: "2022-11-09"
-description: "One is never enough! You’ll savour two exceptional cycling experiences in a journey through Central Limburg on this cycling tour"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/cycling-through-water-and-cycling-through-heathland"
-gpx: "limburg/cycling-through-water-and-cycling-through-heathland.gpx"
-length: 56
-tags:
- - "flanders"
- - "short"
+title: Cycling through Water and Cycling through Heathland
+subtitle: One is never enough! You’ll savour two exceptional cycling experiences in a journey through Central Limburg on this cycling tour
+description: One is never enough! You’ll savour two exceptional cycling experiences in a journey through Central Limburg on this cycling tour
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/cycling-through-water-and-cycling-through-heathland
+routes:
+    - name: Main
+      gpx: limburg/cycling-through-water-and-cycling-through-heathland.gpx
+      length: 55588
+      up: 500
+      down: 500
+      minheight: 39
+      maxheight: 112
+      minslope: -22.1
+      maxslope: 21.8
+      avgposslope: 2.8
+      avgnegslope: -2.3
+      slopehisto:
+        - 10143
+        - 1417
+        - 1701
+        - 1332
+        - 696
+      effortlevel: 3.278
+      minlat: 50.93368
+      minlon: 5.39205
+      maxlat: 51.02361
+      maxlon: 5.63395
 ---
 
 ## Let's Go ! 

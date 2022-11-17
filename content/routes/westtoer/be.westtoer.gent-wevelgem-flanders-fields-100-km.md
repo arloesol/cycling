@@ -1,19 +1,39 @@
 ---
-title: "Gent-Wevelgem in Flanders Fields - 100 km"
-subtitle: "Het parcours van Gent-Wevelgem in Flanders Fields bedwingt de belangrijkste hellingen van de wielerklassieker 'Gent-Wevelgem'"
 date: "2022-11-09"
-description: "Het parcours van Gent-Wevelgem in Flanders Fields bedwingt de belangrijkste hellingen van de wielerklassieker 'Gent-Wevelgem'"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/gent-wevelgem-flanders-fields-100-km"
-gpx: "westtoer/gent-wevelgem-flanders-fields-100-km.gpx"
-length: 100
-tags:
- - "flanders"
- - "long"
+title: Gent-Wevelgem in Flanders Fields - 100 km
+subtitle: Het parcours van Gent-Wevelgem in Flanders Fields bedwingt de belangrijkste hellingen van de wielerklassieker 'Gent-Wevelgem'
+description: Het parcours van Gent-Wevelgem in Flanders Fields bedwingt de belangrijkste hellingen van de wielerklassieker 'Gent-Wevelgem'
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/gent-wevelgem-flanders-fields-100-km
+routes:
+    - name: Main
+      gpx: westtoer/gent-wevelgem-flanders-fields-100-km.gpx
+      length: 100354
+      up: 1397
+      down: 1397
+      minheight: 20
+      maxheight: 164
+      minslope: -13.1
+      maxslope: 16.8
+      avgposslope: 2.1
+      avgnegslope: -1.8
+      slopehisto:
+        - 18615
+        - 7487
+        - 3650
+        - 2088
+        - 1599
+      effortlevel: 6.402
+      minlat: 50.735341
+      minlon: 2.642563
+      maxlat: 50.81046
+      maxlon: 2.900198
 ---
 
 ## Let's Go ! 

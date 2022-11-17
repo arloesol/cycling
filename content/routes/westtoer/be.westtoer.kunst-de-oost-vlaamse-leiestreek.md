@@ -1,22 +1,42 @@
 ---
-title: "Kunst in de Oost-Vlaamse Leiestreek"
-subtitle: "Deze fietsroute start in het centrum van Deinze, de toegangspoort tot de Oost-Vlaamse Leiestreek"
 date: "2022-11-09"
-description: "Deze fietsroute start in het centrum van Deinze, de toegangspoort tot de Oost-Vlaamse Leiestreek"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kunst-de-oost-vlaamse-leiestreek"
-gpx: "westtoer/kunst-de-oost-vlaamse-leiestreek.gpx"
-length: 36
-tags:
- - "flanders"
- - "short"
+title: Kunst in de Oost-Vlaamse Leiestreek
+subtitle: Deze fietsroute start in het centrum van Deinze, de toegangspoort tot de Oost-Vlaamse Leiestreek
+description: Deze fietsroute start in het centrum van Deinze, de toegangspoort tot de Oost-Vlaamse Leiestreek
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "5,7,8,87,85,84,82,80,2,3,4,9,11,12,90,86,20,14,13,6,5"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kunst-de-oost-vlaamse-leiestreek
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 5,7,8,87,85,84,82,80,2,3,4,9,11,12,90,86,20,14,13,6,5
+      gpx: westtoer/kunst-de-oost-vlaamse-leiestreek.gpx
+      length: 36313
+      up: 34
+      down: 34
+      minheight: 6
+      maxheight: 15
+      minslope: -7.9
+      maxslope: 4.5
+      avgposslope: 0.5
+      avgnegslope: -0.6
+      slopehisto:
+        - 1095
+        - 71
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.246
+      minlat: 50.947734
+      minlon: 3.477758
+      maxlat: 51.013623
+      maxlon: 3.607777
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Surprising views"
-subtitle: "A cycling route with plane paths and some tough climbs though shady pine forests, purple heather landscapes, and right through the Hoge Kempen National Park"
 date: "2022-11-09"
-description: "A cycling route with plane paths and some tough climbs though shady pine forests, purple heather landscapes, and right through the Hoge Kempen National Park"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/surprising-views"
-gpx: "limburg/surprising-views.gpx"
-length: 57
-tags:
- - "flanders"
- - "short"
+title: Surprising views
+subtitle: A cycling route with plane paths and some tough climbs though shady pine forests, purple heather landscapes, and right through the Hoge Kempen National Park
+description: A cycling route with plane paths and some tough climbs though shady pine forests, purple heather landscapes, and right through the Hoge Kempen National Park
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/surprising-views
+routes:
+    - name: Main
+      gpx: limburg/surprising-views.gpx
+      length: 56328
+      up: 567
+      down: 567
+      minheight: 45
+      maxheight: 118
+      minslope: -26
+      maxslope: 25.1
+      avgposslope: 2.6
+      avgnegslope: -2.6
+      slopehisto:
+        - 9179
+        - 2423
+        - 1048
+        - 823
+        - 1749
+      effortlevel: 3.567
+      minlat: 50.87943
+      minlon: 5.53174
+      maxlat: 51.00363
+      maxlon: 5.67349
 ---
 
 ## Let's Go ! 

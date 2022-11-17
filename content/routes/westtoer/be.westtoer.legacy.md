@@ -1,23 +1,43 @@
 ---
-title: "The Legacy"
-subtitle: "Fietsroute 14-18
-
-In Zonnebeke bevind je je in het hartje van de beruchte Ieperboog"
 date: "2022-11-09"
-description: "Fietsroute 14-18
-
-In Zonnebeke bevind je je in het hartje van de beruchte Ieperboog"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/legacy"
-gpx: "westtoer/legacy.gpx"
-length: 37
-tags:
- - "flanders"
- - "short"
+title: The Legacy
+subtitle: |-
+    Fietsroute 14-18
+    In Zonnebeke bevind je je in het hartje van de beruchte Ieperboog
+description: |-
+    Fietsroute 14-18
+    In Zonnebeke bevind je je in het hartje van de beruchte Ieperboog
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/legacy
+routes:
+    - name: Main
+      gpx: westtoer/legacy.gpx
+      length: 37384
+      up: 279
+      down: 279
+      minheight: 23
+      maxheight: 59
+      minslope: -6.6
+      maxslope: 7.1
+      avgposslope: 1
+      avgnegslope: -1.3
+      slopehisto:
+        - 8637
+        - 1305
+        - 180
+        - 0
+        - 0
+      effortlevel: 1.643
+      minlat: 50.812886
+      minlon: 2.95719
+      maxlat: 50.915608
+      maxlon: 3.033753
 ---
 
 ## Let's Go ! 

@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: De Zwinstreek smaakt"
-subtitle: "Ontdek langs deze route de talrijke toprestaurantjes en bistro's die de Zwinstreek herbergt"
 date: "2022-11-09"
-description: "Ontdek langs deze route de talrijke toprestaurantjes en bistro's die de Zwinstreek herbergt"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-de-zwinstreek-smaakt"
-gpx: "westtoer/lekker-fietsen-de-zwinstreek-smaakt.gpx"
-length: 38
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: De Zwinstreek smaakt'
+subtitle: Ontdek langs deze route de talrijke toprestaurantjes en bistro's die de Zwinstreek herbergt
+description: Ontdek langs deze route de talrijke toprestaurantjes en bistro's die de Zwinstreek herbergt
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "26,44,47,74,24,57,54,94,98,93,53,50,59,49,73,33,62,39,70,65,32,23,47,75,26"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-de-zwinstreek-smaakt
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 26,44,47,74,24,57,54,94,98,93,53,50,59,49,73,33,62,39,70,65,32,23,47,75,26
+      gpx: westtoer/lekker-fietsen-de-zwinstreek-smaakt.gpx
+      length: 38239
+      up: 52
+      down: 52
+      minheight: 2
+      maxheight: 10
+      minslope: -4.1
+      maxslope: 4.1
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 1665
+        - 213
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.318
+      minlat: 51.272645
+      minlon: 3.249811
+      maxlat: 51.348856
+      maxlon: 3.382466
 ---
 
 ## Let's Go ! 

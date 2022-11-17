@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Polderbedevaart"
-subtitle: "Onderweg fiets je langs vroegere bedevaartsoorden Lissewege en Meetkerke"
 date: "2022-11-09"
-description: "Onderweg fiets je langs vroegere bedevaartsoorden Lissewege en Meetkerke"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-polderbedevaart"
-gpx: "westtoer/lekker-fietsen-polderbedevaart.gpx"
-length: 38
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: Polderbedevaart'
+subtitle: Onderweg fiets je langs vroegere bedevaartsoorden Lissewege en Meetkerke
+description: Onderweg fiets je langs vroegere bedevaartsoorden Lissewege en Meetkerke
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "40,5,45,99,69,78,11,81,86,77,32,58,52,72,22,95,15,2,89,29,26,30,88,40"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-polderbedevaart
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 40,5,45,99,69,78,11,81,86,77,32,58,52,72,22,95,15,2,89,29,26,30,88,40
+      gpx: westtoer/lekker-fietsen-polderbedevaart.gpx
+      length: 38026
+      up: 68
+      down: 68
+      minheight: 2
+      maxheight: 10
+      minslope: -4.3
+      maxslope: 6.7
+      avgposslope: 0.2
+      avgnegslope: -0.2
+      slopehisto:
+        - 1849
+        - 0
+        - 129
+        - 0
+        - 0
+      effortlevel: 1.314
+      minlat: 51.23126
+      minlon: 3.091497
+      maxlat: 51.3069
+      maxlon: 3.212215
 ---
 
 ## Let's Go ! 

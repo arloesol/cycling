@@ -1,22 +1,42 @@
 ---
-title: "Kindvriendelijk fietsen rond Blankenberge"
-subtitle: "Blankenberge is een familiale kustgemeente met een boeiend verleden"
 date: "2022-11-09"
-description: "Blankenberge is een familiale kustgemeente met een boeiend verleden"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kindvriendelijk-fietsen-rond-blankenberge"
-gpx: "westtoer/kindvriendelijk-fietsen-rond-blankenberge.gpx"
-length: 17
-tags:
- - "flanders"
- - "vshort"
+title: Kindvriendelijk fietsen rond Blankenberge
+subtitle: Blankenberge is een familiale kustgemeente met een boeiend verleden
+description: Blankenberge is een familiale kustgemeente met een boeiend verleden
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "76,26,29,89,2,83,34,31,16,80,76"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kindvriendelijk-fietsen-rond-blankenberge
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 76,26,29,89,2,83,34,31,16,80,76
+      gpx: westtoer/kindvriendelijk-fietsen-rond-blankenberge.gpx
+      length: 16356
+      up: 9
+      down: 9
+      minheight: 2
+      maxheight: 6
+      minslope: -2.2
+      maxslope: 1.2
+      avgposslope: 0.4
+      avgnegslope: -0.4
+      slopehisto:
+        - 271
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.549
+      minlat: 51.286381
+      minlon: 3.067378
+      maxlat: 51.313264
+      maxlon: 3.143309
 ---
 
 ## Let's Go ! 

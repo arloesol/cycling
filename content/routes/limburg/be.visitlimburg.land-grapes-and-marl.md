@@ -1,19 +1,39 @@
 ---
-title: "Land of grapes and marl"
-subtitle: "A route with a few moderate to steep slopes through the intriguing marl landscape with its sweeping panoramas"
 date: "2022-11-09"
-description: "A route with a few moderate to steep slopes through the intriguing marl landscape with its sweeping panoramas"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/land-grapes-and-marl"
-gpx: "limburg/land-grapes-and-marl.gpx"
-length: 55
-tags:
- - "flanders"
- - "short"
+title: Land of grapes and marl
+subtitle: A route with a few moderate to steep slopes through the intriguing marl landscape with its sweeping panoramas
+description: A route with a few moderate to steep slopes through the intriguing marl landscape with its sweeping panoramas
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/land-grapes-and-marl
+routes:
+    - name: Main
+      gpx: limburg/land-grapes-and-marl.gpx
+      length: 54467
+      up: 453
+      down: 453
+      minheight: 43
+      maxheight: 148
+      minslope: -10.7
+      maxslope: 16.4
+      avgposslope: 2.3
+      avgnegslope: -2.3
+      slopehisto:
+        - 11286
+        - 2991
+        - 700
+        - 152
+        - 148
+      effortlevel: 2.706
+      minlat: 50.76564
+      minlon: 5.51137
+      maxlat: 50.89091
+      maxlon: 5.60593
 ---
 
 ## Let's Go ! 

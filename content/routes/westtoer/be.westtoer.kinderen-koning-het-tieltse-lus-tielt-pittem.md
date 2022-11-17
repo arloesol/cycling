@@ -1,22 +1,42 @@
 ---
-title: "Kinderen koning in het Tieltse - lus Tielt - Pittem"
-subtitle: "Kinderen zijn koning in het Tieltse"
 date: "2022-11-09"
-description: "Kinderen zijn koning in het Tieltse"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-tielt-pittem"
-gpx: "westtoer/kinderen-koning-het-tieltse-lus-tielt-pittem.gpx"
-length: 25
-tags:
- - "flanders"
- - "vshort"
+title: Kinderen koning in het Tieltse - lus Tielt - Pittem
+subtitle: Kinderen zijn koning in het Tieltse
+description: Kinderen zijn koning in het Tieltse
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "46,48,32,52,11,61,38,58,36,56,46"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-tielt-pittem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 46,48,32,52,11,61,38,58,36,56,46
+      gpx: westtoer/kinderen-koning-het-tieltse-lus-tielt-pittem.gpx
+      length: 25212
+      up: 85
+      down: 85
+      minheight: 15
+      maxheight: 49
+      minslope: -4.5
+      maxslope: 7.1
+      avgposslope: 1.9
+      avgnegslope: -2.4
+      slopehisto:
+        - 3650
+        - 120
+        - 197
+        - 0
+        - 0
+      effortlevel: 1.013
+      minlat: 50.960915
+      minlon: 3.262097
+      maxlat: 51.017495
+      maxlon: 3.363675
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "De Niet Zo Culinaire Fietsroute"
-subtitle: "Deze culinaire fietsroute brengt je langs prachtige Meetjeslandse natuur via vlakke fietswegen en 4 lekkere adresjes die je niet mag missen"
 date: "2022-11-09"
-description: "Deze culinaire fietsroute brengt je langs prachtige Meetjeslandse natuur via vlakke fietswegen en 4 lekkere adresjes die je niet mag missen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/de-niet-zo-culinaire-fietsroute"
-gpx: "routen/de-niet-zo-culinaire-fietsroute.gpx"
-length: 50
-tags:
- - "flanders"
- - "short"
+title: De Niet Zo Culinaire Fietsroute
+subtitle: Deze culinaire fietsroute brengt je langs prachtige Meetjeslandse natuur via vlakke fietswegen en 4 lekkere adresjes die je niet mag missen
+description: Deze culinaire fietsroute brengt je langs prachtige Meetjeslandse natuur via vlakke fietswegen en 4 lekkere adresjes die je niet mag missen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/de-niet-zo-culinaire-fietsroute
+routes:
+    - name: Main
+      gpx: routen/de-niet-zo-culinaire-fietsroute.gpx
+      length: 49389
+      up: 175
+      down: 175
+      minheight: 5
+      maxheight: 38
+      minslope: -8.9
+      maxslope: 12.1
+      avgposslope: 0.9
+      avgnegslope: -0.9
+      slopehisto:
+        - 7180
+        - 517
+        - 0
+        - 0
+        - 205
+      effortlevel: 1.918
+      minlat: 51.11182
+      minlon: 3.44638
+      maxlat: 51.20326
+      maxlon: 3.61417
 ---
 
 ## Let's Go ! 

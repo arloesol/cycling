@@ -1,19 +1,39 @@
 ---
-title: "From fruit to syrup"
-subtitle: "This cycle loop with steep climbs starts in Borgloon"
 date: "2022-11-09"
-description: "This cycle loop with steep climbs starts in Borgloon"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/fruit-syrup"
-gpx: "limburg/fruit-syrup.gpx"
-length: 38
-tags:
- - "flanders"
- - "short"
+title: From fruit to syrup
+subtitle: This cycle loop with steep climbs starts in Borgloon
+description: This cycle loop with steep climbs starts in Borgloon
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/fruit-syrup
+routes:
+    - name: Main
+      gpx: limburg/fruit-syrup.gpx
+      length: 37396
+      up: 311
+      down: 311
+      minheight: 43
+      maxheight: 120
+      minslope: -9.5
+      maxslope: 16
+      avgposslope: 1.5
+      avgnegslope: -1.7
+      slopehisto:
+        - 8939
+        - 1825
+        - 597
+        - 53
+        - 123
+      effortlevel: 1.951
+      minlat: 50.80328
+      minlon: 5.31528
+      maxlat: 50.85875
+      maxlon: 5.46689
 ---
 
 ## Let's Go ! 

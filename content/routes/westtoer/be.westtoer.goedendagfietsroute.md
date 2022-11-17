@@ -1,19 +1,39 @@
 ---
-title: "Goedendagfietsroute"
-subtitle: "De Goedendagfietsroute in de omgeving van Kortrijk verrast op verschillende momenten"
 date: "2022-11-09"
-description: "De Goedendagfietsroute in de omgeving van Kortrijk verrast op verschillende momenten"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/goedendagfietsroute"
-gpx: "westtoer/goedendagfietsroute.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Goedendagfietsroute
+subtitle: De Goedendagfietsroute in de omgeving van Kortrijk verrast op verschillende momenten
+description: De Goedendagfietsroute in de omgeving van Kortrijk verrast op verschillende momenten
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/goedendagfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/goedendagfietsroute.gpx
+      length: 48358
+      up: 353
+      down: 353
+      minheight: 10
+      maxheight: 73
+      minslope: -6.3
+      maxslope: 8.5
+      avgposslope: 0.8
+      avgnegslope: -0.8
+      slopehisto:
+        - 9704
+        - 1115
+        - 221
+        - 125
+        - 0
+      effortlevel: 2.126
+      minlat: 50.763054
+      minlon: 3.20723
+      maxlat: 50.857342
+      maxlon: 3.335418
 ---
 
 ## Let's Go ! 

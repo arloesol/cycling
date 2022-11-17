@@ -1,22 +1,42 @@
 ---
-title: "Radio 2- fietsroute in Oostduinkerke"
-subtitle: "Natuur, cultuur, visserij, en zelf een vleugje sport (naast het fietsen!); dat biedt deze fietstocht"
 date: "2022-11-09"
-description: "Natuur, cultuur, visserij, en zelf een vleugje sport (naast het fietsen!); dat biedt deze fietstocht"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietsroute-oostduinkerke"
-gpx: "westtoer/radio-2-fietsroute-oostduinkerke.gpx"
-length: 28
-tags:
- - "flanders"
- - "vshort"
+title: Radio 2- fietsroute in Oostduinkerke
+subtitle: Natuur, cultuur, visserij, en zelf een vleugje sport (naast het fietsen!); dat biedt deze fietstocht
+description: Natuur, cultuur, visserij, en zelf een vleugje sport (naast het fietsen!); dat biedt deze fietstocht
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "96,24,66,98,6,86,62,65,59,76,74,88,96"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/radio-2-fietsroute-oostduinkerke
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 96,24,66,98,6,86,62,65,59,76,74,88,96
+      gpx: westtoer/radio-2-fietsroute-oostduinkerke.gpx
+      length: 27424
+      up: 24
+      down: 24
+      minheight: 3
+      maxheight: 13
+      minslope: -2.1
+      maxslope: 4
+      avgposslope: 0.9
+      avgnegslope: -0.9
+      slopehisto:
+        - 764
+        - 108
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.93
+      minlat: 51.087581
+      minlon: 2.607576
+      maxlat: 51.141808
+      maxlon: 2.705807
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Verleidelijke Leie Fietsroute"
-subtitle: "Kunstenaarsdorpjes, adellijke domeinen en natuurlijk de kronkelende Leie"
 date: "2022-11-09"
-description: "Kunstenaarsdorpjes, adellijke domeinen en natuurlijk de kronkelende Leie"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/verleidelijke-leie-fietsroute"
-gpx: "routen/verleidelijke-leie-fietsroute.gpx"
-length: 37
-tags:
- - "flanders"
- - "short"
+title: Verleidelijke Leie Fietsroute
+subtitle: Kunstenaarsdorpjes, adellijke domeinen en natuurlijk de kronkelende Leie
+description: Kunstenaarsdorpjes, adellijke domeinen en natuurlijk de kronkelende Leie
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/verleidelijke-leie-fietsroute
+routes:
+    - name: Main
+      gpx: routen/verleidelijke-leie-fietsroute.gpx
+      length: 36866
+      up: 104
+      down: 104
+      minheight: 5
+      maxheight: 18
+      minslope: -6.4
+      maxslope: 6.9
+      avgposslope: 0.7
+      avgnegslope: -0.7
+      slopehisto:
+        - 4946
+        - 204
+        - 139
+        - 0
+        - 0
+      effortlevel: 1.397
+      minlat: 50.99768
+      minlon: 3.55581
+      maxlat: 51.05204
+      maxlon: 3.66916
 ---
 
 ## Let's Go ! 

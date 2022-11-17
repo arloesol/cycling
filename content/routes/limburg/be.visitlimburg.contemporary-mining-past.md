@@ -1,19 +1,39 @@
 ---
-title: "Contemporary mining past"
-subtitle: "Discover Limburgs impressive mining heritage"
 date: "2022-11-09"
-description: "Discover Limburgs impressive mining heritage"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/contemporary-mining-past"
-gpx: "limburg/contemporary-mining-past.gpx"
-length: 61
-tags:
- - "flanders"
- - "medium"
+title: Contemporary mining past
+subtitle: Discover Limburgs impressive mining heritage
+description: Discover Limburgs impressive mining heritage
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/contemporary-mining-past
+routes:
+    - name: Main
+      gpx: limburg/contemporary-mining-past.gpx
+      length: 60084
+      up: 451
+      down: 451
+      minheight: 29
+      maxheight: 89
+      minslope: -18.9
+      maxslope: 27.6
+      avgposslope: 2.9
+      avgnegslope: -2.5
+      slopehisto:
+        - 12228
+        - 2249
+        - 1448
+        - 553
+        - 937
+      effortlevel: 3.339
+      minlat: 51.008
+      minlon: 5.19523
+      maxlat: 51.08748
+      maxlon: 5.406
 ---
 
 ## Let's Go ! 

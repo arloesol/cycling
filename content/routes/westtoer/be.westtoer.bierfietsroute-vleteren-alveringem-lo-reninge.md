@@ -1,22 +1,42 @@
 ---
-title: "Bierfietsroute Vleteren - Alveringem - Lo-Reninge"
-subtitle: "Vanuit Westvleteren ontdek je het mooie Westhoeklandschap met enkele van zijn typische volkscafeetjes en restaurantjes die specialiteiten uit de streek serveren"
 date: "2022-11-09"
-description: "Vanuit Westvleteren ontdek je het mooie Westhoeklandschap met enkele van zijn typische volkscafeetjes en restaurantjes die specialiteiten uit de streek serveren"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/bierfietsroute-vleteren-alveringem-lo-reninge"
-gpx: "westtoer/bierfietsroute-vleteren-alveringem-lo-reninge.gpx"
-length: 34
-tags:
- - "flanders"
- - "short"
+title: Bierfietsroute Vleteren - Alveringem - Lo-Reninge
+subtitle: Vanuit Westvleteren ontdek je het mooie Westhoeklandschap met enkele van zijn typische volkscafeetjes en restaurantjes die specialiteiten uit de streek serveren
+description: Vanuit Westvleteren ontdek je het mooie Westhoeklandschap met enkele van zijn typische volkscafeetjes en restaurantjes die specialiteiten uit de streek serveren
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "98,68,67,66,2,84,64,62,61,60,59,89,95,91,4,69,70,92,98"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/bierfietsroute-vleteren-alveringem-lo-reninge
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 98,68,67,66,2,84,64,62,61,60,59,89,95,91,4,69,70,92,98
+      gpx: westtoer/bierfietsroute-vleteren-alveringem-lo-reninge.gpx
+      length: 33781
+      up: 41
+      down: 41
+      minheight: 4
+      maxheight: 31
+      minslope: -1.9
+      maxslope: 2.3
+      avgposslope: 0.9
+      avgnegslope: -1.1
+      slopehisto:
+        - 1271
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.138
+      minlat: 50.886603
+      minlon: 2.654727
+      maxlat: 50.959953
+      maxlon: 2.790891
 ---
 
 ## Let's Go ! 

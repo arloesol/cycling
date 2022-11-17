@@ -1,19 +1,39 @@
 ---
-title: "Hoppelandfietsroute"
-subtitle: "De streek rond Poperinge wordt ook wel het Hoppeland genoemd"
 date: "2022-11-09"
-description: "De streek rond Poperinge wordt ook wel het Hoppeland genoemd"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/hoppelandfietsroute"
-gpx: "westtoer/hoppelandfietsroute.gpx"
-length: 53
-tags:
- - "flanders"
- - "short"
+title: Hoppelandfietsroute
+subtitle: De streek rond Poperinge wordt ook wel het Hoppeland genoemd
+description: De streek rond Poperinge wordt ook wel het Hoppeland genoemd
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/hoppelandfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/hoppelandfietsroute.gpx
+      length: 53252
+      up: 260
+      down: 260
+      minheight: 4
+      maxheight: 61
+      minslope: -5.2
+      maxslope: 3.5
+      avgposslope: 0.6
+      avgnegslope: -0.5
+      slopehisto:
+        - 8446
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 2.022
+      minlat: 50.813414
+      minlon: 2.620152
+      maxlat: 50.944617
+      maxlon: 2.787968
 ---
 
 ## Let's Go ! 

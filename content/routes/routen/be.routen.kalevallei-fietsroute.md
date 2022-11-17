@@ -1,19 +1,39 @@
 ---
-title: "Kalevallei Fietsroute"
-subtitle: "Fiets van Bellem tot Mariakerke langs kastelen en door de Oude Kalevallei"
 date: "2022-11-09"
-description: "Fiets van Bellem tot Mariakerke langs kastelen en door de Oude Kalevallei"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/kalevallei-fietsroute"
-gpx: "routen/kalevallei-fietsroute.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Kalevallei Fietsroute
+subtitle: Fiets van Bellem tot Mariakerke langs kastelen en door de Oude Kalevallei
+description: Fiets van Bellem tot Mariakerke langs kastelen en door de Oude Kalevallei
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/kalevallei-fietsroute
+routes:
+    - name: Main
+      gpx: routen/kalevallei-fietsroute.gpx
+      length: 45228
+      up: 133
+      down: 133
+      minheight: 3
+      maxheight: 21
+      minslope: -6.1
+      maxslope: 6.3
+      avgposslope: 0.7
+      avgnegslope: -0.5
+      slopehisto:
+        - 5849
+        - 588
+        - 110
+        - 0
+        - 0
+      effortlevel: 1.707
+      minlat: 51.0506
+      minlon: 3.47232
+      maxlat: 51.09013
+      maxlon: 3.6724
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Rhododendron Fietsroute"
-subtitle: "Deze fleurige route brengt je naar het noordelijke deel van Bloeiend Oost-Vlaanderen, voor een rit langs buxus- en rhododendronkwekerijen"
 date: "2022-11-09"
-description: "Deze fleurige route brengt je naar het noordelijke deel van Bloeiend Oost-Vlaanderen, voor een rit langs buxus- en rhododendronkwekerijen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/rhododendron-fietsroute"
-gpx: "routen/rhododendron-fietsroute.gpx"
-length: 40
-tags:
- - "flanders"
- - "short"
+title: Rhododendron Fietsroute
+subtitle: Deze fleurige route brengt je naar het noordelijke deel van Bloeiend Oost-Vlaanderen, voor een rit langs buxus- en rhododendronkwekerijen
+description: Deze fleurige route brengt je naar het noordelijke deel van Bloeiend Oost-Vlaanderen, voor een rit langs buxus- en rhododendronkwekerijen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/rhododendron-fietsroute
+routes:
+    - name: Main
+      gpx: routen/rhododendron-fietsroute.gpx
+      length: 40759
+      up: 101
+      down: 101
+      minheight: 1
+      maxheight: 24
+      minslope: -5.9
+      maxslope: 22.1
+      avgposslope: 1.3
+      avgnegslope: -1.1
+      slopehisto:
+        - 3847
+        - 515
+        - 59
+        - 0
+        - 53
+      effortlevel: 1.546
+      minlat: 51.1307
+      minlon: 3.85345
+      maxlat: 51.18897
+      maxlon: 4.00932
 ---
 
 ## Let's Go ! 

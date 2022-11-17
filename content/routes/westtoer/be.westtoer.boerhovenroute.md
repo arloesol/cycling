@@ -1,19 +1,39 @@
 ---
-title: "Boerhovenroute"
-subtitle: "De Boerhovenroute is een mountainbikeroute waar elke sportieveling, zowel beginner als gevorderde de kuiten kan spannen"
 date: "2022-11-09"
-description: "De Boerhovenroute is een mountainbikeroute waar elke sportieveling, zowel beginner als gevorderde de kuiten kan spannen"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/boerhovenroute"
-gpx: "westtoer/boerhovenroute.gpx"
-length: 79
-tags:
- - "flanders"
- - "medium"
+title: Boerhovenroute
+subtitle: De Boerhovenroute is een mountainbikeroute waar elke sportieveling, zowel beginner als gevorderde de kuiten kan spannen
+description: De Boerhovenroute is een mountainbikeroute waar elke sportieveling, zowel beginner als gevorderde de kuiten kan spannen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/boerhovenroute
+routes:
+    - name: Main
+      gpx: westtoer/boerhovenroute.gpx
+      length: 39088
+      up: 181
+      down: 181
+      minheight: 12
+      maxheight: 53
+      minslope: -8.6
+      maxslope: 5.3
+      avgposslope: 0.6
+      avgnegslope: -0.5
+      slopehisto:
+        - 6036
+        - 824
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.571
+      minlat: 50.715221
+      minlon: 3.326
+      maxlat: 50.773377
+      maxlon: 3.412118
 ---
 
 ## Let's Go ! 

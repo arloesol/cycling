@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Vakmanschap in de polders"
-subtitle: "Onderweg zie je opvallend veel vakmanschap"
 date: "2022-11-09"
-description: "Onderweg zie je opvallend veel vakmanschap"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-vakmanschap-de-polders"
-gpx: "westtoer/lekker-fietsen-vakmanschap-de-polders.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: Vakmanschap in de polders'
+subtitle: Onderweg zie je opvallend veel vakmanschap
+description: Onderweg zie je opvallend veel vakmanschap
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "63,68,18,88,32,35,45,65,47,40,93,9,23,33,25,27,29,66,62,60,94,11,20,83,89,48,63"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-vakmanschap-de-polders
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 63,68,18,88,32,35,45,65,47,40,93,9,23,33,25,27,29,66,62,60,94,11,20,83,89,48,63
+      gpx: westtoer/lekker-fietsen-vakmanschap-de-polders.gpx
+      length: 45230
+      up: 93
+      down: 93
+      minheight: 1
+      maxheight: 16
+      minslope: -7.4
+      maxslope: 13.7
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 1998
+        - 124
+        - 51
+        - 0
+        - 51
+      effortlevel: 1.587
+      minlat: 51.147436
+      minlon: 2.938362
+      maxlat: 51.214472
+      maxlon: 3.083765
 ---
 
 ## Let's Go ! 

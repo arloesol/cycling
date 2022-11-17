@@ -1,19 +1,39 @@
 ---
-title: "Watermolen Fietsroute"
-subtitle: "Deze idyllische fietsroute verkent het heuvelachtige platteland rond Zwalm en Horebeke"
 date: "2022-11-09"
-description: "Deze idyllische fietsroute verkent het heuvelachtige platteland rond Zwalm en Horebeke"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/watermolen-fietsroute"
-gpx: "routen/watermolen-fietsroute.gpx"
-length: 40
-tags:
- - "flanders"
- - "short"
+title: Watermolen Fietsroute
+subtitle: Deze idyllische fietsroute verkent het heuvelachtige platteland rond Zwalm en Horebeke
+description: Deze idyllische fietsroute verkent het heuvelachtige platteland rond Zwalm en Horebeke
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/watermolen-fietsroute
+routes:
+    - name: Main
+      gpx: routen/watermolen-fietsroute.gpx
+      length: 39853
+      up: 484
+      down: 484
+      minheight: 10
+      maxheight: 97
+      minslope: -12.8
+      maxslope: 9.9
+      avgposslope: 1.4
+      avgnegslope: -1.4
+      slopehisto:
+        - 8243
+        - 3687
+        - 1245
+        - 660
+        - 200
+      effortlevel: 2.478
+      minlat: 50.83745
+      minlon: 3.68715
+      maxlat: 50.90986
+      maxlon: 3.76585
 ---
 
 ## Let's Go ! 

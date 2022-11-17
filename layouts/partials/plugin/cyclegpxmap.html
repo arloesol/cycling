@@ -13,12 +13,32 @@
 <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
 <script src="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.js"></script>
 
-{{ with .AltRoutes }}
-    <button onclick="getGPX('{{ $.GPX }}')">main</button>
-  {{ range . }}
-    <button onclick="getGPX('{{ .gpx }}')">{{ .name }}</button>
+{{ range .Routes }}
+<div class="post-meta-line" onclick="getGPX('{{ .gpx }}')">
+  <span> <b> {{ .name }}: </b></span>
+  <span> {{- dict "Class" "fa-solid fa-route" | partial "plugin/icon.html" }} {{ div .length 1000 -}} km </span>&nbsp;
+  {{- $gpxurl := .gpx | printf "%s/%s" "/gpxfiles" -}}
+  <span> <a href="{{ $gpxurl }}" download="{{ .gpx }}"> {{- dict "Class" "fa-solid fa-download" | partial "plugin/icon.html" -}} gpx</a> </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-bicycle" | partial "plugin/icon.html" }} {{ .effortlevel | lang.FormatNumber 1 -}} </span>&nbsp;
+  {{- if lt .minheight 1000000 -}}
+  <span> {{- dict "Class" "fa-solid fa-arrow-up" | partial "plugin/icon.html" }} {{ .up -}}m </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-arrow-down" | partial "plugin/icon.html" }} {{ .down -}}m </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-angle-double-up" | partial "plugin/icon.html" }} {{ .maxslope | lang.FormatNumber 1 -}}% </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-angle-double-down" | partial "plugin/icon.html" }} {{ .minslope | lang.FormatNumber 1 -}}% </span>
+  <span> {{- dict "Class" "fa-solid fa-mountain" | partial "plugin/icon.html" }} {{ .maxheight | lang.FormatNumber 0 -}}m </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-water" | partial "plugin/icon.html" }} {{ .minheight | lang.FormatNumber 0 -}}m </span>
+</div>
+<div class="post-meta-line" onclick="getGPX('{{ .gpx }}')">
+  <span> &nbsp; slopes: </b></span>
+  <span> ±2%: {{ index .slopehisto 0 | lang.FormatNumber 0 -}}m </span>&nbsp;
+  <span> ±4%: {{ index .slopehisto 1 | lang.FormatNumber 0 -}}m </span>&nbsp;
+  <span> ±6%: {{ index .slopehisto 2 | lang.FormatNumber 0 -}}m </span>&nbsp;
+  <span> ±8%: {{ index .slopehisto 3 | lang.FormatNumber 0 -}}m </span>&nbsp;
+  <span> >9%: {{ index .slopehisto 4 | lang.FormatNumber 0 -}}m </span>&nbsp;
   {{ end }}
+</div>
 {{ end }}
+<br>
 
 <div style="height: 50vh;" id="map"></div>
 <script>
@@ -28,7 +48,7 @@
     // Chart container outside/inside map container
     detached: false,
     // if (detached), the elevation chart container
-    elevationDiv: "#elevation-div",
+    //elevationDiv: "#elevation-div",
     // if (!detached) autohide chart profile on chart mouseleave
     autohide: false,
     // if (!detached) initial state of chart profile control
@@ -38,7 +58,7 @@
     // Toggle close icon visibility
     closeBtn: true,
     // Autoupdate map center on chart mouseover.
-    followMarker: true,
+    followMarker: false,
     // Autoupdate map bounds on chart update.
     autofitBounds: true,
     // Chart distance/elevation units.
@@ -66,7 +86,7 @@
     // Toggle chart legend filter
     legend: true,
     // Toggle "leaflet-almostover" integration
-    almostOver: true,
+    almostOver: false,
     // Toggle "leaflet-distance-markers" integration
     distanceMarkers: true,
     // Toggle "leaflet-hotline" integration
@@ -74,21 +94,21 @@
     // Display track datetimes: true || false
     timestamps: false,
     // Display track waypoints: true || "markers" || "dots" || false
-    waypoints: true,
+    waypoints: false,
     // Toggle custom waypoint icons: true || { associative array of <sym> tags } || false
-    wptIcons: {
+    /*wptIcons: {
       '': L.divIcon({
         className: 'elevation-waypoint-marker',
         html: '<i class="elevation-waypoint-icon"></i>',
         iconSize: [30, 30],
         iconAnchor: [8, 30],
       }),
-    },
+    },*/
     // Toggle waypoint labels: true || "markers" || "dots" || false
-    wptLabels: true,
+    wptLabels: false,
     // Render chart profiles as Canvas or SVG Paths
     preferCanvas: true,
-    };
+  };
 
   let mymap = L.map('map', { fullscreenControl: true }).setView([51.505, -0.09], 13);
 
@@ -100,8 +120,12 @@
   }).addTo(mymap);
 
   function getGPX(gpxurl) {
+    if (controlElevation) { 
+      controlElevation.clear();
+      //controlElevation.layer.remove();
+    }
     controlElevation.load(window.location.origin + "/gpxfiles/" + gpxurl);
   }
-  getGPX('{{ .GPX }}')
+  getGPX('{{ .Gpx }}')
 </script>
 

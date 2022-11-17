@@ -1,19 +1,39 @@
 ---
-title: "Kempen Route"
-subtitle: "The Kempen Route connects Terhills, the gateway to the Hoge Kempen National Park, with the city of Antwerp"
 date: "2022-11-09"
-description: "The Kempen Route connects Terhills, the gateway to the Hoge Kempen National Park, with the city of Antwerp"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/kempen-route"
-gpx: "limburg/kempen-route.gpx"
-length: 116
-tags:
- - "flanders"
- - "long"
+title: Kempen Route
+subtitle: The Kempen Route connects Terhills, the gateway to the Hoge Kempen National Park, with the city of Antwerp
+description: The Kempen Route connects Terhills, the gateway to the Hoge Kempen National Park, with the city of Antwerp
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/kempen-route
+routes:
+    - name: Main
+      gpx: limburg/kempen-route.gpx
+      length: 116373
+      up: 679
+      down: 689
+      minheight: 32
+      maxheight: 106
+      minslope: -15.3
+      maxslope: 30
+      avgposslope: 1.9
+      avgnegslope: -1.9
+      slopehisto:
+        - 16179
+        - 3116
+        - 2297
+        - 1107
+        - 559
+      effortlevel: 5.431
+      minlat: 50.95101
+      minlon: 5.18665
+      maxlat: 51.23953
+      maxlon: 5.70824
 ---
 
 ## Let's Go ! 

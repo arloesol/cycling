@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Rond(je) Oostkamp"
-subtitle: "Ontdek talloze natuurplekjes in Oostkamp en geniet van het fameuze Kasteel van Loppem"
 date: "2022-11-09"
-description: "Ontdek talloze natuurplekjes in Oostkamp en geniet van het fameuze Kasteel van Loppem"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-rondje-oostkamp"
-gpx: "westtoer/lekker-fietsen-rondje-oostkamp.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: Rond(je) Oostkamp'
+subtitle: Ontdek talloze natuurplekjes in Oostkamp en geniet van het fameuze Kasteel van Loppem
+description: Ontdek talloze natuurplekjes in Oostkamp en geniet van het fameuze Kasteel van Loppem
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "71,56,83,85,52,92,95,74,14,10,67,97,13,93,82,71"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-rondje-oostkamp
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 71,56,83,85,52,92,95,74,14,10,67,97,13,93,82,71
+      gpx: westtoer/lekker-fietsen-rondje-oostkamp.gpx
+      length: 40678
+      up: 89
+      down: 89
+      minheight: 5
+      maxheight: 24
+      minslope: -6.4
+      maxslope: 4.4
+      avgposslope: 0.4
+      avgnegslope: -0.4
+      slopehisto:
+        - 3046
+        - 252
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.436
+      minlat: 51.100089
+      minlon: 3.155657
+      maxlat: 51.177848
+      maxlon: 3.272328
 ---
 
 ## Let's Go ! 

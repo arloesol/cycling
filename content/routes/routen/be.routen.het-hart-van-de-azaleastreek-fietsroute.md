@@ -1,19 +1,39 @@
 ---
-title: "Het Hart Van De Azaleastreek Fietsroute"
-subtitle: "Azalea's zijn niet alleen één van de populairste bloeiende kamerplanten maar ook dé vedetten van de Oost-Vlaamse sierteelt"
 date: "2022-11-09"
-description: "Azalea's zijn niet alleen één van de populairste bloeiende kamerplanten maar ook dé vedetten van de Oost-Vlaamse sierteelt"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/het-hart-van-de-azaleastreek-fietsroute"
-gpx: "routen/het-hart-van-de-azaleastreek-fietsroute.gpx"
-length: 40
-tags:
- - "flanders"
- - "short"
+title: Het Hart Van De Azaleastreek Fietsroute
+subtitle: Azalea's zijn niet alleen één van de populairste bloeiende kamerplanten maar ook dé vedetten van de Oost-Vlaamse sierteelt
+description: Azalea's zijn niet alleen één van de populairste bloeiende kamerplanten maar ook dé vedetten van de Oost-Vlaamse sierteelt
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/het-hart-van-de-azaleastreek-fietsroute
+routes:
+    - name: Main
+      gpx: routen/het-hart-van-de-azaleastreek-fietsroute.gpx
+      length: 40122
+      up: 60
+      down: 60
+      minheight: 2
+      maxheight: 8
+      minslope: -5.7
+      maxslope: 4.1
+      avgposslope: 0.7
+      avgnegslope: -0.5
+      slopehisto:
+        - 2591
+        - 158
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.407
+      minlat: 51.06692
+      minlon: 3.811
+      maxlat: 51.13421
+      maxlon: 3.94457
 ---
 
 ## Let's Go ! 

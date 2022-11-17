@@ -1,19 +1,39 @@
 ---
-title: "Stage 2: the Voer region"
-subtitle: "During stage two, climbing goats, lightweights, or e-bike smart guys excel"
 date: "2022-11-09"
-description: "During stage two, climbing goats, lightweights, or e-bike smart guys excel"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/stage-2-voer-region"
-gpx: "limburg/stage-2-voer-region.gpx"
-length: 55
-tags:
- - "flanders"
- - "short"
+title: 'Stage 2: the Voer region'
+subtitle: During stage two, climbing goats, lightweights, or e-bike smart guys excel
+description: During stage two, climbing goats, lightweights, or e-bike smart guys excel
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/stage-2-voer-region
+routes:
+    - name: Main
+      gpx: limburg/stage-2-voer-region.gpx
+      length: 53384
+      up: 578
+      down: 580
+      minheight: 45
+      maxheight: 293
+      minslope: -17
+      maxslope: 17.8
+      avgposslope: 2.8
+      avgnegslope: -3
+      slopehisto:
+        - 9704
+        - 3362
+        - 1694
+        - 1043
+        - 687
+      effortlevel: 3.237
+      minlat: 50.72295
+      minlon: 5.66895
+      maxlat: 50.81426
+      maxlon: 5.88834
 ---
 
 ## Let's Go ! 

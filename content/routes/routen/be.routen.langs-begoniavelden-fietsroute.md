@@ -1,19 +1,39 @@
 ---
-title: "Langs Begoniavelden Fietsroute"
-subtitle: "Je startpunt Laarne ligt in het epicentrum van de begonia, de exotische bloem die een Franse monnik in de 17de eeuw vanuit de Antillen naar Europa bracht"
 date: "2022-11-09"
-description: "Je startpunt Laarne ligt in het epicentrum van de begonia, de exotische bloem die een Franse monnik in de 17de eeuw vanuit de Antillen naar Europa bracht"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/langs-begoniavelden-fietsroute"
-gpx: "routen/langs-begoniavelden-fietsroute.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: Langs Begoniavelden Fietsroute
+subtitle: Je startpunt Laarne ligt in het epicentrum van de begonia, de exotische bloem die een Franse monnik in de 17de eeuw vanuit de Antillen naar Europa bracht
+description: Je startpunt Laarne ligt in het epicentrum van de begonia, de exotische bloem die een Franse monnik in de 17de eeuw vanuit de Antillen naar Europa bracht
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/langs-begoniavelden-fietsroute
+routes:
+    - name: Main
+      gpx: routen/langs-begoniavelden-fietsroute.gpx
+      length: 32731
+      up: 70
+      down: 70
+      minheight: 1
+      maxheight: 20
+      minslope: -9.7
+      maxslope: 7.1
+      avgposslope: 0.8
+      avgnegslope: -0.6
+      slopehisto:
+        - 3423
+        - 218
+        - 184
+        - 0
+        - 0
+      effortlevel: 1.222
+      minlat: 50.9934
+      minlon: 3.79159
+      maxlat: 51.04648
+      maxlon: 3.90371
 ---
 
 ## Let's Go ! 

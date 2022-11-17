@@ -1,22 +1,42 @@
 ---
-title: "Fietsen met zeezicht en door de natuur en het hinterland van Middelkerke-Westende"
-subtitle: "Middelkerke-Westende is een perfecte plek voor een strandvakantie met het hele gezin"
 date: "2022-11-09"
-description: "Middelkerke-Westende is een perfecte plek voor een strandvakantie met het hele gezin"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende"
-gpx: "westtoer/fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende.gpx"
-length: 25
-tags:
- - "flanders"
- - "vshort"
+title: Fietsen met zeezicht en door de natuur en het hinterland van Middelkerke-Westende
+subtitle: Middelkerke-Westende is een perfecte plek voor een strandvakantie met het hele gezin
+description: Middelkerke-Westende is een perfecte plek voor een strandvakantie met het hele gezin
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "81,60,80,52,77,75,16,59,19,2,12,81"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 81,60,80,52,77,75,16,59,19,2,12,81
+      gpx: westtoer/fietsen-met-zeezicht-en-door-de-natuur-en-het-hinterland-van-middelkerke-westende.gpx
+      length: 24908
+      up: 14
+      down: 14
+      minheight: 2
+      maxheight: 12
+      minslope: -2.4
+      maxslope: 1.1
+      avgposslope: 0.6
+      avgnegslope: -0.3
+      slopehisto:
+        - 155
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.837
+      minlat: 51.151178
+      minlon: 2.763298
+      maxlat: 51.207544
+      maxlon: 2.872345
 ---
 
 ## Let's Go ! 

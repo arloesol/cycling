@@ -1,23 +1,43 @@
 ---
-title: "Aller-Retour"
-subtitle: "Fietsroute 14-18
-
-De fietsroute volgt de moeizame tocht van de soldaten van het grote legerkantonnement Alveringem naar de Dodengang in de sector Diksmuide, heen en terug"
 date: "2022-11-09"
-description: "Fietsroute 14-18
-
-De fietsroute volgt de moeizame tocht van de soldaten van het grote legerkantonnement Alveringem naar de Dodengang in de sector Diksmuide, heen en terug"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/aller-retour"
-gpx: "westtoer/aller-retour.gpx"
-length: 37
-tags:
- - "flanders"
- - "short"
+title: Aller-Retour
+subtitle: |-
+    Fietsroute 14-18
+    De fietsroute volgt de moeizame tocht van de soldaten van het grote legerkantonnement Alveringem naar de Dodengang in de sector Diksmuide, heen en terug
+description: |-
+    Fietsroute 14-18
+    De fietsroute volgt de moeizame tocht van de soldaten van het grote legerkantonnement Alveringem naar de Dodengang in de sector Diksmuide, heen en terug
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/aller-retour
+routes:
+    - name: Main
+      gpx: westtoer/aller-retour.gpx
+      length: 37439
+      up: 110
+      down: 110
+      minheight: 2
+      maxheight: 9
+      minslope: -3.2
+      maxslope: 4.1
+      avgposslope: 0.3
+      avgnegslope: -0.2
+      slopehisto:
+        - 1650
+        - 57
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.291
+      minlat: 50.97315
+      minlon: 2.704995
+      maxlat: 51.048792
+      maxlon: 2.854968
 ---
 
 ## Let's Go ! 

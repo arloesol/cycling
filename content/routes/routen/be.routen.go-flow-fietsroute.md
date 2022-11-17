@@ -1,19 +1,39 @@
 ---
-title: "Go Flow Fietsroute"
-subtitle: "Laat je leiden door de Schelde en fiets zo van de slikken en schorren van Tielrode helemaal tot aan de Polders van Kruibeke"
 date: "2022-11-09"
-description: "Laat je leiden door de Schelde en fiets zo van de slikken en schorren van Tielrode helemaal tot aan de Polders van Kruibeke"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/go-flow-fietsroute"
-gpx: "routen/go-flow-fietsroute.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Go Flow Fietsroute
+subtitle: Laat je leiden door de Schelde en fiets zo van de slikken en schorren van Tielrode helemaal tot aan de Polders van Kruibeke
+description: Laat je leiden door de Schelde en fiets zo van de slikken en schorren van Tielrode helemaal tot aan de Polders van Kruibeke
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/go-flow-fietsroute
+routes:
+    - name: Main
+      gpx: routen/go-flow-fietsroute.gpx
+      length: 46717
+      up: 168
+      down: 168
+      minheight: -1
+      maxheight: 14
+      minslope: -13.7
+      maxslope: 8.7
+      avgposslope: 0.6
+      avgnegslope: -0.5
+      slopehisto:
+        - 5702
+        - 483
+        - 200
+        - 135
+        - 0
+      effortlevel: 1.827
+      minlat: 51.09177
+      minlon: 4.14055
+      maxlat: 51.15922
+      maxlon: 4.33116
 ---
 
 ## Let's Go ! 

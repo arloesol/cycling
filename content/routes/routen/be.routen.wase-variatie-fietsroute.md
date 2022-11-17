@@ -1,19 +1,39 @@
 ---
-title: "Wase Variatie Fietsroute"
-subtitle: "Waardevol erfgoed, een provinciaal domein, de heide van Waasmunster en een uitgestrekt natuur- en recreatiedomein"
 date: "2022-11-09"
-description: "Waardevol erfgoed, een provinciaal domein, de heide van Waasmunster en een uitgestrekt natuur- en recreatiedomein"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/wase-variatie-fietsroute"
-gpx: "routen/wase-variatie-fietsroute.gpx"
-length: 42
-tags:
- - "flanders"
- - "short"
+title: Wase Variatie Fietsroute
+subtitle: Waardevol erfgoed, een provinciaal domein, de heide van Waasmunster en een uitgestrekt natuur- en recreatiedomein
+description: Waardevol erfgoed, een provinciaal domein, de heide van Waasmunster en een uitgestrekt natuur- en recreatiedomein
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/wase-variatie-fietsroute
+routes:
+    - name: Main
+      gpx: routen/wase-variatie-fietsroute.gpx
+      length: 42383
+      up: 155
+      down: 155
+      minheight: -1
+      maxheight: 35
+      minslope: -9.6
+      maxslope: 8.7
+      avgposslope: 1
+      avgnegslope: -0.9
+      slopehisto:
+        - 4475
+        - 846
+        - 129
+        - 161
+        - 0
+      effortlevel: 1.693
+      minlat: 51.10123
+      minlon: 4.08825
+      maxlat: 51.19132
+      maxlon: 4.22571
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Beverhoutsfietsroute"
-subtitle: "De Beverhoutsfietsroute loodst je naar de boeiende streek ten zuiden van Brugge"
 date: "2022-11-09"
-description: "De Beverhoutsfietsroute loodst je naar de boeiende streek ten zuiden van Brugge"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/beverhoutsfietsroute"
-gpx: "westtoer/beverhoutsfietsroute.gpx"
-length: 38
-tags:
- - "flanders"
- - "short"
+title: Beverhoutsfietsroute
+subtitle: De Beverhoutsfietsroute loodst je naar de boeiende streek ten zuiden van Brugge
+description: De Beverhoutsfietsroute loodst je naar de boeiende streek ten zuiden van Brugge
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/beverhoutsfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/beverhoutsfietsroute.gpx
+      length: 36560
+      up: 71
+      down: 71
+      minheight: 5
+      maxheight: 15
+      minslope: -2.8
+      maxslope: 2
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 1002
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.232
+      minlat: 51.132178
+      minlon: 3.262493
+      maxlat: 51.204361
+      maxlon: 3.430148
 ---
 
 ## Let's Go ! 

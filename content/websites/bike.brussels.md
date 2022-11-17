@@ -16,7 +16,7 @@ region: brussels
 The https://bike.brussels website is managed by the Brussels region authorities: "Brussels mobility"
 
 You can find amongst others following info
-- [routes](/source/bike.brussels) in and around brussels - [on their site](https://www.bike.brussels/en/campaigns) 
+- [routes](/website/bike.brussels) in and around brussels - [on their site](https://www.bike.brussels/en/campaigns) 
   - [short bikeroutes](https://www.bike.brussels/en/campaigns/bike-routes) using the brussels region bikeroutes
   - [longer bikeroutes](https://www.bike.brussels/en/campaigns/routes-of-brussels) mostly around brussels
 - [routeplanner](https://routeplanner.bike.brussels) for bikes in brussels using the brussels bike-network

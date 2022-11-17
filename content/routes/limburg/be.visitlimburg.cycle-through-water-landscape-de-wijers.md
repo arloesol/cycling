@@ -1,19 +1,39 @@
 ---
-title: "Cycle through the water landscape of De Wijers"
-subtitle: "Starting at Herkenrode Abbey, this cycle route leads you round the pond landscape of De Wijers"
 date: "2022-11-09"
-description: "Starting at Herkenrode Abbey, this cycle route leads you round the pond landscape of De Wijers"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/cycle-through-water-landscape-de-wijers"
-gpx: "limburg/cycle-through-water-landscape-de-wijers.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Cycle through the water landscape of De Wijers
+subtitle: Starting at Herkenrode Abbey, this cycle route leads you round the pond landscape of De Wijers
+description: Starting at Herkenrode Abbey, this cycle route leads you round the pond landscape of De Wijers
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/cycle-through-water-landscape-de-wijers
+routes:
+    - name: Main
+      gpx: limburg/cycle-through-water-landscape-de-wijers.gpx
+      length: 40913
+      up: 200
+      down: 200
+      minheight: 24
+      maxheight: 98
+      minslope: -15.3
+      maxslope: 16.5
+      avgposslope: 1.6
+      avgnegslope: -1.7
+      slopehisto:
+        - 4661
+        - 603
+        - 477
+        - 546
+        - 133
+      effortlevel: 1.847
+      minlat: 50.93232
+      minlon: 5.27528
+      maxlat: 51.00412
+      maxlon: 5.45445
 ---
 
 ## Let's Go ! 

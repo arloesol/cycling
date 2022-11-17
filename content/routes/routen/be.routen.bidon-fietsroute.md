@@ -1,19 +1,39 @@
 ---
-title: "Bidon Fietsroute"
-subtitle: "De Vlaamse Ardennen op hun mooist én smakelijkst? De Bidon fietsroute is een stevige tocht langs erfgoed en geweldige landschappen, maar ook langs gezellige wielercafés met lekkere streekbieren om op adem te komen"
 date: "2022-11-09"
-description: "De Vlaamse Ardennen op hun mooist én smakelijkst? De Bidon fietsroute is een stevige tocht langs erfgoed en geweldige landschappen, maar ook langs gezellige wielercafés met lekkere streekbieren om op adem te komen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/bidon-fietsroute"
-gpx: "routen/bidon-fietsroute.gpx"
-length: 42
-tags:
- - "flanders"
- - "short"
+title: Bidon Fietsroute
+subtitle: De Vlaamse Ardennen op hun mooist én smakelijkst? De Bidon fietsroute is een stevige tocht langs erfgoed en geweldige landschappen, maar ook langs gezellige wielercafés met lekkere streekbieren om op adem te komen
+description: De Vlaamse Ardennen op hun mooist én smakelijkst? De Bidon fietsroute is een stevige tocht langs erfgoed en geweldige landschappen, maar ook langs gezellige wielercafés met lekkere streekbieren om op adem te komen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/bidon-fietsroute
+routes:
+    - name: Main
+      gpx: routen/bidon-fietsroute.gpx
+      length: 42621
+      up: 517
+      down: 517
+      minheight: 15
+      maxheight: 102
+      minslope: -10.7
+      maxslope: 13.7
+      avgposslope: 2
+      avgnegslope: -2
+      slopehisto:
+        - 9073
+        - 3863
+        - 1387
+        - 250
+        - 617
+      effortlevel: 2.706
+      minlat: 50.75132
+      minlon: 3.73237
+      maxlat: 50.83778
+      maxlon: 3.88126
 ---
 
 ## Let's Go ! 

@@ -1,22 +1,40 @@
 ---
-title: "Thru The Maalbeek Valley"
-subtitle: "Gutenberg, Leopold Park, Flagey, Ponds ..."
 date: "2022-10-17"
-description: "Exploring the Maalbeek valley"
+title: Thru The Maalbeek Valley
+subtitle: Gutenberg, Leopold Park, Flagey, Ponds ...
+description: Exploring the Maalbeek valley
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-length: 14
-ext_url: "https://www.bike.brussels/en/blog/through-the-maalbeek-valley"
-gpx: "brussels/Bike-routes-7-Maalbeekvallei-Elsene-Ukkel.gpx"
-# mapimg: "brussels/Routes-1-Center.jpg"
-gmaps: "https://www.google.com/maps/d/embed?mid=1q7e9oW7EIF2-o7DvWGPIDw0W2cRT2bM&ehbc=2E312F"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/through-the-maalbeek-valley
+routes:
+    - name: Main
+      gpx: brussels/Bike-routes-7-Maalbeekvallei-Elsene-Ukkel.gpx
+      length: 12418
+      up: 68
+      down: 71
+      minheight: 49
+      maxheight: 101
+      minslope: -2.8
+      maxslope: 3.3
+      avgposslope: 0.8
+      avgnegslope: -1.1
+      slopehisto:
+        - 2576
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.484
+      minlat: 50.814017
+      minlon: 4.351319
+      maxlat: 50.848467
+      maxlon: 4.380706
 ---
 ## Let's go !
 

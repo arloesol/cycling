@@ -1,19 +1,39 @@
 ---
-title: "Scheldevallei Fietsroute 1"
-subtitle: "Op deze eerste van de 3 Scheldevallei fietsroutes verken je verschillende natuurgebieden die samen de Scheldemeersen vormen"
 date: "2022-11-09"
-description: "Op deze eerste van de 3 Scheldevallei fietsroutes verken je verschillende natuurgebieden die samen de Scheldemeersen vormen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/scheldevallei-fietsroute-1"
-gpx: "routen/scheldevallei-fietsroute-1.gpx"
-length: 30
-tags:
- - "flanders"
- - "short"
+title: Scheldevallei Fietsroute 1
+subtitle: Op deze eerste van de 3 Scheldevallei fietsroutes verken je verschillende natuurgebieden die samen de Scheldemeersen vormen
+description: Op deze eerste van de 3 Scheldevallei fietsroutes verken je verschillende natuurgebieden die samen de Scheldemeersen vormen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/scheldevallei-fietsroute-1
+routes:
+    - name: Main
+      gpx: routen/scheldevallei-fietsroute-1.gpx
+      length: 27119
+      up: 123
+      down: 123
+      minheight: 2
+      maxheight: 30
+      minslope: -14.4
+      maxslope: 16.3
+      avgposslope: 0.8
+      avgnegslope: -0.9
+      slopehisto:
+        - 4033
+        - 572
+        - 81
+        - 0
+        - 128
+      effortlevel: 1.131
+      minlat: 50.92936
+      minlon: 3.64266
+      maxlat: 51.00288
+      maxlon: 3.73236
 ---
 
 ## Let's Go ! 

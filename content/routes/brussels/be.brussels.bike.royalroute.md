@@ -1,22 +1,40 @@
 ---
-title: "The Royal Route"
-subtitle: "Parks, Up-Site, Port, Tour&Taxis, Atomium, Dockx ..."
 date: "2022-10-17"
-description: "The crème de la crème of the bike routes"
+title: The Royal Route
+subtitle: Parks, Up-Site, Port, Tour&Taxis, Atomium, Dockx ...
+description: The crème de la crème of the bike routes
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-length: 14
-ext_url: "https://www.bike.brussels/en/blog/the-royal-route"
-gpx: "brussels/Bike-routes-4-Koninklijk-Laken.gpx"
-# mapimg: "brussels/Routes-1-Center.jpg"
-gmaps: "https://www.google.com/maps/d/embed?mid=1q7e9oW7EIF2-o7DvWGPIDw0W2cRT2bM&ehbc=2E312F"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/the-royal-route
+routes:
+    - name: Main
+      gpx: brussels/Bike-routes-4-Koninklijk-Laken.gpx
+      length: 12640
+      up: 75
+      down: 77
+      minheight: 13
+      maxheight: 67
+      minslope: -5
+      maxslope: 4.4
+      avgposslope: 0.8
+      avgnegslope: -1.9
+      slopehisto:
+        - 2362
+        - 240
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.543
+      minlat: 50.862178
+      minlon: 4.339288
+      maxlat: 50.901222
+      maxlon: 4.376566
 ---
 ## Let's go !
 

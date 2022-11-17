@@ -1,19 +1,39 @@
 ---
-title: "Cycling through a mosaic of ponds"
-subtitle: "Discover the impressive mining heritage and the child-friendly domains in The De Wijers pond landscape"
 date: "2022-11-09"
-description: "Discover the impressive mining heritage and the child-friendly domains in The De Wijers pond landscape"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/cycling-through-mosaic-ponds"
-gpx: "limburg/cycling-through-mosaic-ponds.gpx"
-length: 59
-tags:
- - "flanders"
- - "short"
+title: Cycling through a mosaic of ponds
+subtitle: Discover the impressive mining heritage and the child-friendly domains in The De Wijers pond landscape
+description: Discover the impressive mining heritage and the child-friendly domains in The De Wijers pond landscape
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/cycling-through-mosaic-ponds
+routes:
+    - name: Main
+      gpx: limburg/cycling-through-mosaic-ponds.gpx
+      length: 59240
+      up: 472
+      down: 472
+      minheight: 25
+      maxheight: 101
+      minslope: -23.7
+      maxslope: 16.7
+      avgposslope: 2.3
+      avgnegslope: -2.3
+      slopehisto:
+        - 9920
+        - 1855
+        - 909
+        - 1180
+        - 580
+      effortlevel: 3.229
+      minlat: 50.95083
+      minlon: 5.27528
+      maxlat: 51.04683
+      maxlon: 5.47261
 ---
 
 ## Let's Go ! 

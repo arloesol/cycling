@@ -1,22 +1,42 @@
 ---
-title: "Trappen en Tappen rond Tielt-Pittem-Schuiferskapelle"
-subtitle: "Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras"
 date: "2022-11-09"
-description: "Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/trappen-en-tappen-rond-tielt-pittem-schuiferskapelle"
-gpx: "westtoer/trappen-en-tappen-rond-tielt-pittem-schuiferskapelle.gpx"
-length: 25
-tags:
- - "flanders"
- - "vshort"
+title: Trappen en Tappen rond Tielt-Pittem-Schuiferskapelle
+subtitle: Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras
+description: Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "48,46,58,36,56,42,82,45,48"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/trappen-en-tappen-rond-tielt-pittem-schuiferskapelle
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 48,46,58,36,56,42,82,45,48
+      gpx: westtoer/trappen-en-tappen-rond-tielt-pittem-schuiferskapelle.gpx
+      length: 24488
+      up: 83
+      down: 83
+      minheight: 20
+      maxheight: 50
+      minslope: -4.7
+      maxslope: 3.2
+      avgposslope: 2.3
+      avgnegslope: -1.7
+      slopehisto:
+        - 4342
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.915
+      minlat: 50.986979
+      minlon: 3.262097
+      maxlat: 51.039727
+      maxlon: 3.357061
 ---
 
 ## Let's Go ! 

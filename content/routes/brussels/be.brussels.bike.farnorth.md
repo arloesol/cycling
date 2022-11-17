@@ -1,22 +1,40 @@
 ---
-title: "The Far North"
-subtitle: "Evere, Josaphat, Benefactors, NEAN mural ..."
 date: "2022-10-17"
-description: "An expedition to the north of Brussels"
+title: The Far North
+subtitle: Evere, Josaphat, Benefactors, NEAN mural ...
+description: An expedition to the north of Brussels
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-length: 9
-ext_url: "https://www.bike.brussels/en/blog/the-far-north"
-gpx: "brussels/Bike-routes-2-Schaarbeek-Evere.gpx"
-# mapimg: "brussels/Routes-1-Center.jpg"
-gmaps: "https://www.google.com/maps/d/embed?mid=1q7e9oW7EIF2-o7DvWGPIDw0W2cRT2bM&ehbc=2E312F"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/the-far-north
+routes:
+    - name: Main
+      gpx: brussels/Bike-routes-2-Schaarbeek-Evere.gpx
+      length: 9026
+      up: 59
+      down: 60
+      minheight: 18
+      maxheight: 63
+      minslope: -4.4
+      maxslope: 4.2
+      avgposslope: 0.9
+      avgnegslope: -1
+      slopehisto:
+        - 2174
+        - 205
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.387
+      minlat: 50.857563
+      minlon: 4.371791
+      maxlat: 50.881082
+      maxlon: 4.4056
 ---
 ## Let's go !
 

@@ -1,19 +1,39 @@
 ---
-title: "Bakelandtfietsroute"
-subtitle: "Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield"
 date: "2022-11-09"
-description: "Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/bakelandtfietsroute"
-gpx: "westtoer/bakelandtfietsroute.gpx"
-length: 48
-tags:
- - "flanders"
- - "short"
+title: Bakelandtfietsroute
+subtitle: Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield
+description: Het Bos van Houthulst was de plek waar de Bende van Bakelandt zich schuil hield
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/bakelandtfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/bakelandtfietsroute.gpx
+      length: 49657
+      up: 152
+      down: 152
+      minheight: 4
+      maxheight: 43
+      minslope: -4.8
+      maxslope: 5.3
+      avgposslope: 0.7
+      avgnegslope: -0.6
+      slopehisto:
+        - 5158
+        - 202
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.788
+      minlat: 50.901884
+      minlon: 2.823552
+      maxlat: 51.006157
+      maxlon: 2.964807
 ---
 
 ## Let's Go ! 

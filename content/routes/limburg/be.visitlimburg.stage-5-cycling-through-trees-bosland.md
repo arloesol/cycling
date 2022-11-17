@@ -1,19 +1,39 @@
 ---
-title: "Stage 5: Cycling through the Trees in Bosland"
-subtitle: "We warm up our legs, cycling past the De Spaanjerd marina and the lakes of the Meuse river"
 date: "2022-11-09"
-description: "We warm up our legs, cycling past the De Spaanjerd marina and the lakes of the Meuse river"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/stage-5-cycling-through-trees-bosland"
-gpx: "limburg/stage-5-cycling-through-trees-bosland.gpx"
-length: 80
-tags:
- - "flanders"
- - "medium"
+title: 'Stage 5: Cycling through the Trees in Bosland'
+subtitle: We warm up our legs, cycling past the De Spaanjerd marina and the lakes of the Meuse river
+description: We warm up our legs, cycling past the De Spaanjerd marina and the lakes of the Meuse river
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/stage-5-cycling-through-trees-bosland
+routes:
+    - name: Main
+      gpx: limburg/stage-5-cycling-through-trees-bosland.gpx
+      length: 79944
+      up: 324
+      down: 306
+      minheight: 21
+      maxheight: 82
+      minslope: -20.3
+      maxslope: 9.1
+      avgposslope: 1.3
+      avgnegslope: -1
+      slopehisto:
+        - 11699
+        - 1773
+        - 184
+        - 325
+        - 0
+      effortlevel: 3.304
+      minlat: 51.10315
+      minlon: 5.30265
+      maxlat: 51.2435
+      maxlon: 5.82482
 ---
 
 ## Let's Go ! 

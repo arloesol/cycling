@@ -1,22 +1,42 @@
 ---
-title: "Kinderen koning in het Tieltse - lus Ruiselede - Kanegem"
-subtitle: "Kinderen zijn koning in het Brugse Ommeland"
 date: "2022-11-09"
-description: "Kinderen zijn koning in het Brugse Ommeland"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-ruiselede-kanegem"
-gpx: "westtoer/kinderen-koning-het-tieltse-lus-ruiselede-kanegem.gpx"
-length: 23
-tags:
- - "flanders"
- - "vshort"
+title: Kinderen koning in het Tieltse - lus Ruiselede - Kanegem
+subtitle: Kinderen zijn koning in het Brugse Ommeland
+description: Kinderen zijn koning in het Brugse Ommeland
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "30,39,54,86,89,84,44,64,67,69,49,30"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-ruiselede-kanegem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 30,39,54,86,89,84,44,64,67,69,49,30
+      gpx: westtoer/kinderen-koning-het-tieltse-lus-ruiselede-kanegem.gpx
+      length: 22612
+      up: 39
+      down: 39
+      minheight: 14
+      maxheight: 37
+      minslope: -1.3
+      maxslope: 1.7
+      avgposslope: 1.2
+      avgnegslope: -1.2
+      slopehisto:
+        - 1090
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.758
+      minlat: 51.009325
+      minlon: 3.353497
+      maxlat: 51.076772
+      maxlon: 3.417699
 ---
 
 ## Let's Go ! 

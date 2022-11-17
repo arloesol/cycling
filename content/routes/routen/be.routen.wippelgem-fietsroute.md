@@ -1,19 +1,39 @@
 ---
-title: "Wippelgem Fietsroute"
-subtitle: "Fiets van kasteeldorp tot kasteeldorp, van Wippelgem tot Hansbeke langs de Lieve, de kanalen van het Meetjesland en de Lembeekse Bossen"
 date: "2022-11-09"
-description: "Fiets van kasteeldorp tot kasteeldorp, van Wippelgem tot Hansbeke langs de Lieve, de kanalen van het Meetjesland en de Lembeekse Bossen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/wippelgem-fietsroute"
-gpx: "routen/wippelgem-fietsroute.gpx"
-length: 57
-tags:
- - "flanders"
- - "short"
+title: Wippelgem Fietsroute
+subtitle: Fiets van kasteeldorp tot kasteeldorp, van Wippelgem tot Hansbeke langs de Lieve, de kanalen van het Meetjesland en de Lembeekse Bossen
+description: Fiets van kasteeldorp tot kasteeldorp, van Wippelgem tot Hansbeke langs de Lieve, de kanalen van het Meetjesland en de Lembeekse Bossen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/wippelgem-fietsroute
+routes:
+    - name: Main
+      gpx: routen/wippelgem-fietsroute.gpx
+      length: 56897
+      up: 121
+      down: 121
+      minheight: 2
+      maxheight: 17
+      minslope: -6
+      maxslope: 9.7
+      avgposslope: 0.7
+      avgnegslope: -0.7
+      slopehisto:
+        - 6493
+        - 331
+        - 0
+        - 0
+        - 65
+      effortlevel: 2.088
+      minlat: 51.0568
+      minlon: 3.51809
+      maxlat: 51.16818
+      maxlon: 3.71608
 ---
 
 ## Let's Go ! 

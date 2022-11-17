@@ -1,19 +1,39 @@
 ---
-title: "Artful cycling in the green outskirts"
-subtitle: "Starting at the Herkenrode Abbey site, this cycle route guides you through the green surroundings of Hasselt"
 date: "2022-11-09"
-description: "Starting at the Herkenrode Abbey site, this cycle route guides you through the green surroundings of Hasselt"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/artful-cycling-green-outskirts"
-gpx: "limburg/artful-cycling-green-outskirts.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Artful cycling in the green outskirts
+subtitle: Starting at the Herkenrode Abbey site, this cycle route guides you through the green surroundings of Hasselt
+description: Starting at the Herkenrode Abbey site, this cycle route guides you through the green surroundings of Hasselt
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/artful-cycling-green-outskirts
+routes:
+    - name: Main
+      gpx: limburg/artful-cycling-green-outskirts.gpx
+      length: 45082
+      up: 235
+      down: 235
+      minheight: 22
+      maxheight: 62
+      minslope: -23.7
+      maxslope: 16.7
+      avgposslope: 1.2
+      avgnegslope: -1.4
+      slopehisto:
+        - 6965
+        - 385
+        - 385
+        - 223
+        - 344
+      effortlevel: 2.009
+      minlat: 50.91193
+      minlon: 5.22983
+      maxlat: 50.97319
+      maxlon: 5.41405
 ---
 
 ## Let's Go ! 

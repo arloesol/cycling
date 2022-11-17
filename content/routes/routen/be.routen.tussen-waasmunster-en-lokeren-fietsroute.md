@@ -1,19 +1,39 @@
 ---
-title: "Tussen Waasmunster En Lokeren Fietsroute"
-subtitle: "Laat je op deze fietsroute tussen Waasmunster en Lokeren leiden door de Durme, ooit 100 kilometer lang maar vandaag gereduceerd tot 26 kilometer"
 date: "2022-11-09"
-description: "Laat je op deze fietsroute tussen Waasmunster en Lokeren leiden door de Durme, ooit 100 kilometer lang maar vandaag gereduceerd tot 26 kilometer"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/tussen-waasmunster-en-lokeren-fietsroute"
-gpx: "routen/tussen-waasmunster-en-lokeren-fietsroute.gpx"
-length: 33
-tags:
- - "flanders"
- - "short"
+title: Tussen Waasmunster En Lokeren Fietsroute
+subtitle: Laat je op deze fietsroute tussen Waasmunster en Lokeren leiden door de Durme, ooit 100 kilometer lang maar vandaag gereduceerd tot 26 kilometer
+description: Laat je op deze fietsroute tussen Waasmunster en Lokeren leiden door de Durme, ooit 100 kilometer lang maar vandaag gereduceerd tot 26 kilometer
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/tussen-waasmunster-en-lokeren-fietsroute
+routes:
+    - name: Main
+      gpx: routen/tussen-waasmunster-en-lokeren-fietsroute.gpx
+      length: 33340
+      up: 110
+      down: 110
+      minheight: 2
+      maxheight: 35
+      minslope: -5.2
+      maxslope: 5.9
+      avgposslope: 0.9
+      avgnegslope: -1
+      slopehisto:
+        - 5236
+        - 282
+        - 201
+        - 0
+        - 0
+      effortlevel: 1.31
+      minlat: 51.09498
+      minlon: 3.98007
+      maxlat: 51.15624
+      maxlon: 4.11172
 ---
 
 ## Let's Go ! 

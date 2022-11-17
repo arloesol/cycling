@@ -1,19 +1,39 @@
 ---
-title: "De Cichoreiroute: interessante ontmoeting met vergeten ambacht"
-subtitle: "De overwegend vlakke Cichoreifietsroute boort een bijna vergeten stuk geschiedenis aan"
 date: "2022-11-09"
-description: "De overwegend vlakke Cichoreifietsroute boort een bijna vergeten stuk geschiedenis aan"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/de-cichoreiroute-interessante-ontmoeting-met-vergeten-ambacht"
-gpx: "westtoer/de-cichoreiroute-interessante-ontmoeting-met-vergeten-ambacht.gpx"
-length: 55
-tags:
- - "flanders"
- - "short"
+title: 'De Cichoreiroute: interessante ontmoeting met vergeten ambacht'
+subtitle: De overwegend vlakke Cichoreifietsroute boort een bijna vergeten stuk geschiedenis aan
+description: De overwegend vlakke Cichoreifietsroute boort een bijna vergeten stuk geschiedenis aan
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/de-cichoreiroute-interessante-ontmoeting-met-vergeten-ambacht
+routes:
+    - name: Main
+      gpx: westtoer/de-cichoreiroute-interessante-ontmoeting-met-vergeten-ambacht.gpx
+      length: 56073
+      up: 179
+      down: 179
+      minheight: 14
+      maxheight: 47
+      minslope: -4
+      maxslope: 3.6
+      avgposslope: 1.6
+      avgnegslope: -1.3
+      slopehisto:
+        - 9781
+        - 56
+        - 0
+        - 0
+        - 0
+      effortlevel: 2.079
+      minlat: 50.94167
+      minlon: 3.11615
+      maxlat: 51.04281
+      maxlon: 3.26928
 ---
 
 ## Let's Go ! 

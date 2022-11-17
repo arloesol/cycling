@@ -1,26 +1,46 @@
 ---
-title: "Lekker fietsen: 100% genieten in Damme"
-subtitle: "Kom zelf ontdekken waarom Damme culinair befaamd is!
-
-Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
 date: "2022-11-09"
-description: "Kom zelf ontdekken waarom Damme culinair befaamd is!
-
-Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-100-genieten-damme"
-gpx: "westtoer/lekker-fietsen-100-genieten-damme.gpx"
-length: 40
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: 100% genieten in Damme'
+subtitle: |-
+    Kom zelf ontdekken waarom Damme culinair befaamd is!
+    Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland
+description: |-
+    Kom zelf ontdekken waarom Damme culinair befaamd is!
+    Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "28,42,61,18,52,16,21,15,82,58,68,40,54,57,24,74,47,44,26,20,95,25,92,22,67,60,71,6,28"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-100-genieten-damme
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 28,42,61,18,52,16,21,15,82,58,68,40,54,57,24,74,47,44,26,20,95,25,92,22,67,60,71,6,28
+      gpx: westtoer/lekker-fietsen-100-genieten-damme.gpx
+      length: 39757
+      up: 52
+      down: 52
+      minheight: 2
+      maxheight: 7
+      minslope: -3.6
+      maxslope: 3.1
+      avgposslope: 0.2
+      avgnegslope: -0.3
+      slopehisto:
+        - 1661
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.355
+      minlat: 51.211667
+      minlon: 3.261536
+      maxlat: 51.302063
+      maxlon: 3.368153
 ---
 
 ## Let's Go ! 

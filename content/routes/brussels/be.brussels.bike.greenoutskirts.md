@@ -1,26 +1,62 @@
 ---
-title: "Discover the green outskirts of Brussels"
-subtitle: "Playgrounds, a mini steam train and numerous parks ..."
 date: "2022-10-20"
-description: "Green outskirts"
+title: Discover the green outskirts of Brussels
+subtitle: Playgrounds, a mini steam train and numerous parks ...
+description: Green outskirts
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-ext_url: "https://www.bike.brussels/en/blog/discover-the-green-outskirts-of-brussels"
-gpx: "brussels/Bike-for-Brussels-Ontdek-de-groene-rand-van-Brussel.gpx"
-length: 60
-gmaps: "https://www.google.com/maps/d/u/0/edit?mid=1H1sMr8ncqQ35nwlHWrXdrCAk0-_j4lka&usp=sharing"
-altroutes:
-  - name: "short"
-    gpx: "brussels/Bike-for-Brussels-Ontdek-de-groene-rand-van-Brussel-Short.gpx"
-    length: 32
-    gmaps: "https://www.google.com/maps/d/u/0/edit?mid=1H1sMr8ncqQ35nwlHWrXdrCAk0-_j4lka&usp=sharing"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/discover-the-green-outskirts-of-brussels
+routes:
+    - name: Main
+      gpx: brussels/Bike-for-Brussels-Ontdek-de-groene-rand-van-Brussel.gpx
+      length: 58612
+      up: 662
+      down: 662
+      minheight: 15
+      maxheight: 145
+      minslope: -10.9
+      maxslope: 11.5
+      avgposslope: 0.9
+      avgnegslope: -1.1
+      slopehisto:
+        - 13339
+        - 3814
+        - 1429
+        - 350
+        - 459
+      effortlevel: 3.31
+      minlat: 50.77164
+      minlon: 4.25906
+      maxlat: 50.89424
+      maxlon: 4.44815
+    - name: short
+      gpx: brussels/Bike-for-Brussels-Ontdek-de-groene-rand-van-Brussel-Short.gpx
+      length: 32842
+      up: 308
+      down: 272
+      minheight: 18
+      maxheight: 75
+      minslope: -8
+      maxslope: 103.6
+      avgposslope: 1.3
+      avgnegslope: -1.4
+      slopehisto:
+        - 6499
+        - 1801
+        - 310
+        - 54
+        - 34
+      effortlevel: 1.725
+      minlat: 50.81175
+      minlon: 4.25906
+      maxlat: 50.89424
+      maxlon: 4.376566
 ---
 ## Let's go !
 
