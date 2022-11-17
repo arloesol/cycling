@@ -1,19 +1,39 @@
 ---
-title: "Mandeldalfietsroute"
-subtitle: "De Mandeldalfietsroute biedt veel variatie"
 date: "2022-11-09"
-description: "De Mandeldalfietsroute biedt veel variatie"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/mandeldalfietsroute"
-gpx: "westtoer/mandeldalfietsroute.gpx"
-length: 54
-tags:
- - "flanders"
- - "short"
+title: Mandeldalfietsroute
+subtitle: De Mandeldalfietsroute biedt veel variatie
+description: De Mandeldalfietsroute biedt veel variatie
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/mandeldalfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/mandeldalfietsroute.gpx
+      length: 53107
+      up: 191
+      down: 191
+      minheight: 7
+      maxheight: 43
+      minslope: -6.5
+      maxslope: 5.1
+      avgposslope: 0.4
+      avgnegslope: -0.4
+      slopehisto:
+        - 4166
+        - 512
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.903
+      minlat: 50.90304
+      minlon: 3.231124
+      maxlat: 50.982452
+      maxlon: 3.420771
 ---
 
 ## Let's Go ! 

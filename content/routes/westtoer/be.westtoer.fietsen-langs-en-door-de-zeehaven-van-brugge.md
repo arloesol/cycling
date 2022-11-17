@@ -1,22 +1,42 @@
 ---
-title: "Fietsen langs en door de Zeehaven van Brugge"
-subtitle: "Een robuuste zeehaven, een rustgevende strandomgeving en een snuifje vissersnostalgie vormen het scenario voor deze fietstocht"
 date: "2022-11-09"
-description: "Een robuuste zeehaven, een rustgevende strandomgeving en een snuifje vissersnostalgie vormen het scenario voor deze fietstocht"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-en-door-de-zeehaven-van-brugge"
-gpx: "westtoer/fietsen-langs-en-door-de-zeehaven-van-brugge.gpx"
-length: 29
-tags:
- - "flanders"
- - "vshort"
+title: Fietsen langs en door de Zeehaven van Brugge
+subtitle: Een robuuste zeehaven, een rustgevende strandomgeving en een snuifje vissersnostalgie vormen het scenario voor deze fietstocht
+description: Een robuuste zeehaven, een rustgevende strandomgeving en een snuifje vissersnostalgie vormen het scenario voor deze fietstocht
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "33,30,96,59,45,99,66,46,9,38,36,33"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-langs-en-door-de-zeehaven-van-brugge
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 33,30,96,59,45,99,66,46,9,38,36,33
+      gpx: westtoer/fietsen-langs-en-door-de-zeehaven-van-brugge.gpx
+      length: 28725
+      up: 25
+      down: 25
+      minheight: 3
+      maxheight: 11
+      minslope: -3.8
+      maxslope: 11
+      avgposslope: 1.1
+      avgnegslope: -0.7
+      slopehisto:
+        - 847
+        - 0
+        - 0
+        - 0
+        - 66
+      effortlevel: 1.008
+      minlat: 51.269851
+      minlon: 3.160326
+      maxlat: 51.339624
+      maxlon: 3.26199
 ---
 
 ## Let's Go ! 

@@ -1,22 +1,42 @@
 ---
-title: "Trappen van stad naar strand met Jaek en Nink"
-subtitle: "Deze route vertrekt op de Grote Markt in Veurne"
 date: "2022-11-09"
-description: "Deze route vertrekt op de Grote Markt in Veurne"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/trappen-van-stad-naar-strand-met-jaek-en-nink"
-gpx: "westtoer/trappen-van-stad-naar-strand-met-jaek-en-nink.gpx"
-length: 21
-tags:
- - "flanders"
- - "vshort"
+title: Trappen van stad naar strand met Jaek en Nink
+subtitle: Deze route vertrekt op de Grote Markt in Veurne
+description: Deze route vertrekt op de Grote Markt in Veurne
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "9,84,1,50,76,59,65,62,86,68"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/trappen-van-stad-naar-strand-met-jaek-en-nink
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 9,84,1,50,76,59,65,62,86,68
+      gpx: westtoer/trappen-van-stad-naar-strand-met-jaek-en-nink.gpx
+      length: 21021
+      up: 43
+      down: 43
+      minheight: 2
+      maxheight: 13
+      minslope: -2.3
+      maxslope: 3.1
+      avgposslope: 0.3
+      avgnegslope: -0.2
+      slopehisto:
+        - 561
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.716
+      minlat: 51.06838
+      minlon: 2.588578
+      maxlat: 51.116134
+      maxlon: 2.673918
 ---
 
 ## Let's Go ! 

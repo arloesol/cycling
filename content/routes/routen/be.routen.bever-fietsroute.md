@@ -1,19 +1,39 @@
 ---
-title: "Bever Fietsroute"
-subtitle: "Tussen Temse en Kruibeke neemt de Schelde alleen maar toe in grandeur"
 date: "2022-11-09"
-description: "Tussen Temse en Kruibeke neemt de Schelde alleen maar toe in grandeur"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/bever-fietsroute"
-gpx: "routen/bever-fietsroute.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Bever Fietsroute
+subtitle: Tussen Temse en Kruibeke neemt de Schelde alleen maar toe in grandeur
+description: Tussen Temse en Kruibeke neemt de Schelde alleen maar toe in grandeur
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/bever-fietsroute
+routes:
+    - name: Main
+      gpx: routen/bever-fietsroute.gpx
+      length: 38186
+      up: 144
+      down: 144
+      minheight: -1
+      maxheight: 14
+      minslope: -13.7
+      maxslope: 8.2
+      avgposslope: 0.7
+      avgnegslope: -0.6
+      slopehisto:
+        - 5292
+        - 407
+        - 59
+        - 67
+        - 0
+      effortlevel: 1.528
+      minlat: 51.09037
+      minlon: 4.2184
+      maxlat: 51.15922
+      maxlon: 4.33116
 ---
 
 ## Let's Go ! 

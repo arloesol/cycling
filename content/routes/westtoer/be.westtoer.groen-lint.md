@@ -1,19 +1,39 @@
 ---
-title: "Groen Lint Oostende"
-subtitle: "Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buitenrand van Oostende laat ontdekken"
 date: "2022-11-09"
-description: "Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buitenrand van Oostende laat ontdekken"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/groen-lint"
-gpx: "westtoer/groen-lint.gpx"
-length: 35
-tags:
- - "flanders"
- - "short"
+title: Groen Lint Oostende
+subtitle: Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buitenrand van Oostende laat ontdekken
+description: Het Groen Lint is een grotendeels autovrije fietsroute die de verrassende buitenrand van Oostende laat ontdekken
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/groen-lint
+routes:
+    - name: Main
+      gpx: westtoer/groen-lint.gpx
+      length: 35787
+      up: 107
+      down: 107
+      minheight: 0
+      maxheight: 15
+      minslope: -12.5
+      maxslope: 11.5
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 1860
+        - 151
+        - 0
+        - 0
+        - 52
+      effortlevel: 1.259
+      minlat: 51.187132
+      minlon: 2.849055
+      maxlat: 51.238697
+      maxlon: 3.006287
 ---
 
 ## Let's Go ! 

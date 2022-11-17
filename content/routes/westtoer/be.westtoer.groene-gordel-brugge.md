@@ -1,19 +1,39 @@
 ---
-title: "Groene Gordel Brugge"
-subtitle: "De Groene Gordel Brugge fietsroute laat je kennismaken met de gevarieerde omgeving rondom de Werelderfgoedstad Brugge"
 date: "2022-11-09"
-description: "De Groene Gordel Brugge fietsroute laat je kennismaken met de gevarieerde omgeving rondom de Werelderfgoedstad Brugge"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/groene-gordel-brugge"
-gpx: "westtoer/groene-gordel-brugge.gpx"
-length: 53
-tags:
- - "flanders"
- - "short"
+title: Groene Gordel Brugge
+subtitle: De Groene Gordel Brugge fietsroute laat je kennismaken met de gevarieerde omgeving rondom de Werelderfgoedstad Brugge
+description: De Groene Gordel Brugge fietsroute laat je kennismaken met de gevarieerde omgeving rondom de Werelderfgoedstad Brugge
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/groene-gordel-brugge
+routes:
+    - name: Main
+      gpx: westtoer/groene-gordel-brugge.gpx
+      length: 51923
+      up: 113
+      down: 113
+      minheight: 2
+      maxheight: 21
+      minslope: -3.8
+      maxslope: 3.8
+      avgposslope: 0.3
+      avgnegslope: -0.4
+      slopehisto:
+        - 2727
+        - 71
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.771
+      minlat: 51.142702
+      minlon: 3.138262
+      maxlat: 51.252376
+      maxlon: 3.328845
 ---
 
 ## Let's Go ! 

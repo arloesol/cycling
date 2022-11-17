@@ -1,22 +1,42 @@
 ---
-title: "Verrassende plekjes in de omgeving van Roeselare"
-subtitle: "Dit fietslusje verkent de gemeenten Roeselare, Izegem, Lendelede, Ledegem en Moorslede"
 date: "2022-11-09"
-description: "Dit fietslusje verkent de gemeenten Roeselare, Izegem, Lendelede, Ledegem en Moorslede"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/verrassende-plekjes-de-omgeving-van-roeselare"
-gpx: "westtoer/verrassende-plekjes-de-omgeving-van-roeselare.gpx"
-length: 49
-tags:
- - "flanders"
- - "short"
+title: Verrassende plekjes in de omgeving van Roeselare
+subtitle: Dit fietslusje verkent de gemeenten Roeselare, Izegem, Lendelede, Ledegem en Moorslede
+description: Dit fietslusje verkent de gemeenten Roeselare, Izegem, Lendelede, Ledegem en Moorslede
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "76,40,95,50,20,14,42,64,60,30,44,96,45,75,5,61,63,69,39,76"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/verrassende-plekjes-de-omgeving-van-roeselare
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 76,40,95,50,20,14,42,64,60,30,44,96,45,75,5,61,63,69,39,76
+      gpx: westtoer/verrassende-plekjes-de-omgeving-van-roeselare.gpx
+      length: 48732
+      up: 127
+      down: 127
+      minheight: 17
+      maxheight: 55
+      minslope: -7.9
+      maxslope: 3.5
+      avgposslope: 1.9
+      avgnegslope: -2
+      slopehisto:
+        - 6009
+        - 60
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.802
+      minlat: 50.85726
+      minlon: 3.053021
+      maxlat: 50.932565
+      maxlon: 3.224123
 ---
 
 ## Let's Go ! 

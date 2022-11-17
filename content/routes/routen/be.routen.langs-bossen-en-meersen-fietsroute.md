@@ -1,19 +1,39 @@
 ---
-title: "Langs Bossen En Meersen Fietsroute"
-subtitle: "Vertrekkend in het idyllische Munte fiets je in dit stukje bloeiend Oost-Vlaanderen langs het Gentbos richting de Scheldemeersen, om via Oosterzele en Balegem terug aan je startpunt te komen"
 date: "2022-11-09"
-description: "Vertrekkend in het idyllische Munte fiets je in dit stukje bloeiend Oost-Vlaanderen langs het Gentbos richting de Scheldemeersen, om via Oosterzele en Balegem terug aan je startpunt te komen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/langs-bossen-en-meersen-fietsroute"
-gpx: "routen/langs-bossen-en-meersen-fietsroute.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Langs Bossen En Meersen Fietsroute
+subtitle: Vertrekkend in het idyllische Munte fiets je in dit stukje bloeiend Oost-Vlaanderen langs het Gentbos richting de Scheldemeersen, om via Oosterzele en Balegem terug aan je startpunt te komen
+description: Vertrekkend in het idyllische Munte fiets je in dit stukje bloeiend Oost-Vlaanderen langs het Gentbos richting de Scheldemeersen, om via Oosterzele en Balegem terug aan je startpunt te komen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/langs-bossen-en-meersen-fietsroute
+routes:
+    - name: Main
+      gpx: routen/langs-bossen-en-meersen-fietsroute.gpx
+      length: 47017
+      up: 281
+      down: 281
+      minheight: 3
+      maxheight: 61
+      minslope: -12.4
+      maxslope: 12.7
+      avgposslope: 1.4
+      avgnegslope: -1.2
+      slopehisto:
+        - 10768
+        - 1328
+        - 274
+        - 151
+        - 183
+      effortlevel: 2.185
+      minlat: 50.91179
+      minlon: 3.71424
+      maxlat: 51.00244
+      maxlon: 3.82568
 ---
 
 ## Let's Go ! 

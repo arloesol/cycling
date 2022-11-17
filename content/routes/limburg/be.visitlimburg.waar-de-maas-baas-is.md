@@ -1,19 +1,39 @@
 ---
-title: "Where the Maas is Boss"
-subtitle: "The Maas is the boss in the east of Limburg! Over the centuries, the river has scoured its way through the beautiful valley, giving nature free rein in several places"
 date: "2022-11-09"
-description: "The Maas is the boss in the east of Limburg! Over the centuries, the river has scoured its way through the beautiful valley, giving nature free rein in several places"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/waar-de-maas-baas-is"
-gpx: "limburg/waar-de-maas-baas-is.gpx"
-length: 50
-tags:
- - "flanders"
- - "short"
+title: Where the Maas is Boss
+subtitle: The Maas is the boss in the east of Limburg! Over the centuries, the river has scoured its way through the beautiful valley, giving nature free rein in several places
+description: The Maas is the boss in the east of Limburg! Over the centuries, the river has scoured its way through the beautiful valley, giving nature free rein in several places
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/waar-de-maas-baas-is
+routes:
+    - name: Main
+      gpx: limburg/waar-de-maas-baas-is.gpx
+      length: 49508
+      up: 163
+      down: 163
+      minheight: 26
+      maxheight: 52
+      minslope: -6.6
+      maxslope: 10.5
+      avgposslope: 0.9
+      avgnegslope: -1
+      slopehisto:
+        - 6242
+        - 405
+        - 333
+        - 0
+        - 64
+      effortlevel: 1.928
+      minlat: 50.98404
+      minlon: 5.70184
+      maxlat: 51.11534
+      maxlon: 5.81346
 ---
 
 ## Let's Go ! 

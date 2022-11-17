@@ -1,22 +1,42 @@
 ---
-title: "Bruegelroute"
-subtitle: "Fiets door de streek van schilder Pieter Bruegel en voel waar hij zijn inspiratie heeft gehaald"
 date: "2022-11-09"
-description: "Fiets door de streek van schilder Pieter Bruegel en voel waar hij zijn inspiratie heeft gehaald. Het kerkje van Sint-Anna-Pede is zo weggeplukt uit zijn ‘Parabel van de Blinden’. Je vindt schitterende kastelen, molens en proeverijen op je weg."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/bruegelroute/index.html"
-gpx: "vlaamsbrabant/Bruegelroute.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Bruegelroute
+subtitle: Fiets door de streek van schilder Pieter Bruegel en voel waar hij zijn inspiratie heeft gehaald
+description: Fiets door de streek van schilder Pieter Bruegel en voel waar hij zijn inspiratie heeft gehaald. Het kerkje van Sint-Anna-Pede is zo weggeplukt uit zijn ‘Parabel van de Blinden’. Je vindt schitterende kastelen, molens en proeverijen op je weg.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "61,62,53,34,36,45,56,21,23,71,72,70,69,21,20,88,37,87,46,61"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/bruegelroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 61,62,53,34,36,45,56,21,23,71,72,70,69,21,20,88,37,87,46,61
+      gpx: vlaamsbrabant/Bruegelroute.gpx
+      length: 38510
+      up: 335
+      down: 335
+      minheight: 23
+      maxheight: 87
+      minslope: -12.6
+      maxslope: 11.3
+      avgposslope: 2.1
+      avgnegslope: -1.9
+      slopehisto:
+        - 7951
+        - 2357
+        - 1206
+        - 86
+        - 117
+      effortlevel: 2.016
+      minlat: 50.77634
+      minlon: 4.19364
+      maxlat: 50.87025
+      maxlon: 4.26411
 ---
 
 ## Let's Go ! 

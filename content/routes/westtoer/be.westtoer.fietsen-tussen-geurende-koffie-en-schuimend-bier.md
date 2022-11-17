@@ -1,22 +1,42 @@
 ---
-title: "Fietsen tussen geurende koffie en schuimend bier"
-subtitle: "Koffie, fietsen en eindigen met een biertje"
 date: "2022-11-09"
-description: "Koffie, fietsen en eindigen met een biertje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-tussen-geurende-koffie-en-schuimend-bier"
-gpx: "westtoer/fietsen-tussen-geurende-koffie-en-schuimend-bier.gpx"
-length: 43
-tags:
- - "flanders"
- - "short"
+title: Fietsen tussen geurende koffie en schuimend bier
+subtitle: Koffie, fietsen en eindigen met een biertje
+description: Koffie, fietsen en eindigen met een biertje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "27,28,62,83,50,60,53,54,63,5,8,75,20,42,22,27"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-tussen-geurende-koffie-en-schuimend-bier
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 27,28,62,83,50,60,53,54,63,5,8,75,20,42,22,27
+      gpx: westtoer/fietsen-tussen-geurende-koffie-en-schuimend-bier.gpx
+      length: 43007
+      up: 62
+      down: 62
+      minheight: 4
+      maxheight: 26
+      minslope: -2.8
+      maxslope: 3.3
+      avgposslope: 2.4
+      avgnegslope: -1.7
+      slopehisto:
+        - 943
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.463
+      minlat: 50.91021
+      minlon: 2.823535
+      maxlat: 50.972967
+      maxlon: 2.98579
 ---
 
 ## Let's Go ! 

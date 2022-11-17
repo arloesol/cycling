@@ -1,19 +1,39 @@
 ---
-title: "Tussen Schelde En Zeeland Fietsroute"
-subtitle: "Een lange trip door het oostelijke deel van het Waasland, perfect voor een tweedaagse fietstocht"
 date: "2022-11-09"
-description: "Een lange trip door het oostelijke deel van het Waasland, perfect voor een tweedaagse fietstocht"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/tussen-schelde-en-zeeland-fietsroute"
-gpx: "routen/tussen-schelde-en-zeeland-fietsroute.gpx"
-length: 127
-tags:
- - "flanders"
- - "long"
+title: Tussen Schelde En Zeeland Fietsroute
+subtitle: Een lange trip door het oostelijke deel van het Waasland, perfect voor een tweedaagse fietstocht
+description: Een lange trip door het oostelijke deel van het Waasland, perfect voor een tweedaagse fietstocht
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/tussen-schelde-en-zeeland-fietsroute
+routes:
+    - name: Main
+      gpx: routen/tussen-schelde-en-zeeland-fietsroute.gpx
+      length: 127309
+      up: 10253
+      down: 10253
+      minheight: -9999
+      maxheight: 29
+      minslope: -4233.4
+      maxslope: 1241.6
+      avgposslope: 131.5
+      avgnegslope: -40
+      slopehisto:
+        - 6432
+        - 631
+        - 241
+        - 0
+        - 863
+      effortlevel: 37.95
+      minlat: 51.14509
+      minlon: 4.05071
+      maxlat: 51.35158
+      maxlon: 4.32611
 ---
 
 ## Let's Go ! 

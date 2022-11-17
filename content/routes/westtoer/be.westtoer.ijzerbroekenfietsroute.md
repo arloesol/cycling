@@ -1,19 +1,39 @@
 ---
-title: "IJzerbroekenfietsroute"
-subtitle: "De route loopt door het waterrijke landschap van de IJzerbroeken, op de grens van de polders en de zandleemstreek"
 date: "2022-11-09"
-description: "De route loopt door het waterrijke landschap van de IJzerbroeken, op de grens van de polders en de zandleemstreek"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/ijzerbroekenfietsroute"
-gpx: "westtoer/ijzerbroekenfietsroute.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: IJzerbroekenfietsroute
+subtitle: De route loopt door het waterrijke landschap van de IJzerbroeken, op de grens van de polders en de zandleemstreek
+description: De route loopt door het waterrijke landschap van de IJzerbroeken, op de grens van de polders en de zandleemstreek
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/ijzerbroekenfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/ijzerbroekenfietsroute.gpx
+      length: 40616
+      up: 111
+      down: 111
+      minheight: 2
+      maxheight: 13
+      minslope: -2.8
+      maxslope: 3.1
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 3280
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.41
+      minlat: 50.918281
+      minlon: 2.705258
+      maxlat: 51.001408
+      maxlon: 2.845745
 ---
 
 ## Let's Go ! 

@@ -13,17 +13,6 @@ func extraYaml(cfg Cfg, route Route) string {
 func tags(cfg Cfg, route Route) string { // tags : cfg and route tags + tag depending on length
 	// Todo: add a tag based on slope - flat, rolling, hilly, ... - check official categories
 	alltags := append(cfg.Tags, route.Tags...)
-	lentag := "vlong"
-	if route.Length < 30 {
-		lentag = "vshort"
-	} else if route.Length < 60 {
-		lentag = "short"
-	} else if route.Length < 100 {
-		lentag = "medium"
-	} else if route.Length < 150 {
-		lentag = "long"
-	}
-	alltags = append(alltags, lentag)
 	return "\ntags:\n - \"" + strings.Join(alltags, "\"\n - \"") + "\""
 }
 
@@ -83,15 +72,36 @@ func Routepage(cfg Cfg, route Route) {
 		f, _ := os.Create(routedir + "/" + route.Name + ".md")
 		defer f.Close()
 		mdContent := `---
+date: "%s"
 title: "%s"
 subtitle: "%s"
-date: "%s"
 description: "%s"
 region: "%s"
-source: "%s"
-ext_url: "%s"
-gpx: "%s"
-length: %d%s
+website: "%s"
+ext_url: "%s"%s
+routes:
+    - name: Main
+      gpx: "%s"
+      length: %d000
+      up: 0
+      down: 0
+      minheight: 99999999999999
+      maxheight: 0
+      minslope: 0
+      maxslope: 0
+      avgposslope: 0
+      avgnegslope: 0
+      slopehisto:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0
+      minlat: 0
+      minlon: 0
+      maxlat: 0
+      maxlon: 0
 ---
 
 ## Let's Go ! 
@@ -113,10 +123,10 @@ length: %d%s
 		}
 		LogInfo.Println("Create route page", route.Name)
 		f.WriteString(fmt.Sprintf(mdContent,
-			route.Title, route.Subtitle, route.Date, route.Description,
+			route.Date, route.Title, route.Subtitle, route.Description,
 			cfg.Region, cfg.Srcpfx[:len(cfg.Srcpfx)-1],
-			route.Routeurl, cfg.Source+"/"+route.Gpxfile, route.Length,
-			extraYaml(cfg, route), route.Content))
+			route.Routeurl, extraYaml(cfg, route),
+			cfg.Source+"/"+route.Gpxfile, route.Length, route.Content))
 	}
 }
 

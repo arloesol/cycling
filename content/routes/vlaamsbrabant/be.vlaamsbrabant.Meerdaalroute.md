@@ -1,22 +1,42 @@
 ---
-title: "Meerdaalroute"
-subtitle: "Een fietslus om de stad te ontsnappen en te herademen in het bos"
 date: "2022-11-09"
-description: "Een fietslus om de stad te ontsnappen en te herademen in het bos. Als je Leuven nog maar net uit bent, duik je het groen in van het Heverleebos en Meerdaalwoud. Halverwege stoot je op de gekste klim- en klautertuigen, dus een ideale tocht om met kinderen te maken."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/meerdaalroute/index.html"
-gpx: "vlaamsbrabant/Meerdaalroute.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: Meerdaalroute
+subtitle: Een fietslus om de stad te ontsnappen en te herademen in het bos
+description: Een fietslus om de stad te ontsnappen en te herademen in het bos. Als je Leuven nog maar net uit bent, duik je het groen in van het Heverleebos en Meerdaalwoud. Halverwege stoot je op de gekste klim- en klautertuigen, dus een ideale tocht om met kinderen te maken.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "82,76,70,75,73,11,10,74,75,13,2,1,79,78,82"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/meerdaalroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 82,76,70,75,73,11,10,74,75,13,2,1,79,78,82
+      gpx: vlaamsbrabant/Meerdaalroute.gpx
+      length: 31058
+      up: 302
+      down: 302
+      minheight: 20
+      maxheight: 97
+      minslope: -15.1
+      maxslope: 17.9
+      avgposslope: 3.6
+      avgnegslope: -3.2
+      slopehisto:
+        - 7150
+        - 1484
+        - 524
+        - 149
+        - 681
+      effortlevel: 1.884
+      minlat: 50.80592
+      minlon: 4.62176
+      maxlat: 50.88117
+      maxlon: 4.72007
 ---
 
 ## Let's Go ! 

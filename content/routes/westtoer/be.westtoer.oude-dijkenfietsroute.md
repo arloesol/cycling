@@ -1,19 +1,39 @@
 ---
-title: "Oude Dijkenfietsroute"
-subtitle: "De polders en het platteland ten oosten van Oostende kan je al fietsend verkennen langs de Oude Dijkenfietsroute"
 date: "2022-11-09"
-description: "De polders en het platteland ten oosten van Oostende kan je al fietsend verkennen langs de Oude Dijkenfietsroute"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/oude-dijkenfietsroute"
-gpx: "westtoer/oude-dijkenfietsroute.gpx"
-length: 43
-tags:
- - "flanders"
- - "short"
+title: Oude Dijkenfietsroute
+subtitle: De polders en het platteland ten oosten van Oostende kan je al fietsend verkennen langs de Oude Dijkenfietsroute
+description: De polders en het platteland ten oosten van Oostende kan je al fietsend verkennen langs de Oude Dijkenfietsroute
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/oude-dijkenfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/oude-dijkenfietsroute.gpx
+      length: 42081
+      up: 97
+      down: 97
+      minheight: 1
+      maxheight: 16
+      minslope: -3.9
+      maxslope: 6.9
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 2337
+        - 210
+        - 65
+        - 0
+        - 0
+      effortlevel: 1.471
+      minlat: 51.159686
+      minlon: 2.995467
+      maxlat: 51.281688
+      maxlon: 3.083766
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Westkustfietsroute"
-subtitle: "De Westkustfietsroute laat je kennismaken met de grote verscheidenheid die de Westkust te bieden heeft"
 date: "2022-11-09"
-description: "De Westkustfietsroute laat je kennismaken met de grote verscheidenheid die de Westkust te bieden heeft"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/westkustfietsroute"
-gpx: "westtoer/westkustfietsroute.gpx"
-length: 48
-tags:
- - "flanders"
- - "short"
+title: Westkustfietsroute
+subtitle: De Westkustfietsroute laat je kennismaken met de grote verscheidenheid die de Westkust te bieden heeft
+description: De Westkustfietsroute laat je kennismaken met de grote verscheidenheid die de Westkust te bieden heeft
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/westkustfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/westkustfietsroute.gpx
+      length: 47779
+      up: 138
+      down: 138
+      minheight: 1
+      maxheight: 26
+      minslope: -7.2
+      maxslope: 9.4
+      avgposslope: 0.4
+      avgnegslope: -0.4
+      slopehisto:
+        - 1504
+        - 325
+        - 138
+        - 51
+        - 0
+      effortlevel: 1.702
+      minlat: 51.06838
+      minlon: 2.588578
+      maxlat: 51.152533
+      maxlon: 2.805902
 ---
 
 ## Let's Go ! 

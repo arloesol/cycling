@@ -1,19 +1,39 @@
 ---
-title: "The Meuse Route"
-subtitle: "Cycle along a necklace of historic villages and endless riverbanks in the Limburg Maas region"
 date: "2022-11-09"
-description: "Cycle along a necklace of historic villages and endless riverbanks in the Limburg Maas region"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/meuse-route"
-gpx: "limburg/meuse-route.gpx"
-length: 75
-tags:
- - "flanders"
- - "medium"
+title: The Meuse Route
+subtitle: Cycle along a necklace of historic villages and endless riverbanks in the Limburg Maas region
+description: Cycle along a necklace of historic villages and endless riverbanks in the Limburg Maas region
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/meuse-route
+routes:
+    - name: Main
+      gpx: limburg/meuse-route.gpx
+      length: 76916
+      up: 334
+      down: 365
+      minheight: 21
+      maxheight: 109
+      minslope: -12.9
+      maxslope: 13.8
+      avgposslope: 1.2
+      avgnegslope: -1.1
+      slopehisto:
+        - 10185
+        - 919
+        - 494
+        - 379
+        - 273
+      effortlevel: 3.141
+      minlat: 50.79446
+      minlon: 5.63788
+      maxlat: 51.18372
+      maxlon: 5.92409
 ---
 
 ## Let's Go ! 

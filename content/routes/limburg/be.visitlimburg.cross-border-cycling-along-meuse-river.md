@@ -1,19 +1,39 @@
 ---
-title: "Cross-border cycling along the Meuse river"
-subtitle: "You cycle nice and flat with the Meuse river next to you, while overlooking the water and surrounding nature"
 date: "2022-11-09"
-description: "You cycle nice and flat with the Meuse river next to you, while overlooking the water and surrounding nature"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/cross-border-cycling-along-meuse-river"
-gpx: "limburg/cross-border-cycling-along-meuse-river.gpx"
-length: 64
-tags:
- - "flanders"
- - "medium"
+title: Cross-border cycling along the Meuse river
+subtitle: You cycle nice and flat with the Meuse river next to you, while overlooking the water and surrounding nature
+description: You cycle nice and flat with the Meuse river next to you, while overlooking the water and surrounding nature
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/cross-border-cycling-along-meuse-river
+routes:
+    - name: Main
+      gpx: limburg/cross-border-cycling-along-meuse-river.gpx
+      length: 64607
+      up: 239
+      down: 239
+      minheight: 21
+      maxheight: 38
+      minslope: -10.3
+      maxslope: 10
+      avgposslope: 0.8
+      avgnegslope: -0.8
+      slopehisto:
+        - 10270
+        - 677
+        - 136
+        - 108
+        - 63
+      effortlevel: 2.577
+      minlat: 51.00559
+      minlon: 5.75004
+      maxlat: 51.16587
+      maxlon: 5.89575
 ---
 
 ## Let's Go ! 

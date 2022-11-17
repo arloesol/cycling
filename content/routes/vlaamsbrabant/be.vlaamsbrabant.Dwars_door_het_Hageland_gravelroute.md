@@ -1,19 +1,39 @@
 ---
-title: "Dwars door het Hageland gravelroute"
-subtitle: "Dwars door het Hageland is niet voor niets de Strade Bianche van het Noorden"
 date: "2022-11-09"
-description: "Dwars door het Hageland is niet voor niets de Strade Bianche van het Noorden. Op deze gravelroute ontdek je de meest uitdagende gravelpassages uit de wedstrijd doorheen de mooiste landschappen van Hageland. Een must voor elke gravelfan."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/dwars-door-het-hageland-gravelroute/index.html"
-gpx: "vlaamsbrabant/Dwars_door_het_Hageland_gravelroute.gpx"
-length: 75
-tags:
- - "flanders"
- - "medium"
+title: Dwars door het Hageland gravelroute
+subtitle: Dwars door het Hageland is niet voor niets de Strade Bianche van het Noorden
+description: Dwars door het Hageland is niet voor niets de Strade Bianche van het Noorden. Op deze gravelroute ontdek je de meest uitdagende gravelpassages uit de wedstrijd doorheen de mooiste landschappen van Hageland. Een must voor elke gravelfan.
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/dwars-door-het-hageland-gravelroute/index.html
+routes:
+    - name: Main
+      gpx: vlaamsbrabant/Dwars_door_het_Hageland_gravelroute.gpx
+      length: 76723
+      up: 673
+      down: 673
+      minheight: 8
+      maxheight: 78
+      minslope: -22.6
+      maxslope: 20.5
+      avgposslope: 1.6
+      avgnegslope: -1.8
+      slopehisto:
+        - 13167
+        - 2874
+        - 1668
+        - 867
+        - 685
+      effortlevel: 4.129
+      minlat: 50.92498
+      minlon: 4.76276
+      maxlat: 51.03254
+      maxlon: 5.04976
 ---
 
 ## Let's Go ! 

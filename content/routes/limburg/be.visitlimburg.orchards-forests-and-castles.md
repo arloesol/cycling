@@ -1,19 +1,39 @@
 ---
-title: "Orchards, forests and castles"
-subtitle: "This mainly flat route with some moderate climbs takes you throughout a varied fruit landscape dotted with church villages, square farms, and castles"
 date: "2022-11-09"
-description: "This mainly flat route with some moderate climbs takes you throughout a varied fruit landscape dotted with church villages, square farms, and castles"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/orchards-forests-and-castles"
-gpx: "limburg/orchards-forests-and-castles.gpx"
-length: 55
-tags:
- - "flanders"
- - "short"
+title: Orchards, forests and castles
+subtitle: This mainly flat route with some moderate climbs takes you throughout a varied fruit landscape dotted with church villages, square farms, and castles
+description: This mainly flat route with some moderate climbs takes you throughout a varied fruit landscape dotted with church villages, square farms, and castles
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/orchards-forests-and-castles
+routes:
+    - name: Main
+      gpx: limburg/orchards-forests-and-castles.gpx
+      length: 53615
+      up: 320
+      down: 320
+      minheight: 34
+      maxheight: 79
+      minslope: -11.1
+      maxslope: 21.4
+      avgposslope: 1
+      avgnegslope: -1.2
+      slopehisto:
+        - 11901
+        - 1264
+        - 79
+        - 0
+        - 179
+      effortlevel: 2.355
+      minlat: 50.81062
+      minlon: 5.19576
+      maxlat: 50.90316
+      maxlon: 5.38484
 ---
 
 ## Let's Go ! 

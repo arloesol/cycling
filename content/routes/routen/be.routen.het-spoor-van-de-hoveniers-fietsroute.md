@@ -1,19 +1,39 @@
 ---
-title: "Het Spoor Van De Hoveniers Fietsroute"
-subtitle: "Wie Scheldeland zegt, zegt sierteelt"
 date: "2022-11-09"
-description: "Wie Scheldeland zegt, zegt sierteelt"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/het-spoor-van-de-hoveniers-fietsroute"
-gpx: "routen/het-spoor-van-de-hoveniers-fietsroute.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: Het Spoor Van De Hoveniers Fietsroute
+subtitle: Wie Scheldeland zegt, zegt sierteelt
+description: Wie Scheldeland zegt, zegt sierteelt
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/het-spoor-van-de-hoveniers-fietsroute
+routes:
+    - name: Main
+      gpx: routen/het-spoor-van-de-hoveniers-fietsroute.gpx
+      length: 31961
+      up: 138
+      down: 138
+      minheight: 4
+      maxheight: 34
+      minslope: -8.7
+      maxslope: 12.3
+      avgposslope: 1
+      avgnegslope: -0.9
+      slopehisto:
+        - 6529
+        - 421
+        - 0
+        - 0
+        - 110
+      effortlevel: 1.303
+      minlat: 50.96552
+      minlon: 3.84767
+      maxlat: 51.01672
+      maxlon: 3.9661
 ---
 
 ## Let's Go ! 

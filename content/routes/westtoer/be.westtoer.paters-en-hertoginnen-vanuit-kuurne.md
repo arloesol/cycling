@@ -1,22 +1,42 @@
 ---
-title: "Paters en hertoginnen vanuit Kuurne"
-subtitle: "Beleef 38 km fietsplezier tussen brouwerij De Brabandere in Bavikhove en brouwerij Verhaeghe in Vichte"
 date: "2022-11-09"
-description: "Beleef 38 km fietsplezier tussen brouwerij De Brabandere in Bavikhove en brouwerij Verhaeghe in Vichte"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/paters-en-hertoginnen-vanuit-kuurne"
-gpx: "westtoer/paters-en-hertoginnen-vanuit-kuurne.gpx"
-length: 37
-tags:
- - "flanders"
- - "short"
+title: Paters en hertoginnen vanuit Kuurne
+subtitle: Beleef 38 km fietsplezier tussen brouwerij De Brabandere in Bavikhove en brouwerij Verhaeghe in Vichte
+description: Beleef 38 km fietsplezier tussen brouwerij De Brabandere in Bavikhove en brouwerij Verhaeghe in Vichte
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "67,86,34,39,23,69,59,54,60,9,55,82,72,94,14,65,52,56,45,44,40,97,26,35,67"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/paters-en-hertoginnen-vanuit-kuurne
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 67,86,34,39,23,69,59,54,60,9,55,82,72,94,14,65,52,56,45,44,40,97,26,35,67
+      gpx: westtoer/paters-en-hertoginnen-vanuit-kuurne.gpx
+      length: 38017
+      up: 61
+      down: 61
+      minheight: 10
+      maxheight: 25
+      minslope: -3.7
+      maxslope: 5.4
+      avgposslope: 1.2
+      avgnegslope: -1.1
+      slopehisto:
+        - 2743
+        - 99
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.325
+      minlat: 50.832363
+      minlon: 3.286524
+      maxlat: 50.891301
+      maxlon: 3.416197
 ---
 
 ## Let's Go ! 

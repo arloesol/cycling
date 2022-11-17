@@ -1,19 +1,39 @@
 ---
-title: "Fietsen op de rand van de kustpolders"
-subtitle: "De nieuwe Polderrandfietsroute is een tocht vol variatie"
 date: "2022-11-09"
-description: "De nieuwe Polderrandfietsroute is een tocht vol variatie"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-op-de-rand-van-de-kustpolders"
-gpx: "westtoer/fietsen-op-de-rand-van-de-kustpolders.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: Fietsen op de rand van de kustpolders
+subtitle: De nieuwe Polderrandfietsroute is een tocht vol variatie
+description: De nieuwe Polderrandfietsroute is een tocht vol variatie
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-op-de-rand-van-de-kustpolders
+routes:
+    - name: Main
+      gpx: westtoer/fietsen-op-de-rand-van-de-kustpolders.gpx
+      length: 43340
+      up: 40
+      down: 35
+      minheight: 3
+      maxheight: 19
+      minslope: -1.7
+      maxslope: 2.1
+      avgposslope: 0.8
+      avgnegslope: -1.7
+      slopehisto:
+        - 685
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.466
+      minlat: 51.107358
+      minlon: 2.955872
+      maxlat: 51.209878
+      maxlon: 3.119931
 ---
 
 ## Let's Go ! 

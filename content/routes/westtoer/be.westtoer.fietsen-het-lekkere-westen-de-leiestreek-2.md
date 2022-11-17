@@ -1,23 +1,43 @@
 ---
-title: "Fietsen in het Lekkere Westen - De Leiestreek 2"
-subtitle: "Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek"
 date: "2022-11-09"
-description: "Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-de-leiestreek-2"
-gpx: "westtoer/fietsen-het-lekkere-westen-de-leiestreek-2.gpx"
-length: 50
-tags:
- - "flanders"
- - "short"
+title: Fietsen in het Lekkere Westen - De Leiestreek 2
+subtitle: Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek
+description: Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "22,26,78,24,53,27,64,74,68,57,83,55,21,20,50,95,98,44,39,76,6,93,3,32,22"
- - "22,26,78,24,53,27,57,83,55,21,20,50,95,,98,44,39,76,6,93,3,32,22"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-de-leiestreek-2
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 22,26,78,24,53,27,64,74,68,57,83,55,21,20,50,95,98,44,39,76,6,93,3,32,22
+        - 22,26,78,24,53,27,57,83,55,21,20,50,95,,98,44,39,76,6,93,3,32,22
+      gpx: westtoer/fietsen-het-lekkere-westen-de-leiestreek-2.gpx
+      length: 49999
+      up: 0
+      down: 0
+      minheight: 123
+      maxheight: 123
+      minslope: 0
+      maxslope: 0
+      avgposslope: .nan
+      avgnegslope: .nan
+      slopehisto:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.667
+      minlat: 50.889558
+      minlon: 3.121111
+      maxlat: 50.958794
+      maxlon: 3.290674
 ---
 
 ## Let's Go ! 

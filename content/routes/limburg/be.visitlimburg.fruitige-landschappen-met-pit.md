@@ -1,19 +1,39 @@
 ---
-title: "PIT artworks in a fruity landscape"
-subtitle: "Cycle through Haspengouw's rolling fruity landscape with its countless fruit orchards, sunken roads, and over steep slopes"
 date: "2022-11-09"
-description: "Cycle through Haspengouw's rolling fruity landscape with its countless fruit orchards, sunken roads, and over steep slopes"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/fruitige-landschappen-met-pit"
-gpx: "limburg/fruitige-landschappen-met-pit.gpx"
-length: 62
-tags:
- - "flanders"
- - "medium"
+title: PIT artworks in a fruity landscape
+subtitle: Cycle through Haspengouw's rolling fruity landscape with its countless fruit orchards, sunken roads, and over steep slopes
+description: Cycle through Haspengouw's rolling fruity landscape with its countless fruit orchards, sunken roads, and over steep slopes
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/fruitige-landschappen-met-pit
+routes:
+    - name: Main
+      gpx: limburg/fruitige-landschappen-met-pit.gpx
+      length: 58660
+      up: 517
+      down: 517
+      minheight: 38
+      maxheight: 120
+      minslope: -26.8
+      maxslope: 14.2
+      avgposslope: 1.4
+      avgnegslope: -1.4
+      slopehisto:
+        - 13938
+        - 3063
+        - 809
+        - 277
+        - 208
+      effortlevel: 3.138
+      minlat: 50.74937
+      minlon: 5.18622
+      maxlat: 50.84729
+      maxlon: 5.38145
 ---
 
 ## Let's Go ! 

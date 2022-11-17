@@ -1,22 +1,40 @@
 ---
-title: "A Scenic Route by the Water"
-subtitle: "Calypso 2000, Logis-Floréal, Woluwe river & park, Tram Museum ..."
 date: "2022-10-17"
-description: "A delightful trip by the water."
+title: A Scenic Route by the Water
+subtitle: Calypso 2000, Logis-Floréal, Woluwe river & park, Tram Museum ...
+description: A delightful trip by the water.
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-length: 20
-ext_url: "https://www.bike.brussels/en/blog/a-scenic-route-by-the-water"
-gpx: "brussels/Bike-routes-6-Elsene-Bosvoorde-Woluwevallei.gpx"
-# mapimg: "brussels/Routes-1-Center.jpg"
-gmaps: "https://www.google.com/maps/d/embed?mid=1q7e9oW7EIF2-o7DvWGPIDw0W2cRT2bM&ehbc=2E312F"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/a-scenic-route-by-the-water
+routes:
+    - name: Main
+      gpx: brussels/Bike-routes-6-Elsene-Bosvoorde-Woluwevallei.gpx
+      length: 14852
+      up: 95
+      down: 91
+      minheight: 49
+      maxheight: 103
+      minslope: -4.3
+      maxslope: 4
+      avgposslope: 1
+      avgnegslope: -1
+      slopehisto:
+        - 2959
+        - 370
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.639
+      minlat: 50.797187
+      minlon: 4.389695
+      maxlat: 50.840049
+      maxlon: 4.433633
 ---
 ## Let's go !
 

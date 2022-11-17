@@ -1,19 +1,39 @@
 ---
-title: "The ultimate two-day cycling experiences tour (north loop)"
-subtitle: "This route takes you from the green mining region in the center of the province to Bosland, Flanders' largest adventure forest in the north"
 date: "2022-11-09"
-description: "This route takes you from the green mining region in the center of the province to Bosland, Flanders' largest adventure forest in the north"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/ultimate-two-day-cycling-experiences-tour-north-loop"
-gpx: "limburg/ultimate-two-day-cycling-experiences-tour-north-loop.gpx"
-length: 77
-tags:
- - "flanders"
- - "medium"
+title: The ultimate two-day cycling experiences tour (north loop)
+subtitle: This route takes you from the green mining region in the center of the province to Bosland, Flanders' largest adventure forest in the north
+description: This route takes you from the green mining region in the center of the province to Bosland, Flanders' largest adventure forest in the north
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/ultimate-two-day-cycling-experiences-tour-north-loop
+routes:
+    - name: Main
+      gpx: limburg/ultimate-two-day-cycling-experiences-tour-north-loop.gpx
+      length: 77354
+      up: 430
+      down: 430
+      minheight: 29
+      maxheight: 89
+      minslope: -17.7
+      maxslope: 20.4
+      avgposslope: 1.9
+      avgnegslope: -2.2
+      slopehisto:
+        - 11148
+        - 1668
+        - 1327
+        - 431
+        - 933
+      effortlevel: 3.664
+      minlat: 51.008
+      minlon: 5.19523
+      maxlat: 51.1677
+      maxlon: 5.406
 ---
 
 ## Let's Go ! 

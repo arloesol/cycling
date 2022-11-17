@@ -1,22 +1,42 @@
 ---
-title: "Fietsen vanuit Ledegem"
-subtitle: "Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Ledegem doorheen Roeselare en langs Ingelmunster"
 date: "2022-11-09"
-description: "Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Ledegem doorheen Roeselare en langs Ingelmunster"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-vanuit-ledegem"
-gpx: "westtoer/fietsen-vanuit-ledegem.gpx"
-length: 44
-tags:
- - "flanders"
- - "short"
+title: Fietsen vanuit Ledegem
+subtitle: Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Ledegem doorheen Roeselare en langs Ingelmunster
+description: Via deze route fiets je op het fietsnetwerk Leiestreek vanuit de gemeente Ledegem doorheen Roeselare en langs Ingelmunster
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "30,44,39,76,6,1,3,32,22,26,78,24,53,27,57,83,55,21,12,56,50,95,98,60,30"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-vanuit-ledegem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 30,44,39,76,6,1,3,32,22,26,78,24,53,27,57,83,55,21,12,56,50,95,98,60,30
+      gpx: westtoer/fietsen-vanuit-ledegem.gpx
+      length: 44539
+      up: 80
+      down: 80
+      minheight: 15
+      maxheight: 35
+      minslope: -5.3
+      maxslope: 2.8
+      avgposslope: 1.8
+      avgnegslope: -1.3
+      slopehisto:
+        - 3168
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.55
+      minlat: 50.85726
+      minlon: 3.121105
+      maxlat: 50.958794
+      maxlon: 3.234688
 ---
 
 ## Let's Go ! 

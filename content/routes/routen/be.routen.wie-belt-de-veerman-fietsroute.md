@@ -1,19 +1,39 @@
 ---
-title: "Wie Belt De Veerman Fietsroute"
-subtitle: "Water is altijd dichtbij in Scheldeland"
 date: "2022-11-09"
-description: "Water is altijd dichtbij in Scheldeland"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/wie-belt-de-veerman-fietsroute"
-gpx: "routen/wie-belt-de-veerman-fietsroute.gpx"
-length: 37
-tags:
- - "flanders"
- - "short"
+title: Wie Belt De Veerman Fietsroute
+subtitle: Water is altijd dichtbij in Scheldeland
+description: Water is altijd dichtbij in Scheldeland
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/wie-belt-de-veerman-fietsroute
+routes:
+    - name: Main
+      gpx: routen/wie-belt-de-veerman-fietsroute.gpx
+      length: 37482
+      up: 115
+      down: 115
+      minheight: 0
+      maxheight: 25
+      minslope: -7.3
+      maxslope: 4.6
+      avgposslope: 0.8
+      avgnegslope: -0.7
+      slopehisto:
+        - 5658
+        - 516
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.459
+      minlat: 50.97909
+      minlon: 3.92633
+      maxlat: 51.04817
+      maxlon: 4.03577
 ---
 
 ## Let's Go ! 

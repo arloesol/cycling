@@ -1,30 +1,48 @@
 ---
-title: "Beaufort Middenkustfietsroute"
-subtitle: "Werken Beaufort 21
-
-Metamorphosis - Oliver Laric
-
-Strand, Flandrialaan, Westende - 51"
 date: "2022-11-09"
-description: "Werken Beaufort 21
-
-Metamorphosis - Oliver Laric
-
-Strand, Flandrialaan, Westende - 51"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/beaufort-middenkustfietsroute"
-gpx: "westtoer/beaufort-middenkustfietsroute.gpx"
-length: 49
-tags:
- - "flanders"
- - "short"
+title: Beaufort Middenkustfietsroute
+subtitle: |-
+    Werken Beaufort 21
+    Metamorphosis - Oliver Laric
+    Strand, Flandrialaan, Westende - 51
+description: |-
+    Werken Beaufort 21
+    Metamorphosis - Oliver Laric
+    Strand, Flandrialaan, Westende - 51
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "81,60,80,52,57,74,45,8,92,56,96,5,67,95,10,4,15,97,47,77,75,16,59,44,2,12,81"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/beaufort-middenkustfietsroute
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 81,60,80,52,57,74,45,8,92,56,96,5,67,95,10,4,15,97,47,77,75,16,59,44,2,12,81
+      gpx: westtoer/beaufort-middenkustfietsroute.gpx
+      length: 48954
+      up: 68
+      down: 68
+      minheight: 2
+      maxheight: 19
+      minslope: -11.4
+      maxslope: 7
+      avgposslope: 0.3
+      avgnegslope: -0.2
+      slopehisto:
+        - 1765
+        - 0
+        - 133
+        - 0
+        - 0
+      effortlevel: 1.702
+      minlat: 51.151178
+      minlon: 2.763306
+      maxlat: 51.254863
+      maxlon: 2.992015
 ---
 
 ## Let's Go ! 

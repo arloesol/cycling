@@ -1,22 +1,42 @@
 ---
-title: "Met Jaek en Nink naar natuurgebied De Blankaart"
-subtitle: "De route vertrekt op de Grote Markt in Diksmuide voor een gezellig namiddagje uit naar het natuurdomein De Blankaart of omgekeerd"
 date: "2022-11-09"
-description: "De route vertrekt op de Grote Markt in Diksmuide voor een gezellig namiddagje uit naar het natuurdomein De Blankaart of omgekeerd"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/met-jaek-en-nink-naar-natuurgebied-de-blankaart"
-gpx: "westtoer/met-jaek-en-nink-naar-natuurgebied-de-blankaart.gpx"
-length: 22
-tags:
- - "flanders"
- - "vshort"
+title: Met Jaek en Nink naar natuurgebied De Blankaart
+subtitle: De route vertrekt op de Grote Markt in Diksmuide voor een gezellig namiddagje uit naar het natuurdomein De Blankaart of omgekeerd
+description: De route vertrekt op de Grote Markt in Diksmuide voor een gezellig namiddagje uit naar het natuurdomein De Blankaart of omgekeerd
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "1,59,92,81,45,21,45,80,19,68,61,92,59,1"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/met-jaek-en-nink-naar-natuurgebied-de-blankaart
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 1,59,92,81,45,21,45,80,19,68,61,92,59,1
+      gpx: westtoer/met-jaek-en-nink-naar-natuurgebied-de-blankaart.gpx
+      length: 24744
+      up: 81
+      down: 81
+      minheight: 2
+      maxheight: 27
+      minslope: -2.6
+      maxslope: 2.7
+      avgposslope: 0.6
+      avgnegslope: -0.5
+      slopehisto:
+        - 2598
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.874
+      minlat: 50.983705
+      minlon: 2.823104
+      maxlat: 51.033507
+      maxlon: 2.897759
 ---
 
 ## Let's Go ! 

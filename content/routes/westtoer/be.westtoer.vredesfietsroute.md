@@ -1,19 +1,39 @@
 ---
-title: "Vredesfietsroute"
-subtitle: "De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog"
 date: "2022-11-09"
-description: "De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/vredesfietsroute"
-gpx: "westtoer/vredesfietsroute.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Vredesfietsroute
+subtitle: De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog
+description: De route volgt de Ypres Salient en confronteert je met een aantal relicten van de Eerste Wereldoorlog
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/vredesfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/vredesfietsroute.gpx
+      length: 46575
+      up: 247
+      down: 247
+      minheight: 8
+      maxheight: 61
+      minslope: -5.5
+      maxslope: 7.2
+      avgposslope: 0.8
+      avgnegslope: -0.7
+      slopehisto:
+        - 6512
+        - 605
+        - 345
+        - 0
+        - 0
+      effortlevel: 1.816
+      minlat: 50.819263
+      minlon: 2.865377
+      maxlat: 50.921111
+      maxlon: 3.00165
 ---
 
 ## Let's Go ! 

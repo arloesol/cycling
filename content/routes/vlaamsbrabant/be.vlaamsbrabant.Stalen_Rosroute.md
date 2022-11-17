@@ -1,22 +1,42 @@
 ---
-title: "Stalen Rosroute"
-subtitle: "De ijzeren weg, de oude spoorweg tussen Tienen en Diest, is nu de bedding voor een prachtige fietstocht"
 date: "2022-11-09"
-description: "De ijzeren weg, de oude spoorweg tussen Tienen en Diest, is nu de bedding voor een prachtige fietstocht. Van 1878 tot 1957 konden treinreizigers dit landschap bewonderen, nu is het de beurt aan de fietsers en wandelaars om hun ogen de kost te geven."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/stalen-ros-fietsroute/index.html"
-gpx: "vlaamsbrabant/Stalen_Rosroute.gpx"
-length: 23
-tags:
- - "flanders"
- - "vshort"
+title: Stalen Rosroute
+subtitle: De ijzeren weg, de oude spoorweg tussen Tienen en Diest, is nu de bedding voor een prachtige fietstocht
+description: De ijzeren weg, de oude spoorweg tussen Tienen en Diest, is nu de bedding voor een prachtige fietstocht. Van 1878 tot 1957 konden treinreizigers dit landschap bewonderen, nu is het de beurt aan de fietsers en wandelaars om hun ogen de kost te geven.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "48,23,51,21,1,192,25,24,22,356,49,31,48,191"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/stalen-ros-fietsroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 48,23,51,21,1,192,25,24,22,356,49,31,48,191
+      gpx: vlaamsbrabant/Stalen_Rosroute.gpx
+      length: 22738
+      up: 73
+      down: 73
+      minheight: 24
+      maxheight: 55
+      minslope: -4
+      maxslope: 5.4
+      avgposslope: 0.8
+      avgnegslope: -0.9
+      slopehisto:
+        - 2423
+        - 417
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.845
+      minlat: 50.82766
+      minlon: 5.05882
+      maxlat: 50.89553
+      maxlon: 5.11517
 ---
 
 ## Let's Go ! 

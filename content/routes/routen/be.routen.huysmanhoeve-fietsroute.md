@@ -1,19 +1,39 @@
 ---
-title: "Huysmanhoeve Fietsroute"
-subtitle: "Vertrek op deze fietstocht vanuit de Huysmanhoeve om kennis te maken met enkele hoogtepunten van het Meetjesland"
 date: "2022-11-09"
-description: "Vertrek op deze fietstocht vanuit de Huysmanhoeve om kennis te maken met enkele hoogtepunten van het Meetjesland"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/huysmanhoeve-fietsroute"
-gpx: "routen/huysmanhoeve-fietsroute.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Huysmanhoeve Fietsroute
+subtitle: Vertrek op deze fietstocht vanuit de Huysmanhoeve om kennis te maken met enkele hoogtepunten van het Meetjesland
+description: Vertrek op deze fietstocht vanuit de Huysmanhoeve om kennis te maken met enkele hoogtepunten van het Meetjesland
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/huysmanhoeve-fietsroute
+routes:
+    - name: Main
+      gpx: routen/huysmanhoeve-fietsroute.gpx
+      length: 46647
+      up: 117
+      down: 117
+      minheight: 2
+      maxheight: 29
+      minslope: -4.6
+      maxslope: 8.7
+      avgposslope: 0.7
+      avgnegslope: -1
+      slopehisto:
+        - 4438
+        - 194
+        - 146
+        - 57
+        - 0
+      effortlevel: 1.709
+      minlat: 51.11534
+      minlon: 3.51237
+      maxlat: 51.23006
+      maxlon: 3.62665
 ---
 
 ## Let's Go ! 

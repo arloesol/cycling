@@ -19,7 +19,7 @@ You can find amongst others following info:
 
 - All kinds of touristic info related to West-Flanders
 - Concerning biking
-  - [routes](/source/be.westtoer) in and around West-Flanders - [on their site](https://www.westtoer.be/nl/doen/fietsroutes) 
+  - [routes](/website/be.westtoer) in and around West-Flanders - [on their site](https://www.westtoer.be/nl/doen/fietsroutes) 
   - a [routeplanner](https://www.westtoer.be/nl/fietsrouteplanner) allowing to use bike-nodes (using [nodemapp](https://www.nodemapp.com/nl))
   - a list of places to hire bikes : https://www.westtoer.be/nl/doen/fietsverhuur
   - an overview of the bike network, maps, ... : https://www.westtoer.be/nl/inspiratie/fietsnetwerk

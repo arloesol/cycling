@@ -1,19 +1,39 @@
 ---
-title: "Waaslandhaven Fietsroute"
-subtitle: "De Havenroute loodst je vanaf Fort Liefkenshoek, over de grootste sluis ter wereld, langs Doel en talrijke weidevogelgebieden naar het heerlijke polderdorpje Kallo"
 date: "2022-11-09"
-description: "De Havenroute loodst je vanaf Fort Liefkenshoek, over de grootste sluis ter wereld, langs Doel en talrijke weidevogelgebieden naar het heerlijke polderdorpje Kallo"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/waaslandhaven-fietsroute"
-gpx: "routen/waaslandhaven-fietsroute.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: Waaslandhaven Fietsroute
+subtitle: De Havenroute loodst je vanaf Fort Liefkenshoek, over de grootste sluis ter wereld, langs Doel en talrijke weidevogelgebieden naar het heerlijke polderdorpje Kallo
+description: De Havenroute loodst je vanaf Fort Liefkenshoek, over de grootste sluis ter wereld, langs Doel en talrijke weidevogelgebieden naar het heerlijke polderdorpje Kallo
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/waaslandhaven-fietsroute
+routes:
+    - name: Main
+      gpx: routen/waaslandhaven-fietsroute.gpx
+      length: 47100
+      up: 99
+      down: 99
+      minheight: -10
+      maxheight: 13
+      minslope: -12.7
+      maxslope: 13
+      avgposslope: 0.4
+      avgnegslope: -0.5
+      slopehisto:
+        - 2163
+        - 452
+        - 112
+        - 69
+        - 76
+      effortlevel: 1.728
+      minlat: 51.22883
+      minlon: 4.18981
+      maxlat: 51.32076
+      maxlon: 4.3109
 ---
 
 ## Let's Go ! 

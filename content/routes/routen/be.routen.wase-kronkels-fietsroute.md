@@ -1,19 +1,39 @@
 ---
-title: "Wase Kronkels Fietsroute"
-subtitle: "Twee langgerekte oude spoorwegbeddingen, omgevormd tot fietspaden, brengen je langs de mooiste natuurgebieden van het Waasland"
 date: "2022-11-09"
-description: "Twee langgerekte oude spoorwegbeddingen, omgevormd tot fietspaden, brengen je langs de mooiste natuurgebieden van het Waasland"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/wase-kronkels-fietsroute"
-gpx: "routen/wase-kronkels-fietsroute.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Wase Kronkels Fietsroute
+subtitle: Twee langgerekte oude spoorwegbeddingen, omgevormd tot fietspaden, brengen je langs de mooiste natuurgebieden van het Waasland
+description: Twee langgerekte oude spoorwegbeddingen, omgevormd tot fietspaden, brengen je langs de mooiste natuurgebieden van het Waasland
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/wase-kronkels-fietsroute
+routes:
+    - name: Main
+      gpx: routen/wase-kronkels-fietsroute.gpx
+      length: 41436
+      up: 77
+      down: 77
+      minheight: 1
+      maxheight: 14
+      minslope: -7
+      maxslope: 4.7
+      avgposslope: 1.1
+      avgnegslope: -1
+      slopehisto:
+        - 4289
+        - 120
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.513
+      minlat: 51.11816
+      minlon: 3.94867
+      maxlat: 51.21278
+      maxlon: 4.10354
 ---
 
 ## Let's Go ! 

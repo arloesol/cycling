@@ -8,7 +8,7 @@ theme = "FixIt"
 [taxonomies]
   category = 'categories'
   tag = 'tags'
-  source = 'source'
+  website = 'website'
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

@@ -1,19 +1,39 @@
 ---
-title: "De Lieve Fietsroute"
-subtitle: "Op deze route neemt 't Liefken - zoals het kanaal De Lieve in de volksmond wordt genoemd - je mee op een rustige tocht door het Meetjesland"
 date: "2022-11-09"
-description: "Op deze route neemt 't Liefken - zoals het kanaal De Lieve in de volksmond wordt genoemd - je mee op een rustige tocht door het Meetjesland"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/de-lieve-fietsroute"
-gpx: "routen/de-lieve-fietsroute.gpx"
-length: 40
-tags:
- - "flanders"
- - "short"
+title: De Lieve Fietsroute
+subtitle: Op deze route neemt 't Liefken - zoals het kanaal De Lieve in de volksmond wordt genoemd - je mee op een rustige tocht door het Meetjesland
+description: Op deze route neemt 't Liefken - zoals het kanaal De Lieve in de volksmond wordt genoemd - je mee op een rustige tocht door het Meetjesland
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/de-lieve-fietsroute
+routes:
+    - name: Main
+      gpx: routen/de-lieve-fietsroute.gpx
+      length: 40414
+      up: 86
+      down: 86
+      minheight: 3
+      maxheight: 25
+      minslope: -4.2
+      maxslope: 4
+      avgposslope: 0.6
+      avgnegslope: -0.5
+      slopehisto:
+        - 3884
+        - 121
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.454
+      minlat: 51.09314
+      minlon: 3.54232
+      maxlat: 51.13954
+      maxlon: 3.71608
 ---
 
 ## Let's Go ! 

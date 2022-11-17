@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Allemaal beestjes"
-subtitle: "Van oervlaamse koeien tot exotische papegaaien"
 date: "2022-11-09"
-description: "Van oervlaamse koeien tot exotische papegaaien"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-allemaal-beestjes"
-gpx: "westtoer/lekker-fietsen-allemaal-beestjes.gpx"
-length: 14
-tags:
- - "flanders"
- - "vshort"
+title: 'Lekker fietsen: Allemaal beestjes'
+subtitle: Van oervlaamse koeien tot exotische papegaaien
+description: Van oervlaamse koeien tot exotische papegaaien
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "84,24,54,75,30,81,40,45,72,84"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-allemaal-beestjes
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 84,24,54,75,30,81,40,45,72,84
+      gpx: westtoer/lekker-fietsen-allemaal-beestjes.gpx
+      length: 13704
+      up: 28
+      down: 28
+      minheight: 4
+      maxheight: 21
+      minslope: -3.7
+      maxslope: 4.1
+      avgposslope: 0.5
+      avgnegslope: -0.4
+      slopehisto:
+        - 610
+        - 63
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.475
+      minlat: 51.172316
+      minlon: 3.262509
+      maxlat: 51.202021
+      maxlon: 3.325683
 ---
 
 ## Let's Go ! 

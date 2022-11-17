@@ -1,19 +1,39 @@
 ---
-title: "De Moerenfietsroute"
-subtitle: "De Moerenroute brengt je door een heel afwisselend landschap"
 date: "2022-11-09"
-description: "De Moerenroute brengt je door een heel afwisselend landschap"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/de-moerenfietsroute"
-gpx: "westtoer/de-moerenfietsroute.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: De Moerenfietsroute
+subtitle: De Moerenroute brengt je door een heel afwisselend landschap
+description: De Moerenroute brengt je door een heel afwisselend landschap
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/de-moerenfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/de-moerenfietsroute.gpx
+      length: 39657
+      up: 106
+      down: 106
+      minheight: -0
+      maxheight: 15
+      minslope: -2.9
+      maxslope: 2.3
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 2257
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.348
+      minlat: 50.959855
+      minlon: 2.580134
+      maxlat: 51.047371
+      maxlon: 2.684151
 ---
 
 ## Let's Go ! 

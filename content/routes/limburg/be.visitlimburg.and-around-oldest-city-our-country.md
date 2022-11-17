@@ -1,19 +1,39 @@
 ---
-title: "In and around the oldest city in our country"
-subtitle: "Tongeren, Belgium's first city, fascinates with its Roman and medieval relics and beautiful basilica"
 date: "2022-11-09"
-description: "Tongeren, Belgium's first city, fascinates with its Roman and medieval relics and beautiful basilica"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/and-around-oldest-city-our-country"
-gpx: "limburg/and-around-oldest-city-our-country.gpx"
-length: 53
-tags:
- - "flanders"
- - "short"
+title: In and around the oldest city in our country
+subtitle: Tongeren, Belgium's first city, fascinates with its Roman and medieval relics and beautiful basilica
+description: Tongeren, Belgium's first city, fascinates with its Roman and medieval relics and beautiful basilica
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/and-around-oldest-city-our-country
+routes:
+    - name: Main
+      gpx: limburg/and-around-oldest-city-our-country.gpx
+      length: 52390
+      up: 482
+      down: 482
+      minheight: 61
+      maxheight: 130
+      minslope: -13.5
+      maxslope: 14
+      avgposslope: 1.6
+      avgnegslope: -1.8
+      slopehisto:
+        - 12701
+        - 2788
+        - 836
+        - 389
+        - 335
+      effortlevel: 2.82
+      minlat: 50.72654
+      minlon: 5.35591
+      maxlat: 50.81374
+      maxlon: 5.52336
 ---
 
 ## Let's Go ! 

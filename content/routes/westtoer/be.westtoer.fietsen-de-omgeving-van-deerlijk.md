@@ -1,22 +1,42 @@
 ---
-title: "Fietsen in de omgeving van Deerlijk"
-subtitle: "Welkom op het Fietsnetwerk Leiestreek! Verken de wijde omgeving van Deerlijk, Waregem en Harelbeke via de knooppunten van dit voor jou uitgestippelde lusje"
 date: "2022-11-09"
-description: "Welkom op het Fietsnetwerk Leiestreek! Verken de wijde omgeving van Deerlijk, Waregem en Harelbeke via de knooppunten van dit voor jou uitgestippelde lusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-omgeving-van-deerlijk"
-gpx: "westtoer/fietsen-de-omgeving-van-deerlijk.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Fietsen in de omgeving van Deerlijk
+subtitle: Welkom op het Fietsnetwerk Leiestreek! Verken de wijde omgeving van Deerlijk, Waregem en Harelbeke via de knooppunten van dit voor jou uitgestippelde lusje
+description: Welkom op het Fietsnetwerk Leiestreek! Verken de wijde omgeving van Deerlijk, Waregem en Harelbeke via de knooppunten van dit voor jou uitgestippelde lusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "52,56,45,44,40,60,9,55,82,72,92,47,21,24,4,34,35,6,36,27,94,14,65,52"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-de-omgeving-van-deerlijk
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 52,56,45,44,40,60,9,55,82,72,92,47,21,24,4,34,35,6,36,27,94,14,65,52
+      gpx: westtoer/fietsen-de-omgeving-van-deerlijk.gpx
+      length: 40831
+      up: 89
+      down: 89
+      minheight: 10
+      maxheight: 57
+      minslope: -5.9
+      maxslope: 4.2
+      avgposslope: 1.2
+      avgnegslope: -1.4
+      slopehisto:
+        - 3753
+        - 222
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.475
+      minlat: 50.832363
+      minlon: 3.310849
+      maxlat: 50.88859
+      maxlon: 3.478407
 ---
 
 ## Let's Go ! 

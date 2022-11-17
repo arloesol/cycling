@@ -1,22 +1,42 @@
 ---
-title: "Witte goudroute West"
-subtitle: "Uitgestrekte velden en kleine dorpskernen typeren deze route"
 date: "2022-11-09"
-description: "Uitgestrekte velden en kleine dorpskernen typeren deze route. Maar ook de witloofboeren liggen op je weg; zij promoten het witte goud, een stukje erfgoed van deze streek. Je komt onder meer langs het Sportimonium, het Recreatiedomein Sport Vlaanderen in Hofstade en het kanaal Leuven-Mechelen."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/witte-goudroute-west/index.html"
-gpx: "vlaamsbrabant/Witte_goudroute_West.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Witte goudroute West
+subtitle: Uitgestrekte velden en kleine dorpskernen typeren deze route
+description: Uitgestrekte velden en kleine dorpskernen typeren deze route. Maar ook de witloofboeren liggen op je weg; zij promoten het witte goud, een stukje erfgoed van deze streek. Je komt onder meer langs het Sportimonium, het Recreatiedomein Sport Vlaanderen in Hofstade en het kanaal Leuven-Mechelen.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "6,5,39,84,35,34,55,12,48,56,23,22,49,15,18,16,75,63,62,61,19,44,7,6"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/witte-goudroute-west/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 6,5,39,84,35,34,55,12,48,56,23,22,49,15,18,16,75,63,62,61,19,44,7,6
+      gpx: vlaamsbrabant/Witte_goudroute_West.gpx
+      length: 45926
+      up: 173
+      down: 173
+      minheight: 4
+      maxheight: 53
+      minslope: -9.2
+      maxslope: 14.9
+      avgposslope: 1.2
+      avgnegslope: -1
+      slopehisto:
+        - 7297
+        - 272
+        - 241
+        - 0
+        - 52
+      effortlevel: 1.799
+      minlat: 50.89277
+      minlon: 4.45756
+      maxlat: 50.9922
+      maxlon: 4.57316
 ---
 
 ## Let's Go ! 

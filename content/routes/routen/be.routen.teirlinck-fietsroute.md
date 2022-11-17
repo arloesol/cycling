@@ -1,19 +1,39 @@
 ---
-title: "Teirlinck Fietsroute"
-subtitle: "Brakel promoot zichzelf als fiets- en wandelparadijs, en dat is niet uit de lucht gegrepen"
 date: "2022-11-09"
-description: "Brakel promoot zichzelf als fiets- en wandelparadijs, en dat is niet uit de lucht gegrepen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/teirlinck-fietsroute"
-gpx: "routen/teirlinck-fietsroute.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Teirlinck Fietsroute
+subtitle: Brakel promoot zichzelf als fiets- en wandelparadijs, en dat is niet uit de lucht gegrepen
+description: Brakel promoot zichzelf als fiets- en wandelparadijs, en dat is niet uit de lucht gegrepen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/teirlinck-fietsroute
+routes:
+    - name: Main
+      gpx: routen/teirlinck-fietsroute.gpx
+      length: 44152
+      up: 564
+      down: 570
+      minheight: 29
+      maxheight: 114
+      minslope: -26.2
+      maxslope: 17.4
+      avgposslope: 1.7
+      avgnegslope: -1.6
+      slopehisto:
+        - 9073
+        - 3720
+        - 2012
+        - 760
+        - 591
+      effortlevel: 2.934
+      minlat: 50.7559
+      minlon: 3.70596
+      maxlat: 50.83395
+      maxlon: 3.80761
 ---
 
 ## Let's Go ! 

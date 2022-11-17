@@ -1,19 +1,39 @@
 ---
-title: "Scheldedijk Fietsroute"
-subtitle: "Geen enkele rivier beïnvloedde Scheldeland meer dan de machtige Schelde"
 date: "2022-11-09"
-description: "Geen enkele rivier beïnvloedde Scheldeland meer dan de machtige Schelde"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/scheldedijk-fietsroute"
-gpx: "routen/scheldedijk-fietsroute.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Scheldedijk Fietsroute
+subtitle: Geen enkele rivier beïnvloedde Scheldeland meer dan de machtige Schelde
+description: Geen enkele rivier beïnvloedde Scheldeland meer dan de machtige Schelde
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/scheldedijk-fietsroute
+routes:
+    - name: Main
+      gpx: routen/scheldedijk-fietsroute.gpx
+      length: 44940
+      up: 132
+      down: 132
+      minheight: 0
+      maxheight: 24
+      minslope: -14
+      maxslope: 12.7
+      avgposslope: 0.6
+      avgnegslope: -0.7
+      slopehisto:
+        - 4623
+        - 206
+        - 54
+        - 0
+        - 125
+      effortlevel: 1.715
+      minlat: 51.02401
+      minlon: 4.17493
+      maxlat: 51.12228
+      maxlon: 4.32054
 ---
 
 ## Let's Go ! 

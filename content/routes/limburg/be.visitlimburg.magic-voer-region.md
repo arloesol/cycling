@@ -1,19 +1,39 @@
 ---
-title: "The magic of the Voer region"
-subtitle: "This cycling route with its mild climbs takes you through the hilly green landscape of the Voer region"
 date: "2022-11-09"
-description: "This cycling route with its mild climbs takes you through the hilly green landscape of the Voer region"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/magic-voer-region"
-gpx: "limburg/magic-voer-region.gpx"
-length: 26
-tags:
- - "flanders"
- - "vshort"
+title: The magic of the Voer region
+subtitle: This cycling route with its mild climbs takes you through the hilly green landscape of the Voer region
+description: This cycling route with its mild climbs takes you through the hilly green landscape of the Voer region
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/magic-voer-region
+routes:
+    - name: Main
+      gpx: limburg/magic-voer-region.gpx
+      length: 26075
+      up: 329
+      down: 329
+      minheight: 71
+      maxheight: 238
+      minslope: -12
+      maxslope: 13.8
+      avgposslope: 2
+      avgnegslope: -1.7
+      slopehisto:
+        - 6572
+        - 1493
+        - 1156
+        - 503
+        - 230
+      effortlevel: 1.62
+      minlat: 50.7484
+      minlon: 5.73263
+      maxlat: 50.79029
+      maxlon: 5.86741
 ---
 
 ## Let's Go ! 

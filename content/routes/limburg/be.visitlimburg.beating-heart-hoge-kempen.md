@@ -1,19 +1,39 @@
 ---
-title: "The beating heart of the Hoge Kempen"
-subtitle: "Artfully crafted locomotives at As Station are the starting point for a cycling tour through the Hoge Kempen National Park"
 date: "2022-11-09"
-description: "Artfully crafted locomotives at As Station are the starting point for a cycling tour through the Hoge Kempen National Park"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/beating-heart-hoge-kempen"
-gpx: "limburg/beating-heart-hoge-kempen.gpx"
-length: 38
-tags:
- - "flanders"
- - "short"
+title: The beating heart of the Hoge Kempen
+subtitle: Artfully crafted locomotives at As Station are the starting point for a cycling tour through the Hoge Kempen National Park
+description: Artfully crafted locomotives at As Station are the starting point for a cycling tour through the Hoge Kempen National Park
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/beating-heart-hoge-kempen
+routes:
+    - name: Main
+      gpx: limburg/beating-heart-hoge-kempen.gpx
+      length: 38316
+      up: 362
+      down: 362
+      minheight: 67
+      maxheight: 114
+      minslope: -26
+      maxslope: 21.8
+      avgposslope: 2.7
+      avgnegslope: -2.1
+      slopehisto:
+        - 7790
+        - 1082
+        - 1146
+        - 424
+        - 793
+      effortlevel: 2.297
+      minlat: 50.93368
+      minlon: 5.51577
+      maxlat: 51.02361
+      maxlon: 5.63395
 ---
 
 ## Let's Go ! 

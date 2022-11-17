@@ -1,19 +1,39 @@
 ---
-title: "Dendermonde Fietsroute"
-subtitle: "Tussen de Schelde en de Dender ligt een prachtige brok natuur waar het water altijd dichtbij is"
 date: "2022-11-09"
-description: "Tussen de Schelde en de Dender ligt een prachtige brok natuur waar het water altijd dichtbij is"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/dendermonde-fietsroute"
-gpx: "routen/dendermonde-fietsroute.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Dendermonde Fietsroute
+subtitle: Tussen de Schelde en de Dender ligt een prachtige brok natuur waar het water altijd dichtbij is
+description: Tussen de Schelde en de Dender ligt een prachtige brok natuur waar het water altijd dichtbij is
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/dendermonde-fietsroute
+routes:
+    - name: Main
+      gpx: routen/dendermonde-fietsroute.gpx
+      length: 45749
+      up: 120
+      down: 120
+      minheight: 0
+      maxheight: 9
+      minslope: -7.3
+      maxslope: 6.9
+      avgposslope: 0.7
+      avgnegslope: -0.8
+      slopehisto:
+        - 5641
+        - 662
+        - 50
+        - 0
+        - 0
+      effortlevel: 1.726
+      minlat: 50.98263
+      minlon: 3.95541
+      maxlat: 51.05114
+      maxlon: 4.10213
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "De Brabantse Pijl Cycling Route"
-subtitle: "Rij jouw eigen klassieker in ware Flandrien stijl over de wegen van de Brabantse Pijl"
 date: "2022-11-09"
-description: "Rij jouw eigen klassieker in ware Flandrien stijl over de wegen van de Brabantse Pijl. Smeer je kuiten in voor een tocht vol variatie waar alleen de echte grote wielerhelden floreren."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/brabantse-pijl-cycling-route/index.html"
-gpx: "vlaamsbrabant/De_Brabantse_Pijl_Cycling_Route.gpx"
-length: 98
-tags:
- - "flanders"
- - "medium"
+title: De Brabantse Pijl Cycling Route
+subtitle: Rij jouw eigen klassieker in ware Flandrien stijl over de wegen van de Brabantse Pijl
+description: Rij jouw eigen klassieker in ware Flandrien stijl over de wegen van de Brabantse Pijl. Smeer je kuiten in voor een tocht vol variatie waar alleen de echte grote wielerhelden floreren.
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/brabantse-pijl-cycling-route/index.html
+routes:
+    - name: Main
+      gpx: vlaamsbrabant/De_Brabantse_Pijl_Cycling_Route.gpx
+      length: 96926
+      up: 1023
+      down: 1023
+      minheight: 24
+      maxheight: 123
+      minslope: -12.1
+      maxslope: 25.4
+      avgposslope: 3.6
+      avgnegslope: -3.7
+      slopehisto:
+        - 19163
+        - 5055
+        - 2371
+        - 1645
+        - 1787
+      effortlevel: 5.905
+      minlat: 50.75103
+      minlon: 4.5117
+      maxlat: 50.85033
+      maxlon: 4.79072
 ---
 
 ## Let's Go ! 

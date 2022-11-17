@@ -1,19 +1,39 @@
 ---
-title: "Ronde Van Vlaanderen Fietsroute Blauwe Lus"
-subtitle: "Tem zelf de geduchte kuitenbijters Oude Kwaremont, de Koppenberg én de Taaienberg op deze kortste – maar zeker niet lichtste – Ronde van Vlaanderen-route"
 date: "2022-11-09"
-description: "Tem zelf de geduchte kuitenbijters Oude Kwaremont, de Koppenberg én de Taaienberg op deze kortste – maar zeker niet lichtste – Ronde van Vlaanderen-route"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/ronde-van-vlaanderen-fietsroute-blauwe-lus"
-gpx: "routen/ronde-van-vlaanderen-fietsroute-blauwe-lus.gpx"
-length: 80
-tags:
- - "flanders"
- - "medium"
+title: Ronde Van Vlaanderen Fietsroute Blauwe Lus
+subtitle: Tem zelf de geduchte kuitenbijters Oude Kwaremont, de Koppenberg én de Taaienberg op deze kortste – maar zeker niet lichtste – Ronde van Vlaanderen-route
+description: Tem zelf de geduchte kuitenbijters Oude Kwaremont, de Koppenberg én de Taaienberg op deze kortste – maar zeker niet lichtste – Ronde van Vlaanderen-route
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/ronde-van-vlaanderen-fietsroute-blauwe-lus
+routes:
+    - name: Main
+      gpx: routen/ronde-van-vlaanderen-fietsroute-blauwe-lus.gpx
+      length: 80267
+      up: 901
+      down: 900
+      minheight: 6
+      maxheight: 166
+      minslope: -22.6
+      maxslope: 45.5
+      avgposslope: 1.9
+      avgnegslope: -1.7
+      slopehisto:
+        - 14371
+        - 3100
+        - 2401
+        - 1087
+        - 1978
+      effortlevel: 4.934
+      minlat: 50.74167
+      minlon: 3.46726
+      maxlat: 50.84399
+      maxlon: 3.65534
 ---
 
 ## Let's Go ! 

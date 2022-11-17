@@ -1,19 +1,39 @@
 ---
-title: "Met Jaek en Nink op roverstocht"
-subtitle: "De route is in totaal 28 km lang en is bewegwijzerd met 6-hoekige bordjes met de figuurtjes van Jaek en Nink"
 date: "2022-11-09"
-description: "De route is in totaal 28 km lang en is bewegwijzerd met 6-hoekige bordjes met de figuurtjes van Jaek en Nink"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/met-jaek-en-nink-op-roverstocht"
-gpx: "westtoer/met-jaek-en-nink-op-roverstocht.gpx"
-length: 28
-tags:
- - "flanders"
- - "vshort"
+title: Met Jaek en Nink op roverstocht
+subtitle: De route is in totaal 28 km lang en is bewegwijzerd met 6-hoekige bordjes met de figuurtjes van Jaek en Nink
+description: De route is in totaal 28 km lang en is bewegwijzerd met 6-hoekige bordjes met de figuurtjes van Jaek en Nink
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/met-jaek-en-nink-op-roverstocht
+routes:
+    - name: Main
+      gpx: westtoer/met-jaek-en-nink-op-roverstocht.gpx
+      length: 28460
+      up: 106
+      down: 106
+      minheight: 10
+      maxheight: 35
+      minslope: -2.8
+      maxslope: 2.9
+      avgposslope: 1
+      avgnegslope: -0.8
+      slopehisto:
+        - 3326
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.999
+      minlat: 50.904507
+      minlon: 2.911196
+      maxlat: 50.97833
+      maxlon: 2.994703
 ---
 
 ## Let's Go ! 

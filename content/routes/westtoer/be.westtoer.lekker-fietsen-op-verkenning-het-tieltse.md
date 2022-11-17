@@ -1,26 +1,46 @@
 ---
-title: "Lekker fietsen: Op verkenning in het Tieltse"
-subtitle: "Verken het zuiden van de regio met Tielt en Ruiselede
-
-Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
 date: "2022-11-09"
-description: "Verken het zuiden van de regio met Tielt en Ruiselede
-
-Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-op-verkenning-het-tieltse"
-gpx: "westtoer/lekker-fietsen-op-verkenning-het-tieltse.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: Op verkenning in het Tieltse'
+subtitle: |-
+    Verken het zuiden van de regio met Tielt en Ruiselede
+    Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland
+description: |-
+    Verken het zuiden van de regio met Tielt en Ruiselede
+    Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "42,82,89,84,70,30,49,69,67,53,62,1,57,50,9,52,32,48,46,56,42"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-op-verkenning-het-tieltse
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 42,82,89,84,70,30,49,69,67,53,62,1,57,50,9,52,32,48,46,56,42
+      gpx: westtoer/lekker-fietsen-op-verkenning-het-tieltse.gpx
+      length: 31740
+      up: 144
+      down: 144
+      minheight: 13
+      maxheight: 50
+      minslope: -7.9
+      maxslope: 7.8
+      avgposslope: 0.7
+      avgnegslope: -0.9
+      slopehisto:
+        - 4677
+        - 420
+        - 0
+        - 67
+        - 0
+      effortlevel: 1.258
+      minlat: 50.978716
+      minlon: 3.305559
+      maxlat: 51.047922
+      maxlon: 3.429192
 ---
 
 ## Let's Go ! 

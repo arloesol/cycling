@@ -1,19 +1,39 @@
 ---
-title: "Het Wiel Van Adriaen Brouwer Fietsroute"
-subtitle: "Adriaen Brouwer, een van de boeiendste kunstschilders van de Lage Landen, zag rond 1600 het levenslicht in Oudenaarde"
 date: "2022-11-09"
-description: "Adriaen Brouwer, een van de boeiendste kunstschilders van de Lage Landen, zag rond 1600 het levenslicht in Oudenaarde"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/het-wiel-van-adriaen-brouwer-fietsroute"
-gpx: "routen/het-wiel-van-adriaen-brouwer-fietsroute.gpx"
-length: 28
-tags:
- - "flanders"
- - "vshort"
+title: Het Wiel Van Adriaen Brouwer Fietsroute
+subtitle: Adriaen Brouwer, een van de boeiendste kunstschilders van de Lage Landen, zag rond 1600 het levenslicht in Oudenaarde
+description: Adriaen Brouwer, een van de boeiendste kunstschilders van de Lage Landen, zag rond 1600 het levenslicht in Oudenaarde
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/het-wiel-van-adriaen-brouwer-fietsroute
+routes:
+    - name: Main
+      gpx: routen/het-wiel-van-adriaen-brouwer-fietsroute.gpx
+      length: 28575
+      up: 380
+      down: 381
+      minheight: 6
+      maxheight: 100
+      minslope: -15.1
+      maxslope: 17.7
+      avgposslope: 2.1
+      avgnegslope: -2.2
+      slopehisto:
+        - 5573
+        - 3082
+        - 647
+        - 209
+        - 525
+      effortlevel: 1.882
+      minlat: 50.80063
+      minlon: 3.60247
+      maxlat: 50.86953
+      maxlon: 3.68687
 ---
 
 ## Let's Go ! 

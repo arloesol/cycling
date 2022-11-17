@@ -1,22 +1,42 @@
 ---
-title: "Grenzeloze Goesting"
-subtitle: "Deze fietslus mag je gerust grenzeloos noemen want je komt zowel in de Westhoek als in de Leiestreek"
 date: "2022-11-09"
-description: "Deze fietslus mag je gerust grenzeloos noemen want je komt zowel in de Westhoek als in de Leiestreek"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/grenzeloze-goesting"
-gpx: "westtoer/grenzeloze-goesting.gpx"
-length: 58
-tags:
- - "flanders"
- - "short"
+title: Grenzeloze Goesting
+subtitle: Deze fietslus mag je gerust grenzeloos noemen want je komt zowel in de Westhoek als in de Leiestreek
+description: Deze fietslus mag je gerust grenzeloos noemen want je komt zowel in de Westhoek als in de Leiestreek
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "84,36,29,35,5,75,46,88,48,66,76,1,58,54,12,9,6,31,45,14,44,42,72,49,41,81,84"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/grenzeloze-goesting
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 84,36,29,35,5,75,46,88,48,66,76,1,58,54,12,9,6,31,45,14,44,42,72,49,41,81,84
+      gpx: westtoer/grenzeloze-goesting.gpx
+      length: 58400
+      up: 252
+      down: 252
+      minheight: 13
+      maxheight: 59
+      minslope: -5.6
+      maxslope: 6.5
+      avgposslope: 2.3
+      avgnegslope: -3.4
+      slopehisto:
+        - 10283
+        - 1403
+        - 275
+        - 0
+        - 0
+      effortlevel: 2.448
+      minlat: 50.763754
+      minlon: 2.939793
+      maxlat: 50.906718
+      maxlon: 3.10076
 ---
 
 ## Let's Go ! 

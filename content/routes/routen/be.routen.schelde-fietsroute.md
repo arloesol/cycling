@@ -1,19 +1,39 @@
 ---
-title: "Schelde Fietsroute"
-subtitle: "Gezellige terrasjes onderweg"
 date: "2022-11-09"
-description: "Gezellige terrasjes onderweg"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/schelde-fietsroute"
-gpx: "routen/schelde-fietsroute.gpx"
-length: 138
-tags:
- - "flanders"
- - "long"
+title: Schelde Fietsroute
+subtitle: Gezellige terrasjes onderweg
+description: Gezellige terrasjes onderweg
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/schelde-fietsroute
+routes:
+    - name: Main
+      gpx: routen/schelde-fietsroute.gpx
+      length: 126277
+      up: 377
+      down: 386
+      minheight: -1
+      maxheight: 27
+      minslope: -13.7
+      maxslope: 14.5
+      avgposslope: 0.8
+      avgnegslope: -0.7
+      slopehisto:
+        - 15761
+        - 1032
+        - 203
+        - 186
+        - 78
+      effortlevel: 4.754
+      minlat: 50.84466
+      minlon: 3.60341
+      maxlat: 51.23123
+      maxlon: 4.40272
 ---
 
 ## Let's Go ! 

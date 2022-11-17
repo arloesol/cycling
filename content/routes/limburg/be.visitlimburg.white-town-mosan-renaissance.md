@@ -1,19 +1,39 @@
 ---
-title: "From the white town to the Mosan renaissance"
-subtitle: "This route takes you through the northern part of the RivierPark Maasvallei"
 date: "2022-11-09"
-description: "This route takes you through the northern part of the RivierPark Maasvallei"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/white-town-mosan-renaissance"
-gpx: "limburg/white-town-mosan-renaissance.gpx"
-length: 30
-tags:
- - "flanders"
- - "short"
+title: From the white town to the Mosan renaissance
+subtitle: This route takes you through the northern part of the RivierPark Maasvallei
+description: This route takes you through the northern part of the RivierPark Maasvallei
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/white-town-mosan-renaissance
+routes:
+    - name: Main
+      gpx: limburg/white-town-mosan-renaissance.gpx
+      length: 30442
+      up: 139
+      down: 142
+      minheight: 21
+      maxheight: 35
+      minslope: -8.7
+      maxslope: 11.1
+      avgposslope: 0.8
+      avgnegslope: -0.8
+      slopehisto:
+        - 5858
+        - 621
+        - 54
+        - 0
+        - 62
+      effortlevel: 1.253
+      minlat: 51.0937
+      minlon: 5.79182
+      maxlat: 51.16587
+      maxlon: 5.89575
 ---
 
 ## Let's Go ! 

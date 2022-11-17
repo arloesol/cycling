@@ -1,26 +1,62 @@
 ---
-title: "Ready for a tour of Aalst?"
-subtitle: "Onions, carnival, Bockie De Repper ..."
 date: "2022-10-20"
-description: "Aalst"
+title: Ready for a tour of Aalst?
+subtitle: Onions, carnival, Bockie De Repper ...
+description: Aalst
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-ext_url: "https://www.bike.brussels/en/blog/ready-for-a-tour-of-aalst"
-gpx: "brussels/Bike-for-Brussels-Klaar-voor-een-rondje-Aalst.gpx"
-length: 60
-gmaps: "https://www.google.com/maps/d/u/0/edit?mid=1aLO5s7ZRt_6OC9726gIldos4uQAS_D1o&usp=sharing"
-altroutes:
-  - name: "short"
-    gpx: "brussels/Bike-for-Brussels-Klaar-voor-een-rondje-Aalst-Short.gpx"
-    length: 45
-    gmaps: "https://www.google.com/maps/d/u/0/edit?mid=1aLO5s7ZRt_6OC9726gIldos4uQAS_D1o&usp=sharing"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/ready-for-a-tour-of-aalst
+routes:
+    - name: Main
+      gpx: brussels/Bike-for-Brussels-Klaar-voor-een-rondje-Aalst.gpx
+      length: 60910
+      up: 493
+      down: 490
+      minheight: 5
+      maxheight: 84
+      minslope: -10.6
+      maxslope: 11.1
+      avgposslope: 0.7
+      avgnegslope: -0.8
+      slopehisto:
+        - 16474
+        - 2115
+        - 386
+        - 0
+        - 73
+      effortlevel: 2.894
+      minlat: 50.85744
+      minlon: 4.03923
+      maxlat: 50.94103
+      maxlon: 4.31863
+    - name: short
+      gpx: brussels/Bike-for-Brussels-Klaar-voor-een-rondje-Aalst-Short.gpx
+      length: 45348
+      up: 386
+      down: 384
+      minheight: 10
+      maxheight: 84
+      minslope: -10.6
+      maxslope: 11.1
+      avgposslope: 0.9
+      avgnegslope: -1
+      slopehisto:
+        - 11751
+        - 1921
+        - 386
+        - 70
+        - 73
+      effortlevel: 2.232
+      minlat: 50.85825
+      minlon: 4.119638
+      maxlat: 50.93431
+      maxlon: 4.31863
 ---
 ## Let's go !
 

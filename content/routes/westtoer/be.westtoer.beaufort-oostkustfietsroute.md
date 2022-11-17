@@ -1,30 +1,48 @@
 ---
-title: "Beaufort Oostkustfietsroute"
-subtitle: "Werken Beaufort 21
-
-Benjamin - Maen Florin
-
-Bos, Park Leopold II, De Wenduine - 51"
 date: "2022-11-09"
-description: "Werken Beaufort 21
-
-Benjamin - Maen Florin
-
-Bos, Park Leopold II, De Wenduine - 51"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/beaufort-oostkustfietsroute"
-gpx: "westtoer/beaufort-oostkustfietsroute.gpx"
-length: 56
-tags:
- - "flanders"
- - "short"
+title: Beaufort Oostkustfietsroute
+subtitle: |-
+    Werken Beaufort 21
+    Benjamin - Maen Florin
+    Bos, Park Leopold II, De Wenduine - 51
+description: |-
+    Werken Beaufort 21
+    Benjamin - Maen Florin
+    Bos, Park Leopold II, De Wenduine - 51
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "6,31,16,80,76,33,36,13,68,62,39,70,38,36,33,30,26,29,89,2,83,34,31"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/beaufort-oostkustfietsroute
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 6,31,16,80,76,33,36,13,68,62,39,70,38,36,33,30,26,29,89,2,83,34,31
+      gpx: westtoer/beaufort-oostkustfietsroute.gpx
+      length: 53543
+      up: 92
+      down: 93
+      minheight: 2
+      maxheight: 12
+      minslope: -9.4
+      maxslope: 10.8
+      avgposslope: 0.3
+      avgnegslope: -0.2
+      slopehisto:
+        - 2720
+        - 104
+        - 0
+        - 0
+        - 67
+      effortlevel: 1.864
+      minlat: 51.272408
+      minlon: 3.033756
+      maxlat: 51.348424
+      maxlon: 3.289456
 ---
 
 ## Let's Go ! 

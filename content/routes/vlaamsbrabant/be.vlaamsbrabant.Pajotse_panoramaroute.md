@@ -1,22 +1,42 @@
 ---
-title: "Pajotse panoramaroute"
-subtitle: "Flaneer tussen dorpen en heuvels, afgewisseld met enkele fikse kuitenbijters"
 date: "2022-11-09"
-description: "Flaneer tussen dorpen en heuvels, afgewisseld met enkele fikse kuitenbijters. Maar eens je boven komt, maakt de 'kijk op het Pajottenland' elk metertje klimwerk goed. Om wat te bekomen las je een rustpauze in een van de gezellige cafés onderweg in."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/pajotse-panoramaroute/index.html"
-gpx: "vlaamsbrabant/Pajotse_panoramaroute.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Pajotse panoramaroute
+subtitle: Flaneer tussen dorpen en heuvels, afgewisseld met enkele fikse kuitenbijters
+description: Flaneer tussen dorpen en heuvels, afgewisseld met enkele fikse kuitenbijters. Maar eens je boven komt, maakt de 'kijk op het Pajottenland' elk metertje klimwerk goed. Om wat te bekomen las je een rustpauze in een van de gezellige cafés onderweg in.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - ",5,78,6,16,15,51,14,42,41,39,38,10,43,60,89,4,86,85,10,64,5,"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/pajotse-panoramaroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - ',5,78,6,16,15,51,14,42,41,39,38,10,43,60,89,4,86,85,10,64,5,'
+      gpx: vlaamsbrabant/Pajotse_panoramaroute.gpx
+      length: 38706
+      up: 453
+      down: 453
+      minheight: 9
+      maxheight: 93
+      minslope: -16.7
+      maxslope: 12.4
+      avgposslope: 2
+      avgnegslope: -2
+      slopehisto:
+        - 9205
+        - 3053
+        - 1226
+        - 245
+        - 219
+      effortlevel: 2.317
+      minlat: 50.76671
+      minlon: 4.05692
+      maxlat: 50.86442
+      maxlon: 4.1386
 ---
 
 ## Let's Go ! 

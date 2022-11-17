@@ -1,19 +1,39 @@
 ---
-title: "Schoorbakkefietsroute"
-subtitle: "De fietsroute verkent de kustpolders tussen Middelkerke en Diksmuide"
 date: "2022-11-09"
-description: "De fietsroute verkent de kustpolders tussen Middelkerke en Diksmuide"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/schoorbakkefietsroute"
-gpx: "westtoer/schoorbakkefietsroute.gpx"
-length: 44
-tags:
- - "flanders"
- - "short"
+title: Schoorbakkefietsroute
+subtitle: De fietsroute verkent de kustpolders tussen Middelkerke en Diksmuide
+description: De fietsroute verkent de kustpolders tussen Middelkerke en Diksmuide
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/schoorbakkefietsroute
+routes:
+    - name: Main
+      gpx: westtoer/schoorbakkefietsroute.gpx
+      length: 45565
+      up: 139
+      down: 139
+      minheight: 2
+      maxheight: 11
+      minslope: -8.8
+      maxslope: 10.5
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 2654
+        - 200
+        - 0
+        - 0
+        - 59
+      effortlevel: 1.626
+      minlat: 51.074799
+      minlon: 2.80003
+      maxlat: 51.198585
+      maxlon: 2.881416
 ---
 
 ## Let's Go ! 

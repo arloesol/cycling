@@ -1,19 +1,39 @@
 ---
-title: "Ronde Van Vlaanderen Fietsroute Rode Lus"
-subtitle: "Met de rode lus van de Ronde van Vlaanderen fietsroute zet je een aantal pittige kuitenbijters op je programma"
 date: "2022-11-09"
-description: "Met de rode lus van de Ronde van Vlaanderen fietsroute zet je een aantal pittige kuitenbijters op je programma"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/ronde-van-vlaanderen-fietsroute-rode-lus"
-gpx: "routen/ronde-van-vlaanderen-fietsroute-rode-lus.gpx"
-length: 115
-tags:
- - "flanders"
- - "long"
+title: Ronde Van Vlaanderen Fietsroute Rode Lus
+subtitle: Met de rode lus van de Ronde van Vlaanderen fietsroute zet je een aantal pittige kuitenbijters op je programma
+description: Met de rode lus van de Ronde van Vlaanderen fietsroute zet je een aantal pittige kuitenbijters op je programma
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/ronde-van-vlaanderen-fietsroute-rode-lus
+routes:
+    - name: Main
+      gpx: routen/ronde-van-vlaanderen-fietsroute-rode-lus.gpx
+      length: 115613
+      up: 1663
+      down: 1663
+      minheight: 6
+      maxheight: 108
+      minslope: -17
+      maxslope: 19.5
+      avgposslope: 3
+      avgnegslope: -2.6
+      slopehisto:
+        - 23757
+        - 8681
+        - 4235
+        - 3019
+        - 2467
+      effortlevel: 8.013
+      minlat: 50.75134
+      minlon: 3.60145
+      maxlat: 50.86254
+      maxlon: 3.96565
 ---
 
 ## Let's Go ! 

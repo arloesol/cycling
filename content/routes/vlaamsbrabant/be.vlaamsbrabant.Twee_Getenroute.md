@@ -1,22 +1,42 @@
 ---
-title: "Twee Getenroute"
-subtitle: "Een landelijke fietsroute door het brede valleigebied van de Kleine en de Grote Gete"
 date: "2022-11-09"
-description: "Een landelijke fietsroute door het brede valleigebied van de Kleine en de Grote Gete. Een vlak parcours, al moet je in Ransberg wel recht op de trappers. Langs rijen fruitbomen, pittoreske dorpjes en weiden. Hou zeker halt in Provinciedomein Het Vinne."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/twee-getenroute/index.html"
-gpx: "vlaamsbrabant/Twee_Getenroute.gpx"
-length: 42
-tags:
- - "flanders"
- - "short"
+title: Twee Getenroute
+subtitle: Een landelijke fietsroute door het brede valleigebied van de Kleine en de Grote Gete
+description: Een landelijke fietsroute door het brede valleigebied van de Kleine en de Grote Gete. Een vlak parcours, al moet je in Ransberg wel recht op de trappers. Langs rijen fruitbomen, pittoreske dorpjes en weiden. Hou zeker halt in Provinciedomein Het Vinne.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "191,32,33,51,52,55,54,21,1,50,4,3,2,24,25,49,31,48,191"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/twee-getenroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 191,32,33,51,52,55,54,21,1,50,4,3,2,24,25,49,31,48,191
+      gpx: vlaamsbrabant/Twee_Getenroute.gpx
+      length: 42104
+      up: 242
+      down: 242
+      minheight: 24
+      maxheight: 80
+      minslope: -8.8
+      maxslope: 6.7
+      avgposslope: 1.6
+      avgnegslope: -1.2
+      slopehisto:
+        - 7854
+        - 1544
+        - 140
+        - 0
+        - 0
+      effortlevel: 1.786
+      minlat: 50.79065
+      minlon: 5.03898
+      maxlat: 50.89409
+      maxlon: 5.1446
 ---
 
 ## Let's Go ! 

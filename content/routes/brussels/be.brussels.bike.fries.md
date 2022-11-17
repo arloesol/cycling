@@ -1,22 +1,40 @@
 ---
-title: "The Fries Tour"
-subtitle: "Cathedral, Central Station, Arts, Fish Market, Fries ..."
 date: "2022-10-17"
-description: "The essence of Brussels in a single ride through the centre"
+title: The Fries Tour
+subtitle: Cathedral, Central Station, Arts, Fish Market, Fries ...
+description: The essence of Brussels in a single ride through the centre
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-length: 6
-ext_url: "https://www.bike.brussels/en/blog/the-fries-tour"
-gpx: "brussels/Bike-routes-22-Route-1-Center.gpx"
-#mapimg: "brussels/Routes-1-Center.jpg"
-gmaps: "https://www.google.com/mymaps/viewer?mid=1jGgoVMzRUyizTiS0RJKPlCUe3kE3Z0g&hl=en"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/the-fries-tour
+routes:
+    - name: Main
+      gpx: brussels/Bike-routes-22-Route-1-Center.gpx
+      length: 7351
+      up: 29
+      down: 33
+      minheight: 20
+      maxheight: 46
+      minslope: -2.3
+      maxslope: 3.5
+      avgposslope: 0.5
+      avgnegslope: -0.7
+      slopehisto:
+        - 721
+        - 68
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.259
+      minlat: 50.834214
+      minlon: 4.335252
+      maxlat: 50.857276
+      maxlon: 4.361848
 ---
 ## Let's go !
 

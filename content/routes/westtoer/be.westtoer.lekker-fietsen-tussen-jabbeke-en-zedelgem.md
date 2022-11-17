@@ -1,26 +1,46 @@
 ---
-title: "Lekker fietsen: Tussen Jabbeke en Zedelgem"
-subtitle: "Geniet van de vele natuurplekjes onderweg!
-
-Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
 date: "2022-11-09"
-description: "Geniet van de vele natuurplekjes onderweg!
-
-Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-tussen-jabbeke-en-zedelgem"
-gpx: "westtoer/lekker-fietsen-tussen-jabbeke-en-zedelgem.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: Tussen Jabbeke en Zedelgem'
+subtitle: |-
+    Geniet van de vele natuurplekjes onderweg!
+    Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland
+description: |-
+    Geniet van de vele natuurplekjes onderweg!
+    Deze route is een van de 15 smakelijke fietsroutes in het Brugse Ommeland
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "76,90,61,94,59,70,94,61,90,68,48,30,40,50,81,71,54,6,16,55,69,84,53,77,96,76"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-tussen-jabbeke-en-zedelgem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 76,90,61,94,59,70,94,61,90,68,48,30,40,50,81,71,54,6,16,55,69,84,53,77,96,76
+      gpx: westtoer/lekker-fietsen-tussen-jabbeke-en-zedelgem.gpx
+      length: 47285
+      up: 113
+      down: 113
+      minheight: 2
+      maxheight: 36
+      minslope: -9.4
+      maxslope: 8.4
+      avgposslope: 0.4
+      avgnegslope: -0.3
+      slopehisto:
+        - 2612
+        - 352
+        - 67
+        - 70
+        - 0
+      effortlevel: 1.69
+      minlat: 51.117956
+      minlon: 3.063532
+      maxlat: 51.208428
+      maxlon: 3.198619
 ---
 
 ## Let's Go ! 

@@ -1,26 +1,62 @@
 ---
-title: "Along the Zenne and the canal towards the cathedral"
-subtitle: "St. Rumbold's Cathedral, Zenne, Greenhouses, Japanese Tower ..."
 date: "2022-10-20"
-description: "Wind along with the river Zenne until you arrive in Mechelen"
+title: Along the Zenne and the canal towards the cathedral
+subtitle: St. Rumbold's Cathedral, Zenne, Greenhouses, Japanese Tower ...
+description: Wind along with the river Zenne until you arrive in Mechelen
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-ext_url: "https://www.bike.brussels/en/blog/along-the-zenne-and-the-canal-towards-the-cathedral"
-gpx: "brussels/Bike-for-Brussels-Langs-Zenne-en-kanaal-naar-kathedraal.gpx"
-length: 60
-gmaps: "https://www.google.com/maps/d/u/0/edit?mid=16Z8bl0pHc-dFaNeOdAnGjHX-D5G2kayP&usp=sharing"
-altroutes:
-  - name: "short"
-    gpx: "brussels/Bike-for-Brussels-Langs-Zenne-en-kanaal-naar-kathedraal-Short.gpx"
-    length: 28
-    gmaps: "https://www.google.com/maps/d/u/0/edit?mid=16Z8bl0pHc-dFaNeOdAnGjHX-D5G2kayP&usp=sharing"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/along-the-zenne-and-the-canal-towards-the-cathedral
+routes:
+    - name: Main
+      gpx: brussels/Bike-for-Brussels-Langs-Zenne-en-kanaal-naar-kathedraal.gpx
+      length: 60749
+      up: 428
+      down: 428
+      minheight: -4
+      maxheight: 70
+      minslope: -12.4
+      maxslope: 9.3
+      avgposslope: 0.6
+      avgnegslope: -0.7
+      slopehisto:
+        - 12752
+        - 1448
+        - 301
+        - 251
+        - 0
+      effortlevel: 2.74
+      minlat: 50.88817
+      minlon: 4.32863
+      maxlat: 51.04454
+      maxlon: 4.47947
+    - name: short
+      gpx: brussels/Bike-for-Brussels-Langs-Zenne-en-kanaal-naar-kathedraal-Short.gpx
+      length: 28105
+      up: 254
+      down: 254
+      minheight: 9
+      maxheight: 70
+      minslope: -12.4
+      maxslope: 8.1
+      avgposslope: 0.7
+      avgnegslope: -0.9
+      slopehisto:
+        - 6942
+        - 1215
+        - 301
+        - 109
+        - 0
+      effortlevel: 1.434
+      minlat: 50.88817
+      minlon: 4.32863
+      maxlat: 50.948936
+      maxlon: 4.42446
 ---
 ## The Route
 

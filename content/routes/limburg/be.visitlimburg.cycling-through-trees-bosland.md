@@ -1,19 +1,39 @@
 ---
-title: "Cycling through the Trees in Bosland"
-subtitle: "This flat cycling tour takes you through Bosland, Flanders' largest contiguous forest area"
 date: "2022-11-09"
-description: "This flat cycling tour takes you through Bosland, Flanders' largest contiguous forest area"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/cycling-through-trees-bosland"
-gpx: "limburg/cycling-through-trees-bosland.gpx"
-length: 34
-tags:
- - "flanders"
- - "short"
+title: Cycling through the Trees in Bosland
+subtitle: This flat cycling tour takes you through Bosland, Flanders' largest contiguous forest area
+description: This flat cycling tour takes you through Bosland, Flanders' largest contiguous forest area
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/cycling-through-trees-bosland
+routes:
+    - name: Main
+      gpx: limburg/cycling-through-trees-bosland.gpx
+      length: 32375
+      up: 182
+      down: 184
+      minheight: 44
+      maxheight: 76
+      minslope: -20.4
+      maxslope: 9.5
+      avgposslope: 3.3
+      avgnegslope: -2.4
+      slopehisto:
+        - 4948
+        - 920
+        - 594
+        - 517
+        - 0
+      effortlevel: 1.578
+      minlat: 51.13601
+      minlon: 5.30265
+      maxlat: 51.22032
+      maxlon: 5.39453
 ---
 
 ## Let's Go ! 

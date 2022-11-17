@@ -1,21 +1,40 @@
 ---
-title: "To Wolvertem, with Brussels views along the way"
-subtitle: "Park of Laeken, the Meise Botanic Garden and the Land of Oppem"
 date: "2022-10-20"
-description: "Wolvertem"
+title: To Wolvertem, with Brussels views along the way
+subtitle: Park of Laeken, the Meise Botanic Garden and the Land of Oppem
+description: Wolvertem
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-ext_url: "https://www.bike.brussels/en/blog/to-wolvertem-with-brussels-views-along-the-way"
-gpx: "brussels/Bike-for-Brussels-Met-zicht-op-Brussel-naar-Wolvertem.gpx"
-length: 34
-gmaps: "https://www.google.com/maps/d/u/0/edit?mid=1QkwHX2TZ69xh6aoB-CaS9BjKkZh_0fnk&usp=sharing"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/to-wolvertem-with-brussels-views-along-the-way
+routes:
+    - name: Main
+      gpx: brussels/Bike-for-Brussels-Met-zicht-op-Brussel-naar-Wolvertem.gpx
+      length: 32537
+      up: 287
+      down: 287
+      minheight: 24
+      maxheight: 79
+      minslope: -7.7
+      maxslope: 5.8
+      avgposslope: 0.8
+      avgnegslope: -0.8
+      slopehisto:
+        - 9544
+        - 1371
+        - 62
+        - 0
+        - 0
+      effortlevel: 1.592
+      minlat: 50.87231
+      minlon: 4.24979
+      maxlat: 50.95483
+      maxlon: 4.35358
 ---
 ## The Route
 

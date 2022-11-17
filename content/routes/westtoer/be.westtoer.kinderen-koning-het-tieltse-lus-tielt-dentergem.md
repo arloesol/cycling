@@ -1,22 +1,42 @@
 ---
-title: "Kinderen koning in het Tieltse - lus Tielt - Dentergem"
-subtitle: "Kinderen zijn koning in het Tieltse"
 date: "2022-11-09"
-description: "Kinderen zijn koning in het Tieltse"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-tielt-dentergem"
-gpx: "westtoer/kinderen-koning-het-tieltse-lus-tielt-dentergem.gpx"
-length: 24
-tags:
- - "flanders"
- - "vshort"
+title: Kinderen koning in het Tieltse - lus Tielt - Dentergem
+subtitle: Kinderen zijn koning in het Tieltse
+description: Kinderen zijn koning in het Tieltse
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "52,9,4,63,3,8,18,78,74,2,57,50,9,52"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kinderen-koning-het-tieltse-lus-tielt-dentergem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 52,9,4,63,3,8,18,78,74,2,57,50,9,52
+      gpx: westtoer/kinderen-koning-het-tieltse-lus-tielt-dentergem.gpx
+      length: 23855
+      up: 41
+      down: 41
+      minheight: 9
+      maxheight: 26
+      minslope: -3.2
+      maxslope: 2.4
+      avgposslope: 1.1
+      avgnegslope: -1.2
+      slopehisto:
+        - 1875
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.819
+      minlat: 50.930208
+      minlon: 3.363398
+      maxlat: 50.982462
+      maxlon: 3.420754
 ---
 
 ## Let's Go ! 

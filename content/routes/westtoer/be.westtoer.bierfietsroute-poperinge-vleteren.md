@@ -1,22 +1,42 @@
 ---
-title: "Bierfietsroute Poperinge - Vleteren"
-subtitle: "Via deze route kom je langs drie brouwerijen, maar vergeet ook niet halt te houden in een van de gezellige kroegen waar je de Westhoekbieren kan proeven"
 date: "2022-11-09"
-description: "Via deze route kom je langs drie brouwerijen, maar vergeet ook niet halt te houden in een van de gezellige kroegen waar je de Westhoekbieren kan proeven"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/bierfietsroute-poperinge-vleteren"
-gpx: "westtoer/bierfietsroute-poperinge-vleteren.gpx"
-length: 33
-tags:
- - "flanders"
- - "short"
+title: Bierfietsroute Poperinge - Vleteren
+subtitle: Via deze route kom je langs drie brouwerijen, maar vergeet ook niet halt te houden in een van de gezellige kroegen waar je de Westhoekbieren kan proeven
+description: Via deze route kom je langs drie brouwerijen, maar vergeet ook niet halt te houden in een van de gezellige kroegen waar je de Westhoekbieren kan proeven
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "46,16,86,85,39,83,99,77,76,78,65,2,6,96,92,98,68,67,66,26,42,46"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/bierfietsroute-poperinge-vleteren
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 46,16,86,85,39,83,99,77,76,78,65,2,6,96,92,98,68,67,66,26,42,46
+      gpx: westtoer/bierfietsroute-poperinge-vleteren.gpx
+      length: 32879
+      up: 115
+      down: 115
+      minheight: 11
+      maxheight: 57
+      minslope: -3.2
+      maxslope: 2.7
+      avgposslope: 2.9
+      avgnegslope: -2
+      slopehisto:
+        - 4870
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.22
+      minlat: 50.83574
+      minlon: 2.620555
+      maxlat: 50.904922
+      maxlon: 2.730323
 ---
 
 ## Let's Go ! 

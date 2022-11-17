@@ -1,19 +1,39 @@
 ---
-title: "Gentelefietsroute"
-subtitle: "Vanuit Blankenberge kan je naar de polders fietsen via de Gentelefietsroute"
 date: "2022-11-09"
-description: "Vanuit Blankenberge kan je naar de polders fietsen via de Gentelefietsroute"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/gentelefietsroute"
-gpx: "westtoer/gentelefietsroute.gpx"
-length: 33
-tags:
- - "flanders"
- - "short"
+title: Gentelefietsroute
+subtitle: Vanuit Blankenberge kan je naar de polders fietsen via de Gentelefietsroute
+description: Vanuit Blankenberge kan je naar de polders fietsen via de Gentelefietsroute
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/gentelefietsroute
+routes:
+    - name: Main
+      gpx: westtoer/gentelefietsroute.gpx
+      length: 34027
+      up: 69
+      down: 69
+      minheight: 1
+      maxheight: 5
+      minslope: -2.8
+      maxslope: 2.4
+      avgposslope: 0.2
+      avgnegslope: -0.2
+      slopehisto:
+        - 1584
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.156
+      minlat: 51.229987
+      minlon: 3.089262
+      maxlat: 51.312988
+      maxlon: 3.173613
 ---
 
 ## Let's Go ! 

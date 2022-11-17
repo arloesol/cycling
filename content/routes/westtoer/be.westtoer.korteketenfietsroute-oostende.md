@@ -1,23 +1,43 @@
 ---
-title: "Fietsen langs de Korte Keten - Oostende"
-subtitle: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond Oostende met behulp van dit voor jou uitgestippeld fietslusje"
 date: "2022-11-09"
-description: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond Oostende met behulp van dit voor jou uitgestippeld fietslusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-oostende"
-gpx: "westtoer/korteketenfietsroute-oostende.gpx"
-length: 34
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Oostende
+subtitle: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond Oostende met behulp van dit voor jou uitgestippeld fietslusje
+description: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond Oostende met behulp van dit voor jou uitgestippeld fietslusje
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/korteketenfietsroute-oostende
+routes:
+    - name: Main
+      gpx: westtoer/korteketenfietsroute-oostende.gpx
+      length: 27330
+      up: 44
+      down: 44
+      minheight: 0
+      maxheight: 10
+      minslope: -5.1
+      maxslope: 4.8
+      avgposslope: 0.4
+      avgnegslope: -0.3
+      slopehisto:
+        - 991
+        - 179
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.965
+      minlat: 51.19465
+      minlon: 2.87408
+      maxlat: 51.2387
+      maxlon: 2.96187
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Past heathland and panoramic views"
-subtitle: "A gently sloping cycle route that takes you through shady pine forests and purple heather landscapes"
 date: "2022-11-09"
-description: "A gently sloping cycle route that takes you through shady pine forests and purple heather landscapes"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/past-heathland-and-panoramic-views"
-gpx: "limburg/past-heathland-and-panoramic-views.gpx"
-length: 37
-tags:
- - "flanders"
- - "short"
+title: Past heathland and panoramic views
+subtitle: A gently sloping cycle route that takes you through shady pine forests and purple heather landscapes
+description: A gently sloping cycle route that takes you through shady pine forests and purple heather landscapes
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/past-heathland-and-panoramic-views
+routes:
+    - name: Main
+      gpx: limburg/past-heathland-and-panoramic-views.gpx
+      length: 36626
+      up: 401
+      down: 401
+      minheight: 66
+      maxheight: 112
+      minslope: -26
+      maxslope: 17.1
+      avgposslope: 2.9
+      avgnegslope: -2.6
+      slopehisto:
+        - 5509
+        - 2063
+        - 604
+        - 477
+        - 1678
+      effortlevel: 2.458
+      minlat: 50.91011
+      minlon: 5.53174
+      maxlat: 51.00363
+      maxlon: 5.63395
 ---
 
 ## Let's Go ! 

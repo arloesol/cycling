@@ -1,19 +1,39 @@
 ---
-title: "Langs De Linie Fietsroute"
-subtitle: "Nergens zijn de Staats-Spaanse Linies van vroeger zo tastbaar aanwezig als op deze route vanuit het Wase grensdorpje De Klinge"
 date: "2022-11-09"
-description: "Nergens zijn de Staats-Spaanse Linies van vroeger zo tastbaar aanwezig als op deze route vanuit het Wase grensdorpje De Klinge"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/langs-de-linie-fietsroute"
-gpx: "routen/langs-de-linie-fietsroute.gpx"
-length: 31
-tags:
- - "flanders"
- - "short"
+title: Langs De Linie Fietsroute
+subtitle: Nergens zijn de Staats-Spaanse Linies van vroeger zo tastbaar aanwezig als op deze route vanuit het Wase grensdorpje De Klinge
+description: Nergens zijn de Staats-Spaanse Linies van vroeger zo tastbaar aanwezig als op deze route vanuit het Wase grensdorpje De Klinge
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/langs-de-linie-fietsroute
+routes:
+    - name: Main
+      gpx: routen/langs-de-linie-fietsroute.gpx
+      length: 29625
+      up: 49
+      down: 49
+      minheight: -1
+      maxheight: 6
+      minslope: -4.3
+      maxslope: 4.6
+      avgposslope: 0.6
+      avgnegslope: -0.7
+      slopehisto:
+        - 2071
+        - 145
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.029
+      minlat: 51.23565
+      minlon: 4.08994
+      maxlat: 51.29497
+      maxlon: 4.2021
 ---
 
 ## Let's Go ! 

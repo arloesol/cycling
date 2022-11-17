@@ -1,19 +1,39 @@
 ---
-title: "Langs Kunst De Leiestreek Fietsroute"
-subtitle: "Deze fietsroute start in Deinze, jouw toegangspoort tot de Oost-Vlaamse Leiestreek"
 date: "2022-11-09"
-description: "Deze fietsroute start in Deinze, jouw toegangspoort tot de Oost-Vlaamse Leiestreek"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/langs-kunst-de-leiestreek-fietsroute"
-gpx: "routen/langs-kunst-de-leiestreek-fietsroute.gpx"
-length: 37
-tags:
- - "flanders"
- - "short"
+title: Langs Kunst De Leiestreek Fietsroute
+subtitle: Deze fietsroute start in Deinze, jouw toegangspoort tot de Oost-Vlaamse Leiestreek
+description: Deze fietsroute start in Deinze, jouw toegangspoort tot de Oost-Vlaamse Leiestreek
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/langs-kunst-de-leiestreek-fietsroute
+routes:
+    - name: Main
+      gpx: routen/langs-kunst-de-leiestreek-fietsroute.gpx
+      length: 36665
+      up: 124
+      down: 124
+      minheight: 5
+      maxheight: 22
+      minslope: -8.4
+      maxslope: 9
+      avgposslope: 0.7
+      avgnegslope: -0.8
+      slopehisto:
+        - 4732
+        - 470
+        - 189
+        - 183
+        - 0
+      effortlevel: 1.469
+      minlat: 50.94779
+      minlon: 3.47774
+      maxlat: 51.0136
+      maxlon: 3.60782
 ---
 
 ## Let's Go ! 

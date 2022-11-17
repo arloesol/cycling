@@ -1,22 +1,42 @@
 ---
-title: "Door het land van Mortagne en Mira"
-subtitle: "Tijdens deze fietstocht verken je de groene en glooiende omgeving tussen Leie en Schelde"
 date: "2022-11-09"
-description: "Tijdens deze fietstocht verken je de groene en glooiende omgeving tussen Leie en Schelde"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/door-het-land-van-mortagne-en-mira"
-gpx: "westtoer/door-het-land-van-mortagne-en-mira.gpx"
-length: 36
-tags:
- - "flanders"
- - "short"
+title: Door het land van Mortagne en Mira
+subtitle: Tijdens deze fietstocht verken je de groene en glooiende omgeving tussen Leie en Schelde
+description: Tijdens deze fietstocht verken je de groene en glooiende omgeving tussen Leie en Schelde
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "60,76,61,77,69,74,67,70,78,48,85,93,99,11,57,59,35,71,86,83,60"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/door-het-land-van-mortagne-en-mira
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 60,76,61,77,69,74,67,70,78,48,85,93,99,11,57,59,35,71,86,83,60
+      gpx: westtoer/door-het-land-van-mortagne-en-mira.gpx
+      length: 36006
+      up: 137
+      down: 138
+      minheight: 12
+      maxheight: 77
+      minslope: -6.2
+      maxslope: 9.7
+      avgposslope: 2.1
+      avgnegslope: -2.3
+      slopehisto:
+        - 4575
+        - 1040
+        - 0
+        - 0
+        - 65
+      effortlevel: 1.476
+      minlat: 50.716302
+      minlon: 3.322929
+      maxlat: 50.795868
+      maxlon: 3.4663
 ---
 
 ## Let's Go ! 

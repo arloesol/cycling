@@ -1,19 +1,39 @@
 ---
-title: "Tiegembergfietsroute"
-subtitle: "Tussen de Leie en de Schelde glooit het landschap"
 date: "2022-11-09"
-description: "Tussen de Leie en de Schelde glooit het landschap"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/tiegembergfietsroute"
-gpx: "westtoer/tiegembergfietsroute.gpx"
-length: 48
-tags:
- - "flanders"
- - "short"
+title: Tiegembergfietsroute
+subtitle: Tussen de Leie en de Schelde glooit het landschap
+description: Tussen de Leie en de Schelde glooit het landschap
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/tiegembergfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/tiegembergfietsroute.gpx
+      length: 48710
+      up: 394
+      down: 394
+      minheight: 11
+      maxheight: 83
+      minslope: -10.8
+      maxslope: 8.5
+      avgposslope: 0.6
+      avgnegslope: -0.7
+      slopehisto:
+        - 8988
+        - 1958
+        - 373
+        - 60
+        - 0
+      effortlevel: 2.209
+      minlat: 50.787019
+      minlon: 3.370568
+      maxlat: 50.888605
+      maxlon: 3.51799
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Fietsen langs Brouwerij 't Gaverhopke"
-subtitle: "Deze fietsroute verkent de mooie omgeving van Waregem"
 date: "2022-11-09"
-description: "Deze fietsroute verkent de mooie omgeving van Waregem"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-brouwerij-t-gaverhopke"
-gpx: "westtoer/fietsen-langs-brouwerij-t-gaverhopke.gpx"
-length: 38
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs Brouwerij 't Gaverhopke
+subtitle: Deze fietsroute verkent de mooie omgeving van Waregem
+description: Deze fietsroute verkent de mooie omgeving van Waregem
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-langs-brouwerij-t-gaverhopke
+routes:
+    - name: Main
+      gpx: westtoer/fietsen-langs-brouwerij-t-gaverhopke.gpx
+      length: 38622
+      up: 146
+      down: 146
+      minheight: 6
+      maxheight: 57
+      minslope: -7.1
+      maxslope: 5.5
+      avgposslope: 0.8
+      avgnegslope: -0.6
+      slopehisto:
+        - 6007
+        - 526
+        - 56
+        - 0
+        - 0
+      effortlevel: 1.511
+      minlat: 50.85012
+      minlon: 3.3255
+      maxlat: 50.91117
+      maxlon: 3.47843
 ---
 
 ## Let's Go ! 

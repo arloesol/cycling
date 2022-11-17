@@ -1,19 +1,39 @@
 ---
-title: "Dijleland gravelroute"
-subtitle: "Een route vol afwisseling en hoogtemeters voor de geoefende gravelrijder"
 date: "2022-11-09"
-description: "Een route vol afwisseling en hoogtemeters voor de geoefende gravelrijder. Singletracks door het bos, smal betonwegjes, kasseistroken en tientallen grindpaden doorspekt met de belangrijkste beklimmingen uit het parcours van het wereldkampioenschap? Deze gravelroute biedt het jou allemaal!"
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/dijleland-gravelroute/index.html"
-gpx: "vlaamsbrabant/Dijleland_gravelroute.gpx"
-length: 100
-tags:
- - "flanders"
- - "long"
+title: Dijleland gravelroute
+subtitle: Een route vol afwisseling en hoogtemeters voor de geoefende gravelrijder
+description: Een route vol afwisseling en hoogtemeters voor de geoefende gravelrijder. Singletracks door het bos, smal betonwegjes, kasseistroken en tientallen grindpaden doorspekt met de belangrijkste beklimmingen uit het parcours van het wereldkampioenschap? Deze gravelroute biedt het jou allemaal!
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/dijleland-gravelroute/index.html
+routes:
+    - name: Main
+      gpx: vlaamsbrabant/Dijleland_gravelroute.gpx
+      length: 104361
+      up: 1411
+      down: 1414
+      minheight: 18
+      maxheight: 120
+      minslope: -23.4
+      maxslope: 22.9
+      avgposslope: 3.5
+      avgnegslope: -3.6
+      slopehisto:
+        - 18574
+        - 7858
+        - 3371
+        - 2259
+        - 2609
+      effortlevel: 7.138
+      minlat: 50.7447
+      minlon: 4.51928
+      maxlat: 50.90213
+      maxlon: 4.7269
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Over Muur En Taalgrens Fietsroute"
-subtitle: "Smeer je kuiten maar in, want op deze route trotseer je in het begin de beruchte Muur van Geraardsbergen"
 date: "2022-11-09"
-description: "Smeer je kuiten maar in, want op deze route trotseer je in het begin de beruchte Muur van Geraardsbergen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/over-muur-en-taalgrens-fietsroute"
-gpx: "routen/over-muur-en-taalgrens-fietsroute.gpx"
-length: 68
-tags:
- - "flanders"
- - "medium"
+title: Over Muur En Taalgrens Fietsroute
+subtitle: Smeer je kuiten maar in, want op deze route trotseer je in het begin de beruchte Muur van Geraardsbergen
+description: Smeer je kuiten maar in, want op deze route trotseer je in het begin de beruchte Muur van Geraardsbergen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/over-muur-en-taalgrens-fietsroute
+routes:
+    - name: Main
+      gpx: routen/over-muur-en-taalgrens-fietsroute.gpx
+      length: 67196
+      up: 666
+      down: 666
+      minheight: 12
+      maxheight: 100
+      minslope: -12.6
+      maxslope: 17.4
+      avgposslope: 1.6
+      avgnegslope: -1.4
+      slopehisto:
+        - 13457
+        - 3671
+        - 2113
+        - 529
+        - 462
+      effortlevel: 3.721
+      minlat: 50.71972
+      minlon: 3.76763
+      maxlat: 50.84856
+      maxlon: 3.92671
 ---
 
 ## Let's Go ! 

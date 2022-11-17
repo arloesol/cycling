@@ -1,22 +1,42 @@
 ---
-title: "Hopbelroute"
-subtitle: "Vroeger werd het landschap rond Asse en Aalst gekenmerkt door velden met hopstaken"
 date: "2022-11-09"
-description: "Vroeger werd het landschap rond Asse en Aalst gekenmerkt door velden met hopstaken.Nu zijn er enkel nog wat overblijfselen die ons herinneren aan die bloeiende hopteelt. Hoewel er nog weinig hop te zien is, wordt er nog wel op grote en kleine schaal bier gebrouwen in de streek."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/hopbelroute/index.html"
-gpx: "vlaamsbrabant/Hopbelroute.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Hopbelroute
+subtitle: Vroeger werd het landschap rond Asse en Aalst gekenmerkt door velden met hopstaken
+description: Vroeger werd het landschap rond Asse en Aalst gekenmerkt door velden met hopstaken.Nu zijn er enkel nog wat overblijfselen die ons herinneren aan die bloeiende hopteelt. Hoewel er nog weinig hop te zien is, wordt er nog wel op grote en kleine schaal bier gebrouwen in de streek.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "46,87,37,45,36,34,53,54,92,12,9,14,19,55,51,8,4,84,52,62,61,46"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/hopbelroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 46,87,37,45,36,34,53,54,92,12,9,14,19,55,51,8,4,84,52,62,61,46
+      gpx: vlaamsbrabant/Hopbelroute.gpx
+      length: 44430
+      up: 402
+      down: 402
+      minheight: 24
+      maxheight: 87
+      minslope: -14
+      maxslope: 14.6
+      avgposslope: 2.6
+      avgnegslope: -1.8
+      slopehisto:
+        - 8185
+        - 3879
+        - 462
+        - 111
+        - 219
+      effortlevel: 2.352
+      minlat: 50.82705
+      minlon: 4.18731
+      maxlat: 50.9407
+      maxlon: 4.26411
 ---
 
 ## Let's Go ! 

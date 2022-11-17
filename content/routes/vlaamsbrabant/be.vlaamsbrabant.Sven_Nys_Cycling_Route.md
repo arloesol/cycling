@@ -1,19 +1,39 @@
 ---
-title: "Sven Nys Cycling Route"
-subtitle: "Deze sportieve route van 93 km werd uitgetekend door Sven Nys"
 date: "2022-11-09"
-description: "Deze sportieve route van 93 km werd uitgetekend door Sven Nys. Het traject is pittig en bevat enkele kuitenbijters. Starten doe je aan het Sven Nys Cycling Center, het belevingscentrum waar je alles te weten komt over off-road fietsen."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/sven-nys-cycling-route/index.html"
-gpx: "vlaamsbrabant/Sven_Nys_Cycling_Route.gpx"
-length: 93
-tags:
- - "flanders"
- - "medium"
+title: Sven Nys Cycling Route
+subtitle: Deze sportieve route van 93 km werd uitgetekend door Sven Nys
+description: Deze sportieve route van 93 km werd uitgetekend door Sven Nys. Het traject is pittig en bevat enkele kuitenbijters. Starten doe je aan het Sven Nys Cycling Center, het belevingscentrum waar je alles te weten komt over off-road fietsen.
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/sven-nys-cycling-route/index.html
+routes:
+    - name: Main
+      gpx: vlaamsbrabant/Sven_Nys_Cycling_Route.gpx
+      length: 93186
+      up: 876
+      down: 876
+      minheight: 8
+      maxheight: 95
+      minslope: -13.4
+      maxslope: 13.6
+      avgposslope: 2.9
+      avgnegslope: -2.6
+      slopehisto:
+        - 18012
+        - 6475
+        - 1380
+        - 389
+        - 1112
+      effortlevel: 5.114
+      minlat: 50.86699
+      minlon: 4.71569
+      maxlat: 51.00192
+      maxlon: 4.93283
 ---
 
 ## Let's Go ! 

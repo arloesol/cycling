@@ -1,19 +1,39 @@
 ---
-title: "Aalterse Acht Fietsroute"
-subtitle: "Tussen het Drongengoed in het noorden en Poeke in het zuiden bol je op deze route door acht deelgemeenten van Aalter"
 date: "2022-11-09"
-description: "Tussen het Drongengoed in het noorden en Poeke in het zuiden bol je op deze route door acht deelgemeenten van Aalter"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/aalterse-acht-fietsroute"
-gpx: "routen/aalterse-acht-fietsroute.gpx"
-length: 54
-tags:
- - "flanders"
- - "short"
+title: Aalterse Acht Fietsroute
+subtitle: Tussen het Drongengoed in het noorden en Poeke in het zuiden bol je op deze route door acht deelgemeenten van Aalter
+description: Tussen het Drongengoed in het noorden en Poeke in het zuiden bol je op deze route door acht deelgemeenten van Aalter
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/aalterse-acht-fietsroute
+routes:
+    - name: Main
+      gpx: routen/aalterse-acht-fietsroute.gpx
+      length: 54124
+      up: 205
+      down: 205
+      minheight: 6
+      maxheight: 41
+      minslope: -16.2
+      maxslope: 12.4
+      avgposslope: 1
+      avgnegslope: -1.2
+      slopehisto:
+        - 7947
+        - 319
+        - 615
+        - 208
+        - 208
+      effortlevel: 2.271
+      minlat: 51.0395
+      minlon: 3.37168
+      maxlat: 51.14993
+      maxlon: 3.50479
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Fietsroute Verdwenen Zwinhavens 44 km"
-subtitle: "De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (dit is de lus van 44 km, of kies voor de volledige lust van 60 km of inkorting van 31 km)"
 date: "2022-11-09"
-description: "De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (dit is de lus van 44 km, of kies voor de volledige lust van 60 km of inkorting van 31 km)"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsroute-verdwenen-zwinhavens-44-km"
-gpx: "westtoer/fietsroute-verdwenen-zwinhavens-44-km.gpx"
-length: 44
-tags:
- - "flanders"
- - "short"
+title: Fietsroute Verdwenen Zwinhavens 44 km
+subtitle: De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (dit is de lus van 44 km, of kies voor de volledige lust van 60 km of inkorting van 31 km)
+description: De Verdwenen Zwinhavens Fietsroute laat je het historische Zwinlandschap tussen Knokke-Heist, Sluis, Damme en Brugge ontdekken (dit is de lus van 44 km, of kies voor de volledige lust van 60 km of inkorting van 31 km)
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsroute-verdwenen-zwinhavens-44-km
+routes:
+    - name: Main
+      gpx: westtoer/fietsroute-verdwenen-zwinhavens-44-km.gpx
+      length: 44223
+      up: 139
+      down: 139
+      minheight: 2
+      maxheight: 8
+      minslope: -4.6
+      maxslope: 7.4
+      avgposslope: 0.2
+      avgnegslope: -0.3
+      slopehisto:
+        - 2844
+        - 0
+        - 50
+        - 0
+        - 0
+      effortlevel: 1.534
+      minlat: 51.252374
+      minlon: 3.272329
+      maxlat: 51.358549
+      maxlon: 3.400093
 ---
 
 ## Let's Go ! 

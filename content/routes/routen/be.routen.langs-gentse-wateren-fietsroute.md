@@ -1,19 +1,39 @@
 ---
-title: "Langs Gentse Wateren Fietsroute"
-subtitle: "Van de Watersportbaan, de Leie en de Nederschelde tot de Lieve, de Brugse- en de Nieuwevaart"
 date: "2022-11-09"
-description: "Van de Watersportbaan, de Leie en de Nederschelde tot de Lieve, de Brugse- en de Nieuwevaart"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/langs-gentse-wateren-fietsroute"
-gpx: "routen/langs-gentse-wateren-fietsroute.gpx"
-length: 16
-tags:
- - "flanders"
- - "vshort"
+title: Langs Gentse Wateren Fietsroute
+subtitle: Van de Watersportbaan, de Leie en de Nederschelde tot de Lieve, de Brugse- en de Nieuwevaart
+description: Van de Watersportbaan, de Leie en de Nederschelde tot de Lieve, de Brugse- en de Nieuwevaart
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/langs-gentse-wateren-fietsroute
+routes:
+    - name: Main
+      gpx: routen/langs-gentse-wateren-fietsroute.gpx
+      length: 16932
+      up: 50
+      down: 50
+      minheight: 4
+      maxheight: 11
+      minslope: -3.9
+      maxslope: 3.7
+      avgposslope: 0.4
+      avgnegslope: -0.5
+      slopehisto:
+        - 2426
+        - 62
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.625
+      minlat: 51.04158
+      minlon: 3.67439
+      maxlat: 51.0773
+      maxlon: 3.73477
 ---
 
 ## Let's Go ! 

@@ -1,26 +1,46 @@
 ---
-title: "Fietsen langs de Korte Keten - Oostduinkerke"
-subtitle: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de gemeente Oostduinkerke met behulp van dit voor jou uitgestippeld fietslusje"
 date: "2022-11-09"
-description: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de gemeente Oostduinkerke met behulp van dit voor jou uitgestippeld fietslusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-oostduinkerke"
-gpx: "westtoer/korteketenfietsroute-oostduinkerke.gpx"
-length: 23
-tags:
- - "flanders"
- - "vshort"
+title: Fietsen langs de Korte Keten - Oostduinkerke
+subtitle: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de gemeente Oostduinkerke met behulp van dit voor jou uitgestippeld fietslusje
+description: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de gemeente Oostduinkerke met behulp van dit voor jou uitgestippeld fietslusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "98,6,86,68,75,69,19,20,90,89,57,7,98"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/korteketenfietsroute-oostduinkerke
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 98,6,86,68,75,69,19,20,90,89,57,7,98
+      gpx: westtoer/korteketenfietsroute-oostduinkerke.gpx
+      length: 23551
+      up: 43
+      down: 43
+      minheight: 2
+      maxheight: 8
+      minslope: -5.3
+      maxslope: 4.7
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 946
+        - 56
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.813
+      minlat: 51.072959
+      minlon: 2.666338
+      maxlat: 51.125125
+      maxlon: 2.783782
 ---
 
 ## Let's Go ! 

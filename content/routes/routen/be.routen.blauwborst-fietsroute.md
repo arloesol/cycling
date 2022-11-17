@@ -1,19 +1,39 @@
 ---
-title: "Blauwborst Fietsroute"
-subtitle: "Dendermonde dankt z’n naam en ontstaan aan de samenvloeiing van Dender en Schelde"
 date: "2022-11-09"
-description: "Dendermonde dankt z’n naam en ontstaan aan de samenvloeiing van Dender en Schelde"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/blauwborst-fietsroute"
-gpx: "routen/blauwborst-fietsroute.gpx"
-length: 36
-tags:
- - "flanders"
- - "short"
+title: Blauwborst Fietsroute
+subtitle: Dendermonde dankt z’n naam en ontstaan aan de samenvloeiing van Dender en Schelde
+description: Dendermonde dankt z’n naam en ontstaan aan de samenvloeiing van Dender en Schelde
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/blauwborst-fietsroute
+routes:
+    - name: Main
+      gpx: routen/blauwborst-fietsroute.gpx
+      length: 36766
+      up: 113
+      down: 113
+      minheight: 0
+      maxheight: 11
+      minslope: -7.8
+      maxslope: 6.3
+      avgposslope: 0.6
+      avgnegslope: -0.6
+      slopehisto:
+        - 5538
+        - 335
+        - 58
+        - 0
+        - 0
+      effortlevel: 1.396
+      minlat: 50.99622
+      minlon: 4.02226
+      maxlat: 51.05961
+      maxlon: 4.16626
 ---
 
 ## Let's Go ! 

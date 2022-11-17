@@ -1,19 +1,39 @@
 ---
-title: "Geuze Gravelroute"
-subtitle: "Trap door de mooiste Bruegellandschappen langs gravelwegen en autoluwe betonbaantjes en beloon de inspanning met een lekkere geuze in een sympathiek dorpscafé"
 date: "2022-11-09"
-description: "Trap door de mooiste Bruegellandschappen langs gravelwegen en autoluwe betonbaantjes en beloon de inspanning met een lekkere geuze in een sympathiek dorpscafé."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/geuze-gravelroute/index.html"
-gpx: "vlaamsbrabant/Geuze_Gravelroute.gpx"
-length: 97
-tags:
- - "flanders"
- - "medium"
+title: Geuze Gravelroute
+subtitle: Trap door de mooiste Bruegellandschappen langs gravelwegen en autoluwe betonbaantjes en beloon de inspanning met een lekkere geuze in een sympathiek dorpscafé
+description: Trap door de mooiste Bruegellandschappen langs gravelwegen en autoluwe betonbaantjes en beloon de inspanning met een lekkere geuze in een sympathiek dorpscafé.
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/geuze-gravelroute/index.html
+routes:
+    - name: Main
+      gpx: vlaamsbrabant/Geuze_Gravelroute.gpx
+      length: 97061
+      up: 985
+      down: 985
+      minheight: 20
+      maxheight: 149
+      minslope: -16.6
+      maxslope: 16.7
+      avgposslope: 3.1
+      avgnegslope: -2.9
+      slopehisto:
+        - 22621
+        - 5034
+        - 3288
+        - 1291
+        - 819
+      effortlevel: 5.724
+      minlat: 50.69692
+      minlon: 4.02604
+      maxlat: 50.81588
+      maxlon: 4.32706
 ---
 
 ## Let's Go ! 

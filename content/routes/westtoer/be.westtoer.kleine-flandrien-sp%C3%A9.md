@@ -1,22 +1,42 @@
 ---
-title: "Kleine Flandrien in spé"
-subtitle: "Deze route vertrekt vanuit de Kinderbrouwerij richting Heuvelland voor een gezellig namiddagje uit op de Rode- en Zwarteberg"
 date: "2022-11-09"
-description: "Deze route vertrekt vanuit de Kinderbrouwerij richting Heuvelland voor een gezellig namiddagje uit op de Rode- en Zwarteberg"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kleine-flandrien-sp%C3%A9"
-gpx: "westtoer/kleine-flandrien-sp%C3%A9.gpx"
-length: 17
-tags:
- - "flanders"
- - "vshort"
+title: Kleine Flandrien in spé
+subtitle: Deze route vertrekt vanuit de Kinderbrouwerij richting Heuvelland voor een gezellig namiddagje uit op de Rode- en Zwarteberg
+description: Deze route vertrekt vanuit de Kinderbrouwerij richting Heuvelland voor een gezellig namiddagje uit op de Rode- en Zwarteberg
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "96,97,55,4,84,99,98,18,1,96"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kleine-flandrien-sp%C3%A9
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 96,97,55,4,84,99,98,18,1,96
+      gpx: westtoer/kleine-flandrien-sp%C3%A9.gpx
+      length: 17303
+      up: 228
+      down: 228
+      minheight: 30
+      maxheight: 119
+      minslope: -12.5
+      maxslope: 12.8
+      avgposslope: 1.7
+      avgnegslope: -1.3
+      slopehisto:
+        - 4506
+        - 2114
+        - 68
+        - 63
+        - 116
+      effortlevel: 1.085
+      minlat: 50.780694
+      minlon: 2.728107
+      maxlat: 50.816792
+      maxlon: 2.799885
 ---
 
 ## Let's Go ! 

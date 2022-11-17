@@ -3,16 +3,16 @@ package main
 import (
 	"strings"
 
-	"cycling.io/m/v2/lib"
+	"cycling.io/tools/v2/lib"
 	"github.com/gocolly/colly"
 )
 
 var (
 	cfg = lib.Cfg{
 		Pagetoparse: "",
-		//Pagetoparse: "https://www.flandersbybike.com/coastal-route",
-		Savegpx:    true,
-		Saveimg:    true,
+		//Pagetoparse: "https://www.flandersbybike.com/art-cities-route",
+		Savegpx:    false,
+		Saveimg:    false,
 		Source:     "flandersbybike",
 		Srcpfx:     "com.flandersbybike.",
 		Tags:       []string{"flanders"},
@@ -68,9 +68,11 @@ func main() {
 		}
 	})
 
-	c.OnHTML("p > span > span > span > span > span > span > span", func(e *colly.HTMLElement) {
+	c.OnHTML("span[lang]", func(e *colly.HTMLElement) {
 		if e.Request.Depth == 2 {
-			route.Content = e.Text
+			if e.Attr("lang") == "EN-GB" {
+				route.Content = e.Text
+			}
 		}
 	})
 

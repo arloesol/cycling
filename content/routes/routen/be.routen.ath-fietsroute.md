@@ -1,19 +1,39 @@
 ---
-title: "Ath Fietsroute"
-subtitle: "Op zoek naar de plaats waar de Dender ontspringt, belanden we na een stevige klim via de hellingen van de Vlaamse Ardennen in Wallonie Picarde aan de andere kant van de taalgrens"
 date: "2022-11-09"
-description: "Op zoek naar de plaats waar de Dender ontspringt, belanden we na een stevige klim via de hellingen van de Vlaamse Ardennen in Wallonie Picarde aan de andere kant van de taalgrens"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/ath-fietsroute"
-gpx: "routen/ath-fietsroute.gpx"
-length: 49
-tags:
- - "flanders"
- - "short"
+title: Ath Fietsroute
+subtitle: Op zoek naar de plaats waar de Dender ontspringt, belanden we na een stevige klim via de hellingen van de Vlaamse Ardennen in Wallonie Picarde aan de andere kant van de taalgrens
+description: Op zoek naar de plaats waar de Dender ontspringt, belanden we na een stevige klim via de hellingen van de Vlaamse Ardennen in Wallonie Picarde aan de andere kant van de taalgrens
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/ath-fietsroute
+routes:
+    - name: Main
+      gpx: routen/ath-fietsroute.gpx
+      length: 49050
+      up: 380
+      down: 380
+      minheight: 15
+      maxheight: 87
+      minslope: -26
+      maxslope: 29.8
+      avgposslope: 1.7
+      avgnegslope: -1.6
+      slopehisto:
+        - 9654
+        - 2117
+        - 139
+        - 332
+        - 400
+      effortlevel: 2.516
+      minlat: 50.6261
+      minlon: 3.77088
+      maxlat: 50.76212
+      maxlon: 3.92042
 ---
 
 ## Let's Go ! 

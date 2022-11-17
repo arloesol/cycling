@@ -1,19 +1,39 @@
 ---
-title: "Kouter Fietsroute"
-subtitle: "Het kasteeldomein de Ghellinck is je startpunt voor een rit langs de kouters in en rond Wortegem-Petegem"
 date: "2022-11-09"
-description: "Het kasteeldomein de Ghellinck is je startpunt voor een rit langs de kouters in en rond Wortegem-Petegem"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/kouter-fietsroute"
-gpx: "routen/kouter-fietsroute.gpx"
-length: 48
-tags:
- - "flanders"
- - "short"
+title: Kouter Fietsroute
+subtitle: Het kasteeldomein de Ghellinck is je startpunt voor een rit langs de kouters in en rond Wortegem-Petegem
+description: Het kasteeldomein de Ghellinck is je startpunt voor een rit langs de kouters in en rond Wortegem-Petegem
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/kouter-fietsroute
+routes:
+    - name: Main
+      gpx: routen/kouter-fietsroute.gpx
+      length: 47319
+      up: 401
+      down: 401
+      minheight: 9
+      maxheight: 81
+      minslope: -11.3
+      maxslope: 9.6
+      avgposslope: 1.1
+      avgnegslope: -1
+      slopehisto:
+        - 10714
+        - 2099
+        - 936
+        - 292
+        - 78
+      effortlevel: 2.377
+      minlat: 50.81301
+      minlon: 3.47302
+      maxlat: 50.87974
+      maxlon: 3.57343
 ---
 
 ## Let's Go ! 

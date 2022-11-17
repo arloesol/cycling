@@ -1,19 +1,39 @@
 ---
-title: "Rondje Gent En Destelbergen Fietsroute"
-subtitle: "Op deze fietsroute fiets je van Gent naar de groene deelgemeente Destelbergen"
 date: "2022-11-09"
-description: "Op deze fietsroute fiets je van Gent naar de groene deelgemeente Destelbergen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/rondje-gent-en-destelbergen-fietsroute"
-gpx: "routen/rondje-gent-en-destelbergen-fietsroute.gpx"
-length: 44
-tags:
- - "flanders"
- - "short"
+title: Rondje Gent En Destelbergen Fietsroute
+subtitle: Op deze fietsroute fiets je van Gent naar de groene deelgemeente Destelbergen
+description: Op deze fietsroute fiets je van Gent naar de groene deelgemeente Destelbergen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/rondje-gent-en-destelbergen-fietsroute
+routes:
+    - name: Main
+      gpx: routen/rondje-gent-en-destelbergen-fietsroute.gpx
+      length: 43861
+      up: 149
+      down: 149
+      minheight: 2
+      maxheight: 20
+      minslope: -9.7
+      maxslope: 9.2
+      avgposslope: 0.7
+      avgnegslope: -0.7
+      slopehisto:
+        - 5428
+        - 352
+        - 184
+        - 115
+        - 0
+      effortlevel: 1.687
+      minlat: 51.01818
+      minlon: 3.67439
+      maxlat: 51.0773
+      maxlon: 3.82159
 ---
 
 ## Let's Go ! 

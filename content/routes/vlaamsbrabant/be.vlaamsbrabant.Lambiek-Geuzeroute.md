@@ -1,22 +1,42 @@
 ---
-title: "Lambiek-Geuzeroute"
-subtitle: "Bezoek een brouwerij, degusteer de geuze, fiets langs het kasteel van Beersel en door het prachtige Hallerbos"
 date: "2022-11-09"
-description: "Bezoek een brouwerij, degusteer de geuze, fiets langs het kasteel van Beersel en door het prachtige Hallerbos. Kuier even rond in Halle of blaas even uit op het zonneterras van Boelekewis in Huizingen. De lekkernijen en de mooie afwisselende natuur maken de flinke kuitenbijters van het sterk heuvelachtige landschap meer dan goed!"
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/geuzeroute/index.html"
-gpx: "vlaamsbrabant/Lambiek-Geuzeroute.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Lambiek-Geuzeroute
+subtitle: Bezoek een brouwerij, degusteer de geuze, fiets langs het kasteel van Beersel en door het prachtige Hallerbos
+description: Bezoek een brouwerij, degusteer de geuze, fiets langs het kasteel van Beersel en door het prachtige Hallerbos. Kuier even rond in Halle of blaas even uit op het zonneterras van Boelekewis in Huizingen. De lekkernijen en de mooie afwisselende natuur maken de flinke kuitenbijters van het sterk heuvelachtige landschap meer dan goed!
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - ",37,38,83,82,63,62,67,65,64,90,54,28,56,56,57,58,59,52,49,51,61,37,"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/geuzeroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - ',37,38,83,82,63,62,67,65,64,90,54,28,56,56,57,58,59,52,49,51,61,37,'
+      gpx: vlaamsbrabant/Lambiek-Geuzeroute.gpx
+      length: 41055
+      up: 485
+      down: 485
+      minheight: 25
+      maxheight: 145
+      minslope: -13.8
+      maxslope: 14.5
+      avgposslope: 2.5
+      avgnegslope: -2.8
+      slopehisto:
+        - 8095
+        - 2846
+        - 1620
+        - 823
+        - 173
+      effortlevel: 2.563
+      minlat: 50.69949
+      minlon: 4.19812
+      maxlat: 50.77346
+      maxlon: 4.35135
 ---
 
 ## Let's Go ! 

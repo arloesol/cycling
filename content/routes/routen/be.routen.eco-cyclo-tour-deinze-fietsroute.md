@@ -1,19 +1,39 @@
 ---
-title: "Eco Cyclo Tour Deinze Fietsroute"
-subtitle: "Zin om de Leiestreek eens op een ecologische(re) manier te verkennen? Kies voor dubbel verantwoord plezier en spring op je fiets voor de eco-cyclo tour rond Deinze"
 date: "2022-11-09"
-description: "Zin om de Leiestreek eens op een ecologische(re) manier te verkennen? Kies voor dubbel verantwoord plezier en spring op je fiets voor de eco-cyclo tour rond Deinze"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/eco-cyclo-tour-deinze-fietsroute"
-gpx: "routen/eco-cyclo-tour-deinze-fietsroute.gpx"
-length: 51
-tags:
- - "flanders"
- - "short"
+title: Eco Cyclo Tour Deinze Fietsroute
+subtitle: Zin om de Leiestreek eens op een ecologische(re) manier te verkennen? Kies voor dubbel verantwoord plezier en spring op je fiets voor de eco-cyclo tour rond Deinze
+description: Zin om de Leiestreek eens op een ecologische(re) manier te verkennen? Kies voor dubbel verantwoord plezier en spring op je fiets voor de eco-cyclo tour rond Deinze
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/eco-cyclo-tour-deinze-fietsroute
+routes:
+    - name: Main
+      gpx: routen/eco-cyclo-tour-deinze-fietsroute.gpx
+      length: 51777
+      up: 130
+      down: 130
+      minheight: 4
+      maxheight: 18
+      minslope: -8.3
+      maxslope: 6.4
+      avgposslope: 0.6
+      avgnegslope: -0.6
+      slopehisto:
+        - 6319
+        - 322
+        - 83
+        - 0
+        - 0
+      effortlevel: 1.931
+      minlat: 50.91456
+      minlon: 3.43401
+      maxlat: 51.03406
+      maxlon: 3.58682
 ---
 
 ## Let's Go ! 

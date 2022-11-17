@@ -1,19 +1,39 @@
 ---
-title: "Stalen Ros Van Heer Borluut Fietsroute"
-subtitle: "Met ‘Het Stalen Ros van Heer Borluut’ leiden we je langs de Keizerpoort de Schelde over, voor een zuidelijke fietslus in de groene rand rond Gent"
 date: "2022-11-09"
-description: "Met ‘Het Stalen Ros van Heer Borluut’ leiden we je langs de Keizerpoort de Schelde over, voor een zuidelijke fietslus in de groene rand rond Gent"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/stalen-ros-van-heer-borluut-fietsroute"
-gpx: "routen/stalen-ros-van-heer-borluut-fietsroute.gpx"
-length: 49
-tags:
- - "flanders"
- - "short"
+title: Stalen Ros Van Heer Borluut Fietsroute
+subtitle: Met ‘Het Stalen Ros van Heer Borluut’ leiden we je langs de Keizerpoort de Schelde over, voor een zuidelijke fietslus in de groene rand rond Gent
+description: Met ‘Het Stalen Ros van Heer Borluut’ leiden we je langs de Keizerpoort de Schelde over, voor een zuidelijke fietslus in de groene rand rond Gent
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/stalen-ros-van-heer-borluut-fietsroute
+routes:
+    - name: Main
+      gpx: routen/stalen-ros-van-heer-borluut-fietsroute.gpx
+      length: 49376
+      up: 153
+      down: 153
+      minheight: 2
+      maxheight: 20
+      minslope: -5.8
+      maxslope: 9.2
+      avgposslope: 0.7
+      avgnegslope: -0.8
+      slopehisto:
+        - 7778
+        - 715
+        - 55
+        - 60
+        - 0
+      effortlevel: 1.944
+      minlat: 50.99239
+      minlon: 3.61927
+      maxlat: 51.05362
+      maxlon: 3.81088
 ---
 
 ## Let's Go ! 

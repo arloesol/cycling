@@ -1,19 +1,39 @@
 ---
-title: "Fietsen langs de Korte Keten - Omgeving Damme"
-subtitle: "Met een picknickmand van De Beukenhoeve in Damme (Moerkerke) sta je sterk voor een deugddoende fietstocht"
 date: "2022-11-09"
-description: "Met een picknickmand van De Beukenhoeve in Damme (Moerkerke) sta je sterk voor een deugddoende fietstocht"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-omgeving-damme"
-gpx: "westtoer/fietsen-de-zomer-van-de-korte-keten-omgeving-damme.gpx"
-length: 32
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Omgeving Damme
+subtitle: Met een picknickmand van De Beukenhoeve in Damme (Moerkerke) sta je sterk voor een deugddoende fietstocht
+description: Met een picknickmand van De Beukenhoeve in Damme (Moerkerke) sta je sterk voor een deugddoende fietstocht
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-omgeving-damme
+routes:
+    - name: Main
+      gpx: westtoer/fietsen-de-zomer-van-de-korte-keten-omgeving-damme.gpx
+      length: 32517
+      up: 90
+      down: 90
+      minheight: -2
+      maxheight: 8
+      minslope: -10.6
+      maxslope: 6.9
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 4083
+        - 111
+        - 124
+        - 0
+        - 0
+      effortlevel: 1.203
+      minlat: 51.22037
+      minlon: 3.20708
+      maxlat: 51.27588
+      maxlon: 3.34432
 ---
 
 ## Let's Go ! 

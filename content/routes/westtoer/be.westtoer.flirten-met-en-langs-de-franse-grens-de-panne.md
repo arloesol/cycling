@@ -1,22 +1,42 @@
 ---
-title: "Flirten met en langs de Franse grens in De Panne"
-subtitle: "Deze mooie route rond De Panne voert je via het Delvauxmuseum, langs de Kust en door verschillende mooie groene zones die onze Westkust rijk is"
 date: "2022-11-09"
-description: "Deze mooie route rond De Panne voert je via het Delvauxmuseum, langs de Kust en door verschillende mooie groene zones die onze Westkust rijk is"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/flirten-met-en-langs-de-franse-grens-de-panne"
-gpx: "westtoer/flirten-met-en-langs-de-franse-grens-de-panne.gpx"
-length: 33
-tags:
- - "flanders"
- - "short"
+title: Flirten met en langs de Franse grens in De Panne
+subtitle: Deze mooie route rond De Panne voert je via het Delvauxmuseum, langs de Kust en door verschillende mooie groene zones die onze Westkust rijk is
+description: Deze mooie route rond De Panne voert je via het Delvauxmuseum, langs de Kust en door verschillende mooie groene zones die onze Westkust rijk is
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "1,84,59,76,50,39,71,21,34,85,12,10,1"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/flirten-met-en-langs-de-franse-grens-de-panne
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 1,84,59,76,50,39,71,21,34,85,12,10,1
+      gpx: westtoer/flirten-met-en-langs-de-franse-grens-de-panne.gpx
+      length: 4882
+      up: 19
+      down: 19
+      minheight: 5
+      maxheight: 14
+      minslope: -7.7
+      maxslope: 4.4
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 419
+        - 127
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.193
+      minlat: 51.084487
+      minlon: 2.577144
+      maxlat: 51.092083
+      maxlon: 2.602203
 ---
 
 ## Let's Go ! 

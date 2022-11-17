@@ -1,19 +1,39 @@
 ---
-title: "Breduiniafietsroute"
-subtitle: "De fietsroute verkent de polders tussen Bredene en Brugge, een karakteristiek open landschap dat door zijn relatieve gaafheid tot de fraaiste gebiedsdelen van West-Vlaanderen behoort"
 date: "2022-11-09"
-description: "De fietsroute verkent de polders tussen Bredene en Brugge, een karakteristiek open landschap dat door zijn relatieve gaafheid tot de fraaiste gebiedsdelen van West-Vlaanderen behoort"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/breduiniafietsroute"
-gpx: "westtoer/breduiniafietsroute.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Breduiniafietsroute
+subtitle: De fietsroute verkent de polders tussen Bredene en Brugge, een karakteristiek open landschap dat door zijn relatieve gaafheid tot de fraaiste gebiedsdelen van West-Vlaanderen behoort
+description: De fietsroute verkent de polders tussen Bredene en Brugge, een karakteristiek open landschap dat door zijn relatieve gaafheid tot de fraaiste gebiedsdelen van West-Vlaanderen behoort
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/breduiniafietsroute
+routes:
+    - name: Main
+      gpx: westtoer/breduiniafietsroute.gpx
+      length: 47519
+      up: 104
+      down: 104
+      minheight: 0
+      maxheight: 6
+      minslope: -2.2
+      maxslope: 3.1
+      avgposslope: 0.1
+      avgnegslope: -0.2
+      slopehisto:
+        - 1626
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.612
+      minlat: 51.208719
+      minlon: 2.960475
+      maxlat: 51.266092
+      maxlon: 3.165314
 ---
 
 ## Let's Go ! 

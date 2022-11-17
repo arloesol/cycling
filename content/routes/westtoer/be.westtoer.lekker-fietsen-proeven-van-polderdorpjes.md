@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Proeven van Polderdorpjes"
-subtitle: "Onderweg geniet je van de vele polderdorpjes, klein maar fijn"
 date: "2022-11-09"
-description: "Onderweg geniet je van de vele polderdorpjes, klein maar fijn"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-proeven-van-polderdorpjes"
-gpx: "westtoer/lekker-fietsen-proeven-van-polderdorpjes.gpx"
-length: 43
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: Proeven van Polderdorpjes'
+subtitle: Onderweg geniet je van de vele polderdorpjes, klein maar fijn
+description: Onderweg geniet je van de vele polderdorpjes, klein maar fijn
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "5,96,78,6,31,34,95,22,72,52,39,20,28,98,12,26,95,67,5"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-proeven-van-polderdorpjes
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 5,96,78,6,31,34,95,22,72,52,39,20,28,98,12,26,95,67,5
+      gpx: westtoer/lekker-fietsen-proeven-van-polderdorpjes.gpx
+      length: 42572
+      up: 63
+      down: 63
+      minheight: 1
+      maxheight: 8
+      minslope: -2.1
+      maxslope: 3.7
+      avgposslope: 0.1
+      avgnegslope: -0.2
+      slopehisto:
+        - 1623
+        - 68
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.448
+      minlat: 51.222269
+      minlon: 2.95957
+      maxlat: 51.289269
+      maxlon: 3.140615
 ---
 
 ## Let's Go ! 

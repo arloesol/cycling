@@ -1,19 +1,39 @@
 ---
-title: "Pater Fietsroute"
-subtitle: "Deze route door het heuvelachtige platteland van Herzele en Lierde is vernoemd naar de voormalige Kartuizerpriorij in Lierde, waar je tocht eindigt"
 date: "2022-11-09"
-description: "Deze route door het heuvelachtige platteland van Herzele en Lierde is vernoemd naar de voormalige Kartuizerpriorij in Lierde, waar je tocht eindigt"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/pater-fietsroute"
-gpx: "routen/pater-fietsroute.gpx"
-length: 44
-tags:
- - "flanders"
- - "short"
+title: Pater Fietsroute
+subtitle: Deze route door het heuvelachtige platteland van Herzele en Lierde is vernoemd naar de voormalige Kartuizerpriorij in Lierde, waar je tocht eindigt
+description: Deze route door het heuvelachtige platteland van Herzele en Lierde is vernoemd naar de voormalige Kartuizerpriorij in Lierde, waar je tocht eindigt
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/pater-fietsroute
+routes:
+    - name: Main
+      gpx: routen/pater-fietsroute.gpx
+      length: 43475
+      up: 436
+      down: 436
+      minheight: 24
+      maxheight: 93
+      minslope: -11.3
+      maxslope: 8.9
+      avgposslope: 1.3
+      avgnegslope: -1.3
+      slopehisto:
+        - 11150
+        - 3360
+        - 844
+        - 285
+        - 0
+      effortlevel: 2.444
+      minlat: 50.78225
+      minlon: 3.81542
+      maxlat: 50.8907
+      maxlon: 3.90512
 ---
 
 ## Let's Go ! 

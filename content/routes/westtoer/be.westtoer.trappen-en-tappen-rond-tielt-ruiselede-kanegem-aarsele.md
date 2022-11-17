@@ -1,22 +1,42 @@
 ---
-title: "Trappen en Tappen rond Tielt-Ruiselede-Kanegem-Aarsele"
-subtitle: "Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras"
 date: "2022-11-09"
-description: "Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/trappen-en-tappen-rond-tielt-ruiselede-kanegem-aarsele"
-gpx: "westtoer/trappen-en-tappen-rond-tielt-ruiselede-kanegem-aarsele.gpx"
-length: 24
-tags:
- - "flanders"
- - "vshort"
+title: Trappen en Tappen rond Tielt-Ruiselede-Kanegem-Aarsele
+subtitle: Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras
+description: Fietsen of kuieren en onderweg even pauzeren met een lokaal biertje op een zonnig terras
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "48,45,77,64,44,70,30,49,69,62,53,55,72,32,48"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/trappen-en-tappen-rond-tielt-ruiselede-kanegem-aarsele
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 48,45,77,64,44,70,30,49,69,62,53,55,72,32,48
+      gpx: westtoer/trappen-en-tappen-rond-tielt-ruiselede-kanegem-aarsele.gpx
+      length: 23331
+      up: 82
+      down: 82
+      minheight: 14
+      maxheight: 49
+      minslope: -2.7
+      maxslope: 4.5
+      avgposslope: 1.6
+      avgnegslope: -2.9
+      slopehisto:
+        - 2667
+        - 204
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.869
+      minlat: 50.983239
+      minlon: 3.327069
+      maxlat: 51.041957
+      maxlon: 3.423432
 ---
 
 ## Let's Go ! 

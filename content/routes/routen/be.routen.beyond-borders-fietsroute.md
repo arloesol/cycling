@@ -1,19 +1,39 @@
 ---
-title: "Beyond Borders Fietsroute"
-subtitle: "Van verlaten dorpen tot verdronken land"
 date: "2022-11-09"
-description: "Van verlaten dorpen tot verdronken land"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/beyond-borders-fietsroute"
-gpx: "routen/beyond-borders-fietsroute.gpx"
-length: 62
-tags:
- - "flanders"
- - "medium"
+title: Beyond Borders Fietsroute
+subtitle: Van verlaten dorpen tot verdronken land
+description: Van verlaten dorpen tot verdronken land
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/beyond-borders-fietsroute
+routes:
+    - name: Main
+      gpx: routen/beyond-borders-fietsroute.gpx
+      length: 61705
+      up: 92
+      down: 92
+      minheight: 1
+      maxheight: 13
+      minslope: -6.2
+      maxslope: 5.5
+      avgposslope: 0.6
+      avgnegslope: -0.4
+      slopehisto:
+        - 2161
+        - 461
+        - 50
+        - 0
+        - 0
+      effortlevel: 2.181
+      minlat: 51.23565
+      minlon: 4.1078
+      maxlat: 51.3367
+      maxlon: 4.26569
 ---
 
 ## Let's Go ! 

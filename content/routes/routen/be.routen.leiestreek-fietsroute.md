@@ -1,19 +1,39 @@
 ---
-title: "Leiestreek Fietsroute"
-subtitle: "Tussen Gent en Deinze lonkt de schilderachtige Leiestreek met een landschap dat terecht veel schilders inspireerde"
 date: "2022-11-09"
-description: "Tussen Gent en Deinze lonkt de schilderachtige Leiestreek met een landschap dat terecht veel schilders inspireerde"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/leiestreek-fietsroute"
-gpx: "routen/leiestreek-fietsroute.gpx"
-length: 58
-tags:
- - "flanders"
- - "short"
+title: Leiestreek Fietsroute
+subtitle: Tussen Gent en Deinze lonkt de schilderachtige Leiestreek met een landschap dat terecht veel schilders inspireerde
+description: Tussen Gent en Deinze lonkt de schilderachtige Leiestreek met een landschap dat terecht veel schilders inspireerde
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/leiestreek-fietsroute
+routes:
+    - name: Main
+      gpx: routen/leiestreek-fietsroute.gpx
+      length: 57878
+      up: 177
+      down: 177
+      minheight: 4
+      maxheight: 22
+      minslope: -8.4
+      maxslope: 9
+      avgposslope: 0.7
+      avgnegslope: -0.8
+      slopehisto:
+        - 7609
+        - 561
+        - 244
+        - 94
+        - 0
+      effortlevel: 2.247
+      minlat: 50.97481
+      minlon: 3.52986
+      maxlat: 51.05414
+      maxlon: 3.7421
 ---
 
 ## Let's Go ! 

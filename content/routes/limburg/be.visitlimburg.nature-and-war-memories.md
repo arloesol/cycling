@@ -1,19 +1,39 @@
 ---
-title: "Nature and war memories"
-subtitle: "This flat tour starts and ends in the Schulensbroek nature reserve"
 date: "2022-11-09"
-description: "This flat tour starts and ends in the Schulensbroek nature reserve"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/nature-and-war-memories"
-gpx: "limburg/nature-and-war-memories.gpx"
-length: 58
-tags:
- - "flanders"
- - "short"
+title: Nature and war memories
+subtitle: This flat tour starts and ends in the Schulensbroek nature reserve
+description: This flat tour starts and ends in the Schulensbroek nature reserve
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/nature-and-war-memories
+routes:
+    - name: Main
+      gpx: limburg/nature-and-war-memories.gpx
+      length: 51392
+      up: 337
+      down: 337
+      minheight: 19
+      maxheight: 62
+      minslope: -17.7
+      maxslope: 20.7
+      avgposslope: 1.2
+      avgnegslope: -1.2
+      slopehisto:
+        - 9406
+        - 1507
+        - 593
+        - 292
+        - 275
+      effortlevel: 2.427
+      minlat: 50.91699
+      minlon: 5.08462
+      maxlat: 51.02931
+      maxlon: 5.20163
 ---
 
 ## Let's Go ! 

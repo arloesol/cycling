@@ -1,26 +1,46 @@
 ---
-title: "Fietsen langs de Korte Keten - Damme"
-subtitle: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de stad Damme met behulp van dit voor jou uitgestippeld fietslusje"
 date: "2022-11-09"
-description: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de stad Damme met behulp van dit voor jou uitgestippeld fietslusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-damme"
-gpx: "westtoer/korteketenfietsroute-damme.gpx"
-length: 36
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Damme
+subtitle: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de stad Damme met behulp van dit voor jou uitgestippeld fietslusje
+description: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de stad Damme met behulp van dit voor jou uitgestippeld fietslusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "6,28,42,61,18,52,75,38,73,39,77,78,2,66,16,21,15,82,63,60,67,22,92,34,6"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/korteketenfietsroute-damme
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 6,28,42,61,18,52,75,38,73,39,77,78,2,66,16,21,15,82,63,60,67,22,92,34,6
+      gpx: westtoer/korteketenfietsroute-damme.gpx
+      length: 36015
+      up: 48
+      down: 48
+      minheight: 2
+      maxheight: 15
+      minslope: -3.7
+      maxslope: 3.7
+      avgposslope: 0.2
+      avgnegslope: -0.3
+      slopehisto:
+        - 1209
+        - 61
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.228
+      minlat: 51.193431
+      minlon: 3.261536
+      maxlat: 51.267542
+      maxlon: 3.383433
 ---
 
 ## Let's Go ! 

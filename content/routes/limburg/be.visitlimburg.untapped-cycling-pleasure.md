@@ -1,19 +1,39 @@
 ---
-title: "Untapped cycling pleasure"
-subtitle: "This gently undulating cycling route takes you through the Hoge Kempen National Park"
 date: "2022-11-09"
-description: "This gently undulating cycling route takes you through the Hoge Kempen National Park"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/untapped-cycling-pleasure"
-gpx: "limburg/untapped-cycling-pleasure.gpx"
-length: 34
-tags:
- - "flanders"
- - "short"
+title: Untapped cycling pleasure
+subtitle: This gently undulating cycling route takes you through the Hoge Kempen National Park
+description: This gently undulating cycling route takes you through the Hoge Kempen National Park
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/untapped-cycling-pleasure
+routes:
+    - name: Main
+      gpx: limburg/untapped-cycling-pleasure.gpx
+      length: 34318
+      up: 200
+      down: 200
+      minheight: 37
+      maxheight: 106
+      minslope: -12.9
+      maxslope: 16.1
+      avgposslope: 1.6
+      avgnegslope: -1.6
+      slopehisto:
+        - 5061
+        - 778
+        - 673
+        - 158
+        - 268
+      effortlevel: 1.649
+      minlat: 50.9124
+      minlon: 5.61607
+      maxlat: 51.00008
+      maxlon: 5.7132
 ---
 
 ## Let's Go ! 

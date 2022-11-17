@@ -1,22 +1,42 @@
 ---
-title: "Radio 2-fietstocht in Middelkerke-Westende"
-subtitle: "Fiets met zicht op zee en verken het mooie achterland van Middelkerke-Westende"
 date: "2022-11-09"
-description: "Fiets met zicht op zee en verken het mooie achterland van Middelkerke-Westende"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietstocht-middelkerke-westende"
-gpx: "westtoer/radio-2-fietstocht-middelkerke-westende.gpx"
-length: 22
-tags:
- - "flanders"
- - "vshort"
+title: Radio 2-fietstocht in Middelkerke-Westende
+subtitle: Fiets met zicht op zee en verken het mooie achterland van Middelkerke-Westende
+description: Fiets met zicht op zee en verken het mooie achterland van Middelkerke-Westende
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "81,60,80,52,77,75,16,59,44,2,12,81"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/radio-2-fietstocht-middelkerke-westende
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 81,60,80,52,77,75,16,59,44,2,12,81
+      gpx: westtoer/radio-2-fietstocht-middelkerke-westende.gpx
+      length: 21574
+      up: 12
+      down: 12
+      minheight: 3
+      maxheight: 12
+      minslope: -2.4
+      maxslope: 1.1
+      avgposslope: 0.6
+      avgnegslope: -0.3
+      slopehisto:
+        - 155
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.726
+      minlat: 51.151178
+      minlon: 2.763298
+      maxlat: 51.207544
+      maxlon: 2.860508
 ---
 
 ## Let's Go ! 

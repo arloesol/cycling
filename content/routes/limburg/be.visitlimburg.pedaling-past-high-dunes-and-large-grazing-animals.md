@@ -1,19 +1,39 @@
 ---
-title: "Pedaling past high dunes and large grazing animals"
-subtitle: "This varied, rather flat route takes you by forests, fens, heathland, and land dunes of nature reserve Duinengordel"
 date: "2022-11-09"
-description: "This varied, rather flat route takes you by forests, fens, heathland, and land dunes of nature reserve Duinengordel"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/pedaling-past-high-dunes-and-large-grazing-animals"
-gpx: "limburg/pedaling-past-high-dunes-and-large-grazing-animals.gpx"
-length: 56
-tags:
- - "flanders"
- - "short"
+title: Pedaling past high dunes and large grazing animals
+subtitle: This varied, rather flat route takes you by forests, fens, heathland, and land dunes of nature reserve Duinengordel
+description: This varied, rather flat route takes you by forests, fens, heathland, and land dunes of nature reserve Duinengordel
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/pedaling-past-high-dunes-and-large-grazing-animals
+routes:
+    - name: Main
+      gpx: limburg/pedaling-past-high-dunes-and-large-grazing-animals.gpx
+      length: 54601
+      up: 446
+      down: 446
+      minheight: 37
+      maxheight: 96
+      minslope: -22.3
+      maxslope: 16.8
+      avgposslope: 2.4
+      avgnegslope: -2.3
+      slopehisto:
+        - 12710
+        - 1797
+        - 1547
+        - 637
+        - 263
+      effortlevel: 2.949
+      minlat: 51.03299
+      minlon: 5.5332
+      maxlat: 51.12538
+      maxlon: 5.71151
 ---
 
 ## Let's Go ! 

@@ -1,22 +1,42 @@
 ---
-title: "Reynvaertroute"
-subtitle: "Een route voor zoetebekken"
 date: "2022-11-09"
-description: "Een route voor zoetebekken. Door de 'Lekdreef' naar de Abdij van Averbode en zo verder naar de Pepernoten onder de toren van de Basiliek van Scherpenheuvel. Terug in Diest wacht je nog meer lekkers: Stroobants koffie, Loterbol bier, koekjes van Stuckens, patatjesvlaai van Kozak, Begijnenkoek van Xaverius..."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/reynvaert-fietsroute/index.html"
-gpx: "vlaamsbrabant/Reynvaertroute.gpx"
-length: 42
-tags:
- - "flanders"
- - "short"
+title: Reynvaertroute
+subtitle: Een route voor zoetebekken
+description: 'Een route voor zoetebekken. Door de ''Lekdreef'' naar de Abdij van Averbode en zo verder naar de Pepernoten onder de toren van de Basiliek van Scherpenheuvel. Terug in Diest wacht je nog meer lekkers: Stroobants koffie, Loterbol bier, koekjes van Stuckens, patatjesvlaai van Kozak, Begijnenkoek van Xaverius...'
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "88,34,38,91,92,93,59,57,81,56,18,25,83,58,86,87,89,88"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/reynvaert-fietsroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 88,34,38,91,92,93,59,57,81,56,18,25,83,58,86,87,89,88
+      gpx: vlaamsbrabant/Reynvaertroute.gpx
+      length: 41900
+      up: 196
+      down: 196
+      minheight: 13
+      maxheight: 53
+      minslope: -13
+      maxslope: 7.9
+      avgposslope: 1.5
+      avgnegslope: -1.2
+      slopehisto:
+        - 6377
+        - 1144
+        - 122
+        - 110
+        - 0
+      effortlevel: 1.743
+      minlat: 50.9493
+      minlon: 4.91839
+      maxlat: 51.03255
+      maxlon: 5.07215
 ---
 
 ## Let's Go ! 

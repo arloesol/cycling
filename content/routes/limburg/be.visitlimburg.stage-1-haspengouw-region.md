@@ -1,19 +1,39 @@
 ---
-title: "Stage 1: Haspengouw region"
-subtitle: "We kick off our Tour of Limburg in the courtyard of the Herkenrode Abbey Site"
 date: "2022-11-09"
-description: "We kick off our Tour of Limburg in the courtyard of the Herkenrode Abbey Site"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/stage-1-haspengouw-region"
-gpx: "limburg/stage-1-haspengouw-region.gpx"
-length: 80
-tags:
- - "flanders"
- - "medium"
+title: 'Stage 1: Haspengouw region'
+subtitle: We kick off our Tour of Limburg in the courtyard of the Herkenrode Abbey Site
+description: We kick off our Tour of Limburg in the courtyard of the Herkenrode Abbey Site
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/stage-1-haspengouw-region
+routes:
+    - name: Main
+      gpx: limburg/stage-1-haspengouw-region.gpx
+      length: 81859
+      up: 600
+      down: 568
+      minheight: 24
+      maxheight: 148
+      minslope: -13.1
+      maxslope: 17.3
+      avgposslope: 1.8
+      avgnegslope: -1.8
+      slopehisto:
+        - 17965
+        - 2952
+        - 756
+        - 309
+        - 142
+      effortlevel: 4.004
+      minlat: 50.76295
+      minlon: 5.25946
+      maxlat: 50.96874
+      maxlon: 5.67132
 ---
 
 ## Let's Go ! 

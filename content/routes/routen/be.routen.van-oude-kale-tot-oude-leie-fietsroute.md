@@ -1,19 +1,39 @@
 ---
-title: "Van Oude Kale Tot Oude Leie Fietsroute"
-subtitle: "Water is nooit veraf op deze route"
 date: "2022-11-09"
-description: "Water is nooit veraf op deze route"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/van-oude-kale-tot-oude-leie-fietsroute"
-gpx: "routen/van-oude-kale-tot-oude-leie-fietsroute.gpx"
-length: 42
-tags:
- - "flanders"
- - "short"
+title: Van Oude Kale Tot Oude Leie Fietsroute
+subtitle: Water is nooit veraf op deze route
+description: Water is nooit veraf op deze route
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/van-oude-kale-tot-oude-leie-fietsroute
+routes:
+    - name: Main
+      gpx: routen/van-oude-kale-tot-oude-leie-fietsroute.gpx
+      length: 42307
+      up: 129
+      down: 129
+      minheight: 3
+      maxheight: 18
+      minslope: -6.4
+      maxslope: 8.3
+      avgposslope: 0.7
+      avgnegslope: -0.6
+      slopehisto:
+        - 4962
+        - 697
+        - 139
+        - 52
+        - 0
+      effortlevel: 1.614
+      minlat: 50.98834
+      minlon: 3.51318
+      maxlat: 51.08639
+      maxlon: 3.63158
 ---
 
 ## Let's Go ! 

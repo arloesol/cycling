@@ -1,19 +1,39 @@
 ---
-title: "Het Leen Fietsroute"
-subtitle: "Vanuit het provinciaal domein Het Leen fiets je richting het Schipdonkkanaal en zo naar de Lieve, het oudste kanaal van Vlaanderen, met een ommetje langs de Lembeekse Bossen"
 date: "2022-11-09"
-description: "Vanuit het provinciaal domein Het Leen fiets je richting het Schipdonkkanaal en zo naar de Lieve, het oudste kanaal van Vlaanderen, met een ommetje langs de Lembeekse Bossen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/het-leen-fietsroute"
-gpx: "routen/het-leen-fietsroute.gpx"
-length: 26
-tags:
- - "flanders"
- - "vshort"
+title: Het Leen Fietsroute
+subtitle: Vanuit het provinciaal domein Het Leen fiets je richting het Schipdonkkanaal en zo naar de Lieve, het oudste kanaal van Vlaanderen, met een ommetje langs de Lembeekse Bossen
+description: Vanuit het provinciaal domein Het Leen fiets je richting het Schipdonkkanaal en zo naar de Lieve, het oudste kanaal van Vlaanderen, met een ommetje langs de Lembeekse Bossen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/het-leen-fietsroute
+routes:
+    - name: Main
+      gpx: routen/het-leen-fietsroute.gpx
+      length: 26500
+      up: 39
+      down: 39
+      minheight: 3
+      maxheight: 11
+      minslope: -5.1
+      maxslope: 3.8
+      avgposslope: 0.6
+      avgnegslope: -0.6
+      slopehisto:
+        - 1227
+        - 78
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.936
+      minlat: 51.11292
+      minlon: 3.54667
+      maxlat: 51.18211
+      maxlon: 3.64859
 ---
 
 ## Let's Go ! 

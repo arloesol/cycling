@@ -1,19 +1,39 @@
 ---
-title: "Kastelenfietsroute"
-subtitle: "Het Houtland in de driehoek Brugge, Oostkamp en Torhout is een onvervalste kastelen- en landgoedregio"
 date: "2022-11-09"
-description: "Het Houtland in de driehoek Brugge, Oostkamp en Torhout is een onvervalste kastelen- en landgoedregio"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/kastelenfietsroute"
-gpx: "westtoer/kastelenfietsroute.gpx"
-length: 48
-tags:
- - "flanders"
- - "short"
+title: Kastelenfietsroute
+subtitle: Het Houtland in de driehoek Brugge, Oostkamp en Torhout is een onvervalste kastelen- en landgoedregio
+description: Het Houtland in de driehoek Brugge, Oostkamp en Torhout is een onvervalste kastelen- en landgoedregio
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/kastelenfietsroute
+routes:
+    - name: Main
+      gpx: westtoer/kastelenfietsroute.gpx
+      length: 50052
+      up: 147
+      down: 147
+      minheight: 6
+      maxheight: 35
+      minslope: -7.4
+      maxslope: 5.5
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 3285
+        - 294
+        - 78
+        - 0
+        - 0
+      effortlevel: 1.759
+      minlat: 51.057617
+      minlon: 3.110174
+      maxlat: 51.186978
+      maxlon: 3.218724
 ---
 
 ## Let's Go ! 

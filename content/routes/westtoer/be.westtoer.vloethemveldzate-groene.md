@@ -1,22 +1,42 @@
 ---
-title: "Vloethemveldzate - Groene as"
-subtitle: "Deze as is de kortste van de West-Vlaamse groene assen"
 date: "2022-11-09"
-description: "Deze as is de kortste van de West-Vlaamse groene assen"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/vloethemveldzate-groene"
-gpx: "westtoer/vloethemveldzate-groene.gpx"
-length: 5
-tags:
- - "flanders"
- - "vshort"
+title: Vloethemveldzate - Groene as
+subtitle: Deze as is de kortste van de West-Vlaamse groene assen
+description: Deze as is de kortste van de West-Vlaamse groene assen
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "74,14,77,16"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/vloethemveldzate-groene
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 74,14,77,16
+      gpx: westtoer/vloethemveldzate-groene.gpx
+      length: 5711
+      up: 7
+      down: 3
+      minheight: 10
+      maxheight: 15
+      minslope: -0.4
+      maxslope: 0.5
+      avgposslope: 1.2
+      avgnegslope: -0.3
+      slopehisto:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.204
+      minlat: 51.127256
+      minlon: 3.119936
+      maxlat: 51.146839
+      maxlon: 3.181763
 ---
 
 ## Let's Go ! 

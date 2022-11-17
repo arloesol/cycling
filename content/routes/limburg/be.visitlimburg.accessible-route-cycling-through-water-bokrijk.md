@@ -1,19 +1,39 @@
 ---
-title: "Accessible route - 'Cycling through Water' in Bokrijk"
-subtitle: "On this cycling route, you explore the diversity of Domain Bokrijk via car-free cycle paths"
 date: "2022-11-09"
-description: "On this cycling route, you explore the diversity of Domain Bokrijk via car-free cycle paths"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/accessible-route-cycling-through-water-bokrijk"
-gpx: "limburg/accessible-route-cycling-through-water-bokrijk.gpx"
-length: 6
-tags:
- - "flanders"
- - "vshort"
+title: Accessible route - 'Cycling through Water' in Bokrijk
+subtitle: On this cycling route, you explore the diversity of Domain Bokrijk via car-free cycle paths
+description: On this cycling route, you explore the diversity of Domain Bokrijk via car-free cycle paths
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/accessible-route-cycling-through-water-bokrijk
+routes:
+    - name: Main
+      gpx: limburg/accessible-route-cycling-through-water-bokrijk.gpx
+      length: 6330
+      up: 74
+      down: 74
+      minheight: 40
+      maxheight: 68
+      minslope: -8.5
+      maxslope: 13.7
+      avgposslope: 3.1
+      avgnegslope: -5
+      slopehisto:
+        - 962
+        - 130
+        - 122
+        - 234
+        - 254
+      effortlevel: 0.416
+      minlat: 50.95463
+      minlon: 5.39205
+      maxlat: 50.9713
+      maxlon: 5.41913
 ---
 
 ## Let's Go ! 

@@ -1,22 +1,42 @@
 ---
-title: "Halle-Leeuwroute"
-subtitle: "Deze toegankelijke route combineert het centrum van Halle met de befaamde rozentuin van het Domein Coloma in Sint-Pieters-Leeuw en het provinciedomein van Huizingen"
 date: "2022-11-09"
-description: "Deze toegankelijke route combineert het centrum van Halle met de befaamde rozentuin van het Domein Coloma in Sint-Pieters-Leeuw en het provinciedomein van Huizingen. Beide locaties zijn een stop of wandeling waard."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/vaantjesroute/index.html"
-gpx: "vlaamsbrabant/Halle-Leeuwroute.gpx"
-length: 21
-tags:
- - "flanders"
- - "vshort"
+title: Halle-Leeuwroute
+subtitle: Deze toegankelijke route combineert het centrum van Halle met de befaamde rozentuin van het Domein Coloma in Sint-Pieters-Leeuw en het provinciedomein van Huizingen
+description: Deze toegankelijke route combineert het centrum van Halle met de befaamde rozentuin van het Domein Coloma in Sint-Pieters-Leeuw en het provinciedomein van Huizingen. Beide locaties zijn een stop of wandeling waard.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "64,91,66,70,66,67,"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/vaantjesroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 64,91,66,70,66,67,
+      gpx: vlaamsbrabant/Halle-Leeuwroute.gpx
+      length: 21229
+      up: 144
+      down: 144
+      minheight: 24
+      maxheight: 70
+      minslope: -6.4
+      maxslope: 6.2
+      avgposslope: 1.7
+      avgnegslope: -1.9
+      slopehisto:
+        - 4828
+        - 915
+        - 51
+        - 0
+        - 0
+      effortlevel: 1
+      minlat: 50.73201
+      minlon: 4.22901
+      maxlat: 50.77761
+      maxlon: 4.27935
 ---
 
 ## Let's Go ! 

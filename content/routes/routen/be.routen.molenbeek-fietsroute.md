@@ -1,19 +1,39 @@
 ---
-title: "Molenbeek Fietsroute"
-subtitle: "Deze rustige fietsroute brengt je langs de mooiste dorpen van Herzele, Erpe-Mere en Haaltert"
 date: "2022-11-09"
-description: "Deze rustige fietsroute brengt je langs de mooiste dorpen van Herzele, Erpe-Mere en Haaltert"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/molenbeek-fietsroute"
-gpx: "routen/molenbeek-fietsroute.gpx"
-length: 42
-tags:
- - "flanders"
- - "short"
+title: Molenbeek Fietsroute
+subtitle: Deze rustige fietsroute brengt je langs de mooiste dorpen van Herzele, Erpe-Mere en Haaltert
+description: Deze rustige fietsroute brengt je langs de mooiste dorpen van Herzele, Erpe-Mere en Haaltert
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/molenbeek-fietsroute
+routes:
+    - name: Main
+      gpx: routen/molenbeek-fietsroute.gpx
+      length: 42324
+      up: 377
+      down: 377
+      minheight: 21
+      maxheight: 82
+      minslope: -11.3
+      maxslope: 9.7
+      avgposslope: 1.1
+      avgnegslope: -1.2
+      slopehisto:
+        - 11370
+        - 2706
+        - 285
+        - 176
+        - 55
+      effortlevel: 2.208
+      minlat: 50.85614
+      minlon: 3.89102
+      maxlat: 50.93866
+      maxlon: 4.02269
 ---
 
 ## Let's Go ! 

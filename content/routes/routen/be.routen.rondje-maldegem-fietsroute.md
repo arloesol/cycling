@@ -1,19 +1,39 @@
 ---
-title: "Rondje Maldegem Fietsroute"
-subtitle: "Een ontdekkingstocht langs veel groen, het Schipdonk- en Leopoldkanaal, open landschappen en Meetjeslands erfgoed in twee verrassende musea!"
 date: "2022-11-09"
-description: "Een ontdekkingstocht langs veel groen, het Schipdonk- en Leopoldkanaal, open landschappen en Meetjeslands erfgoed in twee verrassende musea!"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/rondje-maldegem-fietsroute"
-gpx: "routen/rondje-maldegem-fietsroute.gpx"
-length: 59
-tags:
- - "flanders"
- - "short"
+title: Rondje Maldegem Fietsroute
+subtitle: Een ontdekkingstocht langs veel groen, het Schipdonk- en Leopoldkanaal, open landschappen en Meetjeslands erfgoed in twee verrassende musea!
+description: Een ontdekkingstocht langs veel groen, het Schipdonk- en Leopoldkanaal, open landschappen en Meetjeslands erfgoed in twee verrassende musea!
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/rondje-maldegem-fietsroute
+routes:
+    - name: Main
+      gpx: routen/rondje-maldegem-fietsroute.gpx
+      length: 58955
+      up: 227
+      down: 227
+      minheight: -1
+      maxheight: 48
+      minslope: -13.8
+      maxslope: 12.9
+      avgposslope: 1
+      avgnegslope: -1.3
+      slopehisto:
+        - 7824
+        - 811
+        - 524
+        - 50
+        - 338
+      effortlevel: 2.462
+      minlat: 51.1476
+      minlon: 3.42654
+      maxlat: 51.26413
+      maxlon: 3.56872
 ---
 
 ## Let's Go ! 

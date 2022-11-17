@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Kastelen en mosterd"
-subtitle: "Onderweg geniet je van de vele natuurplekjes, kastelen en de befaamde Mostaard Wostyn"
 date: "2022-11-09"
-description: "Onderweg geniet je van de vele natuurplekjes, kastelen en de befaamde Mostaard Wostyn"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-kastelen-en-mosterd"
-gpx: "westtoer/lekker-fietsen-kastelen-en-mosterd.gpx"
-length: 43
-tags:
- - "flanders"
- - "short"
+title: 'Lekker fietsen: Kastelen en mosterd'
+subtitle: Onderweg geniet je van de vele natuurplekjes, kastelen en de befaamde Mostaard Wostyn
+description: Onderweg geniet je van de vele natuurplekjes, kastelen en de befaamde Mostaard Wostyn
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "85,75,13,73,3,9,49,34,30,74,70,63,88,72,8,81,4,71,85"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-kastelen-en-mosterd
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 85,75,13,73,3,9,49,34,30,74,70,63,88,72,8,81,4,71,85
+      gpx: westtoer/lekker-fietsen-kastelen-en-mosterd.gpx
+      length: 43472
+      up: 135
+      down: 135
+      minheight: 4
+      maxheight: 47
+      minslope: -5.8
+      maxslope: 5
+      avgposslope: 0.6
+      avgnegslope: -0.5
+      slopehisto:
+        - 3922
+        - 238
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.559
+      minlat: 51.044457
+      minlon: 2.976898
+      maxlat: 51.13539
+      maxlon: 3.155461
 ---
 
 ## Let's Go ! 

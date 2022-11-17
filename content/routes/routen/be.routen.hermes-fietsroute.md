@@ -1,19 +1,39 @@
 ---
-title: "Hermes Fietsroute"
-subtitle: "Deze fietstocht door het lichtgolvende landschap rond Ronse heeft zijn naam niet gestolen"
 date: "2022-11-09"
-description: "Deze fietstocht door het lichtgolvende landschap rond Ronse heeft zijn naam niet gestolen"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/hermes-fietsroute"
-gpx: "routen/hermes-fietsroute.gpx"
-length: 40
-tags:
- - "flanders"
- - "short"
+title: Hermes Fietsroute
+subtitle: Deze fietstocht door het lichtgolvende landschap rond Ronse heeft zijn naam niet gestolen
+description: Deze fietstocht door het lichtgolvende landschap rond Ronse heeft zijn naam niet gestolen
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/hermes-fietsroute
+routes:
+    - name: Main
+      gpx: routen/hermes-fietsroute.gpx
+      length: 39951
+      up: 642
+      down: 642
+      minheight: 21
+      maxheight: 170
+      minslope: -19.3
+      maxslope: 31.8
+      avgposslope: 2.5
+      avgnegslope: -2.3
+      slopehisto:
+        - 8137
+        - 4219
+        - 1487
+        - 689
+        - 1051
+      effortlevel: 3.07
+      minlat: 50.71902
+      minlon: 3.53789
+      maxlat: 50.78782
+      maxlon: 3.65892
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Ijsvogel Fietsroute"
-subtitle: "Van de gezellige drukte van het Donkmeer naar de weidse rust van de Kalkense Meersen en daarna een duik in de zwemvijver van provinciaal domein Nieuwdonk"
 date: "2022-11-09"
-description: "Van de gezellige drukte van het Donkmeer naar de weidse rust van de Kalkense Meersen en daarna een duik in de zwemvijver van provinciaal domein Nieuwdonk"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/ijsvogel-fietsroute"
-gpx: "routen/ijsvogel-fietsroute.gpx"
-length: 35
-tags:
- - "flanders"
- - "short"
+title: Ijsvogel Fietsroute
+subtitle: Van de gezellige drukte van het Donkmeer naar de weidse rust van de Kalkense Meersen en daarna een duik in de zwemvijver van provinciaal domein Nieuwdonk
+description: Van de gezellige drukte van het Donkmeer naar de weidse rust van de Kalkense Meersen en daarna een duik in de zwemvijver van provinciaal domein Nieuwdonk
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/ijsvogel-fietsroute
+routes:
+    - name: Main
+      gpx: routen/ijsvogel-fietsroute.gpx
+      length: 35324
+      up: 87
+      down: 87
+      minheight: -1
+      maxheight: 10
+      minslope: -10.9
+      maxslope: 6.9
+      avgposslope: 0.7
+      avgnegslope: -0.6
+      slopehisto:
+        - 3851
+        - 299
+        - 101
+        - 0
+        - 0
+      effortlevel: 1.304
+      minlat: 51.00453
+      minlon: 3.88167
+      maxlat: 51.05114
+      maxlon: 4.04101
 ---
 
 ## Let's Go ! 

@@ -1,22 +1,42 @@
 ---
-title: "Fietsen in het Lekkere Westen - De Leiestreek 3"
-subtitle: "Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek"
 date: "2022-11-09"
-description: "Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-de-leiestreek-3"
-gpx: "westtoer/fietsen-het-lekkere-westen-de-leiestreek-3.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Fietsen in het Lekkere Westen - De Leiestreek 3
+subtitle: Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek
+description: Ontdek al fietsend hoeve-en streekproducenten, authentieke adresjes in de Leiestreek
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "67,47,21,24,4,34,35,6,13,53,8,28,89,98,25,20,27,94,72,92,47,67"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-de-leiestreek-3
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 67,47,21,24,4,34,35,6,13,53,8,28,89,98,25,20,27,94,72,92,47,67
+      gpx: westtoer/fietsen-het-lekkere-westen-de-leiestreek-3.gpx
+      length: 41161
+      up: 0
+      down: 0
+      minheight: 123
+      maxheight: 123
+      minslope: 0
+      maxslope: 0
+      avgposslope: .nan
+      avgnegslope: .nan
+      slopehisto:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.372
+      minlat: 50.791887
+      minlon: 3.397157
+      maxlat: 50.88969
+      maxlon: 3.492153
 ---
 
 ## Let's Go ! 

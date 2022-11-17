@@ -1,22 +1,42 @@
 ---
-title: "Fietsen langs de Korte Keten - Omgeving Poperinge"
-subtitle: "Met deze fietslus verken je de mooie omgeving van Poperinge op het Fietsnetwerk Westhoek"
 date: "2022-11-09"
-description: "Met deze fietslus verken je de mooie omgeving van Poperinge op het Fietsnetwerk Westhoek"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-omgeving-poperinge"
-gpx: "westtoer/fietsen-de-zomer-van-de-korte-keten-omgeving-poperinge.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Omgeving Poperinge
+subtitle: Met deze fietslus verken je de mooie omgeving van Poperinge op het Fietsnetwerk Westhoek
+description: Met deze fietslus verken je de mooie omgeving van Poperinge op het Fietsnetwerk Westhoek
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "40,90,80,74,73,91,95,89,13,22,30,55,59,60,4,69,70,92,98,68,67,66,26,42,46,40"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-de-zomer-van-de-korte-keten-omgeving-poperinge
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 40,90,80,74,73,91,95,89,13,22,30,55,59,60,4,69,70,92,98,68,67,66,26,42,46,40
+      gpx: westtoer/fietsen-de-zomer-van-de-korte-keten-omgeving-poperinge.gpx
+      length: 45855
+      up: 164
+      down: 164
+      minheight: 1
+      maxheight: 34
+      minslope: -3.8
+      maxslope: 4.9
+      avgposslope: 0.4
+      avgnegslope: -0.4
+      slopehisto:
+        - 5975
+        - 237
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.669
+      minlat: 50.85416
+      minlon: 2.68402
+      maxlat: 50.98063
+      maxlon: 2.82004
 ---
 
 ## Let's Go ! 

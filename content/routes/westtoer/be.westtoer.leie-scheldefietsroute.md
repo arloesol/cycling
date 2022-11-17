@@ -1,19 +1,39 @@
 ---
-title: "Leie-Scheldefietsroute"
-subtitle: "Het glooiende landschap tussen Leie en Schelde is een rijk landbouwgebied"
 date: "2022-11-09"
-description: "Het glooiende landschap tussen Leie en Schelde is een rijk landbouwgebied"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/leie-scheldefietsroute"
-gpx: "westtoer/leie-scheldefietsroute.gpx"
-length: 35
-tags:
- - "flanders"
- - "short"
+title: Leie-Scheldefietsroute
+subtitle: Het glooiende landschap tussen Leie en Schelde is een rijk landbouwgebied
+description: Het glooiende landschap tussen Leie en Schelde is een rijk landbouwgebied
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/leie-scheldefietsroute
+routes:
+    - name: Main
+      gpx: westtoer/leie-scheldefietsroute.gpx
+      length: 36600
+      up: 260
+      down: 260
+      minheight: 15
+      maxheight: 77
+      minslope: -9.9
+      maxslope: 8.9
+      avgposslope: 0.8
+      avgnegslope: -0.6
+      slopehisto:
+        - 6448
+        - 947
+        - 403
+        - 164
+        - 0
+      effortlevel: 1.642
+      minlat: 50.738137
+      minlon: 3.325561
+      maxlat: 50.820244
+      maxlon: 3.441691
 ---
 
 ## Let's Go ! 

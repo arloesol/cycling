@@ -1,19 +1,39 @@
 ---
-title: "Stage 3: Castles, collieries and De Wijers"
-subtitle: "With the Voer region behind us, we head northwards"
 date: "2022-11-09"
-description: "With the Voer region behind us, we head northwards"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/stage-3-castles-collieries-and-de-wijers"
-gpx: "limburg/stage-3-castles-collieries-and-de-wijers.gpx"
-length: 65
-tags:
- - "flanders"
- - "medium"
+title: 'Stage 3: Castles, collieries and De Wijers'
+subtitle: With the Voer region behind us, we head northwards
+description: With the Voer region behind us, we head northwards
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/stage-3-castles-collieries-and-de-wijers
+routes:
+    - name: Main
+      gpx: limburg/stage-3-castles-collieries-and-de-wijers.gpx
+      length: 64950
+      up: 599
+      down: 618
+      minheight: 39
+      maxheight: 124
+      minslope: -21.8
+      maxslope: 15.8
+      avgposslope: 2.4
+      avgnegslope: -2.1
+      slopehisto:
+        - 11267
+        - 3474
+        - 1041
+        - 580
+        - 1112
+      effortlevel: 3.632
+      minlat: 50.80534
+      minlon: 5.39205
+      maxlat: 50.98364
+      maxlon: 5.66895
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "The ultimate two-day cycling experiences tour"
-subtitle: "Two days? Two top experiences! On day one the route takes you to 'Cycling through Water' in Bokrijk"
 date: "2022-11-09"
-description: "Two days? Two top experiences! On day one the route takes you to 'Cycling through Water' in Bokrijk"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/ultimate-two-day-cycling-experiences-tour"
-gpx: "limburg/ultimate-two-day-cycling-experiences-tour.gpx"
-length: 131
-tags:
- - "flanders"
- - "long"
+title: The ultimate two-day cycling experiences tour
+subtitle: Two days? Two top experiences! On day one the route takes you to 'Cycling through Water' in Bokrijk
+description: Two days? Two top experiences! On day one the route takes you to 'Cycling through Water' in Bokrijk
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/ultimate-two-day-cycling-experiences-tour
+routes:
+    - name: Main
+      gpx: limburg/ultimate-two-day-cycling-experiences-tour.gpx
+      length: 131068
+      up: 646
+      down: 646
+      minheight: 24
+      maxheight: 101
+      minslope: -20.8
+      maxslope: 16.2
+      avgposslope: 1.9
+      avgnegslope: -1.9
+      slopehisto:
+        - 16612
+        - 2955
+        - 1303
+        - 1054
+        - 462
+      effortlevel: 5.759
+      minlat: 50.94664
+      minlon: 5.19523
+      maxlat: 51.1677
+      maxlon: 5.47261
 ---
 
 ## Let's Go ! 

@@ -1,22 +1,42 @@
 ---
-title: "Lambiek-Bruegelroute"
-subtitle: "De golvende landschappen waar je op deze route doorfietst, lijken zo te komen uit schilderijen van Pieter Bruegel de Oude"
 date: "2022-11-09"
-description: "De golvende landschappen waar je op deze route doorfietst, lijken zo te komen uit schilderijen van Pieter Bruegel de Oude. Hier en daar tref je wel enkele reproducties van zijn werken waarop het karakter van het Pajottenland duidelijk zichtbaar is."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/lambiekbruegelroute/index.html"
-gpx: "vlaamsbrabant/Lambiek-Bruegelroute.gpx"
-length: 33
-tags:
- - "flanders"
- - "short"
+title: Lambiek-Bruegelroute
+subtitle: De golvende landschappen waar je op deze route doorfietst, lijken zo te komen uit schilderijen van Pieter Bruegel de Oude
+description: De golvende landschappen waar je op deze route doorfietst, lijken zo te komen uit schilderijen van Pieter Bruegel de Oude. Hier en daar tref je wel enkele reproducties van zijn werken waarop het karakter van het Pajottenland duidelijk zichtbaar is.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "37,88,20,21,56,18,19,7,8,59,54,53,62,52,81,80,80,46,87,37"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/lambiekbruegelroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 37,88,20,21,56,18,19,7,8,59,54,53,62,52,81,80,80,46,87,37
+      gpx: vlaamsbrabant/Lambiek-Bruegelroute.gpx
+      length: 32972
+      up: 297
+      down: 297
+      minheight: 26
+      maxheight: 92
+      minslope: -8.2
+      maxslope: 12.6
+      avgposslope: 2
+      avgnegslope: -2.3
+      slopehisto:
+        - 9546
+        - 1190
+        - 705
+        - 116
+        - 131
+      effortlevel: 1.771
+      minlat: 50.8093
+      minlon: 4.16114
+      maxlat: 50.87529
+      maxlon: 4.28961
 ---
 
 ## Let's Go ! 

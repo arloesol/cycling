@@ -1,19 +1,39 @@
 ---
-title: "Cycling past tumuli"
-subtitle: "This route has some moderate climbs and takes you through open landscapes with square farms and church villages"
 date: "2022-11-09"
-description: "This route has some moderate climbs and takes you through open landscapes with square farms and church villages"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/cycling-past-tumuli"
-gpx: "limburg/cycling-past-tumuli.gpx"
-length: 60
-tags:
- - "flanders"
- - "medium"
+title: Cycling past tumuli
+subtitle: This route has some moderate climbs and takes you through open landscapes with square farms and church villages
+description: This route has some moderate climbs and takes you through open landscapes with square farms and church villages
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/cycling-past-tumuli
+routes:
+    - name: Main
+      gpx: limburg/cycling-past-tumuli.gpx
+      length: 58584
+      up: 477
+      down: 477
+      minheight: 42
+      maxheight: 133
+      minslope: -10
+      maxslope: 10
+      avgposslope: 2
+      avgnegslope: -1.6
+      slopehisto:
+        - 14790
+        - 3113
+        - 501
+        - 50
+        - 61
+      effortlevel: 2.868
+      minlat: 50.70268
+      minlon: 5.1151
+      maxlat: 50.82092
+      maxlon: 5.23626
 ---
 
 ## Let's Go ! 

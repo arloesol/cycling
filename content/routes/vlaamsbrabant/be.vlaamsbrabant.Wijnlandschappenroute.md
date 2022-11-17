@@ -1,22 +1,42 @@
 ---
-title: "Wijnlandschappenroute"
-subtitle: "Vertrek aan het Kasteel van Horst voor een tocht doorheen de velden, langs de wijngaarden"
 date: "2022-11-09"
-description: "Vertrek aan het Kasteel van Horst voor een tocht doorheen de velden, langs de wijngaarden. Onderweg fiets je langs het Bezoekerscentrum van de Hagelandse wijn. Proeven van de Hagelandse wijn is een must!"
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/wijnroute/index.html"
-gpx: "vlaamsbrabant/Wijnlandschappenroute.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: Wijnlandschappenroute
+subtitle: Vertrek aan het Kasteel van Horst voor een tocht doorheen de velden, langs de wijngaarden
+description: Vertrek aan het Kasteel van Horst voor een tocht doorheen de velden, langs de wijngaarden. Onderweg fiets je langs het Bezoekerscentrum van de Hagelandse wijn. Proeven van de Hagelandse wijn is een must!
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "65,98,99,29,42,82,64,63,44,8,7,6,5,46,45,75,73,27,28,74,97,98,65"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/wijnroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 65,98,99,29,42,82,64,63,44,8,7,6,5,46,45,75,73,27,28,74,97,98,65
+      gpx: vlaamsbrabant/Wijnlandschappenroute.gpx
+      length: 46583
+      up: 383
+      down: 383
+      minheight: 12
+      maxheight: 82
+      minslope: -10.8
+      maxslope: 10.1
+      avgposslope: 2.1
+      avgnegslope: -2.1
+      slopehisto:
+        - 8362
+        - 1827
+        - 424
+        - 1005
+        - 89
+      effortlevel: 2.332
+      minlat: 50.91508
+      minlon: 4.75482
+      maxlat: 50.97404
+      maxlon: 4.92151
 ---
 
 ## Let's Go ! 

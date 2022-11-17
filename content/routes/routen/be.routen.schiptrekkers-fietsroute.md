@@ -1,19 +1,39 @@
 ---
-title: "Schiptrekkers Fietsroute"
-subtitle: "Ook vandaag dragen de Denderleeuwenaars nog trots hun bijnaam van ‘schiptrekkers’"
 date: "2022-11-09"
-description: "Ook vandaag dragen de Denderleeuwenaars nog trots hun bijnaam van ‘schiptrekkers’"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/schiptrekkers-fietsroute"
-gpx: "routen/schiptrekkers-fietsroute.gpx"
-length: 30
-tags:
- - "flanders"
- - "short"
+title: Schiptrekkers Fietsroute
+subtitle: Ook vandaag dragen de Denderleeuwenaars nog trots hun bijnaam van ‘schiptrekkers’
+description: Ook vandaag dragen de Denderleeuwenaars nog trots hun bijnaam van ‘schiptrekkers’
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/schiptrekkers-fietsroute
+routes:
+    - name: Main
+      gpx: routen/schiptrekkers-fietsroute.gpx
+      length: 28490
+      up: 156
+      down: 156
+      minheight: 6
+      maxheight: 38
+      minslope: -6
+      maxslope: 5.9
+      avgposslope: 0.7
+      avgnegslope: -1
+      slopehisto:
+        - 6829
+        - 466
+        - 182
+        - 0
+        - 0
+      effortlevel: 1.264
+      minlat: 50.85398
+      minlon: 4.03092
+      maxlat: 50.92034
+      maxlon: 4.08985
 ---
 
 ## Let's Go ! 

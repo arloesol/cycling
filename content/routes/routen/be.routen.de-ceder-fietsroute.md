@@ -1,19 +1,39 @@
 ---
-title: "De Ceder Fietsroute"
-subtitle: "Instant vakantiegevoel verzekerd langs de Leie tussen Deinze en Gent! Deze korte tocht neemt je mee door het adembenemende landschap dat zoveel kunstenaars inspireerde"
 date: "2022-11-09"
-description: "Instant vakantiegevoel verzekerd langs de Leie tussen Deinze en Gent! Deze korte tocht neemt je mee door het adembenemende landschap dat zoveel kunstenaars inspireerde"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/de-ceder-fietsroute"
-gpx: "routen/de-ceder-fietsroute.gpx"
-length: 15
-tags:
- - "flanders"
- - "vshort"
+title: De Ceder Fietsroute
+subtitle: Instant vakantiegevoel verzekerd langs de Leie tussen Deinze en Gent! Deze korte tocht neemt je mee door het adembenemende landschap dat zoveel kunstenaars inspireerde
+description: Instant vakantiegevoel verzekerd langs de Leie tussen Deinze en Gent! Deze korte tocht neemt je mee door het adembenemende landschap dat zoveel kunstenaars inspireerde
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/de-ceder-fietsroute
+routes:
+    - name: Main
+      gpx: routen/de-ceder-fietsroute.gpx
+      length: 15232
+      up: 37
+      down: 37
+      minheight: 4
+      maxheight: 12
+      minslope: -4.5
+      maxslope: 4.3
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 1761
+        - 114
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.556
+      minlat: 50.96093
+      minlon: 3.5244
+      maxlat: 50.99162
+      maxlon: 3.58009
 ---
 
 ## Let's Go ! 

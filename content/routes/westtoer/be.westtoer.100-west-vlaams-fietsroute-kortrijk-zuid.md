@@ -1,22 +1,42 @@
 ---
-title: "100% West-Vlaams fietsroute Kortrijk-Zuid"
-subtitle: "De Panoramaweg in Kortrijk heeft zijn naam niet gestolen"
 date: "2022-11-09"
-description: "De Panoramaweg in Kortrijk heeft zijn naam niet gestolen"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/100-west-vlaams-fietsroute-kortrijk-zuid"
-gpx: "westtoer/100-west-vlaams-fietsroute-kortrijk-zuid.gpx"
-length: 34
-tags:
- - "flanders"
- - "short"
+title: 100% West-Vlaams fietsroute Kortrijk-Zuid
+subtitle: De Panoramaweg in Kortrijk heeft zijn naam niet gestolen
+description: De Panoramaweg in Kortrijk heeft zijn naam niet gestolen
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "80,57,30,38,14,61,76,72,66,84,67,74,69,50,80"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/100-west-vlaams-fietsroute-kortrijk-zuid
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 80,57,30,38,14,61,76,72,66,84,67,74,69,50,80
+      gpx: westtoer/100-west-vlaams-fietsroute-kortrijk-zuid.gpx
+      length: 34246
+      up: 239
+      down: 239
+      minheight: 16
+      maxheight: 69
+      minslope: -8.8
+      maxslope: 7.2
+      avgposslope: 1
+      avgnegslope: -1.1
+      slopehisto:
+        - 8460
+        - 963
+        - 214
+        - 0
+        - 0
+      effortlevel: 1.617
+      minlat: 50.737129
+      minlon: 3.27044
+      maxlat: 50.809267
+      maxlon: 3.401137
 ---
 
 ## Let's Go ! 

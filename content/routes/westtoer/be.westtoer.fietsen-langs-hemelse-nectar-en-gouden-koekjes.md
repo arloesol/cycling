@@ -1,22 +1,42 @@
 ---
-title: "Fietsen langs hemelse nectar en gouden koekjes"
-subtitle: "Deze 'de grote goesting' fietsroute verbindt het epicentrum van de streekbieren met het beroemde Jules Destrooper koekje"
 date: "2022-11-09"
-description: "Deze 'de grote goesting' fietsroute verbindt het epicentrum van de streekbieren met het beroemde Jules Destrooper koekje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-hemelse-nectar-en-gouden-koekjes"
-gpx: "westtoer/fietsen-langs-hemelse-nectar-en-gouden-koekjes.gpx"
-length: 36
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs hemelse nectar en gouden koekjes
+subtitle: Deze 'de grote goesting' fietsroute verbindt het epicentrum van de streekbieren met het beroemde Jules Destrooper koekje
+description: Deze 'de grote goesting' fietsroute verbindt het epicentrum van de streekbieren met het beroemde Jules Destrooper koekje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "98,92,70,69,4,60,59,55,30,22,13,89,95,91,73,74,80,31,98"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-langs-hemelse-nectar-en-gouden-koekjes
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 98,92,70,69,4,60,59,55,30,22,13,89,95,91,73,74,80,31,98
+      gpx: westtoer/fietsen-langs-hemelse-nectar-en-gouden-koekjes.gpx
+      length: 36434
+      up: 48
+      down: 48
+      minheight: 3
+      maxheight: 23
+      minslope: -2.8
+      maxslope: 2.7
+      avgposslope: 1.1
+      avgnegslope: -1
+      slopehisto:
+        - 1258
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.233
+      minlat: 50.882717
+      minlon: 2.720898
+      maxlat: 50.980631
+      maxlon: 2.820039
 ---
 
 ## Let's Go ! 

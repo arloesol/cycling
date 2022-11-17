@@ -1,22 +1,42 @@
 ---
-title: "Recreatieve lus Diksmuide"
-subtitle: "Met deze route fiets je richting Koekelare, waar je o"
 date: "2022-11-09"
-description: "Met deze route fiets je richting Koekelare, waar je o"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/recreatieve-lus-diksmuide"
-gpx: "westtoer/recreatieve-lus-diksmuide.gpx"
-length: 48
-tags:
- - "flanders"
- - "short"
+title: Recreatieve lus Diksmuide
+subtitle: Met deze route fiets je richting Koekelare, waar je o
+description: Met deze route fiets je richting Koekelare, waar je o
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "1,69,57,28,12,62,72,26,36,49,9,3,61,65,93,92,32,97,83,82,40,39,84,94,16,99,15,9,18,59,1"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/recreatieve-lus-diksmuide
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 1,69,57,28,12,62,72,26,36,49,9,3,61,65,93,92,32,97,83,82,40,39,84,94,16,99,15,9,18,59,1
+      gpx: westtoer/recreatieve-lus-diksmuide.gpx
+      length: 49920
+      up: 100
+      down: 100
+      minheight: 2
+      maxheight: 47
+      minslope: -6.5
+      maxslope: 5.9
+      avgposslope: 1.2
+      avgnegslope: -1.3
+      slopehisto:
+        - 2684
+        - 108
+        - 70
+        - 0
+        - 0
+      effortlevel: 1.742
+      minlat: 51.002317
+      minlon: 2.863491
+      maxlat: 51.127215
+      maxlon: 3.014526
 ---
 
 ## Let's Go ! 

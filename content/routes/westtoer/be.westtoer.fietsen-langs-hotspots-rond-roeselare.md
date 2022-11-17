@@ -1,19 +1,39 @@
 ---
-title: "Fietsen langs hotspots rond Roeselare"
-subtitle: "Deze aangename fietstocht combineert de rust van het platteland met het stadsgewoel van Izegem en Roeselare"
 date: "2022-11-09"
-description: "Deze aangename fietstocht combineert de rust van het platteland met het stadsgewoel van Izegem en Roeselare"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-langs-hotspots-rond-roeselare"
-gpx: "westtoer/fietsen-langs-hotspots-rond-roeselare.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs hotspots rond Roeselare
+subtitle: Deze aangename fietstocht combineert de rust van het platteland met het stadsgewoel van Izegem en Roeselare
+description: Deze aangename fietstocht combineert de rust van het platteland met het stadsgewoel van Izegem en Roeselare
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-langs-hotspots-rond-roeselare
+routes:
+    - name: Main
+      gpx: westtoer/fietsen-langs-hotspots-rond-roeselare.gpx
+      length: 39454
+      up: 136
+      down: 136
+      minheight: 12
+      maxheight: 33
+      minslope: -4.1
+      maxslope: 3.8
+      avgposslope: 0.7
+      avgnegslope: -0.7
+      slopehisto:
+        - 7101
+        - 103
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.484
+      minlat: 50.90106
+      minlon: 3.12111
+      maxlat: 50.95923
+      maxlon: 3.25491
 ---
 
 ## Let's Go ! 

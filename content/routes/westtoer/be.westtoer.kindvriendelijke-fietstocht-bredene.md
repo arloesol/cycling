@@ -1,22 +1,42 @@
 ---
-title: "Kindvriendelijke fietstocht in Bredene"
-subtitle: "Bredene staat niet alleen bekend als kampeergemeente bij uitstek, maar ook liefhebbers van natuur komen ruimschoots aan hun trekken"
 date: "2022-11-09"
-description: "Bredene staat niet alleen bekend als kampeergemeente bij uitstek, maar ook liefhebbers van natuur komen ruimschoots aan hun trekken"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/kindvriendelijke-fietstocht-bredene"
-gpx: "westtoer/kindvriendelijke-fietstocht-bredene.gpx"
-length: 16
-tags:
- - "flanders"
- - "vshort"
+title: Kindvriendelijke fietstocht in Bredene
+subtitle: Bredene staat niet alleen bekend als kampeergemeente bij uitstek, maar ook liefhebbers van natuur komen ruimschoots aan hun trekken
+description: Bredene staat niet alleen bekend als kampeergemeente bij uitstek, maar ook liefhebbers van natuur komen ruimschoots aan hun trekken
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "92,56,96,12,26,95,10,99,8,92"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/kindvriendelijke-fietstocht-bredene
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 92,56,96,12,26,95,10,99,8,92
+      gpx: westtoer/kindvriendelijke-fietstocht-bredene.gpx
+      length: 15398
+      up: 17
+      down: 17
+      minheight: 3
+      maxheight: 19
+      minslope: -10.7
+      maxslope: 11
+      avgposslope: 0.5
+      avgnegslope: -0.7
+      slopehisto:
+        - 388
+        - 0
+        - 0
+        - 0
+        - 83
+      effortlevel: 0.558
+      minlat: 51.222303
+      minlon: 2.928755
+      maxlat: 51.254864
+      maxlon: 3.004296
 ---
 
 ## Let's Go ! 

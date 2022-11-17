@@ -1,22 +1,42 @@
 ---
-title: "(H)eerlijk Heuvelland"
-subtitle: "Deze fietslus voert je door de mooie landschappen en vergezichten en brengt je naar de smakelijkste adressen van Heuvelland"
 date: "2022-11-09"
-description: "Deze fietslus voert je door de mooie landschappen en vergezichten en brengt je naar de smakelijkste adressen van Heuvelland"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/heerlijk-heuvelland"
-gpx: "westtoer/heerlijk-heuvelland.gpx"
-length: 44
-tags:
- - "flanders"
- - "short"
+title: (H)eerlijk Heuvelland
+subtitle: Deze fietslus voert je door de mooie landschappen en vergezichten en brengt je naar de smakelijkste adressen van Heuvelland
+description: Deze fietslus voert je door de mooie landschappen en vergezichten en brengt je naar de smakelijkste adressen van Heuvelland
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "2,7,9,6,57,99,98,18,11,96,97,55,4,54,3,16,13,61,49,53,59,51,50,92,62,7,2"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/heerlijk-heuvelland
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 2,7,9,6,57,99,98,18,11,96,97,55,4,54,3,16,13,61,49,53,59,51,50,92,62,7,2
+      gpx: westtoer/heerlijk-heuvelland.gpx
+      length: 44093
+      up: 384
+      down: 384
+      minheight: 25
+      maxheight: 115
+      minslope: -9.5
+      maxslope: 11.8
+      avgposslope: 4.5
+      avgnegslope: -5.5
+      slopehisto:
+        - 13279
+        - 3431
+        - 322
+        - 0
+        - 62
+      effortlevel: 2.454
+      minlat: 50.769554
+      minlon: 2.728112
+      maxlat: 50.816829
+      maxlon: 2.925616
 ---
 
 ## Let's Go ! 

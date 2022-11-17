@@ -1,22 +1,42 @@
 ---
-title: "Demerroute"
-subtitle: "Volg vanuit Aarschot de Demer tot Testelt of fiets langs de Demer tot Werchter en de monding in de Dijle"
 date: "2022-11-09"
-description: "Volg vanuit Aarschot de Demer tot Testelt of fiets langs de Demer tot Werchter en de monding in de Dijle. Combineer beide tot een grote lus en passeer drie Demerbakens. Sluit af met een gezellig terrasje in Aarschot."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/demerroute/index.html"
-gpx: "vlaamsbrabant/Demerroute.gpx"
-length: 54
-tags:
- - "flanders"
- - "short"
+title: Demerroute
+subtitle: Volg vanuit Aarschot de Demer tot Testelt of fiets langs de Demer tot Werchter en de monding in de Dijle
+description: Volg vanuit Aarschot de Demer tot Testelt of fiets langs de Demer tot Werchter en de monding in de Dijle. Combineer beide tot een grote lus en passeer drie Demerbakens. Sluit af met een gezellig terrasje in Aarschot.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "51,3,80,56,81,57,82,1,2,4,89,51,15,16,17,62,66,41,30,72,71,67,91,92,9,10,14,51"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/demerroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 51,3,80,56,81,57,82,1,2,4,89,51,15,16,17,62,66,41,30,72,71,67,91,92,9,10,14,51
+      gpx: vlaamsbrabant/Demerroute.gpx
+      length: 53763
+      up: 252
+      down: 252
+      minheight: 7
+      maxheight: 57
+      minslope: -12.8
+      maxslope: 13.5
+      avgposslope: 1.1
+      avgnegslope: -0.9
+      slopehisto:
+        - 7772
+        - 719
+        - 356
+        - 0
+        - 216
+      effortlevel: 2.269
+      minlat: 50.9395
+      minlon: 4.69079
+      maxlat: 51.01234
+      maxlon: 4.95495
 ---
 
 ## Let's Go ! 

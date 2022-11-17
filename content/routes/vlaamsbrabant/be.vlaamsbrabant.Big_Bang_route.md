@@ -1,23 +1,43 @@
 ---
-title: "Big Bang route"
-subtitle: "De 75 km lange fietsroute tussen de zustersteden Leuven en Louvain-La-Neuve staat in het teken van de oerknal en zijn grondlegger Georges Lemaître"
 date: "2022-11-09"
-description: "De 75 km lange fietsroute tussen de zustersteden Leuven en Louvain-La-Neuve staat in het teken van de oerknal en zijn grondlegger Georges Lemaître."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/big-bang-route/index.html"
-gpx: "vlaamsbrabant/Big_Bang_route.gpx"
-length: 75
-tags:
- - "flanders"
- - "medium"
+title: Big Bang route
+subtitle: De 75 km lange fietsroute tussen de zustersteden Leuven en Louvain-La-Neuve staat in het teken van de oerknal en zijn grondlegger Georges Lemaître
+description: De 75 km lange fietsroute tussen de zustersteden Leuven en Louvain-La-Neuve staat in het teken van de oerknal en zijn grondlegger Georges Lemaître.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "10,74,75,13,2,1,79,80,40,41,42,43,44,45,50,49,56,57,75,76,89,95,67"
- - ",95,89,76,75,57,56,49,50,45,44,43,42,41,40,80,79,78,82,76,70,75,74,10"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/big-bang-route/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 10,74,75,13,2,1,79,80,40,41,42,43,44,45,50,49,56,57,75,76,89,95,67
+        - ',95,89,76,75,57,56,49,50,45,44,43,42,41,40,80,79,78,82,76,70,75,74,10'
+      gpx: vlaamsbrabant/Big_Bang_route.gpx
+      length: 71377
+      up: 690
+      down: 690
+      minheight: 20
+      maxheight: 144
+      minslope: -15.1
+      maxslope: 17.9
+      avgposslope: 2.8
+      avgnegslope: -2.6
+      slopehisto:
+        - 14543
+        - 3430
+        - 1348
+        - 1016
+        - 789
+      effortlevel: 4.077
+      minlat: 50.66777
+      minlon: 4.62176
+      maxlat: 50.87918
+      maxlon: 4.70088
 ---
 
 ## Let's Go ! 

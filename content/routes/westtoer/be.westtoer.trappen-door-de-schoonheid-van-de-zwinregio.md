@@ -1,22 +1,42 @@
 ---
-title: "Trappen door de schoonheid van de Zwinregio"
-subtitle: "Neem je fiets en verken de mooie Zwinregio"
 date: "2022-11-09"
-description: "Neem je fiets en verken de mooie Zwinregio"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/trappen-door-de-schoonheid-van-de-zwinregio"
-gpx: "westtoer/trappen-door-de-schoonheid-van-de-zwinregio.gpx"
-length: 45
-tags:
- - "flanders"
- - "short"
+title: Trappen door de schoonheid van de Zwinregio
+subtitle: Neem je fiets en verken de mooie Zwinregio
+description: Neem je fiets en verken de mooie Zwinregio
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "13,39,70,38,9,46,85,95,25,55,34,92,22,17,47,74,24,57,54,94,98,93,53,50,59,49,45,4,64,86,18,4,45,68,13"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/trappen-door-de-schoonheid-van-de-zwinregio
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 13,39,70,38,9,46,85,95,25,55,34,92,22,17,47,74,24,57,54,94,98,93,53,50,59,49,45,4,64,86,18,4,45,68,13
+      gpx: westtoer/trappen-door-de-schoonheid-van-de-zwinregio.gpx
+      length: 45431
+      up: 26
+      down: 26
+      minheight: 2
+      maxheight: 10
+      minslope: -2.8
+      maxslope: 3.1
+      avgposslope: 0.6
+      avgnegslope: -0.5
+      slopehisto:
+        - 477
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.523
+      minlat: 51.252375
+      minlon: 3.241336
+      maxlat: 51.360812
+      maxlon: 3.382483
 ---
 
 ## Let's Go ! 

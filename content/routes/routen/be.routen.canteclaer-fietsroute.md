@@ -1,19 +1,39 @@
 ---
-title: "Canteclaer Fietsroute"
-subtitle: "Canteclaer de haan uit het middeleeuwse dierenepos ‘Van den vos Reynaerde’ is je gids op deze rit door de bossen en akkerlanden tussen Stekene, Lokeren en Moerbeke"
 date: "2022-11-09"
-description: "Canteclaer de haan uit het middeleeuwse dierenepos ‘Van den vos Reynaerde’ is je gids op deze rit door de bossen en akkerlanden tussen Stekene, Lokeren en Moerbeke"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/canteclaer-fietsroute"
-gpx: "routen/canteclaer-fietsroute.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Canteclaer Fietsroute
+subtitle: Canteclaer de haan uit het middeleeuwse dierenepos ‘Van den vos Reynaerde’ is je gids op deze rit door de bossen en akkerlanden tussen Stekene, Lokeren en Moerbeke
+description: Canteclaer de haan uit het middeleeuwse dierenepos ‘Van den vos Reynaerde’ is je gids op deze rit door de bossen en akkerlanden tussen Stekene, Lokeren en Moerbeke
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/canteclaer-fietsroute
+routes:
+    - name: Main
+      gpx: routen/canteclaer-fietsroute.gpx
+      length: 44682
+      up: 153
+      down: 153
+      minheight: 2
+      maxheight: 22
+      minslope: -13.5
+      maxslope: 11.6
+      avgposslope: 0.8
+      avgnegslope: -0.8
+      slopehisto:
+        - 7984
+        - 484
+        - 70
+        - 252
+        - 135
+      effortlevel: 1.859
+      minlat: 51.11382
+      minlon: 3.94821
+      maxlat: 51.21342
+      maxlon: 4.06764
 ---
 
 ## Let's Go ! 

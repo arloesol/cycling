@@ -1,19 +1,39 @@
 ---
-title: "Meetjeslandse Kreken Fietsroute"
-subtitle: "Vanuit de Huysmanhoeve brengt de brug over de expresweg je op het noordelijke stuk van het Fietsnetwerk Meetjesland"
 date: "2022-11-09"
-description: "Vanuit de Huysmanhoeve brengt de brug over de expresweg je op het noordelijke stuk van het Fietsnetwerk Meetjesland"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/meetjeslandse-kreken-fietsroute"
-gpx: "routen/meetjeslandse-kreken-fietsroute.gpx"
-length: 54
-tags:
- - "flanders"
- - "short"
+title: Meetjeslandse Kreken Fietsroute
+subtitle: Vanuit de Huysmanhoeve brengt de brug over de expresweg je op het noordelijke stuk van het Fietsnetwerk Meetjesland
+description: Vanuit de Huysmanhoeve brengt de brug over de expresweg je op het noordelijke stuk van het Fietsnetwerk Meetjesland
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/meetjeslandse-kreken-fietsroute
+routes:
+    - name: Main
+      gpx: routen/meetjeslandse-kreken-fietsroute.gpx
+      length: 54480
+      up: 87
+      down: 87
+      minheight: -1
+      maxheight: 12
+      minslope: -9.1
+      maxslope: 6
+      avgposslope: 0.7
+      avgnegslope: -0.7
+      slopehisto:
+        - 4336
+        - 176
+        - 70
+        - 0
+        - 0
+      effortlevel: 1.921
+      minlat: 51.20083
+      minlon: 3.47567
+      maxlat: 51.29764
+      maxlon: 3.64947
 ---
 
 ## Let's Go ! 

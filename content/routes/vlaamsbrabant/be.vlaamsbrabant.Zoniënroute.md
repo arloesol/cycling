@@ -1,22 +1,42 @@
 ---
-title: "Zoniënroute"
-subtitle: "Genieten van het groen in de Ijsevallei, verfrissing zoeken onder de hoge beukenbomen in het Zoniënwoud, zoeken naar herkenningspunten van Brussel in de verte of picknicken in het Warandepark in Tervuren"
 date: "2022-11-09"
-description: "Genieten van het groen in de Ijsevallei, verfrissing zoeken onder de hoge beukenbomen in het Zoniënwoud, zoeken naar herkenningspunten van Brussel in de verte of picknicken in het Warandepark in Tervuren. Op deze route kan het allemaal."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/zonienroute/index.html"
-gpx: "vlaamsbrabant/Zoniënroute.gpx"
-length: 42
-tags:
- - "flanders"
- - "short"
+title: Zoniënroute
+subtitle: Genieten van het groen in de Ijsevallei, verfrissing zoeken onder de hoge beukenbomen in het Zoniënwoud, zoeken naar herkenningspunten van Brussel in de verte of picknicken in het Warandepark in Tervuren
+description: Genieten van het groen in de Ijsevallei, verfrissing zoeken onder de hoge beukenbomen in het Zoniënwoud, zoeken naar herkenningspunten van Brussel in de verte of picknicken in het Warandepark in Tervuren. Op deze route kan het allemaal.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "44,49,60,61,46,45,8,57,25,29,40,41,42,79,2,1,48,48,47,43,32,31,30,44"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/zonienroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 44,49,60,61,46,45,8,57,25,29,40,41,42,79,2,1,48,48,47,43,32,31,30,44
+      gpx: vlaamsbrabant/Zoniënroute.gpx
+      length: 42434
+      up: 531
+      down: 531
+      minheight: 53
+      maxheight: 156
+      minslope: -31.1
+      maxslope: 19.4
+      avgposslope: 4.7
+      avgnegslope: -4.8
+      slopehisto:
+        - 8846
+        - 4084
+        - 1114
+        - 465
+        - 1279
+      effortlevel: 2.987
+      minlat: 50.73835
+      minlon: 4.40048
+      maxlat: 50.83447
+      maxlon: 4.55856
 ---
 
 ## Let's Go ! 

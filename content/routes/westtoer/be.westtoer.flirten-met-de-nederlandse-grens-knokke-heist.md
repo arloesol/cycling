@@ -1,22 +1,42 @@
 ---
-title: "Flirten met de Nederlandse grens in Knokke-Heist"
-subtitle: "Een fietstocht naar het volgende niveau tillen"
 date: "2022-11-09"
-description: "Een fietstocht naar het volgende niveau tillen"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/flirten-met-de-nederlandse-grens-knokke-heist"
-gpx: "westtoer/flirten-met-de-nederlandse-grens-knokke-heist.gpx"
-length: 27
-tags:
- - "flanders"
- - "vshort"
+title: Flirten met de Nederlandse grens in Knokke-Heist
+subtitle: Een fietstocht naar het volgende niveau tillen
+description: Een fietstocht naar het volgende niveau tillen
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "13,68,45,4,18,86,29,30,50,,59,52,73,33,62,39,13"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/flirten-met-de-nederlandse-grens-knokke-heist
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 13,68,45,4,18,86,29,30,50,,59,52,73,33,62,39,13
+      gpx: westtoer/flirten-met-de-nederlandse-grens-knokke-heist.gpx
+      length: 29114
+      up: 19
+      down: 19
+      minheight: 2
+      maxheight: 10
+      minslope: -3.6
+      maxslope: 2.9
+      avgposslope: 0.5
+      avgnegslope: -0.5
+      slopehisto:
+        - 490
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.987
+      minlat: 51.323289
+      minlon: 3.252262
+      maxlat: 51.362484
+      maxlon: 3.384911
 ---
 
 ## Let's Go ! 

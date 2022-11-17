@@ -1,22 +1,40 @@
 ---
-title: "Along The Canal"
-subtitle: "Vogelzang, Football, Erasmus, Beer, Flow, Locks ..."
 date: "2022-10-17"
-description: "from COOVI campus to Erasmus Hospital along the Flemish border"
+title: Along The Canal
+subtitle: Vogelzang, Football, Erasmus, Beer, Flow, Locks ...
+description: from COOVI campus to Erasmus Hospital along the Flemish border
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-length: 18
-ext_url: "https://www.bike.brussels/en/blog/pedal-along-the-canal"
-gpx: "brussels/Bike-routes-5-Anderlecht-Neerpede.gpx"
-# mapimg: "brussels/Routes-1-Center.jpg"
-gmaps: "https://www.google.com/maps/d/embed?mid=1q7e9oW7EIF2-o7DvWGPIDw0W2cRT2bM&ehbc=2E312F"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/pedal-along-the-canal
+routes:
+    - name: Main
+      gpx: brussels/Bike-routes-5-Anderlecht-Neerpede.gpx
+      length: 12973
+      up: 49
+      down: 51
+      minheight: 19
+      maxheight: 45
+      minslope: -2.5
+      maxslope: 2.8
+      avgposslope: 0.7
+      avgnegslope: -0.9
+      slopehisto:
+        - 1827
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.475
+      minlat: 50.80896
+      minlon: 4.259082
+      maxlat: 50.837588
+      maxlon: 4.317576
 ---
 ## Let's go !
 

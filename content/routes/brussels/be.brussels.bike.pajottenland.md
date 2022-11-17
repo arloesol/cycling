@@ -1,27 +1,62 @@
 ---
-title: "Right through the Pajottenland"
-subtitle: "Vorst abbey, Anderlecht lakes, Gaasbeek Castle, the Colomapark ..."
 date: "2022-10-17"
-description: "wap the urban hustle and bustle for some rural peace and quiet"
+title: Right through the Pajottenland
+subtitle: Vorst abbey, Anderlecht lakes, Gaasbeek Castle, the Colomapark ...
+description: wap the urban hustle and bustle for some rural peace and quiet
+categories:
+    - route
+    - official
 tags:
-  - brussels
-  - short
-  - city
-categories: 
-  - route
-  - official
-region: "brussels"
-source: "bike.brussels"
-ext_url: "https://www.bike.brussels/en/blog/right-through-the-pajottenland"
-gpx: "brussels/Bike-for-Brussels-Dwars-door-het-Pajottenland.gpx"
-length: 48
-gmaps: "https://www.google.com/maps/d/u/0/edit?mid=1G-fDdyYkB6PIYL6-Zj5ZIf67KaJc8yCp"
-altroutes:
-  - name: "short"
-    gpx: "brussels/Bike-for-Brussels-Dwars-door-het-Pajottenland-Short.gpx"
-    length: 24
-    gmaps: "https://www.google.com/maps/d/u/0/edit?mid=1G-fDdyYkB6PIYL6-Zj5ZIf67KaJc8yCp"
-# mapimg: "brussels/Routes-1-Center.jpg"
+    - brussels
+    - city
+region: brussels
+website: bike.brussels
+ext_url: https://www.bike.brussels/en/blog/right-through-the-pajottenland
+routes:
+    - name: Main
+      gpx: brussels/Bike-for-Brussels-Dwars-door-het-Pajottenland.gpx
+      length: 47597
+      up: 407
+      down: 406
+      minheight: 17
+      maxheight: 89
+      minslope: -10.8
+      maxslope: 11.4
+      avgposslope: 0.7
+      avgnegslope: -0.7
+      slopehisto:
+        - 11628
+        - 1328
+        - 745
+        - 179
+        - 120
+      effortlevel: 2.334
+      minlat: 50.75445
+      minlon: 4.20471
+      maxlat: 50.83983
+      maxlon: 4.32843
+    - name: short
+      gpx: brussels/Bike-for-Brussels-Dwars-door-het-Pajottenland-Short.gpx
+      length: 24300
+      up: 176
+      down: 176
+      minheight: 17
+      maxheight: 89
+      minslope: -10.8
+      maxslope: 11.4
+      avgposslope: 0.8
+      avgnegslope: -0.7
+      slopehisto:
+        - 4232
+        - 570
+        - 393
+        - 179
+        - 120
+      effortlevel: 1.121
+      minlat: 50.75445
+      minlon: 4.27078
+      maxlat: 50.820113
+      maxlon: 4.32843
 ---
 ## Let's go !
 

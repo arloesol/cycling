@@ -1,22 +1,42 @@
 ---
-title: "Groene 62 L62 - Groene as"
-subtitle: "Spoorlijn 62 was vroeger een 22 km lange spoorweg tussen Oostende (Zandvoordestraat) en Torhout (Aartrijksestraat)"
 date: "2022-11-09"
-description: "Spoorlijn 62 was vroeger een 22 km lange spoorweg tussen Oostende (Zandvoordestraat) en Torhout (Aartrijksestraat)"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/Groene62"
-gpx: "westtoer/Groene62.gpx"
-length: 22
-tags:
- - "flanders"
- - "vshort"
+title: Groene 62 L62 - Groene as
+subtitle: Spoorlijn 62 was vroeger een 22 km lange spoorweg tussen Oostende (Zandvoordestraat) en Torhout (Aartrijksestraat)
+description: Spoorlijn 62 was vroeger een 22 km lange spoorweg tussen Oostende (Zandvoordestraat) en Torhout (Aartrijksestraat)
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "81,70,74,30,34,42,48,89,83,20,11"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/Groene62
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 81,70,74,30,34,42,48,89,83,20,11
+      gpx: westtoer/Groene62.gpx
+      length: 21393
+      up: 20
+      down: 37
+      minheight: 3
+      maxheight: 38
+      minslope: -5
+      maxslope: 1.4
+      avgposslope: 3.1
+      avgnegslope: -5.3
+      slopehisto:
+        - 815
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.67
+      minlat: 51.065053
+      minlon: 2.938396
+      maxlat: 51.206747
+      maxlon: 3.101883
 ---
 
 ## Let's Go ! 

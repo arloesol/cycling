@@ -1,22 +1,42 @@
 ---
-title: "Fietsen in Het Lekkere Westen - Beernem, Ruiselede, Wingene, ..."
-subtitle: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
 date: "2022-11-09"
-description: "Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-beernem-ruiselede-wingene"
-gpx: "westtoer/fietsen-het-lekkere-westen-beernem-ruiselede-wingene.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Fietsen in Het Lekkere Westen - Beernem, Ruiselede, Wingene, ...
+subtitle: Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,
+description: Deze route leidt langs hoeve-en streekproducenten, authentieke adresjes,
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "29,31,18,14,80,35,15,34,25,50,22,11,17,52,85,68,60,47,49,28,29"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-het-lekkere-westen-beernem-ruiselede-wingene
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 29,31,18,14,80,35,15,34,25,50,22,11,17,52,85,68,60,47,49,28,29
+      gpx: westtoer/fietsen-het-lekkere-westen-beernem-ruiselede-wingene.gpx
+      length: 38200
+      up: 43
+      down: 43
+      minheight: 10
+      maxheight: 28
+      minslope: -2
+      maxslope: 2.1
+      avgposslope: 1.2
+      avgnegslope: -1.2
+      slopehisto:
+        - 1344
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.286
+      minlat: 51.057582
+      minlon: 3.2055
+      maxlat: 51.126172
+      maxlon: 3.349236
 ---
 
 ## Let's Go ! 

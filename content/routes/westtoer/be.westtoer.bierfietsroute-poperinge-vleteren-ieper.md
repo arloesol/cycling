@@ -1,23 +1,43 @@
 ---
-title: "Bierfietsroute Poperinge - (Vleteren) - Ieper"
-subtitle: "Deze lus bestaat uit een lange en een korte route"
 date: "2022-11-09"
-description: "Deze lus bestaat uit een lange en een korte route"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/bierfietsroute-poperinge-vleteren-ieper"
-gpx: "westtoer/bierfietsroute-poperinge-vleteren-ieper.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Bierfietsroute Poperinge - (Vleteren) - Ieper
+subtitle: Deze lus bestaat uit een lange en een korte route
+description: Deze lus bestaat uit een lange en een korte route
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "46,42,67,68,98,31,80,74,52,8,75,25,24,35,39,89,93,38,69,66,17,12,34,94,15,56,38,28,40,46"
- - "40,90,50,82,81,25,24,35,39,89,93,38,69,66,17,12,34,94,15,56,38,28,40"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/bierfietsroute-poperinge-vleteren-ieper
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 46,42,67,68,98,31,80,74,52,8,75,25,24,35,39,89,93,38,69,66,17,12,34,94,15,56,38,28,40,46
+        - 40,90,50,82,81,25,24,35,39,89,93,38,69,66,17,12,34,94,15,56,38,28,40
+      gpx: westtoer/bierfietsroute-poperinge-vleteren-ieper.gpx
+      length: 45660
+      up: 86
+      down: 86
+      minheight: 5
+      maxheight: 36
+      minslope: -2.7
+      maxslope: 3.4
+      avgposslope: 1.5
+      avgnegslope: -1.8
+      slopehisto:
+        - 3004
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.585
+      minlat: 50.834238
+      minlon: 2.70926
+      maxlat: 50.919934
+      maxlon: 2.893524
 ---
 
 ## Let's Go ! 

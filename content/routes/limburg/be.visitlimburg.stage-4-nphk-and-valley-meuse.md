@@ -1,19 +1,39 @@
 ---
-title: "Stage 4: NPHK and valley of the Meuse"
-subtitle: "This route runs along water and more water"
 date: "2022-11-09"
-description: "This route runs along water and more water"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/stage-4-nphk-and-valley-meuse"
-gpx: "limburg/stage-4-nphk-and-valley-meuse.gpx"
-length: 63
-tags:
- - "flanders"
- - "medium"
+title: 'Stage 4: NPHK and valley of the Meuse'
+subtitle: This route runs along water and more water
+description: This route runs along water and more water
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/stage-4-nphk-and-valley-meuse
+routes:
+    - name: Main
+      gpx: limburg/stage-4-nphk-and-valley-meuse.gpx
+      length: 63530
+      up: 382
+      down: 396
+      minheight: 24
+      maxheight: 102
+      minslope: -29.1
+      maxslope: 16.6
+      avgposslope: 1.6
+      avgnegslope: -2
+      slopehisto:
+        - 9673
+        - 2095
+        - 376
+        - 1096
+        - 326
+      effortlevel: 3.113
+      minlat: 50.96364
+      minlon: 5.39205
+      maxlat: 51.124
+      maxlon: 5.81651
 ---
 
 ## Let's Go ! 

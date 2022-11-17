@@ -1,19 +1,39 @@
 ---
-title: "Cornet Gravelroute"
-subtitle: "Laat je verrassen door knisperende grindwegen en fietswegeltjes door de Brabantse Kouters en finish in ware Roubaixstijl op de wielerpiste van Affligem"
 date: "2022-11-09"
-description: "Laat je verrassen door knisperende grindwegen en fietswegeltjes door de Brabantse Kouters en finish in ware Roubaixstijl op de wielerpiste van Affligem."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/cornet-gravelroute/index.html"
-gpx: "vlaamsbrabant/Cornet_Gravelroute.gpx"
-length: 117
-tags:
- - "flanders"
- - "long"
+title: Cornet Gravelroute
+subtitle: Laat je verrassen door knisperende grindwegen en fietswegeltjes door de Brabantse Kouters en finish in ware Roubaixstijl op de wielerpiste van Affligem
+description: Laat je verrassen door knisperende grindwegen en fietswegeltjes door de Brabantse Kouters en finish in ware Roubaixstijl op de wielerpiste van Affligem.
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/cornet-gravelroute/index.html
+routes:
+    - name: Main
+      gpx: vlaamsbrabant/Cornet_Gravelroute.gpx
+      length: 117278
+      up: 696
+      down: 699
+      minheight: 4
+      maxheight: 82
+      minslope: -11.7
+      maxslope: 15.1
+      avgposslope: 1.4
+      avgnegslope: -1.1
+      slopehisto:
+        - 24545
+        - 2992
+        - 473
+        - 195
+        - 298
+      effortlevel: 5.265
+      minlat: 50.8949
+      minlon: 4.0895
+      maxlat: 51.01797
+      maxlon: 4.48589
 ---
 
 ## Let's Go ! 

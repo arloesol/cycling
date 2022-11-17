@@ -1,19 +1,39 @@
 ---
-title: "Egmont Fietsroute"
-subtitle: "Fiets in het spoor van de 16de-eeuwse Lamoraal van Egmont in en rond ‘zijn’ Zottegem"
 date: "2022-11-09"
-description: "Fiets in het spoor van de 16de-eeuwse Lamoraal van Egmont in en rond ‘zijn’ Zottegem"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/egmont-fietsroute"
-gpx: "routen/egmont-fietsroute.gpx"
-length: 29
-tags:
- - "flanders"
- - "vshort"
+title: Egmont Fietsroute
+subtitle: Fiets in het spoor van de 16de-eeuwse Lamoraal van Egmont in en rond ‘zijn’ Zottegem
+description: Fiets in het spoor van de 16de-eeuwse Lamoraal van Egmont in en rond ‘zijn’ Zottegem
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/egmont-fietsroute
+routes:
+    - name: Main
+      gpx: routen/egmont-fietsroute.gpx
+      length: 29054
+      up: 283
+      down: 283
+      minheight: 20
+      maxheight: 89
+      minslope: -10.6
+      maxslope: 15.5
+      avgposslope: 1.8
+      avgnegslope: -1.6
+      slopehisto:
+        - 7103
+        - 2267
+        - 409
+        - 129
+        - 55
+      effortlevel: 1.63
+      minlat: 50.84483
+      minlon: 3.75284
+      maxlat: 50.90502
+      maxlon: 3.84193
 ---
 
 ## Let's Go ! 

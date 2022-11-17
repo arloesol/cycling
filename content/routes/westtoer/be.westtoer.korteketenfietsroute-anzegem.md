@@ -1,26 +1,46 @@
 ---
-title: "Fietsen langs de Korte Keten - Anzegem"
-subtitle: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de gemeente Anzegem met behulp van dit voor jou uitgestippeld fietslusje"
 date: "2022-11-09"
-description: "Welkom op het lekkerste fietsnetwerk
-
-Verken de lekkerste korteketenadresjes in en rond de gemeente Anzegem met behulp van dit voor jou uitgestippeld fietslusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/korteketenfietsroute-anzegem"
-gpx: "westtoer/korteketenfietsroute-anzegem.gpx"
-length: 39
-tags:
- - "flanders"
- - "short"
+title: Fietsen langs de Korte Keten - Anzegem
+subtitle: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de gemeente Anzegem met behulp van dit voor jou uitgestippeld fietslusje
+description: |-
+    Welkom op het lekkerste fietsnetwerk
+    Verken de lekkerste korteketenadresjes in en rond de gemeente Anzegem met behulp van dit voor jou uitgestippeld fietslusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "6,13,18,15,12,97,17,57,11,10,81,89,28,8,20,25,96,14,94,27,36,6"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/korteketenfietsroute-anzegem
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 6,13,18,15,12,97,17,57,11,10,81,89,28,8,20,25,96,14,94,27,36,6
+      gpx: westtoer/korteketenfietsroute-anzegem.gpx
+      length: 39501
+      up: 253
+      down: 253
+      minheight: 12
+      maxheight: 83
+      minslope: -10.3
+      maxslope: 7.1
+      avgposslope: 0.6
+      avgnegslope: -0.7
+      slopehisto:
+        - 6298
+        - 1624
+        - 440
+        - 0
+        - 0
+      effortlevel: 1.764
+      minlat: 50.770626
+      minlon: 3.391501
+      maxlat: 50.859209
+      maxlon: 3.509484
 ---
 
 ## Let's Go ! 

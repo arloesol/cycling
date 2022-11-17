@@ -1,22 +1,42 @@
 ---
-title: "Lekker fietsen: Langs bossen en boerderijen"
-subtitle: "Kom op verkenning in de Kasteelbossen en sluit af met een bezoekje aan Kijkboerderij Pierlapont"
 date: "2022-11-09"
-description: "Kom op verkenning in de Kasteelbossen en sluit af met een bezoekje aan Kijkboerderij Pierlapont"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/lekker-fietsen-langs-bossen-en-boerderijen"
-gpx: "westtoer/lekker-fietsen-langs-bossen-en-boerderijen.gpx"
-length: 20
-tags:
- - "flanders"
- - "vshort"
+title: 'Lekker fietsen: Langs bossen en boerderijen'
+subtitle: Kom op verkenning in de Kasteelbossen en sluit af met een bezoekje aan Kijkboerderij Pierlapont
+description: Kom op verkenning in de Kasteelbossen en sluit af met een bezoekje aan Kijkboerderij Pierlapont
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "70,94,61,73,67,10,14,74,10,67,97,99,59,70"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/lekker-fietsen-langs-bossen-en-boerderijen
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 70,94,61,73,67,10,14,74,10,67,97,99,59,70
+      gpx: westtoer/lekker-fietsen-langs-bossen-en-boerderijen.gpx
+      length: 20554
+      up: 40
+      down: 40
+      minheight: 6
+      maxheight: 21
+      minslope: -4.5
+      maxslope: 2.5
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 1317
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.711
+      minlat: 51.127262
+      minlon: 3.155657
+      maxlat: 51.185618
+      maxlon: 3.198619
 ---
 
 ## Let's Go ! 

@@ -1,22 +1,42 @@
 ---
-title: "Met Jaek en Nink op avontuur langs de IJzer"
-subtitle: "Jaek en Nink nemen je mee op avontuur langs de IJzer"
 date: "2022-11-09"
-description: "Jaek en Nink nemen je mee op avontuur langs de IJzer"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/met-jaek-en-nink-op-avontuur-langs-de-ijzer"
-gpx: "westtoer/met-jaek-en-nink-op-avontuur-langs-de-ijzer.gpx"
-length: 47
-tags:
- - "flanders"
- - "short"
+title: Met Jaek en Nink op avontuur langs de IJzer
+subtitle: Jaek en Nink nemen je mee op avontuur langs de IJzer
+description: Jaek en Nink nemen je mee op avontuur langs de IJzer
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "67,82,64,73,61,70,10,46,95,55,36,30,37,77,7,28,57,69,1,75,74,82,88,85,5,39,38,35,89,57,7,67"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/met-jaek-en-nink-op-avontuur-langs-de-ijzer
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 67,82,64,73,61,70,10,46,95,55,36,30,37,77,7,28,57,69,1,75,74,82,88,85,5,39,38,35,89,57,7,67
+      gpx: westtoer/met-jaek-en-nink-op-avontuur-langs-de-ijzer.gpx
+      length: 47299
+      up: 122
+      down: 122
+      minheight: 0
+      maxheight: 12
+      minslope: -7.2
+      maxslope: 7.5
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 2497
+        - 109
+        - 0
+        - 83
+        - 0
+      effortlevel: 1.683
+      minlat: 51.033332
+      minlon: 2.726588
+      maxlat: 51.153049
+      maxlon: 2.901526
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Heren Nevele Fietsroute"
-subtitle: "Merendree pronkt met een indrukwekkende kastelengordel, met het kasteel Ten Walle, het kasteel van Melderen en kasteel Velde of het ‘roze kasteel’"
 date: "2022-11-09"
-description: "Merendree pronkt met een indrukwekkende kastelengordel, met het kasteel Ten Walle, het kasteel van Melderen en kasteel Velde of het ‘roze kasteel’"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/heren-nevele-fietsroute"
-gpx: "routen/heren-nevele-fietsroute.gpx"
-length: 54
-tags:
- - "flanders"
- - "short"
+title: Heren Nevele Fietsroute
+subtitle: Merendree pronkt met een indrukwekkende kastelengordel, met het kasteel Ten Walle, het kasteel van Melderen en kasteel Velde of het ‘roze kasteel’
+description: Merendree pronkt met een indrukwekkende kastelengordel, met het kasteel Ten Walle, het kasteel van Melderen en kasteel Velde of het ‘roze kasteel’
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/heren-nevele-fietsroute
+routes:
+    - name: Main
+      gpx: routen/heren-nevele-fietsroute.gpx
+      length: 53958
+      up: 147
+      down: 147
+      minheight: 3
+      maxheight: 15
+      minslope: -6.1
+      maxslope: 9.7
+      avgposslope: 0.6
+      avgnegslope: -0.7
+      slopehisto:
+        - 7565
+        - 453
+        - 58
+        - 0
+        - 65
+      effortlevel: 2.051
+      minlat: 51.02118
+      minlon: 3.51137
+      maxlat: 51.10042
+      maxlon: 3.63947
 ---
 
 ## Let's Go ! 

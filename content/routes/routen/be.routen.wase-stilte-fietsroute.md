@@ -1,19 +1,39 @@
 ---
-title: "Wase Stilte Fietsroute"
-subtitle: "Op deze route leiden de rivieren Moervaart en Zuidlede je naar de mooiste natuurgebieden van het Waasland, zoals de Fondatie van Boudelo, de Linie en het Heidebos"
 date: "2022-11-09"
-description: "Op deze route leiden de rivieren Moervaart en Zuidlede je naar de mooiste natuurgebieden van het Waasland, zoals de Fondatie van Boudelo, de Linie en het Heidebos"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/wase-stilte-fietsroute"
-gpx: "routen/wase-stilte-fietsroute.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: Wase Stilte Fietsroute
+subtitle: Op deze route leiden de rivieren Moervaart en Zuidlede je naar de mooiste natuurgebieden van het Waasland, zoals de Fondatie van Boudelo, de Linie en het Heidebos
+description: Op deze route leiden de rivieren Moervaart en Zuidlede je naar de mooiste natuurgebieden van het Waasland, zoals de Fondatie van Boudelo, de Linie en het Heidebos
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/wase-stilte-fietsroute
+routes:
+    - name: Main
+      gpx: routen/wase-stilte-fietsroute.gpx
+      length: 46835
+      up: 157
+      down: 157
+      minheight: -0
+      maxheight: 24
+      minslope: -9.1
+      maxslope: 22.1
+      avgposslope: 1.4
+      avgnegslope: -1.1
+      slopehisto:
+        - 5085
+        - 660
+        - 213
+        - 0
+        - 132
+      effortlevel: 1.851
+      minlat: 51.13666
+      minlon: 3.81233
+      maxlat: 51.18897
+      maxlon: 4.00932
 ---
 
 ## Let's Go ! 

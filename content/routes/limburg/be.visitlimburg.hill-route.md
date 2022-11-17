@@ -1,19 +1,39 @@
 ---
-title: "Hill Route"
-subtitle: "Starting in the Hageland, this route takes you along the most beautiful places in the south of Limburg"
 date: "2022-11-09"
-description: "Starting in the Hageland, this route takes you along the most beautiful places in the south of Limburg"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/hill-route"
-gpx: "limburg/hill-route.gpx"
-length: 100
-tags:
- - "flanders"
- - "long"
+title: Hill Route
+subtitle: Starting in the Hageland, this route takes you along the most beautiful places in the south of Limburg
+description: Starting in the Hageland, this route takes you along the most beautiful places in the south of Limburg
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/hill-route
+routes:
+    - name: Main
+      gpx: limburg/hill-route.gpx
+      length: 97139
+      up: 1057
+      down: 937
+      minheight: 45
+      maxheight: 293
+      minslope: -13.1
+      maxslope: 17.3
+      avgposslope: 2.8
+      avgnegslope: -2.5
+      slopehisto:
+        - 22538
+        - 6252
+        - 1870
+        - 1741
+        - 769
+      effortlevel: 5.837
+      minlat: 50.72295
+      minlon: 5.12842
+      maxlat: 50.81727
+      maxlon: 5.88662
 ---
 
 ## Let's Go ! 

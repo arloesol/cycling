@@ -1,22 +1,42 @@
 ---
-title: "De Waregemse Gordel"
-subtitle: "Tijdens deze fietstocht verken je de regio rond Dentergem, Waregem en Wielsbeke"
 date: "2022-11-09"
-description: "Tijdens deze fietstocht verken je de regio rond Dentergem, Waregem en Wielsbeke"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/de-waregemse-gordel"
-gpx: "westtoer/de-waregemse-gordel.gpx"
-length: 46
-tags:
- - "flanders"
- - "short"
+title: De Waregemse Gordel
+subtitle: Tijdens deze fietstocht verken je de regio rond Dentergem, Waregem en Wielsbeke
+description: Tijdens deze fietstocht verken je de regio rond Dentergem, Waregem en Wielsbeke
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "18,8,58,76,16,71,59,54,84,62,82,72,94,27,36,6,35,34,4,21,24,89,88,98,97,87,22,18"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/de-waregemse-gordel
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 18,8,58,76,16,71,59,54,84,62,82,72,94,27,36,6,35,34,4,21,24,89,88,98,97,87,22,18
+      gpx: westtoer/de-waregemse-gordel.gpx
+      length: 44653
+      up: 98
+      down: 98
+      minheight: 8
+      maxheight: 57
+      minslope: -7.1
+      maxslope: 5.9
+      avgposslope: 1.2
+      avgnegslope: -1.1
+      slopehisto:
+        - 3252
+        - 195
+        - 60
+        - 0
+        - 0
+      effortlevel: 1.63
+      minlat: 50.85012
+      minlon: 3.342454
+      maxlat: 50.936525
+      maxlon: 3.478407
 ---
 
 ## Let's Go ! 

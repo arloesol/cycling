@@ -1,19 +1,39 @@
 ---
-title: "The ultimate two-day cycling experiences tour (south loop)"
-subtitle: "This route starts at 'Cycling through Water' in Bokrijk at junction 91 where you cycle straight through a pond"
 date: "2022-11-09"
-description: "This route starts at 'Cycling through Water' in Bokrijk at junction 91 where you cycle straight through a pond"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/ultimate-two-day-cycling-experiences-tour-south-loop"
-gpx: "limburg/ultimate-two-day-cycling-experiences-tour-south-loop.gpx"
-length: 59
-tags:
- - "flanders"
- - "short"
+title: The ultimate two-day cycling experiences tour (south loop)
+subtitle: This route starts at 'Cycling through Water' in Bokrijk at junction 91 where you cycle straight through a pond
+description: This route starts at 'Cycling through Water' in Bokrijk at junction 91 where you cycle straight through a pond
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/ultimate-two-day-cycling-experiences-tour-south-loop
+routes:
+    - name: Main
+      gpx: limburg/ultimate-two-day-cycling-experiences-tour-south-loop.gpx
+      length: 59240
+      up: 472
+      down: 472
+      minheight: 25
+      maxheight: 101
+      minslope: -23.7
+      maxslope: 16.7
+      avgposslope: 2.3
+      avgnegslope: -2.3
+      slopehisto:
+        - 9920
+        - 1855
+        - 909
+        - 1180
+        - 580
+      effortlevel: 3.229
+      minlat: 50.95083
+      minlon: 5.27528
+      maxlat: 51.04683
+      maxlon: 5.47261
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Bergeend Fietsroute"
-subtitle: "De jaagpaden langs de Schelde zijn hét ideale parcours voor een uitstapje, te voet of met de fiets"
 date: "2022-11-09"
-description: "De jaagpaden langs de Schelde zijn hét ideale parcours voor een uitstapje, te voet of met de fiets"
-region: "flanders"
-source: "be.routen"
-ext_url: "https://www.routen.be/bergeend-fietsroute"
-gpx: "routen/bergeend-fietsroute.gpx"
-length: 56
-tags:
- - "flanders"
- - "short"
+title: Bergeend Fietsroute
+subtitle: De jaagpaden langs de Schelde zijn hét ideale parcours voor een uitstapje, te voet of met de fiets
+description: De jaagpaden langs de Schelde zijn hét ideale parcours voor een uitstapje, te voet of met de fiets
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.routen
+ext_url: https://www.routen.be/bergeend-fietsroute
+routes:
+    - name: Main
+      gpx: routen/bergeend-fietsroute.gpx
+      length: 57407
+      up: 154
+      down: 154
+      minheight: 2
+      maxheight: 20
+      minslope: -9.7
+      maxslope: 9.2
+      avgposslope: 0.8
+      avgnegslope: -0.7
+      slopehisto:
+        - 6369
+        - 589
+        - 239
+        - 60
+        - 0
+      effortlevel: 2.199
+      minlat: 50.9934
+      minlon: 3.69507
+      maxlat: 51.05393
+      maxlon: 3.89977
 ---
 
 ## Let's Go ! 

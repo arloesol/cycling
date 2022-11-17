@@ -1,23 +1,43 @@
 ---
-title: "Vive le Vélo fietsroute - Paars"
-subtitle: "Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)"
 date: "2022-11-09"
-description: "Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/vivelevelo-paars"
-gpx: "westtoer/vivelevelo-paars.gpx"
-length: 171
-tags:
- - "flanders"
- - "vlong"
+title: Vive le Vélo fietsroute - Paars
+subtitle: Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)
+description: Fietsen in combinatie met toeristische tips en wielerweetjes is wat jullie mogen verwachten van deze (en de andere) Vive le Vélo fietsroute(s)
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "75,1,59,92,61,68,10,13,47,85,89,65,35,29,36,84,81,80,18,72,42,85,55,40,38,93,89,69,66,17,98,48,53,49,50,52,30,92,62,7,9,6,57,99,98,93,84,4,55,97,96,11,71,87,88,24,28,40,46,42,67,68,98,92,70,71,73,91,95,89,58,50,96,49,74,75"
- - "75,1,59,92,61,68,10,13,47,85,89,65,35,29,36,84,81,80,18,72,42,85,55,40,38,93,89,69,66,17,98,48,53,49,50,52,30,92,62,7,9,6,57,99,98,93,84,4,55,97,96,11,71,87,88,24,28,40,46,42,67,68,98,92,70,69,72,61,60,59,55,30,65,44,67,43,63,97,27,26,25,22,36,34,85,12,10,83,9,68,75,4,14,72,15,16,32,33,93,70,40,78,47,54,51,71,96,49,74,75"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/vivelevelo-paars
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 75,1,59,92,61,68,10,13,47,85,89,65,35,29,36,84,81,80,18,72,42,85,55,40,38,93,89,69,66,17,98,48,53,49,50,52,30,92,62,7,9,6,57,99,98,93,84,4,55,97,96,11,71,87,88,24,28,40,46,42,67,68,98,92,70,71,73,91,95,89,58,50,96,49,74,75
+        - 75,1,59,92,61,68,10,13,47,85,89,65,35,29,36,84,81,80,18,72,42,85,55,40,38,93,89,69,66,17,98,48,53,49,50,52,30,92,62,7,9,6,57,99,98,93,84,4,55,97,96,11,71,87,88,24,28,40,46,42,67,68,98,92,70,69,72,61,60,59,55,30,65,44,67,43,63,97,27,26,25,22,36,34,85,12,10,83,9,68,75,4,14,72,15,16,32,33,93,70,40,78,47,54,51,71,96,49,74,75
+      gpx: westtoer/vivelevelo-paars.gpx
+      length: 170380
+      up: 1093
+      down: 1093
+      minheight: -0
+      maxheight: 119
+      minslope: -12.5
+      maxslope: 13.6
+      avgposslope: 0.7
+      avgnegslope: -0.7
+      slopehisto:
+        - 25998
+        - 4387
+        - 830
+        - 123
+        - 275
+      effortlevel: 7.26
+      minlat: 50.755814
+      minlon: 2.580134
+      maxlat: 51.073053
+      maxlon: 3.017911
 ---
 
 ## Let's Go ! 

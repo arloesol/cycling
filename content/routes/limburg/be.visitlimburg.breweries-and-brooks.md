@@ -1,19 +1,39 @@
 ---
-title: "Breweries and brooks"
-subtitle: "A flat route in the north of Limburg"
 date: "2022-11-09"
-description: "A flat route in the north of Limburg"
-region: "flanders"
-source: "be.visitlimburg"
-ext_url: "https://www.visitlimburg.be/en/route/breweries-and-brooks"
-gpx: "limburg/breweries-and-brooks.gpx"
-length: 41
-tags:
- - "flanders"
- - "short"
+title: Breweries and brooks
+subtitle: A flat route in the north of Limburg
+description: A flat route in the north of Limburg
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.visitlimburg
+ext_url: https://www.visitlimburg.be/en/route/breweries-and-brooks
+routes:
+    - name: Main
+      gpx: limburg/breweries-and-brooks.gpx
+      length: 41335
+      up: 221
+      down: 221
+      minheight: 39
+      maxheight: 82
+      minslope: -22.6
+      maxslope: 20.3
+      avgposslope: 1.2
+      avgnegslope: -1.4
+      slopehisto:
+        - 5518
+        - 697
+        - 851
+        - 163
+        - 311
+      effortlevel: 1.897
+      minlat: 51.10315
+      minlon: 5.5038
+      maxlat: 51.17837
+      maxlon: 5.65004
 ---
 
 ## Let's Go ! 

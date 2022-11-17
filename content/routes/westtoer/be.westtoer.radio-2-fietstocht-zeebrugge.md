@@ -1,22 +1,42 @@
 ---
-title: "Radio 2-fietstocht in Zeebrugge"
-subtitle: "Trap langs de fietslus van Radio 2 op het Fietsnetwerk aan de Kust"
 date: "2022-11-09"
-description: "Trap langs de fietslus van Radio 2 op het Fietsnetwerk aan de Kust"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/radio-2-fietstocht-zeebrugge"
-gpx: "westtoer/radio-2-fietstocht-zeebrugge.gpx"
-length: 15
-tags:
- - "flanders"
- - "vshort"
+title: Radio 2-fietstocht in Zeebrugge
+subtitle: Trap langs de fietslus van Radio 2 op het Fietsnetwerk aan de Kust
+description: Trap langs de fietslus van Radio 2 op het Fietsnetwerk aan de Kust
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "33,76,26,84,88,40,96,30,33"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/radio-2-fietstocht-zeebrugge
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 33,76,26,84,88,40,96,30,33
+      gpx: westtoer/radio-2-fietstocht-zeebrugge.gpx
+      length: 15553
+      up: 10
+      down: 10
+      minheight: 3
+      maxheight: 11
+      minslope: -3.2
+      maxslope: 3
+      avgposslope: 0.6
+      avgnegslope: -0.5
+      slopehisto:
+        - 443
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 0.531
+      minlat: 51.287267
+      minlon: 3.135241
+      maxlat: 51.322609
+      maxlon: 3.195407
 ---
 
 ## Let's Go ! 

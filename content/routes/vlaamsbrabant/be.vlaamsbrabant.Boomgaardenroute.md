@@ -1,22 +1,42 @@
 ---
-title: "Boomgaardenroute"
-subtitle: "Een Hagelandse ontdekkingstocht over heuvels, een uitkijktrap, wijnhellingen en vooral langs veel fruitboomgaarden"
 date: "2022-11-09"
-description: "Een Hagelandse ontdekkingstocht over heuvels, een uitkijktrap, wijnhellingen en vooral langs veel fruitboomgaarden. Dit is de geboortestreek van Eddy Merckx die hier als peuter op zijn driewielertje de hellingen bedwong. De 4 bloesemkunstwerken vertellen het fascinerende verhaal achter de fruitteelt."
-region: "flanders"
-source: "be.vlaamsbrabant"
-ext_url: "https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/boomgaardenroute/index.html"
-gpx: "vlaamsbrabant/Boomgaardenroute.gpx"
-length: 28
-tags:
- - "flanders"
- - "vshort"
+title: Boomgaardenroute
+subtitle: Een Hagelandse ontdekkingstocht over heuvels, een uitkijktrap, wijnhellingen en vooral langs veel fruitboomgaarden
+description: Een Hagelandse ontdekkingstocht over heuvels, een uitkijktrap, wijnhellingen en vooral langs veel fruitboomgaarden. Dit is de geboortestreek van Eddy Merckx die hier als peuter op zijn driewielertje de hellingen bedwong. De 4 bloesemkunstwerken vertellen het fascinerende verhaal achter de fruitteelt.
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "78,71,32,31,18,23,77,76,28,27,95,47,79,78"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.vlaamsbrabant
+ext_url: https://www.toerismevlaamsbrabant.be/producten/fietsen/fietsproducten/boomgaardenroute/index.html
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 78,71,32,31,18,23,77,76,28,27,95,47,79,78
+      gpx: vlaamsbrabant/Boomgaardenroute.gpx
+      length: 27529
+      up: 255
+      down: 255
+      minheight: 45
+      maxheight: 87
+      minslope: -10
+      maxslope: 7.9
+      avgposslope: 2.4
+      avgnegslope: -2.2
+      slopehisto:
+        - 7430
+        - 1225
+        - 745
+        - 104
+        - 0
+      effortlevel: 1.487
+      minlat: 50.86704
+      minlon: 4.88387
+      maxlat: 50.92827
+      maxlon: 4.96357
 ---
 
 ## Let's Go ! 

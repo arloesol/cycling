@@ -1,22 +1,42 @@
 ---
-title: "Fietsen in de buurt van Lichtervelde"
-subtitle: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Lichtervelde via de knooppunten van dit voor jou uitgestippelde lusje"
 date: "2022-11-09"
-description: "Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Lichtervelde via de knooppunten van dit voor jou uitgestippelde lusje"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/doen/fietsen-de-buurt-van-lichtervelde"
-gpx: "westtoer/fietsen-de-buurt-van-lichtervelde.gpx"
-length: 36
-tags:
- - "flanders"
- - "short"
+title: Fietsen in de buurt van Lichtervelde
+subtitle: Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Lichtervelde via de knooppunten van dit voor jou uitgestippelde lusje
+description: Welkom op het Fietsnetwerk West-Vlaanderen! Verken de wijde omgeving van Lichtervelde via de knooppunten van dit voor jou uitgestippelde lusje
 categories:
- - "official"
- - "route"
-nodetype: "flanders"
-nodes:
- - "15,14,5,80,4,71,85,75,13,74,70,81,8,12,89,15"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/doen/fietsen-de-buurt-van-lichtervelde
+routes:
+    - name: Main
+      nodetype: flanders
+      nodes:
+        - 15,14,5,80,4,71,85,75,13,74,70,81,8,12,89,15
+      gpx: westtoer/fietsen-de-buurt-van-lichtervelde.gpx
+      length: 36457
+      up: 75
+      down: 75
+      minheight: 13
+      maxheight: 47
+      minslope: -3.9
+      maxslope: 3.1
+      avgposslope: 3.9
+      avgnegslope: -2
+      slopehisto:
+        - 1539
+        - 0
+        - 0
+        - 0
+        - 0
+      effortlevel: 1.284
+      minlat: 51.025211
+      minlon: 3.019033
+      maxlat: 51.107358
+      maxlon: 3.174798
 ---
 
 ## Let's Go ! 

@@ -1,19 +1,39 @@
 ---
-title: "Kustroute"
-subtitle: "De Kustroute laat je fietsen naast het strand met zicht op zee, door unieke duinen en duinbossen, of langs polders en uitgestrekte slikken en schorren"
 date: "2022-11-09"
-description: "De Kustroute laat je fietsen naast het strand met zicht op zee, door unieke duinen en duinbossen, of langs polders en uitgestrekte slikken en schorren"
-region: "flanders"
-source: "be.westtoer"
-ext_url: "https://www.westtoer.be/nl/kustroute"
-gpx: "westtoer/kustroute.gpx"
-length: 85
-tags:
- - "flanders"
- - "medium"
+title: Kustroute
+subtitle: De Kustroute laat je fietsen naast het strand met zicht op zee, door unieke duinen en duinbossen, of langs polders en uitgestrekte slikken en schorren
+description: De Kustroute laat je fietsen naast het strand met zicht op zee, door unieke duinen en duinbossen, of langs polders en uitgestrekte slikken en schorren
 categories:
- - "official"
- - "route"
+    - official
+    - route
+tags:
+    - flanders
+region: flanders
+website: be.westtoer
+ext_url: https://www.westtoer.be/nl/kustroute
+routes:
+    - name: Main
+      gpx: westtoer/kustroute.gpx
+      length: 170165
+      up: 463
+      down: 463
+      minheight: 0
+      maxheight: 26
+      minslope: -12.5
+      maxslope: 12.7
+      avgposslope: 0.3
+      avgnegslope: -0.3
+      slopehisto:
+        - 6106
+        - 925
+        - 362
+        - 135
+        - 180
+      effortlevel: 6.081
+      minlat: 51.070361
+      minlon: 2.555469
+      maxlat: 51.36082
+      maxlon: 3.37556
 ---
 
 ## Let's Go ! 
