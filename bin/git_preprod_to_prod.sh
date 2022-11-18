@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# NO checks !!! - should really check if local and remote are synched first !
 
 # Accepts a version string and prints it incremented by one.
 # Usage: increment_version <version> [<position>] [<leftmost>]
@@ -81,33 +80,65 @@ increment_version() {
 # increment_version -t 1.2.9 2 4  # 1.3
 # increment_version 1.2.9 last 4  # 1.2.9.1
 
-
+printf "making sure no open pull requests exist\n"
 prlist=$(gh pr list --json number,body)
 if [ "$prlist" != "[]" ]; then
-  printf "ERROR - there are open pull requests - close them first\n\n"
+  printf "ERROR - there are open pull requests - close them first\n"
   gh pr list
   exit 1
 fi
 
-preprodv=$(git tag -l --points-at preprod | grep -E '^([^.]*\.[^.]*){2}$') 
-printf "current preprodv: $preprodv\n"
-prodv=$(git tag -l --points-at preprod | grep -E '^([^.]*\.[^.]*){1}$') 
-# if preprod also has a prod version - use that one to calculate next preprod version 
-# as preprod and prod are aligned at that moment and we need bump the second v number 
-if [ "$prodv" != "" ]; then
-  printf "preprod and prod are aligned - $preprodv = $prodv -> bumping version number for preprod\n"
-  preprodv="$prodv"
+# check local and origin/remote latest commits on main/preprod and prod are the same
+printf "making sure local and remote branches are aligned ..."
+orimain=$(git ls-remote --head --exit-code origin main | cut -f 1)
+oriprod=$(git ls-remote --head --exit-code origin prod | cut -f 1)
+oripreprod=$(git ls-remote --head --exit-code origin preprod | cut -f 1)
+main=$(git rev-parse main)
+prod=$(git rev-parse prod)
+preprod=$(git rev-parse preprod)
+if [ "$orimain" != "$main" ]; then
+  printf "\nmain branch not aligned with origin\n"
+  exit 2
 fi
-version="v$(increment_version -t ${preprodv:1} 3)"
-message="release $(date +"%Y-%m-%d %T")"
-printf "will tag this commit with $version and $message\n\n"
+if [ "$oripreprod" != "$preprod" ]; then
+  printf "\npreprod branch not aligned with origin\n"
+  exit 3
+fi
+if [ "$oriprod" != "$prod" ]; then
+  printf "\nprod branch not aligned with origin\n"
+  exit 4
+fi
+printf "looks OK\n"
 
-# ask user if all OK 
+# if preprod and prod are aligned -> cancel
+if [ "$prod" == "$preprod" ]; then
+  printf "\nPreprod commit is already in prod - nothing to do - cancelling\n"
+  # Todo: exit 0
+fi
+
+# show info on screen
+printf "\n\ncurrent latest commit on main branch\n"
+git log -n 1 main
+printf "\n\ncurrent latest commit on preprod branch\n"
+git log -n 1 preprod
+printf "\n\ncurrent latest commit on prod branch\n"
+git log -n 1 prod
+
+prodv=$(git tag -l --points-at prod | grep -E '^([^.]*\.[^.]*){1}$')
+preprodv=$(git tag -l --points-at preprod | grep -E '^([^.]*\.[^.]*){2}$') 
+printf "current preprodv: $preprodv, current prod version: $prodv\n\n"
+version="v$(increment_version -t ${prodv:1} 2)"
+message="release $(date +"%Y-%m-%d %T")"
+printf "\n\nScript will\n"
+printf "  - put preprod commit in prod\n"
+printf "  - and tag it with '$version' with messsage '$message'\n\n"
+
+# ask user if all seems OK 
 while true
 do
   read -p "OK (y/n)? " answer
   case $answer in
-   [yY]* ) printf "deploying in preprod ! ...\n"
+   [yY]* ) printf "deploying in prod ! ...\n"
            break;;
 
    [nN]* ) printf "Cancelling\n"
@@ -117,14 +148,10 @@ do
   esac
 done
 
-stash=$(git stash) || { printf "can't git stash\n"; exit 2; }
-git fetch || { printf "can't git fetch\n"; exit 3; }
-git checkout main || { printf "can't checkout main\n"; exit 4; }
-git pull origin main --ff-only || { printf "can't git pull main\n"; exit 5; }
-git branch -f preprod main || { printf "can't align preprod with main\n"; exit 6; }
-git push -f origin preprod || { printf "can't force push preprod to main repo\n"; exit 7; }
-git tag -a "$version" -m "$message" || { printf "can't tag this commit with $version\n"; exit 8; }
-git push origin "$version" || { printf "can't push tag $version to remote origin\n"; exit 9; }
-if [ "$stash" != "No local changes to save" ]; then 
-  echo "do a 'git stash pop' to get source back"
-fi
+printf "aligning prod with preprod locally\n"
+git branch -f prod preprod || { printf "can't align prod with preprod\n"; exit 5; }
+printf "pushing to remote origin\n"
+git push -f origin prod || { printf "can't force push prod to main repo\n"; exit 6; }
+printf "tagging this commit\n"
+git tag -a "$version" -m "$message"
+git push origin "$version"
