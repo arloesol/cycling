@@ -52,7 +52,7 @@
         {{- $categories := slice -}}
         {{- range .Params.categories -}}
           {{- $category := partialCached "function/path.html" . . | printf "/categories/%v" | $.Site.GetPage -}}
-          {{- $categories = $categories | append (printf `<a href="%v">%v %v</a>` $category.RelPermalink (dict "Class" "fa-regular fa-folder fa-fw" | partial "plugin/icon.html") $category.Title) -}}
+          {{- $categories = $categories | append (printf `<a href="%v">%v %v</a>` $category.RelPermalink (dict "Class" "fa-regular fa-folder fa-fw" "Title" "category" | partial "plugin/icon.html") $category.Title) -}}
         {{- end -}}
         {{- with delimit $categories "&ensp;" }}
           <span class="post-category">
@@ -69,21 +69,21 @@
         {{- end -}}
         {{- if $params.wordCount -}}        
           <span>
-            {{- dict "Class" "fa-solid fa-pencil-alt fa-fw" | partial "plugin/icon.html" }} {{ T "wordCount" .WordCount -}}
+            {{- dict "Class" "fa-solid fa-pencil-alt fa-fw" "Title" "word count" | partial "plugin/icon.html" }} {{ T "wordCount" .WordCount -}}
           </span>&nbsp;
         {{- end -}}        
         {{- /* NO_SPACING */ -}}
         <span>
-          {{- dict "Class" "fa-regular fa-clock fa-fw" | partial "plugin/icon.html" }} {{ T "readingTime" .ReadingTime -}}
+          {{- dict "Class" "fa-regular fa-clock fa-fw" "Title" "reading time" | partial "plugin/icon.html" }} {{ T "readingTime" .ReadingTime -}}
         </span>&nbsp;
 
         {{- /* Cycling Page info start */ -}}
         {{- with $params.website -}}
         {{- $srcurl := . | printf "%s/%s" "/websites" -}}
-        <span> <a href="{{ $srcurl }}"> {{- dict "Class" "fa-solid fa-circle-info" | partial "plugin/icon.html" -}} &thinsp; src </a> </span>&nbsp;&nbsp;
+        <span> <a href="{{ $srcurl }}"> {{- dict "Class" "fa-solid fa-circle-info" "Title" "website info" | partial "plugin/icon.html" -}} &thinsp; src </a> </span>&nbsp;&nbsp;
         {{- end -}}        
         {{- with $params.ext_url -}}
-          <span> <a href="{{ . }}"> {{- dict "Class" "fa-solid fa-book" | partial "plugin/icon.html" -}} &thinsp; ext </a> </span>&nbsp;
+          <span> <a href="{{ . }}"> {{- dict "Class" "fa-solid fa-book" "Title" "original webpage" | partial "plugin/icon.html" -}} &thinsp; ext </a> </span>&nbsp;
         {{- end -}}
         {{- /* Cycling Page info end */ -}}
       
@@ -153,15 +153,15 @@
         {{- range $params.routes -}}
         <div class="post-meta-line">
           <span> <b>{{ .name }}:</b> </span>
-          <span> {{- dict "Class" "fa-solid fa-route" | partial "plugin/icon.html" }} {{ div .length 1000 -}} km </span>&nbsp;
+          <span> {{- dict "Class" "fa-solid fa-route" "Title" "length" | partial "plugin/icon.html" }} {{ div .length 1000 -}} km </span>&nbsp;
           {{- $gpxurl := .gpx | printf "%s/%s" "/gpxfiles" -}}
-          <span> <a href="{{ $gpxurl }}" download="{{ .gpx }}"> {{- dict "Class" "fa-solid fa-download" | partial "plugin/icon.html" -}} gpx</a> </span>&nbsp;
-          <span> {{- dict "Class" "fa-solid fa-bicycle" | partial "plugin/icon.html" }} {{ .effortlevel | lang.FormatNumber 1 -}} </span>&nbsp;
+          <span> <a href="{{ $gpxurl }}" download="{{ .gpx }}"> {{- dict "Class" "fa-solid fa-download" "Title" "download gpx file" | partial "plugin/icon.html" -}} gpx</a> </span>&nbsp;
+          <span> {{- dict "Class" "fa-solid fa-bicycle" "Title" "effort level" | partial "plugin/icon.html" }} {{ .effortlevel | lang.FormatNumber 1 -}} </span>&nbsp;
           {{- if lt .minheight 1000000 -}}
-          <span> {{- dict "Class" "fa-solid fa-arrow-up" | partial "plugin/icon.html" }} {{ .up -}} </span>&nbsp;
-          <span> {{- dict "Class" "fa-solid fa-arrow-down" | partial "plugin/icon.html" }} {{ .down -}} </span>&nbsp;
-          <span> {{- dict "Class" "fa-solid fa-angle-double-up" | partial "plugin/icon.html" }} {{ .maxslope | lang.FormatNumber 1 -}} </span>&nbsp;
-          <span> {{- dict "Class" "fa-solid fa-angle-double-down" | partial "plugin/icon.html" }} {{ .minslope | lang.FormatNumber 1 -}} </span>
+          <span> {{- dict "Class" "fa-solid fa-arrow-up" "Title" "up" | partial "plugin/icon.html" }} {{ .up -}} </span>&nbsp;
+          <span> {{- dict "Class" "fa-solid fa-arrow-down" "Title" "down" | partial "plugin/icon.html" }} {{ .down -}} </span>&nbsp;
+          <span> {{- dict "Class" "fa-solid fa-angle-double-up" "Title" "max slope" | partial "plugin/icon.html" }} {{ .maxslope | lang.FormatNumber 1 -}} </span>&nbsp;
+          <span> {{- dict "Class" "fa-solid fa-angle-double-down" "Title" "min slope" | partial "plugin/icon.html" }} {{ .minslope | lang.FormatNumber 1 -}} </span>
           {{- end -}}
         </div>
         {{- end -}}

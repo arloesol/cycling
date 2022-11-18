@@ -1,2 +1,3 @@
 {{- $class := cond .IsNamedParams (.Get "class") (.Get 0) | default "fa-solid fa-route" -}}
-<i class="{{ $class }}" aria-hidden="true"></i>
+{{- $title := cond .IsNamedParams (.Get "title") (.Get 1) | default "" -}}
+<i title="{{ $title }}" class="{{ $class }}" aria-hidden="true"></i>

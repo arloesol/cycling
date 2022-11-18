@@ -40,7 +40,7 @@ The start of the route page contains a title and subtitle followed by some page 
 
 example:
 
-included in {{% icon class="fa-regular fa-calendar-alt fa-fw" %}} category1 {{% icon class="fa-regular fa-calendar-alt fa-fw" %}} category2
+included in {{% icon class="fa-regular fa-folder fa-fw" %}} category1 {{% icon class="fa-regular fa-folder fa-fw" %}} category2
 
 {{% icon class="fa-regular fa-calendar-alt fa-fw" %}} 2022-11-18 {{% icon class="fa-solid fa-pencil-alt fa-fw" %}} 82 words {{% icon class="fa-regular fa-clock fa-fw" %}} One minute {{% icon class="fa-solid fa-circle-info" %}} src {{% icon class="fa-solid fa-book" %}} ext
 
