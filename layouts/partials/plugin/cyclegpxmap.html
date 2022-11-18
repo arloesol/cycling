@@ -1,5 +1,4 @@
 {{- /* create an cyclosm openstreetmap cycling map and show the gpx route in red on map zoomed */ -}}
-
 <!-- leaflet-ui -->
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <!-- <script src="https://unpkg.com/leaflet-ui@0.5.9/dist/leaflet-ui.js"></script> -->
@@ -13,6 +12,7 @@
 <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
 <script src="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.js"></script>
 
+<div class="post-meta">
 {{ range .Routes }}
 <div class="post-meta-line" onclick="getGPX('{{ .gpx }}')">
   <span> <b> {{ .name }}: </b></span>
@@ -38,6 +38,7 @@
   {{ end }}
 </div>
 {{ end }}
+</div>
 <br>
 
 <div style="height: 50vh;" id="map"></div>

@@ -56,28 +56,6 @@ theme = "FixIt"
     weight = 3
     [menu.main.params]
       icon = "fa-solid fa-route"
-    
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
-    weight = 4
-    [menu.main.params]
-      icon = "fa-solid fa-th"
-      
-  [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-    weight = 5
-    [menu.main.params]
-      icon = "fa-solid fa-tags"
 
 [params]
   # FixIt theme version
@@ -98,6 +76,8 @@ theme = "FixIt"
   [params.home]
      [params.home.profile]
        enable = false
+     [params.home.posts]
+       enable = true
 
   [params.footer]
     enable = false
@@ -124,11 +104,22 @@ theme = "FixIt"
       Whatsapp = true
       Weibo = false
 
-    # [params.page.comment]
-    #   [params.page.comment.disqus]
-    #     enable = true
-    #     # Disqus shortname to use Disqus in posts 
-    #     shortname = ""
+      [params.page.comment]
+      enable = true
+        [params.page.comment.giscus]
+        enable = true
+        repo = "arloesol/cycling"
+        repoId = "R_kgDOIXhilw"
+        category = "General"
+        categoryId = "DIC_kwDOIXhil84CSXbL"
+        mapping = "pathname"
+        term = ""
+        reactionsEnabled = "1"
+        emitMetadata = "0"
+        inputPosition = "bottom" # top, bottom
+        lightTheme = "light"
+        darkTheme = "dark"
+        lazyLoad = true
 
   [params.githubCorner]
     enable = true
