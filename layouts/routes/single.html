@@ -147,13 +147,12 @@
             </span>&nbsp;
           {{- end -}}
         {{- end -}}
-        </div>
-      </div>
+        </div> 
 
-      {{- /* Cycling route info BEGIN */ -}}
+        {{- /* Cycling route info BEGIN */ -}}
         {{- range $params.routes -}}
         <div class="post-meta-line">
-          <span> <b> {{ .name }}: </b></span>
+          <span> <b>{{ .name }}:</b> </span>
           <span> {{- dict "Class" "fa-solid fa-route" | partial "plugin/icon.html" }} {{ div .length 1000 -}} km </span>&nbsp;
           {{- $gpxurl := .gpx | printf "%s/%s" "/gpxfiles" -}}
           <span> <a href="{{ $gpxurl }}" download="{{ .gpx }}"> {{- dict "Class" "fa-solid fa-download" | partial "plugin/icon.html" -}} gpx</a> </span>&nbsp;
@@ -168,6 +167,7 @@
         {{- end -}}
       {{- /* Cycling route info END */ -}}
 
+      </div> {{- /* class post-meta */ -}}
 
       {{- /* Static TOC */ -}}
       {{- if (ne $toc.enable false) | and (ne $tocEmpty true) -}}

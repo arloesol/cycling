@@ -1,0 +1,2 @@
+{{- $class := cond .IsNamedParams (.Get "class") (.Get 0) | default "fa-solid fa-route" -}}
+<i class="{{ $class }}" aria-hidden="true"></i>
