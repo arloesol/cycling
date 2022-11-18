@@ -16,17 +16,17 @@
 {{ range .Routes }}
 <div class="post-meta-line" onclick="getGPX('{{ .gpx }}')">
   <span> <b> {{ .name }}: </b></span>
-  <span> {{- dict "Class" "fa-solid fa-route" | partial "plugin/icon.html" }} {{ div .length 1000 -}} km </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-route" "Title" "length" | partial "plugin/icon.html" }} {{ div .length 1000 -}} km </span>&nbsp;
   {{- $gpxurl := .gpx | printf "%s/%s" "/gpxfiles" -}}
-  <span> <a href="{{ $gpxurl }}" download="{{ .gpx }}"> {{- dict "Class" "fa-solid fa-download" | partial "plugin/icon.html" -}} gpx</a> </span>&nbsp;
-  <span> {{- dict "Class" "fa-solid fa-bicycle" | partial "plugin/icon.html" }} {{ .effortlevel | lang.FormatNumber 1 -}} </span>&nbsp;
+  <span> <a href="{{ $gpxurl }}" download="{{ .gpx }}"> {{- dict "Class" "fa-solid fa-download" "Title" "dowload gpx file" | partial "plugin/icon.html" -}} gpx</a> </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-bicycle" "Title" "effort level" | partial "plugin/icon.html" }} {{ .effortlevel | lang.FormatNumber 1 -}} </span>&nbsp;
   {{- if lt .minheight 1000000 -}}
-  <span> {{- dict "Class" "fa-solid fa-arrow-up" | partial "plugin/icon.html" }} {{ .up -}}m </span>&nbsp;
-  <span> {{- dict "Class" "fa-solid fa-arrow-down" | partial "plugin/icon.html" }} {{ .down -}}m </span>&nbsp;
-  <span> {{- dict "Class" "fa-solid fa-angle-double-up" | partial "plugin/icon.html" }} {{ .maxslope | lang.FormatNumber 1 -}}% </span>&nbsp;
-  <span> {{- dict "Class" "fa-solid fa-angle-double-down" | partial "plugin/icon.html" }} {{ .minslope | lang.FormatNumber 1 -}}% </span>
-  <span> {{- dict "Class" "fa-solid fa-mountain" | partial "plugin/icon.html" }} {{ .maxheight | lang.FormatNumber 0 -}}m </span>&nbsp;
-  <span> {{- dict "Class" "fa-solid fa-water" | partial "plugin/icon.html" }} {{ .minheight | lang.FormatNumber 0 -}}m </span>
+  <span> {{- dict "Class" "fa-solid fa-arrow-up" "Title" "up" | partial "plugin/icon.html" }} {{ .up -}}m </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-arrow-down" "Title" "down" | partial "plugin/icon.html" }} {{ .down -}}m </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-angle-double-up" "Title" "max slope" | partial "plugin/icon.html" }} {{ .maxslope | lang.FormatNumber 1 -}}% </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-angle-double-down" "Title" "min slope" | partial "plugin/icon.html" }} {{ .minslope | lang.FormatNumber 1 -}}% </span>
+  <span> {{- dict "Class" "fa-solid fa-mountain" "Title" "max height" | partial "plugin/icon.html" }} {{ .maxheight | lang.FormatNumber 0 -}}m </span>&nbsp;
+  <span> {{- dict "Class" "fa-solid fa-water" "Title" "min height" | partial "plugin/icon.html" }} {{ .minheight | lang.FormatNumber 0 -}}m </span>
 </div>
 <div class="post-meta-line" onclick="getGPX('{{ .gpx }}')">
   <span> &nbsp; slopes: </b></span>

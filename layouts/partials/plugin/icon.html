@@ -1,0 +1,17 @@
+{{- if .Class -}}
+  {{- if .Title }}
+  <i class="{{ .Class }}" title="{{ .Title }}" aria-hidden="true"></i>
+  {{- else -}}
+  <i class="{{ .Class }}" aria-hidden="true"></i>
+  {{- end -}}
+{{- else -}}
+  {{- $src := .Src -}}
+  {{- with .Simpleicons -}}
+    {{- $prefix := $.Prefix | default "lib/simple-icons/icons" | strings.TrimSuffix "/" -}}
+    {{- $src = printf "%v/%v.svg" $prefix . -}}
+  {{- end -}}
+  {{- if (urls.Parse $src).Host | not -}}
+    {{- $src = (resources.Get $src | minify).RelPermalink -}}
+  {{- end -}}
+  <i data-svg-src="{{ $src }}" aria-hidden="true"></i>
+{{- end -}}
