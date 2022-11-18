@@ -67,15 +67,17 @@
             {{- printf `<time datetime="%v">%v</time>` . . | safeHTML -}}
           </span>&nbsp;
         {{- end -}}
-        <span>
-          {{- dict "Class" "fa-solid fa-pencil-alt fa-fw" | partial "plugin/icon.html" }} {{ T "wordCount" .WordCount -}}
-        </span>&nbsp;
+        {{- if $params.wordCount -}}        
+          <span>
+            {{- dict "Class" "fa-solid fa-pencil-alt fa-fw" | partial "plugin/icon.html" }} {{ T "wordCount" .WordCount -}}
+          </span>&nbsp;
+        {{- end -}}        
         {{- /* NO_SPACING */ -}}
         <span>
           {{- dict "Class" "fa-regular fa-clock fa-fw" | partial "plugin/icon.html" }} {{ T "readingTime" .ReadingTime -}}
         </span>&nbsp;
 
-        {{- /* Cycling Page info start*/ -}}
+        {{- /* Cycling Page info start */ -}}
         {{- with $params.website -}}
         {{- $srcurl := . | printf "%s/%s" "/websites" -}}
         <span> <a href="{{ $srcurl }}"> {{- dict "Class" "fa-solid fa-circle-info" | partial "plugin/icon.html" -}} &thinsp; src </a> </span>&nbsp;&nbsp;
@@ -145,8 +147,9 @@
             </span>&nbsp;
           {{- end -}}
         {{- end -}}
+        </div>
       </div>
-      
+
       {{- /* Cycling route info BEGIN */ -}}
         {{- range $params.routes -}}
         <div class="post-meta-line">
