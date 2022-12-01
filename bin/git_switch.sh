@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 cd $GITDIR
 # show available local branches and let user select
 PS3="Enter a number: "

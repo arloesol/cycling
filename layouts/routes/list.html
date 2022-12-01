@@ -1,0 +1,42 @@
+{{- define "title" -}}
+  Routes
+{{- end -}}
+
+{{- define "content" -}}
+  <div class="page archive">
+    {{- /* Title */ -}}
+    <h2 class="single-title animate__animated animate__pulse animate__faster">
+      {{- $taxonomy := .Data.Singular -}}
+      {{- $pageCount := len .Pages -}}
+      {{ dict "Class" "fa-solid fa-route" | partial "plugin/icon.html" }}
+      {{ .Title }}&nbsp;<sup>{{- $pageCount -}}</sup>
+    </h2>
+
+    {{- /* Paginate */ -}}
+    {{- if .Pages -}}
+      {{- $pages := .Pages.GroupByParam "Website" -}}
+      {{- with .Site.Params.list.paginate | default .Site.Params.paginate -}}
+        {{- $pages = $.Paginate $pages . -}}
+      {{- else -}}
+        {{- $pages = .Paginate $pages -}}
+      {{- end -}}
+      {{- range $pages.PageGroups -}}
+        <h3 class="group-title">{{ .Key }}</h3>
+        {{- $sortedpages := sort .Pages ".Params.routes.length" -}}
+        {{- range $sortedpages -}}
+          <article class="archive-item">
+            {{- $route := index .Params.routes 0 -}}
+            <a href="{{ .RelPermalink }}" class="archive-item-link">
+              <div class="post-meta-line">
+                <span> {{- dict "Class" "fa-solid fa-route" "Title" "length" | partial "plugin/icon.html" }} {{ div $route.length 1000 -}} km </span>&nbsp;
+                <span> {{- dict "Class" "fa-solid fa-bicycle" "Title" "effort level" | partial "plugin/icon.html" }} {{ $route.effortlevel | lang.FormatNumber 1 -}} </span>&nbsp;
+                <span>{{- .Title -}}</span>
+              </div>
+            </a>
+          </article>
+        {{- end -}}
+      {{- end -}}
+      {{- partial "paginator.html" . -}}
+    {{- end -}}
+  </div>
+{{- end -}}

@@ -1,0 +1,32 @@
+{{- define "title" -}}
+  Routes
+{{- end -}}
+
+{{- define "content" -}}
+  <div class="page archive">
+    {{- /* Title */ -}}
+    <h2 class="single-title animate__animated animate__pulse animate__faster">
+      {{- $taxonomy := .Data.Singular -}}
+      {{- $pageCount := len .Pages -}}
+      {{ dict "Class" "fa-solid fa-route" | partial "plugin/icon.html" }}
+      {{ .Title }}&nbsp;<sup>{{- $pageCount -}}</sup>
+    </h2>
+
+    {{- if .Pages -}}
+        {{- range .Pages -}}
+          <article class="archive-item">
+          {{ if .Params.routes }}
+            {{- $route := index .Params.routes 0 -}}
+            <a href="{{ .RelPermalink }}" class="archive-item-link">
+              <div class="post-meta-line">
+                <span > {{- dict "Class" "fa-solid fa-route" "Title" "length" | partial "plugin/icon.html" }} {{ div $route.length 1000 -}} km </span>&nbsp;
+                <span> {{- dict "Class" "fa-solid fa-bicycle" "Title" "effort level" | partial "plugin/icon.html" }} {{ $route.effortlevel | lang.FormatNumber 1 -}} </span>&nbsp;
+                <span>{{- .Title -}}</span>
+              </div>
+            </a>
+          {{- end -}}
+          </article>
+        {{- end -}}
+    {{- end -}}
+  </div>
+{{- end -}}
