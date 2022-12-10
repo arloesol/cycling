@@ -1,5 +1,5 @@
 ---
-title: "Bike hire"
+title: "Bike Hire"
 subtitle: "Where to hire bikes"
 description: ""
 summary: ""

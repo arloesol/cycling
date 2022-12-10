@@ -22,11 +22,14 @@ hiddenFromSearch: false
 
 ## [Critical Mass](https://en.wikipedia.org/wiki/Critical_Mass_(cycling))
 
+Critical Mass are cycling events to promote safe cycling and suitable cycle infrastructure in certain cities or countries by cycling in a big group in the city.
+
 follow active critical mass events on [critical maps](https://www.criticalmaps.net/): [{{% icon class="fa-brands fa-apple" title="iphone" %}}](https://apps.apple.com/app/critical-maps/id918669647) - [{{% icon class="fa-brands fa-google-play" title="android" %}}](https://play.google.com/store/apps/details?id=de.stephanlindauer.criticalmaps&pli=1) - [{{% icon class="fa-solid fa-robot" title="F-Droid" %}}](https://f-droid.org/en/packages/de.stephanlindauer.criticalmaps/)
 
 - [Brussels](https://criticalmass.brussels/en/) - last Friday of the month 18h - [@Throne place](https://goo.gl/maps/7dhWPMePNzKLDZzZA) - [{{% icon class="fa-brands fa-twitter" title="twitter" %}}](http://twitter.com/critMassBrussel) [{{% icon class="fa-brands fa-facebook" title="facebook" %}}](http://facebook.com/criticalmassbrussels/) [{{% icon class="fa-brands fa-instagram" title="instagram" %}}](http://instagram.com/criticalmassbrussels/) [{{% icon class="fa-solid fa-envelope" title="contact" %}}](https://criticalmass.brussels/en/#:~:text=Twitter%C2%A0/%20Facebook%C2%A0/%20Instagram%C2%A0/%20Contact)
 - [Antwerp](https://www.fietsersbond.be/nieuws/critical-mass-elke-laatste-vrijdag-van-de-maand) - last Friday of the month 18h - [@Theaterplein](https://goo.gl/maps/qTMs5AWXVtYGG5bVA) -  [{{% icon class="fa-brands fa-instagram" title="instagram" %}}](https://www.instagram.com/CriticalMassAntwerpen/)
 - [Gent](https://www.facebook.com/CriticalMassGent/)
+- [Leuven](https://m.facebook.com/criticalmassleuven/)
 
 ## Multi-day Cycling events
 

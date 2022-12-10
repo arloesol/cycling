@@ -1,5 +1,5 @@
 ---
-title: "Bike repair"
+title: "Bike Repair"
 subtitle: "Where or How to repair bikes"
 description: ""
 summary: ""
