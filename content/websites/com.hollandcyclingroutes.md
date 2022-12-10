@@ -1,7 +1,7 @@
 ---
 title: "Holland Cycling Routes"
-subtitle: "v"
-date: "2022-11-04"
+subtitle: "All about cycling tourism in the Netherlands"
+date: "2022-12-04"
 description: "The https://www.hollandcyclingroutes.com/ website is managed by the Dutch Stichting Landelijk Fietsplatform"
 keywords: website
 tags:
@@ -14,16 +14,15 @@ country: netherlands
 region: netherlands
 ---
 
-The https://www.hollandcyclingroutes.com/ website is managed by the Dutch Stichting Landelijk Fietsplatform
+The [hollandcyclingroutes.com](https://www.hollandcyclingroutes.com/) website is managed by the Dutch Stichting Landelijk Fietsplatform
+
+Cycling routes in Holland can be categorised as national long routes (LF routes), smaller routes proposed by provincial tourist offices and there is an extensive bike node network
 
 The website contains
 
-- [cycling daytrips](/website/com.hollandcyclingroutes/) - [on their site](https://www.hollandcyclingroutes.com/cycling-daytrips)
-- [Long distance routes](https://www.hollandcyclingroutes.com/long-distance-cycle-routes) 
+- [Cycling daytrips](https://www.hollandcyclingroutes.com/cycling-daytrips)
+- [Long distance routes](https://www.hollandcyclingroutes.com/long-distance-cycle-routes) with [gpx tracks](https://www.hollandcyclingroutes.com/long-distance-cycle-routes/gps-tracks) and a [mobile app](https://www.lfmaasroute.nl/en/services/take-the-road-with-the-app) [{{% icon class="fa-brands fa-apple" title="iphone" %}}](https://itunes.apple.com/nl/app/lf-routes/id1352944680?mt=8) - [{{% icon class="fa-brands fa-google-play" title="android" %}}](https://play.google.com/store/apps/details?id=it.midapp.itineraria.lf) for the 4 icon routes
 - A [route planner](https://www.hollandcyclingroutes.com/online-cycle-route-planner)
 - [Maps and guides](https://www.hollandcyclingroutes.com/cycle-maps-and-guides)
-- Some [practical information](https://www.hollandcyclingroutes.com/practical)
-  - [Cycling packages](https://www.hollandcyclingroutes.com/practical/cycling-packages)
-  - [Cyclefriendly places](https://www.hollandcyclingroutes.com/practical/cycle-friendly-places-and-lodging)
-  - [Cycle hire and parking](https://www.hollandcyclingroutes.com/practical/cycle-hire-and-parking)
-  - [Cycle transport and repair](https://www.hollandcyclingroutes.com/practical/cycle-transport-and-repair)
+- Some [practical cycling information](https://www.hollandcyclingroutes.com/practical): [Packages](https://www.hollandcyclingroutes.com/practical/cycling-packages),  [Places](https://www.hollandcyclingroutes.com/practical/cycle-friendly-places-and-lodging), [Hire and parking](https://www.hollandcyclingroutes.com/practical/cycle-hire-and-parking), [Transport and repair](https://www.hollandcyclingroutes.com/practical/cycle-transport-and-repair)
+- Proposes to install the [fietsknoop app](https://www.fietsknoop.nl/talen/english) [{{% icon class="fa-brands fa-apple" title="iphone" %}}](itms://itunes.apple.com/us/app/fietsknoop/id351409471?mt=8) - [{{% icon class="fa-brands fa-google-play" title="android" %}}](https://play.google.com/store/apps/details?id=nl.vv.fietsknoop) to plan/guide a route following bike nodes 
