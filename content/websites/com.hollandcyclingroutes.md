@@ -14,8 +14,7 @@ country: netherlands
 region: netherlands
 ---
 
-The https://www.hollandcyclingroutes.com/ website is managed by the Dutch Stichting Landelijk Fietsplatform
-
+The [hollandcyclingroutes.com](https://www.hollandcyclingroutes.com/) website is managed by the Dutch Stichting Landelijk Fietsplatform - there's also an equivalent [NL](https://www.nederlandfietsland.nl/) & [DE](https://www.hollandfahrradland.de/) counterpart website
 The website contains
 
 - [cycling daytrips](/website/com.hollandcyclingroutes/) - [on their site](https://www.hollandcyclingroutes.com/cycling-daytrips)
