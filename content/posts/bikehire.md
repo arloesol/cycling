@@ -34,11 +34,13 @@ at [fietsbieb](https://www.fietsbieb.be/en/) you can rent a bike for a child up 
 - Brussels - Fixed stations - [(e)Villo!](https://www.villo.be/en/home)
 - Brussels - Fixed stations [Monkey Donkey (electric cargo or longtail bikes)](https://monkeydonkey.bike/)
 - Brussels - "Bourse" - [cyclo.org](https://www.cyclo.org/en/services/bike-rental)
-- Fixed stations - [Blue-bike](https://www.blue-bike.be/en)
 - Brussels & Wallonia - [Pro Velo](https://www.provelo.org/en/services/citybikes-rental-in-brussels/)
 - Long term renting - [Swapfiets](https://swapfiets.be/)
 - P2P sharing - [Cozywheels (shared electric bikes and cargo bikes)](https://www.cozywheels.be/)
 - Long term renting [E-bike to go (electric bikes)](https://ebiketogo.com/be-en/)
 - Brussels - free range - [Bolt (shared electric bikes)](https://bolt.eu/en-be/)
 - Brussels - free range - [Tier (shared electric bikes)](https://www.tier.app/en/)
+- Bike-hire linked to public transport
+  - BE: NMBS/SNCB -> [blue bike](https://www.blue-bike.be/en/fees-and-deductibles)
+  - NL: NS -> [OV-fiets](https://www.ns.nl/en/door-to-door/ov-fiets)
   
